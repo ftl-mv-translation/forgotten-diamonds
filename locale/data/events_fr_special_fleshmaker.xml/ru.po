@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-05-30 15:19+0000\n"
+"PO-Revision-Date: 2024-05-30 16:36+0000\n"
 "Last-Translator: Роман <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_fr_special_fleshmakerxml/ru/>\n"
@@ -131,7 +131,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:90
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MAYEB_LIST\"]/text"
-msgstr "Добавить данные Майеб в базу данных"
+msgstr "Добавить данные Майев в базу данных"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:92
 msgid ""
@@ -150,7 +150,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:103
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_IVAR_LIST\"]/text"
-msgstr "Добавить данные Майеб в базу данных"
+msgstr "Добавить данные Майев в базу данных"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:105
 msgid ""
@@ -169,7 +169,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:116
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TYEREL_LIST\"]/text"
-msgstr ""
+msgstr "Добавить данные Тай Э'Рел в базу данных"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:118
 msgid ""
@@ -188,7 +188,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:129
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MANTISQUEEN_LIST\"]/text"
-msgstr "Добавить данные Королеву Богомолов в базу данных"
+msgstr "Добавить данные Королеву богомолов в базу данных"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:131
 msgid ""
@@ -226,7 +226,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:155
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HAYNES_LIST\"]/text"
-msgstr "Добавить данные Хайенса в базу данных"
+msgstr "Добавить данные Хэйнса в базу данных"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:157
 msgid ""
@@ -264,7 +264,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:181
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GUNJERRY_LIST\"]/text"
-msgstr ""
+msgstr "Добавить данные Джерри с Гатлингом в базу данных"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:183
 msgid ""
@@ -283,7 +283,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:192
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PONYJERRY_LIST\"]/text"
-msgstr "Добавить данные Джерри на Пони в базу данных"
+msgstr "Добавить данные Джерри на пони в базу данных"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:194
 msgid ""
