@@ -1,0 +1,74 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_laststand.xml.append:8
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/text"
+msgstr "Contact Federation command."
+
+#: src-en/data/events_sector_laststand.xml.append:10
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+"On the vidscreen appears several Federation and Engi officers, as well as "
+"Admiral Tully in the center. \"Is that... a triangular ship? What a "
+"completely alien design, I've never seen anything like it before... Well, I "
+"suppose we need all the help we can get, and judging from the technology "
+"your ship holds, you may be just the help we need.\""
+
+#: src-en/data/events_sector_laststand.xml.append:12
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_laststand.xml.append:18
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/text"
+msgstr "Contact Federation command."
+
+#: src-en/data/events_sector_laststand.xml.append:20
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"On the vidscreen appears several Federation and Engi officers, as well as "
+"Admiral Tully in the center. \"A Lanius ship... I think? I hope you can "
+"understand what we're saying, because our translators can't make out your "
+"words. Whoever you are, please help us. Our forces are running thinner by "
+"the moment.\""
+
+#: src-en/data/events_sector_laststand.xml.append:22
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_laststand.xml.append:28
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/text"
+msgstr "Contact Federation command."
+
+#: src-en/data/events_sector_laststand.xml.append:30
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/event/text"
+msgstr ""
+"On the vidscreen appears several Federation and Engi officers, as well as "
+"Admiral Tully in the center. \"What a strange ship design... I don't know "
+"where you came from, but I can tell just from looking that you mean serious "
+"business. Now go and take out that Flagship, don't let us down.\""
+
+#: src-en/data/events_sector_laststand.xml.append:32
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/event/choice/text"
+msgstr "Continue..."

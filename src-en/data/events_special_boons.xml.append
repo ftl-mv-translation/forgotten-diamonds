@@ -1,0 +1,69 @@
+<FTL>
+
+<event name="BOON_SELECT_FR_METAL_LANIUS">
+	<text>From nowhere, you hear a voice speaking to you. "The Boon... of Alloys. Your Metal Lanius crew become... immune to mind control and can...see adjacent rooms. You may... thank the previous challenger. Or maybe you... do not? Who can say..."</text>
+	<hiddenAug>JUDGE_BOON_FR_METAL_LANIUS</hiddenAug>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event>
+			<loadEvent>BOON_SELECT_CONTINUE</loadEvent>
+		</event>
+	</choice>
+</event>
+
+<event name="BOON_SELECT_FR_GOLDEN">
+	<text>From nowhere, you hear a voice speaking to you. "CHALLENGER! For you, I grant the BLESSING OF OPULENCE! You will receive 10% more SCRAP to fuel your PURCHESES, and may your travels be BLESSED! For whom do you thank? Why, the PREVIOUS CHALLENGER! Hahah!"</text>
+	<hiddenAug>JUDGE_BOON_FR_GOLDEN</hiddenAug>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event>
+			<loadEvent>BOON_SELECT_CONTINUE</loadEvent>
+		</event>
+	</choice>
+</event>
+
+<event name="BOON_SELECT_FR_COPPER">
+	<text>From nowhere, you hear a voice speaking to you. "CHALLENGER! For you, I grant the BLESSING OF RUSTING! Your COMBAT DRONES will be automatically RECALLED if they weren't DESTROYED after a fight, and may your travels be BLESSED! For whom do you thank? Why, the PREVIOUS CHALLENGER! Hahah!"</text>
+	<hiddenAug>JUDGE_BOON_FR_COPPER</hiddenAug>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event>
+			<loadEvent>BOON_SELECT_CONTINUE</loadEvent>
+		</event>
+	</choice>
+</event>
+
+<event name="BOON_SELECT_FR_ADAMANTINE">
+	<text>From nowhere, you hear a voice speaking to you. "CHALLENGER! For you, I grant the BLESSING OF CLONING! Your CREW will no longer lose EXPERIENCE when being CLONED and have their BASE SKILL LEVEL at 1, and may your travels be BLESSED! For whom do you thank? Why, the PREVIOUS CHALLENGER! Hahah!"</text>
+	<hiddenAug>JUDGE_BOON_FR_ADAMANTINE</hiddenAug>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event>
+			<loadEvent>BOON_SELECT_CONTINUE</loadEvent>
+		</event>
+	</choice>
+</event>
+
+<event name="BOON_SELECT_FR_DIAMOND">
+	<text>From nowhere, you hear a voice speaking to you. "The Boon... of the Diamonds. Your Metal Diamond crew gain... the ability to... phase through doors and... gain 20% increased movement speed. You may... thank the previous challenger. Or maybe you... do not? Who can say..."</text>
+	<hiddenAug>JUDGE_BOON_FR_DIAMOND</hiddenAug>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event>
+			<loadEvent>BOON_SELECT_CONTINUE</loadEvent>
+		</event>
+	</choice>
+</event>
+
+<event name="BOON_SELECT_FR_OPERATOR">
+	<text>From nowhere, you hear a voice speaking to you. "The Boon... of the Operators. Your Operators crew gain... the ability to... hack the doors of rooms they are inside...while inside a enemy ship. You may... thank the previous challenger. Or maybe you... do not? Who can say..."</text>
+	<hiddenAug>JUDGE_BOON_FR_OPERATOR</hiddenAug>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event>
+			<loadEvent>BOON_SELECT_CONTINUE</loadEvent>
+		</event>
+	</choice>
+</event>
+
+</FTL>

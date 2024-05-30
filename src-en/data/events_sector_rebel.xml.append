@@ -1,0 +1,79 @@
+﻿<FTL>
+
+<!--
+		QUEST
+-->
+
+<event name="FR_DIAMOND_QUEST" unique="true">
+	<preventQuest/>
+	<preventFleet/>
+	<beaconType id="map_icon_fr_metaldiamond" global="true">
+		<color r="250" g="255" b="98" a="1.0"/>
+	</beaconType>
+	<text>As you warp near this beacon, looking for whatever sent that weird distress message, you see a bunch of black and yellow ships with strange markings all over this area, all broken and destroyed with some kind of golden dust surrounding the breached hulls. As you start to salvage them you notice another ship nearby, different from the others, a triangle-shaped ship which seems to be leaking that same golden dust you found on the wrecks. While the ship itself seems mostly intact, you can't seem to detect any life signs on board.</text>
+	<ship load="SHIP_FR_QUEST_METAL_DIAMOND_CRUISER" hostile="false"/> 
+	<choice hidden="true">
+		<text>Approach the ship.</text>
+		<event>
+			<text>As you approach the ship in hopes of salvaging whatever is inside of it, the ship's systems suddenly come online as it sends out a distressing message. "Unidentified Vessel! Stay Back Or You Will Join The Other Ship Carcasses In This Interstellar Graveyard!" This ship's weapons aren't similar to anything you have ever seen before, and not only that but there now seems to be a single life signature onboard, and it isn't from any species in your database.</text>
+				<choice hidden="true">
+					<text>Whatever is inside of the ship must be incredibly valuable, power the weapons and approach!</text>
+					<event>
+						<text>The ship's systems are now at full power! It seems its medbay is powering some kind of life support system, rending the sole survivor immortal while its online! You must take it out first if you want to have a chance at killing that alien. Luckily it seems the previous fights with those weird ships has damaged their weapons system, preventing it from charging their weapons at their normal speed.</text>
+						<ship hostile="true"/> 
+							<choice hidden="true">
+								<text>Continue...</text>
+								<event load="COMBAT_CHECK"/>
+							</choice>
+					</event>
+				</choice>
+				<choice hidden="true">
+					<text>Heed its warning and stay away.</text>
+					<event>
+						<text>As soon as you start charging your ftl engines the ship powers down its weapons and leaves you be.</text>
+						<choice>
+							<text>Do something onboard the ship.</text>
+							<event load="STORAGE_CHECK"/>
+						</choice>
+						<choice>
+							<text>Do nothing.</text>
+							<event/>
+						</choice>
+					</event>
+				</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Whatever that is, we don't want to find out.</text>
+		<event>
+			<text>You have way too much stuff to deal with right now, you ignore the massive vessel and jump away as soon as possible.</text>
+			<choice>
+				<text>Do something onboard the ship.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+			<choice>
+				<text>Do nothing.</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="FR_DIAMOND_QUEST_CREWKILL">
+	<text>After making sure the ship is devoid of life for good, you send a team to see what that alien was guarding, and to your surprise it's not just a pile of scrap! The ship's controls seem to still be functioning, allowing you to redirect it to the federation hangar! And better yet, inside the storage room you find a gun just like the ones the ship used against you as well as a lot of scrap!
+
+		After exploring a bit more you find the only other survivor of the ship, stuck inside a sealed room. After freeing them they are so grateful that they offer to join your crew!
+	</text>
+	<variable name="ach_boss_fr_metaldiamondquest" op="set" val="1"/>
+	<autoReward level="HIGH">scrap_only</autoReward>
+	<crewMember amount="1" class="fr_golden_diamond"/>
+	<weapon name="FR_BLUELIST_GOLDEN_MED_WEAPONS"/>
+	<achievement silent="false">ACH_FR_EVENT_DIAMOND</achievement>
+	<unlockCustomShip silent="false">PLAYER_SHIP_FR_METAL_DIAMOND</unlockCustomShip>
+		<choice hidden="true">
+			<text>Sweet!</text>
+				<event/>
+		</choice>
+</event>
+
+</FTL>

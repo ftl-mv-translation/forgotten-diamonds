@@ -1,0 +1,57 @@
+﻿<FTL>
+
+<ship name="SHIP_FR_QUEST_METAL_LANIUS_CRUISER" auto_blueprint="FR_BOSS_QUEST_METAL_LANIUS_CRUISER">
+	<destroyed>
+		<text>The ship breaks in half shortly before the volatile fuel explodes, taking out any of the remaining lanius inside it. You scrap what you can from the ship and go look for Sharlan.</text>
+		<autoReward level="HIGH">standard</autoReward>
+		<choice hidden="true">
+			<text>Continue...</text>
+			<event load="FR_METAL_LANIUS_UNLOCK_DESTROY"/>
+		</choice>
+	</destroyed>
+	<deadCrew>
+		<text>You've exterminated all the lanius from the ship without destroying it! You scrap what you can from the debris and look for Sharlan.</text>
+		<autoReward level="HIGH">standard</autoReward>
+		<choice hidden="true">
+			<text>Continue...</text>
+			<event load="FR_METAL_LANIUS_UNLOCK_CREWKILL"/>
+		</choice>
+	</deadCrew>
+	<crew>
+		<crewMember prop="0.5" type="fr_golden_lanius_1"/>
+		<crewMember prop="0.5" type="fr_golden_lanius_2"/>
+	</crew>
+</ship>
+
+<ship name="SHIP_FR_QUEST_METAL_DIAMOND_CRUISER" auto_blueprint="FR_BOSS_QUEST_METAL_DIAMOND_CRUISER">
+	<destroyed>
+		<text>The ship breaks apart and slowly disintegrates into a golden cloud, leaving barely anything behind to salvage.</text>
+		<autoReward level="LOW">standard</autoReward>
+	</destroyed>
+	<deadCrew>
+		<text>You managed to kill the Operator, and with its death the ship's weapons power down. You are now free to explore the ship and see what that alien was guarding.</text>
+		<autoReward level="HIGH">standard</autoReward>
+		<choice hidden="true">
+			<text>Continue...</text>
+			<event load="FR_DIAMOND_QUEST_CREWKILL"/>
+		</choice>
+	</deadCrew>
+</ship>
+
+<ship name="SHIP_FR_QUEST_OPERATOR_CRUISER" auto_blueprint="FR_BOSS_QUEST_OPERATOR_CRUISER">
+	<destroyed>
+		<text>The ship breaks apart and slowly disintegrates into a copper cloud, leaving barely anything behind to salvage.</text>
+		<autoReward level="LOW">standard</autoReward>
+	</destroyed>
+	<deadCrew>
+		<text>You managed to kill the Operators, and with its death the ship's drones power down. You are now free to explore the ship and seize the blueprints.</text>
+		<autoReward level="HIGH">standard</autoReward>
+		<choice hidden="true">
+			<text>Continue...</text>
+			<event load="FR_OPERATOR_QUEST_CREWKILL"/>
+		</choice>
+	</deadCrew>
+</ship>
+
+
+</FTL>

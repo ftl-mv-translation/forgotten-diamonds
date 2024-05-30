@@ -1,0 +1,175 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_theocracy.xml.append:13
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:16
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_theocracy.xml.append:18
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:20
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:22
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:25
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/removeCrew/text"
+msgstr "Вы не можете клонировать члена своего экипажа, поскольку он не умер."
+
+#: src-en/data/events_sector_theocracy.xml.append:28
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_theocracy.xml.append:30
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:33
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/removeCrew/text"
+msgstr "Вы не можете клонировать члена своего экипажа, поскольку он не умер."
+
+#: src-en/data/events_sector_theocracy.xml.append:36
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_theocracy.xml.append:38
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:41
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/choice/event/removeCrew/text"
+msgstr "Вы не можете клонировать члена своего экипажа, поскольку он не умер."
+
+#: src-en/data/events_sector_theocracy.xml.append:44
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/choice/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_theocracy.xml.append:46
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:49
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and "
+"@lvl=\"1\"]/event/choice/event/choice/event/choice/event/removeCrew/text"
+msgstr "Вы не можете клонировать члена своего экипажа, поскольку он не умер."
+
+#: src-en/data/events_sector_theocracy.xml.append:52
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_theocracy.xml.append:54
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and "
+"@lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:59
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and "
+"@lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/event/removeCrew/text"
+msgstr "Вы не можете клонировать члена своего экипажа, поскольку он не умер."
+
+#: src-en/data/events_sector_theocracy.xml.append:77
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:81
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:83
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:86
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_theocracy.xml.append:92
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:94
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:102
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:104
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:106
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/choice[1]/text"
+msgstr "Заняться чем-либо на корабле."
+
+#: src-en/data/events_sector_theocracy.xml.append:110
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/choice[2]/text"
+msgstr "Ничего не делать."
+
+#: src-en/data/events_sector_theocracy.xml.append:118
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_CREWKILL\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:122
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_CREWKILL\"]/choice/text"
+msgstr ""

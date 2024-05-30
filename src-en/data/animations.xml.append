@@ -1,0 +1,2106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FTL>
+<!--
+**********************************************************************************************************************
+                                                 CREW
+**********************************************************************************************************************
+-->
+<!-- MORPH DIAMOND -->
+
+<animSheet name="fr_blob_diamond" w="910" h="455" fw="35" fh="35">people/fr_blob_diamond_base.png</animSheet>
+
+<anim name="fr_blob_diamond_clone">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="6" x="0" y="1" />	
+	<time>0.75</time>
+</anim>
+<anim name="fr_blob_diamond_death_right">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="7" x="0" y="0" />
+	<time>2</time>
+</anim>
+<anim name="fr_blob_diamond_death_left">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="7" x="0" y="0" />
+	<time>0.75</time>
+</anim>
+<anim name="fr_blob_diamond_walk_down">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="16" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_blob_diamond_walk_right">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="10" x="16" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_blob_diamond_walk_up">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="16" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_blob_diamond_walk_left">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="10" x="16" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_blob_diamond_shoot_down">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="3" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_blob_diamond_shoot_right">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="3" x="3" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_blob_diamond_shoot_up">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="3" x="6" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_blob_diamond_shoot_left">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="3" x="9" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_blob_diamond_fire_down">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_blob_diamond_fire_right">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_blob_diamond_fire_up">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_blob_diamond_fire_left">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_blob_diamond_repair">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="4" x="0" y="7" />
+	<time>2</time>
+</anim>
+<anim name="fr_blob_diamond_punch_down">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="7" x="0" y="6" />
+	<time>1.5</time>
+</anim>
+<anim name="fr_blob_diamond_punch_up">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="7" x="0" y="5" />
+	<time>1.5</time>
+</anim>
+<anim name="fr_blob_diamond_type_right">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_blob_diamond_type_left">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_blob_diamond_type_up">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="4" x="0" y="3" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_blob_diamond_type_down">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="4" x="4" y="3" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_blob_diamond_teleport">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="5" x="0" y="2" />
+	<time>0.5</time>
+</anim>
+<anim name="fr_blob_diamond_portrait">
+	<sheet>fr_blob_diamond</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<!-- GOLDEN ANCIENT -->
+
+<animSheet name="fr_golden_diamond" w="910" h="455" fw="35" fh="35">people/fr_golden_diamond_base.png</animSheet>
+
+<anim name="fr_golden_diamond_clone">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="6" x="0" y="1" />	
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_diamond_death_right">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="7" x="0" y="0" />
+	<time>2</time>
+</anim>
+<anim name="fr_golden_diamond_death_left">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="7" x="0" y="0" />
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_diamond_walk_down">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="16" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_diamond_walk_right">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="10" x="16" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_diamond_walk_up">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="16" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_diamond_walk_left">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="10" x="16" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_diamond_shoot_down">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="3" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_diamond_shoot_right">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="3" x="3" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_diamond_shoot_up">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="3" x="6" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_diamond_shoot_left">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="3" x="9" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_diamond_fire_down">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_diamond_fire_right">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_diamond_fire_up">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_diamond_fire_left">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_diamond_repair">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="4" x="0" y="7" />
+	<time>2</time>
+</anim>
+<anim name="fr_golden_diamond_punch_down">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="7" x="0" y="6" />
+	<time>1.5</time>
+</anim>
+<anim name="fr_golden_diamond_punch_up">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="7" x="0" y="5" />
+	<time>1.5</time>
+</anim>
+<anim name="fr_golden_diamond_type_right">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_golden_diamond_type_left">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_golden_diamond_type_up">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="4" x="0" y="3" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_golden_diamond_type_down">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="4" x="4" y="3" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_golden_diamond_teleport">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="5" x="0" y="2" />
+	<time>0.5</time>
+</anim>
+<anim name="fr_golden_diamond_portrait">
+	<sheet>fr_golden_diamond</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<!-- ADAMANTINE ANCIENT -->
+
+<animSheet name="fr_adamantine_diamond" w="910" h="455" fw="35" fh="35">people/fr_adamantine_diamond_base.png</animSheet>
+
+<anim name="fr_adamantine_diamond_clone">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="6" x="0" y="1" />	
+	<time>0.75</time>
+</anim>
+<anim name="fr_adamantine_diamond_death_right">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="7" x="0" y="0" />
+	<time>2</time>
+</anim>
+<anim name="fr_adamantine_diamond_death_left">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="7" x="0" y="0" />
+	<time>0.75</time>
+</anim>
+<anim name="fr_adamantine_diamond_walk_down">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="16" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_diamond_walk_right">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="10" x="16" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_diamond_walk_up">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="16" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_diamond_walk_left">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="10" x="16" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_diamond_shoot_down">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="3" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_diamond_shoot_right">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="3" x="3" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_diamond_shoot_up">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="3" x="6" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_diamond_shoot_left">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="3" x="9" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_diamond_fire_down">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_diamond_fire_right">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_diamond_fire_up">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_diamond_fire_left">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_diamond_repair">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="4" x="0" y="7" />
+	<time>2</time>
+</anim>
+<anim name="fr_adamantine_diamond_punch_down">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="7" x="0" y="6" />
+	<time>1.5</time>
+</anim>
+<anim name="fr_adamantine_diamond_punch_up">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="7" x="0" y="5" />
+	<time>1.5</time>
+</anim>
+<anim name="fr_adamantine_diamond_type_right">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_adamantine_diamond_type_left">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_adamantine_diamond_type_up">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="4" x="0" y="3" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_adamantine_diamond_type_down">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="4" x="4" y="3" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_adamantine_diamond_teleport">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="5" x="0" y="2" />
+	<time>0.5</time>
+</anim>
+<anim name="fr_adamantine_diamond_portrait">
+	<sheet>fr_adamantine_diamond</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+
+<!-- COPPER ANCIENT -->
+
+<animSheet name="fr_copper_diamond" w="910" h="455" fw="35" fh="35">people/fr_copper_diamond_base.png</animSheet>
+
+<anim name="fr_copper_diamond_clone">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="6" x="0" y="1" />	
+	<time>0.75</time>
+</anim>
+<anim name="fr_copper_diamond_death_right">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="7" x="0" y="0" />
+	<time>2</time>
+</anim>
+<anim name="fr_copper_diamond_death_left">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="7" x="0" y="0" />
+	<time>0.75</time>
+</anim>
+<anim name="fr_copper_diamond_walk_down">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="16" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_diamond_walk_right">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="10" x="16" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_diamond_walk_up">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="16" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_diamond_walk_left">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="10" x="16" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_diamond_shoot_down">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="3" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_diamond_shoot_right">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="3" x="3" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_diamond_shoot_up">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="3" x="6" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_diamond_shoot_left">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="3" x="9" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_diamond_fire_down">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_diamond_fire_right">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_diamond_fire_up">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_diamond_fire_left">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_diamond_repair">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="4" x="0" y="7" />
+	<time>2</time>
+</anim>
+<anim name="fr_copper_diamond_punch_down">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="7" x="0" y="6" />
+	<time>1.5</time>
+</anim>
+<anim name="fr_copper_diamond_punch_up">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="7" x="0" y="5" />
+	<time>1.5</time>
+</anim>
+<anim name="fr_copper_diamond_type_right">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_copper_diamond_type_left">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_copper_diamond_type_up">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="4" x="0" y="3" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_copper_diamond_type_down">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="4" x="4" y="3" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_copper_diamond_teleport">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="5" x="0" y="2" />
+	<time>0.5</time>
+</anim>
+<anim name="fr_copper_diamond_portrait">
+	<sheet>fr_copper_diamond</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<!-- GOLDEN OPERATOR -->
+
+<animSheet name="fr_golden_operator" w="280" h="490" fw="35" fh="35">people/fr_golden_operator_base.png</animSheet>
+
+<anim name="fr_golden_operator_clone">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="4" x="0" y="1" />	
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_operator_death_right">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="5" x="3" y="0" />
+	<time>2</time>
+</anim>
+<anim name="fr_golden_operator_death_left">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="5" x="3" y="0" />
+	<time>2</time>
+</anim>
+<anim name="fr_golden_operator_walk_down">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="4" x="0" y="13" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_operator_walk_right">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="4" x="4" y="13" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_operator_walk_up">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_operator_walk_left">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="4" x="4" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_operator_shoot_down">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="3" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_operator_shoot_right">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="3" x="3" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_operator_shoot_up">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="3" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_operator_shoot_left">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="3" x="3" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_operator_fire_down">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_operator_fire_right">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_operator_fire_up">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_operator_fire_left">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_operator_repair">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="7" x="0" y="7" />
+	<time>2</time>
+</anim>
+<anim name="fr_golden_operator_punch_down">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="5" x="0" y="6" />
+	<time>1.5</time>
+</anim>
+<anim name="fr_golden_operator_punch_up">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="5" x="0" y="5" />
+	<time>1.5</time>
+</anim>
+<anim name="fr_golden_operator_type_right">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_golden_operator_type_left">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="4" x="4" y="3" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_golden_operator_type_up">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="4" x="0" y="3" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_golden_operator_type_down">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_golden_operator_teleport">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="5" x="0" y="2" />
+	<time>0.5</time>
+</anim>
+<anim name="fr_golden_operator_portrait">
+	<sheet>fr_golden_operator</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<!-- ADAMANTINE OPERATOR -->
+
+<animSheet name="fr_adamantine_operator" w="280" h="490" fw="35" fh="35">people/fr_adamantine_operator_base.png</animSheet>
+
+<anim name="fr_adamantine_operator_clone">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="4" x="0" y="1" />	
+	<time>0.75</time>
+</anim>
+<anim name="fr_adamantine_operator_death_right">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="5" x="3" y="0" />
+	<time>2</time>
+</anim>
+<anim name="fr_adamantine_operator_death_left">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="5" x="3" y="0" />
+	<time>2</time>
+</anim>
+<anim name="fr_adamantine_operator_walk_down">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="4" x="0" y="13" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_operator_walk_right">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="4" x="4" y="13" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_operator_walk_up">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_operator_walk_left">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="4" x="4" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_operator_shoot_down">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="3" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_operator_shoot_right">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="3" x="3" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_operator_shoot_up">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="3" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_operator_shoot_left">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="3" x="3" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_operator_fire_down">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_operator_fire_right">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_operator_fire_up">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_operator_fire_left">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_operator_repair">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="7" x="0" y="7" />
+	<time>2</time>
+</anim>
+<anim name="fr_adamantine_operator_punch_down">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="5" x="0" y="6" />
+	<time>1.5</time>
+</anim>
+<anim name="fr_adamantine_operator_punch_up">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="5" x="0" y="5" />
+	<time>1.5</time>
+</anim>
+<anim name="fr_adamantine_operator_type_right">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_adamantine_operator_type_left">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="4" x="4" y="3" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_adamantine_operator_type_up">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="4" x="0" y="3" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_adamantine_operator_type_down">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_adamantine_operator_teleport">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="5" x="0" y="2" />
+	<time>0.5</time>
+</anim>
+<anim name="fr_adamantine_operator_portrait">
+	<sheet>fr_adamantine_operator</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<!-- COPPER OPERATOR -->
+
+<animSheet name="fr_copper_operator" w="280" h="490" fw="35" fh="35">people/fr_copper_operator_base.png</animSheet>
+
+<anim name="fr_copper_operator_clone">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="4" x="0" y="1" />	
+	<time>0.75</time>
+</anim>
+<anim name="fr_copper_operator_death_right">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="5" x="3" y="0" />
+	<time>2</time>
+</anim>
+<anim name="fr_copper_operator_death_left">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="5" x="3" y="0" />
+	<time>2</time>
+</anim>
+<anim name="fr_copper_operator_walk_down">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="4" x="0" y="13" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_operator_walk_right">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="4" x="4" y="13" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_operator_walk_up">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_operator_walk_left">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="4" x="4" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_operator_shoot_down">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="3" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_operator_shoot_right">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="3" x="3" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_operator_shoot_up">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="3" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_operator_shoot_left">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="3" x="3" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_operator_fire_down">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_operator_fire_right">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_operator_fire_up">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_operator_fire_left">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_operator_repair">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="7" x="0" y="7" />
+	<time>2</time>
+</anim>
+<anim name="fr_copper_operator_punch_down">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="5" x="0" y="6" />
+	<time>1.5</time>
+</anim>
+<anim name="fr_copper_operator_punch_up">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="5" x="0" y="5" />
+	<time>1.5</time>
+</anim>
+<anim name="fr_copper_operator_type_right">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_copper_operator_type_left">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="4" x="4" y="3" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_copper_operator_type_up">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="4" x="0" y="3" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_copper_operator_type_down">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_copper_operator_teleport">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="5" x="0" y="2" />
+	<time>0.5</time>
+</anim>
+<anim name="fr_copper_operator_portrait">
+	<sheet>fr_copper_operator</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<!-- MORPH OPERATOR -->
+
+<animSheet name="fr_techno_operator" w="280" h="490" fw="35" fh="35">people/fr_techno_operator_base.png</animSheet>
+
+<anim name="fr_techno_operator_clone">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="4" x="0" y="1" />	
+	<time>0.75</time>
+</anim>
+<anim name="fr_techno_operator_death_right">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="5" x="3" y="0" />
+	<time>2</time>
+</anim>
+<anim name="fr_techno_operator_death_left">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="5" x="3" y="0" />
+	<time>2</time>
+</anim>
+<anim name="fr_techno_operator_walk_down">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="4" x="0" y="13" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_techno_operator_walk_right">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="4" x="4" y="13" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_techno_operator_walk_up">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_techno_operator_walk_left">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="4" x="4" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_techno_operator_shoot_down">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="3" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_techno_operator_shoot_right">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="3" x="3" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_techno_operator_shoot_up">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="3" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_techno_operator_shoot_left">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="3" x="4" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_techno_operator_fire_down">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_techno_operator_fire_right">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_techno_operator_fire_up">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_techno_operator_fire_left">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_techno_operator_repair">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="7" x="0" y="7" />
+	<time>2</time>
+</anim>
+<anim name="fr_techno_operator_punch_down">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="5" x="0" y="6" />
+	<time>1.5</time>
+</anim>
+<anim name="fr_techno_operator_punch_up">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="5" x="0" y="5" />
+	<time>1.5</time>
+</anim>
+<anim name="fr_techno_operator_type_right">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_techno_operator_type_left">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="4" x="4" y="3" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_techno_operator_type_up">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="4" x="0" y="3" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_techno_operator_type_down">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>2.0</time>
+</anim>
+<anim name="fr_techno_operator_teleport">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="5" x="0" y="2" />
+	<time>0.5</time>
+</anim>
+<anim name="fr_techno_operator_portrait">
+	<sheet>fr_techno_operator</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<!-- ADAMANTINE LANIUS -->
+<animSheet name="fr_adamantine_lanius" w="560" h="455" fw="35" fh="35">people/fr_adamantine_lanius_base.png</animSheet>
+
+<anim name="fr_adamantine_lanius_clone">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="6" x="0" y="1"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_adamantine_lanius_death_right">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="8" x="0" y="2"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_adamantine_lanius_death_left">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="8" x="0" y="2"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_adamantine_lanius_walk_down">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="8" x="0" y="12"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_lanius_walk_right">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="8" x="8" y="12"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_lanius_walk_up">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="8" x="0" y="11"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_lanius_walk_left">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="8" x="8" y="11"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_lanius_shoot_down">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="3" x="0" y="9"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_lanius_shoot_right">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="3" x="6" y="9"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_lanius_shoot_up">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="3" x="3" y="9"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_lanius_shoot_left">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="3" x="9" y="9"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_lanius_fire_down">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="4" x="0" y="8"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_lanius_fire_right">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="4" x="4" y="8"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_lanius_fire_up">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="4" x="0" y="7"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_lanius_fire_left">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="4" x="4" y="7"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_lanius_repair">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="6" x="0" y="6"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_lanius_punch_up">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="6" x="6" y="10"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_lanius_punch_down">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="6" x="0" y="10"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_adamantine_lanius_teleport">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="6" x="0" y="3"/>
+	<time>0.5</time>
+</anim>
+<anim name="fr_adamantine_lanius_type_right">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="4" x="4" y="5"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_adamantine_lanius_type_left">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="4" x="4" y="4"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_adamantine_lanius_type_up">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="4" x="0" y="4"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_adamantine_lanius_type_down">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_adamantine_lanius_portrait">
+	<sheet>fr_adamantine_lanius</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<!-- COPPER LANIUS -->
+<animSheet name="fr_copper_lanius" w="420" h="420" fw="35" fh="35">people/fr_copper_lanius_base.png</animSheet>
+
+<anim name="fr_copper_lanius_clone">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="6" x="0" y="1"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_copper_lanius_death_right">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="6" x="0" y="2"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_copper_lanius_death_left">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="6" x="0" y="2"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_copper_lanius_walk_down">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="4" x="0" y="11"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_lanius_walk_right">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="4" x="4" y="11"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_lanius_walk_up">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="4" x="0" y="10"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_lanius_walk_left">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="4" x="4" y="10"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_lanius_shoot_down">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="3" x="0" y="8"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_lanius_shoot_right">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="3" x="6" y="8"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_lanius_shoot_up">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="3" x="3" y="8"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_lanius_shoot_left">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="3" x="9" y="8"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_lanius_fire_down">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="10" x="0" y="7"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_lanius_fire_right">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="10" x="0" y="7"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_lanius_fire_up">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="10" x="0" y="7"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_lanius_fire_left">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="10" x="0" y="7"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_lanius_repair">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="6" x="0" y="6"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_lanius_punch_up">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="4" x="4" y="9"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_lanius_punch_down">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="4" x="0" y="9"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_lanius_teleport">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="6" x="0" y="3"/>
+	<time>0.5</time>
+</anim>
+<anim name="fr_copper_lanius_type_right">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="4" x="4" y="5"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_copper_lanius_type_left">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="4" x="4" y="4"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_copper_lanius_type_up">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="4" x="0" y="4"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_copper_lanius_type_down">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_copper_lanius_portrait">
+	<sheet>fr_copper_lanius</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<!-- GOLDEN LANIUS -->
+<animSheet name="fr_golden_lanius_1" w="420" h="455" fw="35" fh="35">people/fr_golden_lanius_1_base.png</animSheet>
+
+<anim name="fr_golden_lanius_1_clone">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="6" x="0" y="1"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_lanius_1_death_right">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="6" x="0" y="2"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_lanius_1_death_left">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="6" x="0" y="2"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_lanius_1_walk_down">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="4" x="0" y="12"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_1_walk_right">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="4" x="4" y="12"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_1_walk_up">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="4" x="0" y="11"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_1_walk_left">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="4" x="4" y="11"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_1_shoot_down">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="3" x="0" y="9"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_1_shoot_right">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="3" x="6" y="9"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_1_shoot_up">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="3" x="3" y="9"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_1_shoot_left">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="3" x="9" y="9"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_1_fire_down">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="4" x="0" y="8"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_1_fire_right">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="4" x="4" y="8"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_1_fire_up">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="4" x="0" y="7"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_1_fire_left">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="4" x="4" y="7"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_1_repair">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="6" x="0" y="6"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_1_punch_up">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="4" x="4" y="10"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_1_punch_down">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="4" x="0" y="10"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_1_teleport">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="6" x="0" y="3"/>
+	<time>0.5</time>
+</anim>
+<anim name="fr_golden_lanius_1_type_right">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="4" x="4" y="5"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_lanius_1_type_left">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="4" x="4" y="4"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_lanius_1_type_up">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="4" x="0" y="4"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_lanius_1_type_down">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_lanius_1_portrait">
+	<sheet>fr_golden_lanius_1</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<!-- GOLDEN LANIUS 2 -->
+
+<animSheet name="fr_golden_lanius_2" w="420" h="455" fw="35" fh="35">people/fr_golden_lanius_2_base.png</animSheet>
+
+<anim name="fr_golden_lanius_2_clone">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="6" x="0" y="1"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_lanius_2_death_right">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="6" x="0" y="2"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_lanius_2_death_left">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="6" x="0" y="2"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_lanius_2_walk_down">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="4" x="0" y="12"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_2_walk_right">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="4" x="4" y="12"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_2_walk_up">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="4" x="0" y="11"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_2_walk_left">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="4" x="4" y="11"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_2_shoot_down">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="3" x="0" y="9"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_2_shoot_right">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="3" x="6" y="9"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_2_shoot_up">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="3" x="3" y="9"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_2_shoot_left">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="3" x="9" y="9"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_2_fire_down">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="4" x="0" y="8"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_2_fire_right">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="4" x="4" y="8"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_2_fire_up">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="4" x="0" y="7"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_2_fire_left">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="4" x="4" y="7"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_2_repair">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="6" x="0" y="6"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_2_punch_up">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="4" x="4" y="10"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_2_punch_down">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="4" x="0" y="10"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_2_teleport">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="6" x="0" y="3"/>
+	<time>0.5</time>
+</anim>
+<anim name="fr_golden_lanius_2_type_right">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="4" x="4" y="5"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_lanius_2_type_left">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="4" x="4" y="4"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_lanius_2_type_up">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="4" x="0" y="4"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_lanius_2_type_down">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_lanius_2_portrait">
+	<sheet>fr_golden_lanius_2</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<!-- GOLDEN LANIUS 3 -->
+
+<animSheet name="fr_golden_lanius_3" w="560" h="455" fw="35" fh="35">people/fr_golden_lanius_3_base.png</animSheet>
+
+<anim name="fr_golden_lanius_3_clone">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="6" x="0" y="1"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_lanius_3_death_right">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="6" x="0" y="2"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_lanius_3_death_left">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="6" x="0" y="2"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_lanius_3_walk_down">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="8" x="0" y="12"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_3_walk_right">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="8" x="8" y="12"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_3_walk_up">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="8" x="0" y="11"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_3_walk_left">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="8" x="8" y="11"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_3_shoot_down">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="3" x="0" y="9"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_3_shoot_right">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="3" x="6" y="9"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_3_shoot_up">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="3" x="3" y="9"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_3_shoot_left">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="3" x="9" y="9"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_3_fire_down">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="4" x="0" y="8"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_3_fire_right">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="4" x="4" y="8"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_3_fire_up">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="4" x="0" y="7"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_3_fire_left">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="4" x="4" y="7"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_3_repair">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="6" x="0" y="6"/>
+	<time>1.5</time>
+</anim>
+<anim name="fr_golden_lanius_3_punch_up">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="4" x="4" y="10"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_3_punch_down">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="4" x="0" y="10"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_golden_lanius_3_teleport">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="6" x="0" y="3"/>
+	<time>0.5</time>
+</anim>
+<anim name="fr_golden_lanius_3_type_right">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_lanius_3_type_left">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="4" x="4" y="4"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_lanius_3_type_up">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="4" x="0" y="4"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_lanius_3_type_down">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>0.75</time>
+</anim>
+<anim name="fr_golden_lanius_3_portrait">
+	<sheet>fr_golden_lanius_3</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<!-- 
+**********************************************************************************************************************
+                                                DRONES
+**********************************************************************************************************************
+-->
+
+<!-- 
+*********************************************************************************************************
+                   COPPER BATTLEDRONE 1
+*********************************************************************************************************
+-->
+
+<animSheet name="fr_copper_battledrone_1" w="280" h="245" fw="35" fh="35">people/fr_copper_battledrone_1_base.png</animSheet>
+<animSheet name="fr_copper_battledrone_1_death" w="320" h="32" fh="32" fw="32">effects/explosion1_strip10.png</animSheet>
+<anim name="fr_copper_battledrone_1_death_right">
+	<sheet>fr_copper_battledrone_1_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_1_death_left">
+	<sheet>fr_copper_battledrone_1_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_1_walk_down">
+	<sheet>fr_copper_battledrone_1</sheet>
+	<desc length="4" x="0" y="6"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_1_walk_right">
+	<sheet>fr_copper_battledrone_1</sheet>
+	<desc length="4" x="4" y="6"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_1_walk_up">
+	<sheet>fr_copper_battledrone_1</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_1_walk_left">
+	<sheet>fr_copper_battledrone_1</sheet>
+	<desc length="4" x="4" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_1_shoot_down">
+	<sheet>fr_copper_battledrone_1</sheet>
+	<desc length="3" x="0" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_1_shoot_right">
+	<sheet>fr_copper_battledrone_1</sheet>
+	<desc length="3" x="3" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_1_shoot_up">
+	<sheet>fr_copper_battledrone_1</sheet>
+	<desc length="3" x="0" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_1_shoot_left">
+	<sheet>fr_copper_battledrone_1</sheet>
+	<desc length="3" x="3" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_1_power_down">
+	<sheet>fr_copper_battledrone_1</sheet>
+	<desc length="7" x="0" y="2"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_1_power_up">
+	<sheet>fr_copper_battledrone_1</sheet>
+	<desc length="7" x="0" y="1"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_1_portrait">
+	<sheet>fr_copper_battledrone_1</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+<anim name="fr_copper_battledrone_1_fly">
+	<sheet>fr_copper_battledrone_1</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<!-- 
+*********************************************************************************************************
+                   COPPER BATTLEDRONE 2
+*********************************************************************************************************
+-->
+
+<animSheet name="fr_copper_battledrone_2" w="280" h="245" fw="35" fh="35">people/fr_copper_battledrone_2_base.png</animSheet>
+<animSheet name="fr_copper_battledrone_2_death" w="320" h="32" fh="32" fw="32">effects/explosion1_strip10.png</animSheet>
+<anim name="fr_copper_battledrone_2_death_right">
+	<sheet>fr_copper_battledrone_2_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_2_death_left">
+	<sheet>fr_copper_battledrone_2_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_2_walk_down">
+	<sheet>fr_copper_battledrone_2</sheet>
+	<desc length="4" x="0" y="6"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_2_walk_right">
+	<sheet>fr_copper_battledrone_2</sheet>
+	<desc length="4" x="4" y="6"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_2_walk_up">
+	<sheet>fr_copper_battledrone_2</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_2_walk_left">
+	<sheet>fr_copper_battledrone_2</sheet>
+	<desc length="4" x="4" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_2_shoot_down">
+	<sheet>fr_copper_battledrone_2</sheet>
+	<desc length="3" x="0" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_2_shoot_right">
+	<sheet>fr_copper_battledrone_2</sheet>
+	<desc length="3" x="3" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_2_shoot_up">
+	<sheet>fr_copper_battledrone_2</sheet>
+	<desc length="3" x="0" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_2_shoot_left">
+	<sheet>fr_copper_battledrone_2</sheet>
+	<desc length="3" x="3" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_2_power_down">
+	<sheet>fr_copper_battledrone_2</sheet>
+	<desc length="7" x="0" y="2"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_2_power_up">
+	<sheet>fr_copper_battledrone_2</sheet>
+	<desc length="7" x="0" y="1"/>
+	<time>1.0</time>
+</anim>
+<anim name="fr_copper_battledrone_2_portrait">
+	<sheet>fr_copper_battledrone_2</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+<anim name="fr_copper_battledrone_2_fly">
+	<sheet>fr_copper_battledrone_2</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<!-- 
+**********************************************************************************************************************
+                                                WEAPONS 
+**********************************************************************************************************************
+-->
+
+<!-- 
+**********************************************************************************************************************
+                                         GOLD WEAPONS
+**********************************************************************************************************************
+-->
+
+<animSheet name="fr_golden_beam" w="1178" h="71" fw="38" fh="71">weapon_golden/fr_golden_beam.png</animSheet>
+<weaponAnim name="fr_golden_beam">
+	<sheet>fr_golden_beam</sheet>
+	<desc length="31" x="0" y="0"/>
+	<chargedFrame>29</chargedFrame>
+	<fireFrame>30</fireFrame>
+	<firePoint  x="21" y="30"/>
+	<mountPoint x="0" y="63"/>
+</weaponAnim>
+
+<animSheet name="fr_golden_beam_2" w="1386" h="78" fw="42" fh="78">weapon_golden/fr_golden_beam_2.png</animSheet>
+<weaponAnim name="fr_golden_beam_2">
+	<sheet>fr_golden_beam_2</sheet>
+	<desc length="33" x="0" y="0"/>
+	<chargedFrame>31</chargedFrame>
+	<fireFrame>32</fireFrame>
+	<firePoint  x="23" y="31"/>
+	<mountPoint x="1" y="71"/>
+</weaponAnim>
+
+<animSheet name="fr_golden_beam_3" w="1386" h="110" fw="42" fh="110">weapon_golden/fr_golden_beam_3.png</animSheet>
+<weaponAnim name="fr_golden_beam_3">
+	<sheet>fr_golden_beam_3</sheet>
+	<desc length="33" x="0" y="0"/>
+	<chargedFrame>31</chargedFrame>
+	<fireFrame>32</fireFrame>
+	<firePoint  x="23" y="56"/>
+	<mountPoint x="1" y="99"/>
+</weaponAnim>
+
+<animSheet name="fr_golden_laser" w="2806" h="62" fw="46" fh="62">weapon_golden/fr_golden_laser.png</animSheet>
+<weaponAnim name="fr_golden_laser">
+	<sheet>fr_golden_laser</sheet>
+	<desc length="61" x="0" y="0"/>
+	<chargedFrame>59</chargedFrame>
+	<fireFrame>60</fireFrame>
+	<firePoint  x="23" y="3"/>
+	<mountPoint x="0" y="60"/>
+</weaponAnim>
+
+<animSheet name="fr_golden_laser_2" w="2860" h="62" fw="52" fh="62">weapon_golden/fr_golden_laser_2.png</animSheet>
+<weaponAnim name="fr_golden_laser_2">
+	<sheet>fr_golden_laser_2</sheet>
+	<desc length="55" x="0" y="0"/>
+	<chargedFrame>53</chargedFrame>
+	<fireFrame>54</fireFrame>
+	<firePoint  x="28" y="3"/>
+	<mountPoint x="0" y="59"/>
+</weaponAnim>
+
+<animSheet name="fr_golden_laser_3" w="2808" h="90" fw="52" fh="90">weapon_golden/fr_golden_laser_3.png</animSheet>
+<weaponAnim name="fr_golden_laser_3">
+	<sheet>fr_golden_laser_3</sheet>
+	<desc length="54" x="0" y="0"/>
+	<chargedFrame>52</chargedFrame>
+	<fireFrame>53</fireFrame>
+	<firePoint  x="28" y="3"/>
+	<mountPoint x="0" y="87"/>
+</weaponAnim>
+
+<animSheet name="fr_golden_ion_chain_glow" w="34" h="69" fw="34" fh="69">weapon_golden/fr_golden_ion_chain_glow.png</animSheet>
+<anim name="fr_golden_ion_chain_glow">
+	<sheet>fr_golden_ion_chain_glow</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+
+<animSheet name="fr_golden_ion" w="204" h="69" fw="34" fh="69">weapon_golden/fr_golden_ion.png</animSheet>
+<weaponAnim name="fr_golden_ion">
+	<sheet>fr_golden_ion</sheet>
+	<desc length="6" x="0" y="0"/>
+	<chargedFrame>4</chargedFrame>
+	<fireFrame>5</fireFrame>
+	<firePoint  x="17" y="3"/>
+	<mountPoint x="0" y="66"/>
+	<boost>fr_golden_ion_chain_glow</boost>
+</weaponAnim>
+
+<animSheet name="fr_golden_ion_2_chain_glow" w="68" h="93" fw="34" fh="93">weapon_golden/fr_golden_ion_2_chain_glow.png</animSheet>
+<anim name="fr_golden_ion_2_chain_glow">
+	<sheet>fr_golden_ion_2_chain_glow</sheet>
+	<desc length="2" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+
+<animSheet name="fr_golden_ion_2" w="238" h="93" fw="34" fh="93">weapon_golden/fr_golden_ion_2.png</animSheet>
+<weaponAnim name="fr_golden_ion_2">
+	<sheet>fr_golden_ion_2</sheet>
+	<desc length="7" x="0" y="0"/>
+	<chargedFrame>5</chargedFrame>
+	<fireFrame>6</fireFrame>
+	<firePoint  x="17" y="1"/>
+	<mountPoint x="0" y="90"/>
+	<boost>fr_golden_ion_2_chain_glow</boost>
+</weaponAnim>
+
+<animSheet name="fr_golden_ion_3_chain_glow" w="108" h="110" fw="36" fh="110">weapon_golden/fr_golden_ion_3_chain_glow.png</animSheet>
+<anim name="fr_golden_ion_3_chain_glow">
+	<sheet>fr_golden_ion_3_chain_glow</sheet>
+	<desc length="3" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+
+<animSheet name="fr_golden_ion_3" w="252" h="110" fw="36" fh="110">weapon_golden/fr_golden_ion_3.png</animSheet>
+<weaponAnim name="fr_golden_ion_3">
+	<sheet>fr_golden_ion_3</sheet>
+	<desc length="7" x="0" y="0"/>
+	<chargedFrame>5</chargedFrame>
+	<fireFrame>6</fireFrame>
+	<firePoint  x="19" y="8"/>
+	<mountPoint x="0" y="107"/>
+	<boost>fr_golden_ion_3_chain_glow</boost>
+</weaponAnim>
+
+<animSheet name="fr_golden_bomblauncher_1_charge_glow" w="36" h="33" fw="18" fh="33">weapon_golden/fr_golden_bomblauncher_1_charge_glow.png</animSheet>
+<anim name="fr_golden_bomblauncher_1_charge_glow">
+	<sheet>fr_golden_bomblauncher_1_charge_glow</sheet>
+	<desc length="2" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+
+<animSheet name="fr_golden_bomblauncher_1" w="720" h="33" fw="18" fh="33">weapon_golden/fr_golden_bomblauncher_1.png</animSheet>
+<weaponAnim name="fr_golden_bomblauncher_1">
+	<sheet>fr_golden_bomblauncher_1</sheet>
+	<desc length="40" x="0" y="0"/>
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>2</fireFrame>
+	<firePoint  x="9" y="14"/>
+	<mountPoint x="0" y="27"/>
+	<time>0.35</time>
+	<boost>fr_golden_bomblauncher_1_charge_glow</boost>
+</weaponAnim>
+
+<animSheet name="fr_golden_bomblauncher_2_charge_glow" w="66" h="38" fw="22" fh="38">weapon_golden/fr_golden_bomblauncher_2_charge_glow.png</animSheet>
+<anim name="fr_golden_bomblauncher_2_charge_glow">
+	<sheet>fr_golden_bomblauncher_2_charge_glow</sheet>
+	<desc length="3" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+
+<animSheet name="fr_golden_bomblauncher_2" w="1430" h="38" fw="22" fh="38">weapon_golden/fr_golden_bomblauncher_2.png</animSheet>
+<weaponAnim name="fr_golden_bomblauncher_2">
+	<sheet>fr_golden_bomblauncher_2</sheet>
+	<desc length="65" x="0" y="0"/>
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>2</fireFrame>
+	<firePoint  x="11" y="17"/>
+	<mountPoint x="0" y="32"/>
+	<time>0.35</time>
+	<boost>fr_golden_bomblauncher_2_charge_glow</boost>
+</weaponAnim>
+
+<animSheet name="fr_golden_bomblauncher_3_charge_glow" w="104" h="46" fw="26" fh="46">weapon_golden/fr_golden_bomblauncher_3_charge_glow.png</animSheet>
+<anim name="fr_golden_bomblauncher_3_charge_glow">
+	<sheet>fr_golden_bomblauncher_3_charge_glow</sheet>
+	<desc length="4" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+
+<animSheet name="fr_golden_bomblauncher_3" w="2444" h="46" fw="26" fh="46">weapon_golden/fr_golden_bomblauncher_3.png</animSheet>
+<weaponAnim name="fr_golden_bomblauncher_3">
+	<sheet>fr_golden_bomblauncher_3</sheet>
+	<desc length="94" x="0" y="0"/>
+	<chargedFrame>1</chargedFrame>	
+	<fireFrame>2</fireFrame>
+	<firePoint  x="13" y="20"/>
+	<mountPoint x="0" y="38"/>
+	<time>0.35</time>
+	<boost>fr_golden_bomblauncher_3_charge_glow</boost>
+</weaponAnim>
+
+<!-- Sprite made by MISTER D, CERTIFIED MISTER -->
+
+<animSheet name="fr_golden_flak" w="840" h="56" fw="42" fh="56">weapon_golden/fr_golden_flak.png</animSheet>
+<weaponAnim name="fr_golden_flak">
+	<sheet>fr_golden_flak</sheet>
+	<desc length="20" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>2</fireFrame>
+	<firePoint x="20" y="0" />
+	<mountPoint x="0" y="36" />
+	<chargeImage>weapon_golden/fr_golden_flak_glow.png</chargeImage>
+</weaponAnim>
+
+<animSheet name="fr_golden_flak_chaos" w="840" h="56" fw="42" fh="56">weapon_golden/fr_golden_flak_chaos.png</animSheet>
+<weaponAnim name="fr_golden_flak_chaos">
+	<sheet>fr_golden_flak_chaos</sheet>
+	<desc length="20" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>2</fireFrame>
+	<firePoint x="20" y="0" />
+	<mountPoint x="0" y="36" />
+	<chargeImage>weapon_golden/fr_golden_flak_chaos_glow.png</chargeImage>
+</weaponAnim>
+
+<!-- 
+**********************************************************************************************************************
+                                                 PROJECTILES 
+**********************************************************************************************************************
+-->
+
+<animSheet name="fr_energy_copper" w="24" h="24" fw="24" fh="24">projectiles/fr_energy_copper.png</animSheet>
+<anim name="fr_energy_copper">
+	<sheet>fr_energy_copper</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>0.3</time>
+</anim>
+
+<animSheet name="fr_energy_golden" w="24" h="24" fw="24" fh="24">projectiles/fr_energy_golden.png</animSheet>
+<anim name="fr_energy_golden">
+	<sheet>fr_energy_golden</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>0.5</time>
+</anim>
+
+
+<animSheet name="fr_laser_copper" w="60" h="20" fw="60" fh="20">projectiles/fr_laser_copper.png</animSheet>
+<anim name="fr_laser_copper">
+	<sheet>fr_laser_copper</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>0.3</time>
+</anim>
+
+<animSheet name="fr_laser_golden" w="60" h="20" fw="60" fh="20">projectiles/fr_laser_golden.png</animSheet>
+<anim name="fr_laser_golden">
+	<sheet>fr_laser_golden</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>0.3</time>
+</anim>
+
+<animSheet name="fr_flak_copper_large" w="61" h="42" fw="61" fh="42">projectiles/fr_flak_copper_large.png</animSheet>
+<animSheet name="fr_flak_copper_med" w="42" h="29" fw="42" fh="29">projectiles/fr_flak_copper_med.png</animSheet>
+<animSheet name="fr_flak_copper_small" w="23" h="16" fw="23" fh="16">projectiles/fr_flak_copper_small.png</animSheet>
+<anim name="fr_flak_copper_large">
+	<sheet>fr_flak_copper_large</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_flak_copper_med">
+	<sheet>fr_flak_copper_med</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="fr_flak_copper_small">
+	<sheet>fr_flak_copper_small</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1.0</time>
+</anim>
+
+
+<animSheet name="fr_flak_gold" w="32" h="32" fw="32" fh="32">projectiles/fr_flak_gold.png</animSheet>
+<anim name="fr_flak_gold">
+	<sheet>fr_flak_gold</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+
+<animSheet name="fr_flak_gold_chaos" w="32" h="32" fw="32" fh="32">projectiles/fr_flak_gold_chaos.png</animSheet>
+<anim name="fr_flak_gold_chaos">
+	<sheet>fr_flak_gold_chaos</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+
+<animSheet name="fr_bomb_golden" w="490" h="35" fw="35" fh="35">projectiles/fr_bomb_golden.png</animSheet>
+<anim name="fr_bomb_golden">
+	<sheet>fr_bomb_golden</sheet>
+	<desc length="14" x="0" y="0"/>
+	<time>0.35</time>
+</anim>
+
+<animSheet name="fr_missile_drone_copper" w="32" h="80" fw="32" fh="80">projectiles/fr_missile_drone_copper.png</animSheet>
+<anim name="fr_missile_drone_copper">
+	<sheet>fr_missile_drone_copper</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<!-- 
+**********************************************************************************************************************
+                                                 EFFECTS 
+**********************************************************************************************************************
+-->
+
+<animSheet name="fr_toxiety" w="352" h="32" fw="32" fh="32">effects/fr_buff_toxic.png</animSheet>
+<anim name="fr_toxiety">
+	<sheet>fr_toxiety</sheet>
+	<desc length="11" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+
+<animSheet name="fr_explosion_bomb_golden" w="576" h="64" fw="64" fh="64">effects/fr_explosion_bomb_golden.png</animSheet>
+<anim name="fr_explosion_bomb_golden">
+	<sheet>fr_explosion_bomb_golden</sheet>
+	<desc length="9" x="0" y="0"/>
+	<time>0.75</time>
+</anim>
+
+</FTL>

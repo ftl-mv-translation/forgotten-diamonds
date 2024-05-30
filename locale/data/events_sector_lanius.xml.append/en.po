@@ -1,0 +1,429 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_lanius.xml.append:9
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/text"
+msgstr ""
+"This beacon seems completely empty at first glance, hidden in a secluded space from all the madness of the swarmlands, you decide to take a small break to check up on your ship and crew while the FTL drive charges. Suddenly, your metal-radar (used mostly for salvaging) starts beeping loudly, indicating a point with a high concentration of exotic metals, incredibly valuable stuff. \n"
+"\t\n"
+"\tHowever, upon closer inspection it happens that the dot wasn't some kinda vault or high value ship component like you hoped, but a decaying lanius that looked like no other lanius you encountered before, being colored yellow with bright yellow lights on it's body. It seems they won't be alive for much longer at that rate."
+
+#: src-en/data/events_sector_lanius.xml.append:13
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/text"
+msgstr "Bring the lanius aboard! Maybe we can save him."
+
+#: src-en/data/events_sector_lanius.xml.append:15
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/text"
+msgstr ""
+"You quickly send a rescue crew to the outside of the ship and haul the "
+"lanius inside your ship. As you expected, the strange being is in critical "
+"condition, their body decomposing more and more every second, you suspect "
+"you won't have more than a few minutes to stabilize them."
+
+#: src-en/data/events_sector_lanius.xml.append:17
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[@req=\"medbay\"]/text"
+msgstr "(Upg. Medbay) Use your medbay to stabilize them!"
+
+#: src-en/data/events_sector_lanius.xml.append:19
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[@req=\"medbay\"]/event/text"
+msgstr ""
+"You quickly lift up the lanius by both ends and bring his dripping and "
+"decaying body to the medbay, as soon as you arrive you power it up to its "
+"limits and hope for the best."
+
+#: src-en/data/events_sector_lanius.xml.append:21
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[@req=\"medbay\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_lanius.xml.append:27
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[@req=\"clonebay\"]/text"
+msgstr "(Clone Bay) Register the lanius before it's too late!"
+
+#: src-en/data/events_sector_lanius.xml.append:29
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[@req=\"clonebay\"]/event/text"
+msgstr ""
+"You quickly lift up the lanius by both ends and bring his dripping and "
+"decaying body to the clonebay. Wasting no time you scan him and add him into"
+" the database, just in time too, since as soon as the scan is completed the "
+"strange lanius died right in front of your eyes. The system seems to have no"
+" information about him or his species but luckily that doesn't prevent him "
+"from being cloned."
+
+#: src-en/data/events_sector_lanius.xml.append:31
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[@req=\"clonebay\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_lanius.xml.append:37
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[3]/text"
+msgstr "Lanius eat metal right? Maybe we can give them some scrap!"
+
+#: src-en/data/events_sector_lanius.xml.append:39
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[3]/event/text"
+msgstr ""
+"Seeing no other option available to you, you decide to just dump a bunch of "
+"scrap on the lanius, hoping that would give their body enough sustenance to "
+"reverse the decaying process."
+
+#: src-en/data/events_sector_lanius.xml.append:44
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[3]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_lanius.xml.append:50
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[4]/text"
+msgstr "There's nothing we can do."
+
+#: src-en/data/events_sector_lanius.xml.append:52
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[4]/event/text"
+msgstr ""
+"With a heavy heart you realize you can't save this strange being, you watch "
+"as the lanius slowly decays until it's nothing more than a metal puddle on "
+"the floor. You get ready to continue your mission."
+
+#: src-en/data/events_sector_lanius.xml.append:54
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[4]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_lanius.xml.append:58
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[4]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_lanius.xml.append:66
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[2]/text"
+msgstr "Leave the lanius to its fate."
+
+#: src-en/data/events_sector_lanius.xml.append:68
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[2]/event/text"
+msgstr ""
+"There's no chance you will bring a decaying and unknown lanius to your ship,"
+" who knows what it might do if it wakes up? You decide to wait for your FTL "
+"drives to fully charge and put this whole thing out of your mind."
+
+#: src-en/data/events_sector_lanius.xml.append:70
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_lanius.xml.append:74
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_lanius.xml.append:82
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/text"
+msgstr ""
+"It takes a while, but finally the lanius wakes up, as soon as they regain "
+"their consciousness they start to panic, looking around in distress at the "
+"unfamiliar ship and the unknown crew around them, shouting a unknown "
+"language as they retreat into the corner of the room."
+
+#: src-en/data/events_sector_lanius.xml.append:84
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/text"
+msgstr "Hold your arms up slowly and assure them that you mean no harm."
+
+#: src-en/data/events_sector_lanius.xml.append:86
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/text"
+msgstr ""
+"At first it seems that the strange being didn't notice, understand or care about what you just said, however, a few moments later they seem to slowly calm down, their panicked eyes slowly settling on you, as if they were inspecting you with their gaze. Finally, after what feels like a eternity, they surprisingly start to talk in your language.\n"
+"\t\t\t\n"
+"\t\t\t\"You aren't my executioners, nor do you look like my peers, who are you, strange being?\""
+
+#: src-en/data/events_sector_lanius.xml.append:90
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/text"
+msgstr ""
+"I'm the renegade in charge of this vessel, we were hired by the federation "
+"to destroy the rebel flagship invading this reality."
+
+#: src-en/data/events_sector_lanius.xml.append:92
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/text"
+msgstr ""
+"The being looks around the room and then back at you, intrigued. \"My name is Sharlan of the Golden Fields, captain of the Forbidden Opulence cruiser and researcher of aether tech in my spare time\"\n"
+"\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\"A renegade you say, I met some of you in the past, I will spare you the details but I assure you it wasn't pleasant, if I were a simpler man I would cut you down right here and now.\" the lanius's arms turn into a blade for a moment before turning back to its regular form. \"You did, however, save me from certain death, and for that I'm grateful enough to spare your lives.\" The being stares you down one more time before heading towards the nearest airlock."
+
+#: src-en/data/events_sector_lanius.xml.append:96
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/text"
+msgstr "Wait, where are you going?"
+
+#: src-en/data/events_sector_lanius.xml.append:98
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+"\"Now that my form has stabilized I'm afraid that I must leave, recovering my ship is too important of a task to waste time chit chatting with brutes\" The lanius starts entering the airlock before stopping and turning around slowly. \n"
+"\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\"Hmm, however, perhaps brutes are exactly what I need to get my ship back.\" The being examines the ship around them slowly, then takes a look at your crew and nods their head slowly. \"Yes, yes, this might be exactly what I need. Say, brute, what do you think of doing some mercenary work? I can make it worth your while\" The being says enticingly."
+
+#: src-en/data/events_sector_lanius.xml.append:102
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr "I'm listening, what do you want?"
+
+#: src-en/data/events_sector_lanius.xml.append:104
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"\"You see, me and my crew were escorting a transport ship filled with aether technology, the ship I was piloting was a AU class Cruiser outfitted for ship on ship combat. We didn't, unfortunately, arm it with anti boarding capabilities, and so my ship was taken over by a horde of vicious pirates, lanius pirates to be exact, it pains me that my own kind would stoop that low, but here we are. \n"
+"\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\tI need you to bring me to my ship and kill all the pirates within it without destroying my ship. If you can complete this simple task I will part way with my cruiser and head back to my home cluster with the transport ship, how does that sound to you?\""
+
+#: src-en/data/events_sector_lanius.xml.append:108
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
+msgstr "Sounds doable, where should we head to?"
+
+#: src-en/data/events_sector_lanius.xml.append:110
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
+msgstr ""
+"\"This are the last coordinates I can recall being on before I was \"taken "
+"out\", do not disappoint me, renegade\" Sharlan types the coordinates into "
+"navigation system and exists the room."
+
+#: src-en/data/events_sector_lanius.xml.append:116
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
+msgstr "Decline."
+
+#: src-en/data/events_sector_lanius.xml.append:118
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
+msgstr ""
+"\"I see you aren't just a brute, you are also a coward as well.\" Without "
+"speaking another word the lanius exits the ship through the airlock. You "
+"prepare to jump."
+
+#: src-en/data/events_sector_lanius.xml.append:121
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/removeCrew/text"
+msgstr "Your crew cannot be cloned, as they are still alive."
+
+#: src-en/data/events_sector_lanius.xml.append:124
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_lanius.xml.append:128
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_lanius.xml.append:153
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/text"
+msgstr ""
+"As soon as you arrive at the beacon you are greeted with a grisly sight, the"
+" lanius inside the cruiser have mutated and now look just like Sharlan, "
+"what's more, they seem incredibly aggressive, and as soon as they notice you"
+" they start powering up their weapons!"
+
+#: src-en/data/events_sector_lanius.xml.append:156
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[1]/text"
+msgstr "Approach."
+
+#: src-en/data/events_sector_lanius.xml.append:158
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[1]/event/text"
+msgstr ""
+"Sharlan looks at his ship horrified and growls \"Those rats! They will "
+"regret ever crossing the path of the might Sharlan!\" By now the cruiser has"
+" fully powered up its weapons and moves in to engage."
+
+#: src-en/data/events_sector_lanius.xml.append:160
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[1]/event/choice/text"
+msgstr "Engage the cruiser!"
+
+#: src-en/data/events_sector_lanius.xml.append:162
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[1]/event/choice/event/text"
+msgstr ""
+"You will need to take our their crew without doing much hull damage if we "
+"want our part of the deal."
+
+#: src-en/data/events_sector_lanius.xml.append:165
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_lanius.xml.append:173
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[2]/text"
+msgstr "There's no way we will fight this many crazed lanius, run away!"
+
+#: src-en/data/events_sector_lanius.xml.append:175
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[2]/event/text"
+msgstr ""
+"\"What are you doing you filth?! I knew your kind couldn't be trusted!\" "
+"Sharlan turns his arm into a blade and attacks your crew!"
+
+#: src-en/data/events_sector_lanius.xml.append:178
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[2]/event/removeCrew/text"
+msgstr "Your crew cannot be cloned, as they are still alive."
+
+#: src-en/data/events_sector_lanius.xml.append:182
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[2]/event/choice/text"
+msgstr "Welp"
+
+#: src-en/data/events_sector_lanius.xml.append:190
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY\"]/text"
+msgstr ""
+"Sharlan is busy taking out the few lanius that managed to get to the "
+"transport ship, luckily none of them cause any troubles for the battle-"
+"experienced lanius. He turns to you and clap his hands. \"Well then! I guess"
+" you did what I wanted, just a shame you missed out on that cruiser, oh "
+"well, as compensation I'm willing to give you one of the aether weapons we "
+"were transporting, hope that makes the sting of your failure hurt a little "
+"bit less\" He speaks smugly."
+
+#: src-en/data/events_sector_lanius.xml.append:193
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY\"]/choice/text"
+msgstr "I guess that's better than nothing."
+
+#: src-en/data/events_sector_lanius.xml.append:199
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL\"]/text"
+msgstr ""
+"Sharlan is busy taking out the few lanius that managed to get to the "
+"transport ship, luckily none of them cause any troubles for the battle-"
+"experienced lanius. He turns to you and clap his hands. \"Well then! Turns "
+"out you aren't as useless as I expected! As promised, you can have the old "
+"cruiser, it was at the end of its usefulness to us anyways. As a bonus, I'm "
+"also giving you one of the aether weapons we were transporting for doing "
+"such a great job at that fight.\""
+
+#: src-en/data/events_sector_lanius.xml.append:202
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_lanius.xml.append:208
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY_REWARD\"]/text"
+msgstr ""
+"Sharlan proceeds to enter the transport ship and pull out an incredibly high"
+" tech weapons unlike anything you ever seen before, he hands it over to you "
+"before turning back towards his transport ship. \"I guess this is it, thank "
+"you for helping me, Renegade, I will make sure our Queen hears about your "
+"feats when I head back home\" He says looking at the transport ship, his "
+"eyes glued to the weapons within."
+
+#: src-en/data/events_sector_lanius.xml.append:212
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY_REWARD\"]/choice/text"
+msgstr "What's wrong?"
+
+#: src-en/data/events_sector_lanius.xml.append:214
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY_REWARD\"]/choice/event/text"
+msgstr ""
+"Sharlan looks at you for a moment before looking back at the ship. \"oh "
+"it's...nothing, just... this whole mission was suppose to help us understand"
+" how the creatures from this cluster work, as well as transporting any "
+"aether tech we found here back at home for further study. However we were "
+"ambushed right as we arrived, we barely could write down anything of note "
+"from this cluster.\""
+
+#: src-en/data/events_sector_lanius.xml.append:216
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY_REWARD\"]/choice/event/choice/text"
+msgstr ""
+"Well, why don't you join us? I'm sure our mission could provide valuable "
+"insight towards your studies."
+
+#: src-en/data/events_sector_lanius.xml.append:218
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY_REWARD\"]/choice/event/choice/event/text"
+msgstr ""
+"Sharlan stares at you for a while before looking back at his transport ship,"
+" finally he turns back at you and nods. \"I suppose that works, the "
+"transport ship, however, will be a liability for the study, I suspect that's"
+" what attracted the pirates, I will set it to warp back to our cluster and "
+"meet you back at your vessel in just a moment. Thank you\""
+
+#: src-en/data/events_sector_lanius.xml.append:220
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY_REWARD\"]/choice/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_lanius.xml.append:230
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL_REWARD\"]/text"
+msgstr ""
+"You head inside the cruiser and set a course for the nearest federation "
+"hangar before heading back to where Sharlan was. Sharlan is busy pulling out"
+" an incredibly high tech weapons unlike anything you ever seen before, he "
+"hands it over to you before turning back towards his transport ship. \"I "
+"guess this is it, thank you for helping me, Renegade, I will make sure our "
+"Queen hears about your feats when I head back home\" He says looking at the "
+"transport ship, his eyes glued to the weapons within."
+
+#: src-en/data/events_sector_lanius.xml.append:236
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL_REWARD\"]/choice/text"
+msgstr "What's wrong?"
+
+#: src-en/data/events_sector_lanius.xml.append:238
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL_REWARD\"]/choice/event/text"
+msgstr ""
+"Sharlan looks at you for a moment before looking back at the ship. \"oh "
+"it's...nothing, just... this whole mission was suppose to help us understand"
+" how the creatures from this cluster work, as well as transporting any "
+"aether tech we found here back at home for further study. However we were "
+"ambushed right as we arrived, we barely could write down anything of note "
+"from this cluster.\""
+
+#: src-en/data/events_sector_lanius.xml.append:240
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL_REWARD\"]/choice/event/choice/text"
+msgstr ""
+"Well, why don't you join us? I'm sure our mission could provide valuable "
+"insight towards your studies."
+
+#: src-en/data/events_sector_lanius.xml.append:242
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL_REWARD\"]/choice/event/choice/event/text"
+msgstr ""
+"Sharlan stares at you for a while before looking back at his transport ship,"
+" finally he turns back at you and nods. \"I suppose that works, the "
+"transport ship, however, will be a liability for the study, I suspect that's"
+" what attracted the pirates, I will set it to warp back to our cluster and "
+"meet you back at your vessel in just a moment. Thank you\""
+
+#: src-en/data/events_sector_lanius.xml.append:244
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL_REWARD\"]/choice/event/choice/event/choice/text"
+msgstr "Continue..."

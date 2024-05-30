@@ -1,0 +1,4938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FTL>
+
+<!--
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+			                    LUA
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->
+
+<mod:findLike type="scripts" limit="1">
+    <mod-append:script>data/fr_diamond_scripts/Fr_Diamond_Events.lua</mod-append:script>
+	<mod-append:script>data/fr_diamond_scripts/Fr_Diamond_Core.lua</mod-append:script>
+</mod:findLike>
+
+
+<!--
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+			                    SHIP ICONS, BOXES AND UNLOCKS
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->
+
+
+<mod:findLike type="ships" limit="1">
+  <mod:findLike type="shipIcons" limit="1">
+	<mod-append:shipIcon>
+	        <name>icon_fr_warcriminal_shield_boss</name>
+            <tooltip>WAR CRIMINAL ENERGY SHIELD:
+This enemy is protected by an advanced Energy Shield. Hacking, Mind Control, boarding drones, teleportation, and all hull-damaging and/or ion weapons will all be blocked until disabled. The shield will also double the time it takes for your FTL to charge.</tooltip>
+	</mod-append:shipIcon>
+	<mod-append:shipIcon>
+	        <name>icon_fr_sustain_protocol</name>
+            <tooltip>SUSTAIN PROTOCOL:
+This enemy's medbay is rending their crew immune to damage while it's powered on, remove all power from it or break the system to disable the effect </tooltip>
+	</mod-append:shipIcon>
+   </mod:findLike>
+</mod:findLike>
+
+<events>
+
+<bossShip>FR_MULTIVERSE_GOLDEN_DIAMOND_NORMAL</bossShip>
+<bossShip>FR_MULTIVERSE_GOLDEN_DIAMOND_CHALLENGE</bossShip>
+<bossShip>FR_MULTIVERSE_GOLDEN_DIAMOND_EXTREME</bossShip>
+<bossShip>FR_MULTIVERSE_GOLDEN_DIAMOND_CHAOS</bossShip>
+
+<bossShip>FR_BOSS_QUEST_METAL_LANIUS_CRUISER</bossShip>
+<bossShip>FR_BOSS_QUEST_METAL_DIAMOND_CRUISER</bossShip>
+<bossShip>FR_BOSS_QUEST_OPERATOR_CRUISER</bossShip>
+
+</events>
+
+<!--
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+			                    LISTS FOR EVENTS
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->
+
+<mod:findLike type="events" limit="1">
+<mod:findName type="req" name="LIST_LAB_ALL">
+	<mod-append:name>FR_LAB_DIAMOND_NOXIOUS</mod-append:name>
+	<mod-append:name>FR_LAB_DIAMOND_SYSTEMIC</mod-append:name>
+	<mod-append:name>FR_LAB_DIAMOND_FISTITUTE</mod-append:name>
+	<mod-append:name>FR_LAB_OPERATOR_PACIFISM_PROTOCOLS</mod-append:name>
+	<mod-append:name>FR_LAB_OPERATOR_BIO_PROTOCOLS</mod-append:name>
+	<mod-append:name>FR_LAB_OPERATOR_BEACON_PROTOCOLS</mod-append:name>
+</mod:findName>
+
+<mod:findName type="req" name="LIST_CHECK_ANY_CREW">
+	<mod-append:name>FR_BLUELIST_OPERATORS</mod-append:name>
+	<mod-append:name>FR_LIST_CREW_DIAMOND</mod-append:name>
+</mod:findName>
+
+<mod:findName type="req" name="ANY_BOON">
+	<mod-append:name>prof_r_boon_fr_golden</mod-append:name>
+	<mod-append:name>prof_r_boon_fr_copper</mod-append:name>
+	<mod-append:name>prof_r_boon_fr_adamantine</mod-append:name>
+	<mod-append:name>prof_r_boon_fr_diamond</mod-append:name>
+	<mod-append:name>prof_r_boon_fr_operator</mod-append:name>
+	<mod-append:name>prof_r_boon_fr_metal_lanius</mod-append:name>
+</mod:findName>
+
+<mod:findName type="req" name="ALL_BOONS">
+	<mod-append:name>prof_r_boon_fr_metal_lanius</mod-append:name>
+	<mod-append:name>prof_r_boon_fr_golden</mod-append:name>
+	<mod-append:name>prof_r_boon_fr_copper</mod-append:name>
+	<mod-append:name>prof_r_boon_fr_adamantine</mod-append:name>
+	<mod-append:name>prof_r_boon_fr_diamond</mod-append:name>
+	<mod-append:name>prof_r_boon_fr_operator</mod-append:name>
+</mod:findName>
+
+<mod:findName type="req" name="LIST_CHECK_ENERGY_SHIELD">
+	<mod-append:name>FR_GOLDEN_SHIELD_1</mod-append:name>
+	<mod-append:name>FR_GOLDEN_SHIELD_2</mod-append:name>
+	<mod-append:name>FR_GOLDEN_SHIELD_3</mod-append:name>
+	<mod-append:name>FR_GOLDEN_SHIELD_4</mod-append:name>
+	<mod-append:name>FR_GOLDEN_SHIELD_5</mod-append:name>
+	<mod-append:name>FR_GOLDEN_SHIELD_6</mod-append:name>
+	<mod-append:name>FR_GOLDEN_SHIELD_7</mod-append:name>
+	<mod-append:name>FR_GOLDEN_SHIELD_8</mod-append:name>
+	<mod-append:name>FR_GOLDEN_SHIELD_9</mod-append:name>
+	<mod-append:name>FR_GOLDEN_SHIELD_10</mod-append:name>
+	<mod-append:name>FR_GOLDEN_SHIELD_11</mod-append:name>
+	<mod-append:name>FR_TINKERERS_SHIELD</mod-append:name>
+	<mod-append:name>FR_WAR_CRIMINALS_SHIELD</mod-append:name>
+	<mod-append:name>FR_ALLOY_SHIELD</mod-append:name>
+</mod:findName>
+
+<mod:findName type="req" name="LIST_CREW_INTERACTIBLE">
+	<mod-append:name>fr_golden_lanius_1</mod-append:name>
+	<mod-append:name>fr_golden_lanius_2</mod-append:name>
+</mod:findName>
+
+<mod:findName type="req" name="BLUELIST_CREW_NO2">
+	<mod-append:name>fr_golden_diamond</mod-append:name>
+	<mod-append:name>fr_golden_operator</mod-append:name>
+	<mod-append:name>fr_copper_operator</mod-append:name>
+	<mod-append:name>fr_copper_diamond</mod-append:name>
+	<mod-append:name>fr_adamantine_diamond</mod-append:name>
+	<mod-append:name>fr_adamantine_operator</mod-append:name>
+	<mod-append:name>fr_adamantine_diamond</mod-append:name>
+	<mod-append:name>fr_golden_lanius_1</mod-append:name>
+	<mod-append:name>fr_golden_lanius_2</mod-append:name>
+	<mod-append:name>fr_golden_lanius_3</mod-append:name>
+	<mod-append:name>fr_adamantine_lanius</mod-append:name>
+</mod:findName>
+
+<mod:findName type="req" name="BLUELIST_CREW_NODOORS">
+	<mod-append:req type="all">
+		<name>FR_LIST_CREW_DIAMOND</name>
+		<name>JUDGE_BOON_FR_DIAMOND</name>
+	</mod-append:req>
+</mod:findName>
+
+<mod:findName type="req" name="BLUELIST_CREW_NOFIRE">
+	<mod-append:name>fr_golden_diamond</mod-append:name>
+	<mod-append:name>fr_copper_diamond</mod-append:name>
+	<mod-append:name>fr_adamantine_diamond</mod-append:name>
+	<mod-append:name>fr_copper_lanius</mod-append:name>
+	<mod-append:name>fr_blob_diamond</mod-append:name>
+	<mod-append:name>fr_techno_operator</mod-append:name>
+	<mod-append:name>fr_golden_lanius_3</mod-append:name>
+	<mod-append:name>fr_copper_operator</mod-append:name>
+	<mod-append:name>fr_adamantine_operator</mod-append:name>
+</mod:findName>
+
+<mod:findName type="req" name="HS_LIST_LANIUS">
+	<mod-append:name>fr_golden_lanius_1</mod-append:name>
+	<mod-append:name>fr_golden_lanius_2</mod-append:name>
+	<mod-append:name>fr_golden_lanius_3</mod-append:name>
+	<mod-append:name>fr_copper_lanius</mod-append:name>
+	<mod-append:name>fr_adamantine_lanius</mod-append:name>
+</mod:findName>
+
+</mod:findLike>
+<!--
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+			                    STORES
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->
+
+
+
+<mod:findLike type="store" limit="1">
+
+<mod-append:customStore id="FR_FORGOTTEN_DIAMOND_WALLACE_STORE">
+	<resource>
+		<type>fuel</type>
+		<count min="999" max="999"/>
+	</resource>
+	<resource>
+		<type>missiles</type>
+		<count min="999" max="999"/>
+	</resource>
+	<resource>
+		<type>drones</type>
+		<count min="999" max="999"/>
+	</resource>
+	<category type="SYSTEMS">
+		<item>
+			<blueprint>weapons</blueprint>
+		</item>
+		<item>
+			<blueprint>shields</blueprint>
+		</item>
+		<item>
+			<blueprint>medbay</blueprint>
+		</item>
+	</category>
+	<category type="SYSTEMS">
+		<item>
+			<blueprint>clonebay</blueprint>
+		</item>
+		<item>
+			<blueprint>drones</blueprint>
+		</item>
+		<item>
+			<blueprint>cloaking</blueprint>
+		</item>
+	</category>
+	<category type="SYSTEMS">
+		<item>
+			<blueprint>hacking</blueprint>
+		</item>
+		<item>
+			<blueprint>mind</blueprint>
+		</item>
+		<item>
+			<blueprint>temporal</blueprint>
+		</item>
+	</category>
+	<category type="SYSTEMS">
+		<item>
+			<blueprint>doors</blueprint>
+		</item>
+		<item>
+			<blueprint>sensors</blueprint>
+		</item>
+		<item>
+			<blueprint>battery</blueprint>
+		</item>
+	</category>
+	<category type="SYSTEMS">
+		<item>
+			<blueprint>teleporter</blueprint>
+		</item>
+	</category>
+	<category type="WEAPONS">
+		<item>
+			<blueprint>FR_GOLDEN_ION_1</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_GOLDEN_ION_2</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_GOLDEN_ION_3</blueprint>
+		</item>
+	</category>
+	<category type="WEAPONS">
+		<item>
+			<blueprint>FR_GOLDEN_BEAM_1</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_GOLDEN_BEAM_2</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_GOLDEN_BEAM_3</blueprint>
+		</item>
+	</category>
+	<category type="WEAPONS">
+		<item>
+			<blueprint>FR_GOLDEN_LASER_1</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_GOLDEN_LASER_2</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_GOLDEN_LASER_3</blueprint>
+		</item>
+	</category>
+	<category type="WEAPONS">
+		<item>
+			<blueprint>FR_GOLDEN_BOMB_1</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_GOLDEN_BOMB_2</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_GOLDEN_BOMB_3</blueprint>
+		</item>
+	</category>
+	<category type="WEAPONS">
+		<item>
+			<blueprint>FR_GOLDEN_FLAK</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_GOLDEN_FLAK_CHAOS</blueprint>
+		</item>
+	</category>
+	<category type="AUGMENTS">
+		<item>
+			<blueprint>FR_GOLDEN_SHIELD_1</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_GOLDEN_SHIELD_2</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_GOLDEN_SHIELD_3</blueprint>
+		</item>
+	</category>
+	<category type="AUGMENTS">
+		<item>
+			<blueprint>FR_GOLDEN_SHIELD_4</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_GOLDEN_SHIELD_5</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_GOLDEN_SHIELD_6</blueprint>
+		</item>
+	</category>
+	<category type="AUGMENTS">
+		<item>
+			<blueprint>FR_GOLDEN_SHIELD_7</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_GOLDEN_SHIELD_8</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_GOLDEN_SHIELD_9</blueprint>
+		</item>
+	</category>
+	<category type="AUGMENTS">
+		<item>
+			<blueprint>FR_GOLDEN_SHIELD_10</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_GOLDEN_SHIELD_11</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_WAR_CRIMINALS_SHIELD</blueprint>
+		</item>
+	</category>
+	<category type="AUGMENTS">
+		<item>
+			<blueprint>FR_FIREBOTS</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_TINKERERS_SHIELD</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_FLESH_MAKER</blueprint>
+		</item>
+	</category>
+	<category type="AUGMENTS">
+		<item>
+			<blueprint>FR_GOLD_WIRES</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_COPPER_WIRES</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_ADAMANTINE_WIRES</blueprint>
+		</item>
+	</category>
+	<category type="AUGMENTS">
+		<item>
+			<blueprint>FR_ALLOY_BOTS</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_ALLOY_SHIELD</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_ALLOY_WIRES</blueprint>
+		</item>
+	</category>
+	<category type="DRONES">
+		<item>
+			<blueprint>FR_COPPER_BOARDING_DRONE</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_COPPER_BOARDING_DRONE_2</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_COPPER_COMBAT_LASER</blueprint>
+		</item>
+	</category>
+	<category type="DRONES">
+		<item>
+			<blueprint>FR_COPPER_COMBAT_LASER_2</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_COPPER_COMBAT_LASER_3</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_COPPER_COMBAT_LASER_4</blueprint>
+		</item>
+	</category>
+	<category type="DRONES">
+		<item>
+			<blueprint>FR_COPPER_COMBAT_BEAM</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_COPPER_COMBAT_BEAM_2</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_COPPER_COMBAT_BEAM_3</blueprint>
+		</item>
+	</category>
+	<category type="DRONES">
+		<item>
+			<blueprint>FR_COPPER_COMBAT_BEAM_4</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_COPPER_COMBAT_ION</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_COPPER_COMBAT_ION_2</blueprint>
+		</item>
+	</category>
+	<category type="DRONES">
+		<item>
+			<blueprint>FR_COPPER_COMBAT_ION_3</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_COPPER_COMBAT_ION_4</blueprint>
+		</item>
+		<item>
+			<blueprint>FR_COPPER_DEFENSE_DRONE</blueprint>
+		</item>
+	</category>
+	<category type="DRONES">
+		<item>
+			<blueprint>FR_COPPER_DEFENSE_PROJECTILE</blueprint>
+		</item>
+	</category>
+	<category type="CREW">
+		<item>
+			<blueprint>fr_golden_diamond</blueprint>
+		</item>
+		<item>
+			<blueprint>fr_copper_diamond</blueprint>
+		</item>
+		<item>
+			<blueprint>fr_adamantine_diamond</blueprint>
+		</item>
+	</category>
+	<category type="CREW">
+		<item>
+			<blueprint>fr_adamantine_operator</blueprint>
+		</item>
+		<item>
+			<blueprint>fr_copper_operator</blueprint>
+		</item>
+		<item>
+			<blueprint>fr_adamantine_operator</blueprint>
+		</item>
+	</category>
+	<category type="CREW">
+		<item>
+			<blueprint>fr_golden_lanius_1</blueprint>
+		</item>
+		<item>
+			<blueprint>fr_golden_lanius_2</blueprint>
+		</item>
+		<item>
+			<blueprint>fr_golden_lanius_3</blueprint>
+		</item>
+	</category>
+	<category type="CREW">
+		<item>
+			<blueprint>fr_copper_lanius</blueprint>
+		</item>
+		<item>
+			<blueprint>fr_adamantine_lanius</blueprint>
+		</item>
+	</category>
+</mod-append:customStore>
+</mod:findLike>
+
+
+<!--
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+			                    CREW
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->
+
+<mod:findLike type="crew" limit="1">
+	
+<mod-append:race name="fr_blob_diamond">
+	<maxHealth>150</maxHealth>
+	<damageTakenMultiplier>1.20</damageTakenMultiplier>
+	<canBurn>false</canBurn>
+	<resistsMindControl>true</resistsMindControl>
+	<canSuffocate>false</canSuffocate>
+	<sabotageSpeedMultiplier>1.5</sabotageSpeedMultiplier>
+	<repairSpeed>1.25</repairSpeed>
+	<fireRepairMultiplier>1</fireRepairMultiplier>
+	<moveSpeedMultiplier>0.5</moveSpeedMultiplier>
+	<damageMultiplier>1.5</damageMultiplier>
+	<rangedDamageMultiplier>0.5</rangedDamageMultiplier>
+	<passiveStatBoosts>  
+		<statBoost name="damageMultiplier">
+			<boostType>MULT</boostType>
+			<amount>0.75</amount>
+			<affectsSelf>false</affectsSelf>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<boostAnim>fr_toxiety</boostAnim>
+			<maxStacks>1</maxStacks>
+		</statBoost>
+		<statBoost name="trueHealAmount">
+			<boostType>FLAT</boostType>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>SELF</crewTarget>
+			<amount>5</amount>
+			<priority>0</priority>
+			<affectsSelf>true</affectsSelf>
+			<boostAnim>heal_particles</boostAnim>
+			<systemPowerDependency>
+				<drones/>
+			</systemPowerDependency>
+			<systemPowerScaling>
+				<noSys>0</noSys>
+				<noPwr>0</noPwr>
+				<onePwr>1</onePwr>
+			</systemPowerScaling>
+			<systemRoomTarget>ALL</systemRoomTarget>
+			<systemList>
+			  <drones/>
+			</systemList>
+			<maxStacks>1</maxStacks>
+		</statBoost>
+		<statBoost name="trueHealAmount">
+			<boostType>FLAT</boostType>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<amount>2.5</amount>
+			<priority>0</priority>
+			<boostAnim>heal_particles</boostAnim>
+			<whiteList load="FR_ROBOTIC_CREW"/>
+		</statBoost>
+	</passiveStatBoosts>
+	<deathSounds>
+		<deathSound>ancientDeath</deathSound>
+	</deathSounds>
+</mod-append:race>
+<mod-append:race name="fr_golden_diamond">
+		<maxHealth>150</maxHealth>
+		<damageTakenMultiplier>1.2</damageTakenMultiplier>
+		<canBurn>false</canBurn>
+		<resistsMindControl>true</resistsMindControl>
+		<canSuffocate>false</canSuffocate>
+		<sabotageSpeedMultiplier>1</sabotageSpeedMultiplier>
+		<repairSpeed>1</repairSpeed>
+		<fireRepairMultiplier>1</fireRepairMultiplier>
+		<damageMultiplier>3</damageMultiplier>
+		<punchTimer min="600" max="780"/>
+		<rangedDamageMultiplier>0.01</rangedDamageMultiplier>
+		<deathSounds>
+			<deathSound>ancientDeath</deathSound>
+		</deathSounds>
+</mod-append:race>
+<mod-append:race name="fr_adamantine_diamond">
+		<maxHealth>300</maxHealth>
+		<canBurn>false</canBurn>
+		<canSuffocate>false</canSuffocate>
+		<sabotageSpeedMultiplier>0.5</sabotageSpeedMultiplier>
+		<repairSpeed>2</repairSpeed>
+		<fireRepairMultiplier>1</fireRepairMultiplier>
+		<moveSpeedMultiplier>0.5</moveSpeedMultiplier>
+		<damageMultiplier>0.25</damageMultiplier>
+		<healSpeed>0.5</healSpeed>
+		<passiveStatBoosts>  
+			<statBoost name="damageMultiplier">
+				<boostType>MULT</boostType>
+				<amount>0.5</amount>
+				<affectsSelf>false</affectsSelf>
+				<shipTarget>CURRENT_ROOM</shipTarget>
+				<crewTarget>ENEMIES</crewTarget>
+				<boostAnim>fr_toxiety</boostAnim>
+				<maxStacks>1</maxStacks>
+			</statBoost>
+		</passiveStatBoosts>
+		<deathSounds>
+			<deathSound>ancientDeath</deathSound>
+		</deathSounds>
+</mod-append:race>
+<mod-append:race name="fr_copper_diamond">
+		<maxHealth>100</maxHealth>
+		<healSpeed>0</healSpeed>
+		<canBurn>false</canBurn>
+		<resistsMindControl>false</resistsMindControl>
+		<canSuffocate>false</canSuffocate>
+		<sabotageSpeedMultiplier>2</sabotageSpeedMultiplier>
+		<fireRepairMultiplier>1.1</fireRepairMultiplier>
+		<moveSpeedMultiplier>1.5</moveSpeedMultiplier>
+		<damageMultiplier>0.2</damageMultiplier>
+		<passiveStatBoosts>  
+			<statBoost name="trueHealAmount">
+				<boostType>FLAT</boostType>
+				<shipTarget>CURRENT_ROOM</shipTarget>
+				<crewTarget>SELF</crewTarget>
+				<amount>10</amount>
+				<priority>0</priority>
+				<affectsSelf>true</affectsSelf>
+				<boostAnim>heal_particles</boostAnim>
+				<systemPowerDependency>
+					<drones/>
+				</systemPowerDependency>
+				<systemPowerScaling>
+					<noSys>0</noSys>
+					<noPwr>1</noPwr>
+					<onePwr>1</onePwr>
+				</systemPowerScaling>
+				<systemRoomTarget>ALL</systemRoomTarget>
+				<systemList>
+				  <drones/>
+				</systemList>
+				<maxStacks>1</maxStacks>
+			</statBoost>
+			<statBoost name="trueHealAmount">
+				<boostType>FLAT</boostType>
+				<shipTarget>CURRENT_ROOM</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<amount>5</amount>
+				<priority>0</priority>
+				<boostAnim>heal_particles</boostAnim>
+				<whiteList load="FR_ROBOTIC_CREW"/>
+			</statBoost>
+		</passiveStatBoosts>
+		<deathSounds>
+			<deathSound>ancientDeath</deathSound>
+		</deathSounds>
+</mod-append:race>
+
+<mod-append:race name="fr_golden_operator">
+	<maxHealth>110</maxHealth>
+	<damageTakenMultiplier>1.2</damageTakenMultiplier>
+	<canBurn>false</canBurn>
+	<canSuffocate>false</canSuffocate>
+	<repairSpeed>1.5</repairSpeed>
+	<fireDamageMultiplier>0</fireDamageMultiplier>
+	<damageMultiplier>0.1</damageMultiplier>
+	<doorDamageMultiplier>1.2</doorDamageMultiplier>
+	<rangedDamageMultiplier>35</rangedDamageMultiplier>
+	<shootTimer min="1200" max="1560"/>
+	<canPunch>false</canPunch>
+	<suffocationModifier>0</suffocationModifier>
+	<resistsMindControl>true</resistsMindControl>
+	<animBase>human</animBase>
+	<passiveStatBoosts>  
+		<statBoost name="healSpeed">
+			<boostType>MULT</boostType>
+			<amount>2</amount>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>SELF</crewTarget>
+			<affectsSelf>true</affectsSelf>
+			<maxStacks>1</maxStacks>
+			<systemRoomTarget>ALL</systemRoomTarget>
+			<systemList>
+				<engines/>
+				<pilot/>
+				<shields/>
+				<weapons/>
+			</systemList>
+		</statBoost>
+	</passiveStatBoosts>
+	<skills>
+		<piloting req="7"/>
+		<engines req="7"/>
+		<shields req="24"/>
+		<weapons req="32"/>
+		<repair req="9"/>
+		<combat req="5"/>
+	</skills>
+	<deathSounds>
+		<deathSound>engiDeath</deathSound>
+	</deathSounds>
+</mod-append:race>
+
+<mod-append:race name="fr_adamantine_operator">
+	<maxHealth>150</maxHealth>
+	<damageTakenMultiplier>0.5</damageTakenMultiplier>
+	<sabotageSpeedMultiplier>0.5</sabotageSpeedMultiplier>
+	<bonusPower>4</bonusPower>
+	<canSabotage>false</canSabotage>
+	<canFight>false</canFight>
+	<canRepair>false</canRepair>
+	<canBurn>false</canBurn>
+	<canSuffocate>false</canSuffocate>
+	<fireDamageMultiplier>0</fireDamageMultiplier>
+	<moveSpeedMultiplier>0.5</moveSpeedMultiplier>
+	<damageMultiplier>10</damageMultiplier>
+	<suffocationModifier>0</suffocationModifier>
+	<resistsMindControl>true</resistsMindControl>
+	<animBase>human</animBase>
+	<defaultSkillLevel>2</defaultSkillLevel>
+	<cloneSpeedMultiplier>100</cloneSpeedMultiplier>
+	<cloneLoseSkills>false</cloneLoseSkills>
+	<passiveStatBoosts>  
+		<statBoost name="fireDamageMultiplier">
+			<boostType>MULT</boostType>
+			<amount>0</amount>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<affectsSelf>false</affectsSelf>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="canBurn">
+			<boostType>SET</boostType>
+			<value>false</value>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<affectsSelf>false</affectsSelf>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="suffocationModifier">
+			<boostType>MULT</boostType>
+			<amount>0</amount>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<affectsSelf>false</affectsSelf>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="canSuffocate">
+			<boostType>SET</boostType>
+			<value>false</value>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<affectsSelf>false</affectsSelf>
+			<priority>0</priority>
+		</statBoost>
+	</passiveStatBoosts>
+	<skills>
+		<piloting req="1"/>
+		<engines req="1"/>
+		<shields req="1"/>
+		<weapons req="1"/>
+		<repair req="1"/>
+		<combat req="1"/>
+	</skills>
+	<deathSounds>
+		<deathSound>engiDeath</deathSound>
+	</deathSounds>
+</mod-append:race>
+
+<mod-append:race name="fr_copper_operator">
+	<maxHealth>70</maxHealth>
+	<canBurn>false</canBurn>
+	<canSuffocate>false</canSuffocate>
+	<fireDamageMultiplier>0</fireDamageMultiplier>
+	<moveSpeedMultiplier>1.5</moveSpeedMultiplier>
+	<damageMultiplier>0.1</damageMultiplier>
+	<suffocationModifier>0</suffocationModifier>
+	<repairSpeed>5</repairSpeed>
+	<resistsMindControl>true</resistsMindControl>
+	<animBase>human</animBase>
+	<passiveStatBoosts>  
+		<statBoost name="trueHealAmount">
+			<boostType>FLAT</boostType>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<amount>5</amount>
+			<priority>0</priority>
+			<affectsSelf>true</affectsSelf>
+			<whiteList load="FR_ROBOTIC_CREW"/>
+		</statBoost>
+		<statBoost name="trueHealAmount">
+			<boostType>FLAT</boostType>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+			<amount>5</amount>
+			<priority>0</priority>
+			<affectsSelf>true</affectsSelf>
+		</statBoost>
+	</passiveStatBoosts>
+	<deathSounds>
+		<deathSound>engiDeath</deathSound>
+	</deathSounds>
+</mod-append:race>
+
+<mod-append:race name="fr_techno_operator">
+	<maxHealth>100</maxHealth>
+	<damageTakenMultiplier>0.75</damageTakenMultiplier>
+	<controllable>true</controllable>
+	<canBurn>false</canBurn>
+	<canSuffocate>false</canSuffocate>
+	<repairSpeed>2</repairSpeed>
+	<fireDamageMultiplier>0</fireDamageMultiplier>
+	<moveSpeedMultiplier>1.5</moveSpeedMultiplier>
+	<damageMultiplier>0.1</damageMultiplier>
+	<rangedDamageMultiplier>15</rangedDamageMultiplier>
+	<suffocationModifier>0</suffocationModifier>
+	<resistsMindControl>true</resistsMindControl>
+	<animBase>human</animBase>
+	<defaultSkillLevel>1</defaultSkillLevel>
+	<cloneLoseSkills>false</cloneLoseSkills>
+	<cloneSpeedMultiplier>5</cloneSpeedMultiplier>
+	<bonusPower>2</bonusPower>
+	<passiveStatBoosts> 
+		<statBoost name="healSpeed">
+			<boostType>MULT</boostType>
+			<amount>1.5</amount>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>SELF</crewTarget>
+			<affectsSelf>true</affectsSelf>
+			<maxStacks>1</maxStacks>
+			<systemRoomTarget>ALL</systemRoomTarget>
+			<systemList>
+				<engines/>
+				<pilot/>
+				<shields/>
+				<weapons/>
+			</systemList>
+		</statBoost>
+		<statBoost name="fireDamageMultiplier">
+			<boostType>MULT</boostType>
+			<amount>0</amount>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<affectsSelf>false</affectsSelf>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="canBurn">
+			<boostType>SET</boostType>
+			<value>false</value>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<affectsSelf>false</affectsSelf>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="suffocationModifier">
+			<boostType>MULT</boostType>
+			<amount>0</amount>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<affectsSelf>false</affectsSelf>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="canSuffocate">
+			<boostType>SET</boostType>
+			<value>false</value>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<affectsSelf>false</affectsSelf>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="trueHealAmount">
+			<boostType>FLAT</boostType>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<amount>2.5</amount>
+			<priority>0</priority>
+			<affectsSelf>true</affectsSelf>
+			<whiteList load="FR_ROBOTIC_CREW"/>
+		</statBoost>
+		<statBoost name="trueHealAmount">
+			<boostType>FLAT</boostType>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+			<amount>2.5</amount>
+			<priority>0</priority>
+			<affectsSelf>true</affectsSelf>
+		</statBoost>
+	</passiveStatBoosts>
+	<skills>
+		<piloting req="10"/>
+		<engines req="10"/>
+		<shields req="10"/>
+		<weapons req="10"/>
+		<repair req="5"/>
+		<combat req="5"/>
+	</skills>
+	<deathSounds>
+		<deathSound>engiDeath</deathSound>
+	</deathSounds>
+</mod-append:race>
+
+	<mod-append:race name="fr_golden_lanius_1">
+		<maxHealth>70</maxHealth>
+		<repairSpeed>1.5</repairSpeed>
+		<fireRepairMultiplier>1.5</fireRepairMultiplier>
+		<canSuffocate>false</canSuffocate>
+		<fireDamageMultiplier>1</fireDamageMultiplier>
+		<moveSpeedMultiplier>1</moveSpeedMultiplier>
+		<damageMultiplier>1.1</damageMultiplier>
+		<damageTakenMultiplier>0.9</damageTakenMultiplier>
+		<suffocationModifier>0</suffocationModifier>
+		<oxygenChangeSpeed>-0.5</oxygenChangeSpeed>
+		<isAnaerobic>true</isAnaerobic>
+		<animBase>anaerobic</animBase>
+		<bonusPower>1</bonusPower>
+		<deathSounds>
+			<deathSound>ancientDeath</deathSound>
+		</deathSounds>
+		<repairSounds>
+		  <repairSound>shrikeRepair</repairSound>
+		</repairSounds>
+	</mod-append:race>
+	<mod-append:race name="fr_golden_lanius_2">
+		<maxHealth>100</maxHealth>
+		<repairSpeed>1.8</repairSpeed>
+		<fireRepairMultiplier>1.8</fireRepairMultiplier>
+		<canSuffocate>false</canSuffocate>
+		<fireDamageMultiplier>1</fireDamageMultiplier>
+		<moveSpeedMultiplier>1.2</moveSpeedMultiplier>
+		<damageMultiplier>1.5</damageMultiplier>
+		<damageTakenMultiplier>0.8</damageTakenMultiplier>
+		<suffocationModifier>0</suffocationModifier>
+		<oxygenChangeSpeed>-0.5</oxygenChangeSpeed>
+		<passiveHealAmount>5</passiveHealAmount>
+		<passiveHealDelay>5</passiveHealDelay>
+		<isAnaerobic>true</isAnaerobic>
+		<animBase>anaerobic</animBase>
+		<bonusPower>1</bonusPower>
+		<deathSounds>
+			<deathSound>ancientDeath</deathSound>
+		</deathSounds>
+		<repairSounds>
+		  <repairSound>shrikeRepair</repairSound>
+		</repairSounds>
+	</mod-append:race>
+	<mod-append:race name="fr_golden_lanius_3">
+		<maxHealth>150</maxHealth>
+		<repairSpeed>2</repairSpeed>
+		<fireRepairMultiplier>2</fireRepairMultiplier>
+		<canSuffocate>false</canSuffocate>
+		<canBurn>false</canBurn>
+		<fireDamageMultiplier>0</fireDamageMultiplier>
+		<moveSpeedMultiplier>1.5</moveSpeedMultiplier>
+		<damageMultiplier>2</damageMultiplier>
+		<damageTakenMultiplier>0.5</damageTakenMultiplier>
+		<suffocationModifier>0</suffocationModifier>
+		<oxygenChangeSpeed>-0.5</oxygenChangeSpeed>
+		<passiveHealAmount>10</passiveHealAmount>
+		<passiveHealDelay>5</passiveHealDelay>
+		<isAnaerobic>true</isAnaerobic>
+		<animBase>anaerobic</animBase>
+		<bonusPower>2</bonusPower>
+		<deathSounds>
+			<deathSound>ancientDeath</deathSound>
+		</deathSounds>
+		<repairSounds>
+		  <repairSound>shrikeRepair</repairSound>
+		</repairSounds>
+	</mod-append:race>
+<mod-append:race name="fr_copper_lanius">
+		<maxHealth>110</maxHealth>
+		<fireRepairMultiplier>0</fireRepairMultiplier>
+		<canSuffocate>true</canSuffocate>
+		<canBurn>true</canBurn>
+		<fireDamageMultiplier>-1.5</fireDamageMultiplier>
+		<suffocationModifier>1.5</suffocationModifier>
+		<oxygenChangeSpeed>2</oxygenChangeSpeed>
+		<truePassiveHealAmount>-1</truePassiveHealAmount>
+		<passiveHealDelay>0</passiveHealDelay>
+		<damageMultiplier>0.9</damageMultiplier>
+		<damageTakenMultiplier>1.1</damageTakenMultiplier>
+		<isAnaerobic>false</isAnaerobic>
+		<animBase>anaerobic</animBase>
+		<passiveStatBoosts>  
+			<statBoost name="fireDamageMultiplier">
+				<boostType>MULT</boostType>
+				<amount>1.2</amount>
+				<shipTarget>CURRENT_ROOM</shipTarget>
+				<crewTarget>ENEMIES</crewTarget>
+				<affectsSelf>false</affectsSelf>
+				<priority>0</priority>
+				<maxStacks>1</maxStacks>
+				<whiteList load="LIST_CREW_ORCHID"/>
+			</statBoost>
+			<statBoost name="fireDamageMultiplier">
+				<boostType>SET</boostType>
+				<amount>1.4</amount>
+				<shipTarget>CURRENT_ROOM</shipTarget>
+				<crewTarget>ENEMIES</crewTarget>
+				<affectsSelf>false</affectsSelf>
+				<priority>0</priority>
+				<maxStacks>1</maxStacks>
+				<blackList load="LIST_CREW_ORCHID"/>
+			</statBoost>
+			<statBoost name="canBurn">
+				<boostType>SET</boostType>
+				<value>true</value>
+				<shipTarget>CURRENT_ROOM</shipTarget>
+				<crewTarget>ENEMIES</crewTarget>
+				<affectsSelf>false</affectsSelf>
+				<priority>0</priority>
+				<boostAnim>fr_mark_fire</boostAnim>
+			</statBoost>
+		</passiveStatBoosts>
+		<deathSounds>
+			<deathSound>ancientDeath</deathSound>
+		</deathSounds>
+		<repairSounds>
+		  <repairSound>shrikeRepair</repairSound>
+		</repairSounds>
+		<powerEffect>
+			<cooldown>40</cooldown>
+			<jumpCooldown>full</jumpCooldown>
+			<shipFriendlyFire>false</shipFriendlyFire>
+			<buttonText>FLAME</buttonText>
+			<tooltip>[CD:40s  DURATION:12s]
+			Starts a fire in the current room. Temporarily moves at 0.8 speed but doubles its o2 production.</tooltip>
+			<cooldownColor r="0" g="255" b="242"/>
+			<effectAnim>explosion_random</effectAnim>
+			<powerSounds>
+				<powerSound>fireBomb</powerSound>
+			</powerSounds>
+			<fireChance>10</fireChance>
+			<temporaryEffect>
+				<duration>12</duration>
+				<cooldownColor r="0" g="105" b="100"/>
+				<moveSpeedMultiplier>0.8</moveSpeedMultiplier>
+				<oxygenChangeSpeed>4</oxygenChangeSpeed>
+				<animSheet baseVisible="true">fr_copper_lanius_glow</animSheet>
+			</temporaryEffect>
+		</powerEffect>
+	</mod-append:race>
+	<mod-append:race name="fr_adamantine_lanius">
+		<maxHealth>80</maxHealth>
+		<fireRepairMultiplier>0.5</fireRepairMultiplier>
+		<canSuffocate>false</canSuffocate>
+		<canBurn>true</canBurn>
+		<sabotageSpeedMultiplier>2</sabotageSpeedMultiplier>
+		<fireDamageMultiplier>10</fireDamageMultiplier>
+		<suffocationModifier>0</suffocationModifier>
+		<oxygenChangeSpeed>-2</oxygenChangeSpeed>
+		<damageMultiplier>0.5</damageMultiplier>
+		<moveSpeedMultiplier>1.5</moveSpeedMultiplier>
+		<isAnaerobic>true</isAnaerobic>
+		<animBase>anaerobic</animBase>
+		<passiveStatBoosts>
+		<statBoost name="isAnaerobic">
+			<boostType>SET</boostType>
+			<value>false</value>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<affectsSelf>false</affectsSelf>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="canSuffocate">
+			<boostType>SET</boostType>
+			<value>true</value>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<affectsSelf>false</affectsSelf>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="suffocationModifier">
+			<boostType>SET</boostType>
+			<amount>1.4</amount>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<affectsSelf>false</affectsSelf>
+			<priority>0</priority>
+			<maxStacks>1</maxStacks>
+			<blackList load="LIST_CREW_SHELL"/>
+		</statBoost>
+		<statBoost name="moveSpeedMultiplier">
+			<boostType>MULT</boostType>
+			<amount>0.33</amount>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<affectsSelf>false</affectsSelf>
+			<maxStacks>1</maxStacks>
+			<boostAnim>fr_toxiety</boostAnim>
+		</statBoost>
+		<statBoost name="repairSpeed">
+			<boostType>MULT</boostType>
+			<amount>0.33</amount>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<affectsSelf>false</affectsSelf>
+			<maxStacks>1</maxStacks>
+		</statBoost>
+		<statBoost name="suffocationModifier">
+			<boostType>MULT</boostType>
+			<amount>1.2</amount>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<affectsSelf>false</affectsSelf>
+			<maxStacks>1</maxStacks>
+            <whiteList load="LIST_CREW_SHELL"/>
+		</statBoost>
+      </passiveStatBoosts>
+		<powerEffect>
+			<cooldown>5</cooldown>
+			<powerCharges>2</powerCharges>
+			<initialCharges>2</initialCharges>
+			<chargesPerJump>1</chargesPerJump>
+			<respawnCharges>1</respawnCharges>
+			<jumpCooldown>full</jumpCooldown>
+			<effectAnim>explosion_random</effectAnim>
+			<powerSounds>
+				<powerSound>lockdown1</powerSound>
+				<powerSound>lockdown2</powerSound>
+			</powerSounds>
+			<buttonText>CORRODE</buttonText>
+			<tooltip>[CD:5s]
+			Fully heals the lanius, creates a breach and deals 1 system damage to the current room.</tooltip>
+			<cooldownColor r="255" g="0" b="0"/>
+			<activateWhenReady>false</activateWhenReady>
+			<selfHealth>999</selfHealth>
+			<sysDamage>1</sysDamage>
+			<breachChance>10</breachChance>
+			<shipFriendlyFire>false</shipFriendlyFire>
+		</powerEffect>
+		<deathSounds>
+			<deathSound>ancientDeath</deathSound>
+		</deathSounds>
+		<repairSounds>
+		  <repairSound>shrikeRepair</repairSound>
+		</repairSounds>
+	</mod-append:race>
+
+<!--
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+			                    DRONES
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->
+
+<mod-append:race name="fr_copper_battledrone_1">
+	<selectable>true</selectable>
+	<canFight>true</canFight>
+	<canSabotage>true</canSabotage>
+	<canRepair>false</canRepair>
+	<canSuffocate>false</canSuffocate>
+	<canBurn>false</canBurn>
+	<canMan>false</canMan>
+	<maxHealth>110</maxHealth>
+	<stunMultiplier>0</stunMultiplier>
+	<droneAI>
+		<fightAI/>
+		<returnToDroneRoom/>
+	</droneAI>
+	<damageMultiplier>1.5</damageMultiplier>
+	<fireDamageMultiplier>0</fireDamageMultiplier>
+	<moveSpeedMultiplier>0.5</moveSpeedMultiplier>
+	<controllable>true</controllable>
+	<hasCustomDeathAnimation>true</hasCustomDeathAnimation>
+	<hasDeathExplosion>true</hasDeathExplosion>
+	<deathEffect>
+		<persDamage>0</persDamage>
+		<friendlyFire>false</friendlyFire>
+	</deathEffect>
+	<powerEffect>
+		<cooldown>20</cooldown>
+		<fireChance>10</fireChance>
+		<jumpCooldown>full</jumpCooldown>
+		<powerSounds>
+			<powerSound>fireBomb</powerSound>
+		</powerSounds>
+		<friendlyFire>false</friendlyFire>
+		<buttonText>FLAME</buttonText>
+		<tooltip>[COOLDOWN:15s]
+			Start fires in the occupied room.
+		</tooltip>
+		<cooldownColor r="161" g="248" b="255"/>
+		<effectAnim>explosion_random</effectAnim>
+		<activateWhenReady>true</activateWhenReady>
+	</powerEffect>
+</mod-append:race>
+<mod-append:race name="fr_copper_battledrone_2">
+	<selectable>true</selectable>
+	<canFight>true</canFight>
+	<canSabotage>true</canSabotage>
+	<canRepair>false</canRepair>
+	<canSuffocate>false</canSuffocate>
+	<canBurn>true</canBurn>
+	<canMan>false</canMan>
+	<maxHealth>220</maxHealth>
+	<stunMultiplier>0</stunMultiplier>
+	<droneAI>
+		<fightAI/>
+		<returnToDroneRoom/>
+	</droneAI>
+	<damageMultiplier>2</damageMultiplier>
+	<fireDamageMultiplier>-0.1</fireDamageMultiplier>
+	<moveSpeedMultiplier>0.8</moveSpeedMultiplier>
+	<controllable>true</controllable>
+	<hasCustomDeathAnimation>true</hasCustomDeathAnimation>
+	<hasDeathExplosion>true</hasDeathExplosion>
+	<deathEffect>
+		<persDamage>0</persDamage>
+		<friendlyFire>false</friendlyFire>
+	</deathEffect>
+	<powerEffect>
+		<cooldown>15</cooldown>
+		<fireChance>10</fireChance>
+		<jumpCooldown>full</jumpCooldown>
+		<powerSounds>
+			<powerSound>fireBomb</powerSound>
+		</powerSounds>
+		<friendlyFire>false</friendlyFire>
+		<buttonText>FLAME</buttonText>
+		<tooltip>[COOLDOWN:10s]
+			Start fires in the occupied room.
+		</tooltip>
+		<cooldownColor r="161" g="248" b="255"/>
+		<effectAnim>explosion_random</effectAnim>
+		<activateWhenReady>true</activateWhenReady>
+	</powerEffect>
+</mod-append:race>
+</mod:findLike>
+
+<!-- APPENDED RACES-->
+
+<!-- Huuuuuuuuuuge thanks to Blizz for all the help! this wouldn't be possible without their knowledge!-->
+
+<mod:findLike type="crew" limit="1">
+<mod:findName type="race" name="unique_tonysr">
+	<mod:findLike type="passiveStatBoosts">
+		<mod:findComposite>
+		<mod:par op="AND">
+			<mod:findLike type="statBoost"><mod:selector name="trueHealAmount" /></mod:findLike>
+			<mod:findWithChildLike type="statBoost" child-type="whiteList" />
+		</mod:par>
+		<mod:findLike type="whiteList">
+            <mod-append:fr_golden_operator />
+            <mod-append:fr_copper_operator />
+			<mod-append:fr_adamantine_operator />
+		</mod:findLike>
+		</mod:findComposite>
+    </mod:findLike>
+</mod:findName>
+
+<mod:findName type="race" name="goldwelder">
+	<mod:findLike type="passiveStatBoosts">
+		<mod:findComposite>
+		<mod:par op="AND">
+			<mod:findLike type="statBoost"><mod:selector name="trueHealAmount" /></mod:findLike>
+			<mod:findWithChildLike type="statBoost" child-type="whiteList" />
+		</mod:par>
+		<mod:findLike type="whiteList">
+                <mod-append:fr_golden_operator />
+                <mod-append:fr_copper_operator />
+                <mod-append:fr_adamantine_operator />
+		</mod:findLike>
+		</mod:findComposite>
+    </mod:findLike>
+	<mod:findLike type="powerEffect">
+		<mod:findLike type="temporaryEffect">
+			<mod:findLike type="statBoosts">
+				<mod:findComposite>
+				<mod:par op="AND">
+					<mod:findLike type="statBoost"><mod:selector name="trueHealAmount" /></mod:findLike>
+					<mod:findWithChildLike type="statBoost" child-type="whiteList" />
+				</mod:par>
+				<mod:findLike type="whiteList">
+						<mod-append:fr_golden_operator />
+						<mod-append:fr_copper_operator />
+						<mod-append:fr_adamantine_operator />
+				</mod:findLike>
+				</mod:findComposite>
+			</mod:findLike>
+		</mod:findLike>
+    </mod:findLike>
+</mod:findName>
+
+<mod:findName type="race" name="lanius_welder">
+	<mod:findLike type="passiveStatBoosts">
+		<mod:findComposite>
+		<mod:par op="AND">
+			<mod:findLike type="statBoost"><mod:selector name="trueHealAmount" /></mod:findLike>
+			<mod:findWithChildLike type="statBoost" child-type="whiteList" />
+		</mod:par>
+		<mod:findLike type="whiteList">
+                <mod-append:fr_golden_operator />
+                <mod-append:fr_copper_operator />
+                <mod-append:fr_adamantine_operator />
+		</mod:findLike>
+		</mod:findComposite>
+    </mod:findLike>
+	<mod:findLike type="powerEffect">
+		<mod:findLike type="temporaryEffect">
+			<mod:findLike type="statBoosts">
+				<mod:findComposite>
+				<mod:par op="AND">
+					<mod:findLike type="statBoost"><mod:selector name="trueHealAmount" /></mod:findLike>
+					<mod:findWithChildLike type="statBoost" child-type="whiteList" />
+				</mod:par>
+				<mod:findLike type="whiteList">
+						<mod-append:fr_golden_operator />
+						<mod-append:fr_copper_operator />
+						<mod-append:fr_adamantine_operator />
+				</mod:findLike>
+				</mod:findComposite>
+			</mod:findLike>
+		</mod:findLike>
+    </mod:findLike>
+</mod:findName>
+</mod:findLike>
+
+<mod:findLike type="drones" limit="1">
+	<mod-append:drone name="FR_COPPER_BOARDING_DRONE">
+		<crewBlueprint>fr_copper_battledrone_1</crewBlueprint>
+		<tooltipName>Copper Battledrone</tooltipName>
+	</mod-append:drone>
+	<mod-append:drone name="FR_COPPER_BOARDING_DRONE_2">
+		<crewBlueprint>fr_copper_battledrone_2</crewBlueprint>
+		<tooltipName>Copper Battledrone MK.II</tooltipName>
+	</mod-append:drone>
+</mod:findLike>
+
+<!--
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+			                    AUGMENTS
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->
+
+<mod:findLike type="augments" limit="1">
+
+<mod-append:aug name="FR_ALLOY_SHIELD">
+	<function name="ENERGY_SHIELD" value="0" useForReqs="true" warning="false"/>
+	<function name="SCRAP_COLLECTOR" value="0.1" useForReqs="true"/>
+	<function name="FTL_JAMMER" value="2" useForReqs="true"/>
+	<function name="DRONE_RECOVERY" value="1" useForReqs="true"/>
+	<superShield>
+		<value>5</value>
+		<color r="255" g="186" b="165" a="0.8"/>
+		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+	</superShield>
+	<locked/>
+</mod-append:aug>
+
+<mod-append:aug name="FR_ALLOY_WIRES">
+	<statBoosts>
+		<statBoost name="damageMultiplier">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+			<amount>1.15</amount>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="sabotageSpeedMultiplier">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+			<amount>1.15</amount>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="repairSpeed">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+			<amount>1.15</amount>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="healSpeed">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+			<amount>1.15</amount>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="maxHealth">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+			<amount>1.15</amount>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="damageMultiplier">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<amount>1.15</amount>
+			<priority>0</priority>
+			<whiteList load="FR_ROBOTIC_CREW"/>
+		</statBoost>
+		<statBoost name="sabotageSpeedMultiplier">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<amount>1.15</amount>
+			<priority>0</priority>
+			<whiteList load="FR_ROBOTIC_CREW"/>
+		</statBoost>
+		<statBoost name="repairSpeed">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<amount>1.15</amount>
+			<priority>0</priority>
+			<whiteList load="FR_ROBOTIC_CREW"/>
+		</statBoost>
+		<statBoost name="healSpeed">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<amount>1.15</amount>
+			<priority>0</priority>
+			<whiteList load="FR_ROBOTIC_CREW"/>
+		</statBoost>
+		<statBoost name="maxHealth">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<amount>1.15</amount>
+			<priority>0</priority>
+			<whiteList load="FR_ROBOTIC_CREW"/>
+		</statBoost>
+	</statBoosts>
+	<locked/>
+</mod-append:aug>
+
+<mod-append:aug name="FR_ALLOY_BOTS">
+	<function name="NANO_MEDBAY" value="0" useForReqs="true" warning="false"/>
+	<function name="NANOBOT_DEFENSE_SYSTEM" value="0" useForReqs="true" warning="false"/>
+	<statBoosts>
+		<statBoost name="trueHealAmount">
+			<boostType>FLAT</boostType>
+			<amount>-2.0</amount>
+			<shipTarget>ORIGINAL_SHIP</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<priority>0</priority>
+			<systemPowerDependency>
+				<oxygen/>
+			</systemPowerDependency>
+			<systemPowerScaling>
+				<noSys>0</noSys>
+				<noPwr>0</noPwr>
+				<onePwr>1</onePwr>
+				<twoPwr>2</twoPwr>
+				<threePwr>3</threePwr>
+				<fourPwr>4</fourPwr>
+			</systemPowerScaling>
+		</statBoost>
+		<statBoost name="healAmount">
+			<boostType>FLAT</boostType>
+			<shipTarget>ORIGINAL_SHIP</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<amount>2</amount>
+			<priority>0</priority>
+			<systemPowerDependency>
+				<oxygen/>
+			</systemPowerDependency>
+			<systemPowerScaling>
+				<noSys>0</noSys>
+				<noPwr>0</noPwr>
+				<onePwr>1</onePwr>
+				<twoPwr>2</twoPwr>
+				<threePwr>3</threePwr>
+				<fourPwr>4</fourPwr>
+			</systemPowerScaling>
+		</statBoost>
+		<statBoost name="isAnaerobic">
+			<boostType>SET</boostType>
+			<value>false</value>
+			<shipTarget>ORIGINAL_SHIP</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<priority>999</priority>
+		</statBoost>
+		<statBoost name="canSuffocate">
+			<boostType>SET</boostType>
+			<value>true</value>
+			<shipTarget>ORIGINAL_SHIP</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<priority>999</priority>
+			<boostAnim>fr_toxiety</boostAnim>
+		</statBoost>
+		<statBoost name="suffocationModifier">
+			<boostType>MULT</boostType>
+			<amount>1.2</amount>
+			<shipTarget>ORIGINAL_SHIP</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<priority>999</priority>
+			<systemPowerDependency>
+				<oxygen/>
+			</systemPowerDependency>
+			<systemPowerScaling>
+				<noSys>0</noSys>
+				<noPwr>0</noPwr>
+				<onePwr>1</onePwr>
+				<twoPwr>2</twoPwr>
+				<threePwr>3</threePwr>
+				<fourPwr>4</fourPwr>
+			</systemPowerScaling>
+		</statBoost>
+	</statBoosts>
+	<locked/>
+</mod-append:aug>
+
+<mod-append:aug name="FR_GOLDEN_SHIELD_1">
+	<function name="ENERGY_SHIELD" value="0" useForReqs="true" warning="false"/>
+	<function name="SCRAP_COLLECTOR" value="0.5" useForReqs="false"/>
+	<superShield>
+		<value>3</value>
+		<color r="229" g="208" b="119" a="0.8"/>
+		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+	</superShield>
+	<locked/>
+</mod-append:aug>
+<mod-append:aug name="FR_GOLDEN_SHIELD_2">
+	<function name="ENERGY_SHIELD" value="0" useForReqs="true" warning="false"/>
+	<function name="SCRAP_COLLECTOR" value="0.5" useForReqs="false"/>
+	<superShield>
+		<value>4</value>
+		<color r="229" g="208" b="119" a="0.8"/>
+		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+	</superShield>
+	<locked/>
+</mod-append:aug>
+<mod-append:aug name="FR_GOLDEN_SHIELD_3">
+	<function name="ENERGY_SHIELD" value="0" useForReqs="true" warning="false"/>
+	<function name="SCRAP_COLLECTOR" value="0.5" useForReqs="false"/>
+	<superShield>
+		<value>5</value>
+		<color r="229" g="208" b="119" a="0.8"/>
+		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+	</superShield>
+	<locked/>
+</mod-append:aug>
+<mod-append:aug name="FR_GOLDEN_SHIELD_4">
+	<function name="ENERGY_SHIELD" value="0" useForReqs="true" warning="false"/>
+	<function name="SCRAP_COLLECTOR" value="0.5" useForReqs="false"/>
+	<superShield>
+		<value>6</value>
+		<color r="229" g="208" b="119" a="0.8"/>
+		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+	</superShield>
+	<locked/>
+</mod-append:aug>
+<mod-append:aug name="FR_GOLDEN_SHIELD_5">
+	<function name="ENERGY_SHIELD" value="0" useForReqs="true" warning="false"/>
+	<function name="SCRAP_COLLECTOR" value="0.5" useForReqs="false"/>
+	<superShield>
+		<value>7</value>
+		<color r="229" g="208" b="119" a="0.8"/>
+		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+	</superShield>
+	<locked/>
+</mod-append:aug>
+<mod-append:aug name="FR_GOLDEN_SHIELD_6">
+	<function name="ENERGY_SHIELD" value="0" useForReqs="true" warning="false"/>
+	<function name="SCRAP_COLLECTOR" value="0.5" useForReqs="false"/>
+	<superShield>
+		<value>8</value>
+		<color r="229" g="208" b="119" a="0.8"/>
+		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+	</superShield>
+	<locked/>
+</mod-append:aug>
+<mod-append:aug name="FR_GOLDEN_SHIELD_7">
+	<function name="ENERGY_SHIELD" value="0" useForReqs="true" warning="false"/>
+	<function name="SCRAP_COLLECTOR" value="0.5" useForReqs="false"/>
+	<superShield>
+		<value>9</value>
+		<color r="229" g="208" b="119" a="0.8"/>
+		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+	</superShield>
+	<locked/>
+</mod-append:aug>
+<mod-append:aug name="FR_GOLDEN_SHIELD_8">
+	<function name="ENERGY_SHIELD" value="0" useForReqs="true" warning="false"/>
+	<function name="SCRAP_COLLECTOR" value="0.5" useForReqs="false"/>
+	<superShield>
+		<value>10</value>
+		<color r="229" g="208" b="119" a="0.8"/>
+		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+	</superShield>
+	<locked/>
+</mod-append:aug>
+<mod-append:aug name="FR_GOLDEN_SHIELD_9">
+	<function name="ENERGY_SHIELD" value="0" useForReqs="true" warning="false"/>
+	<function name="SCRAP_COLLECTOR" value="0.5" useForReqs="false"/>
+	<superShield>
+		<value>11</value>
+		<color r="229" g="208" b="119" a="0.8"/>
+		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+	</superShield>
+	<locked/>
+</mod-append:aug>
+<mod-append:aug name="FR_GOLDEN_SHIELD_10">
+	<function name="ENERGY_SHIELD" value="0" useForReqs="true" warning="false"/>
+	<function name="SCRAP_COLLECTOR" value="0.5" useForReqs="false"/>
+	<superShield>
+		<value>12</value>
+		<color r="229" g="208" b="119" a="0.8"/>
+		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+	</superShield>
+	<locked/>
+</mod-append:aug>
+<mod-append:aug name="FR_GOLDEN_SHIELD_11">
+	<function name="ENERGY_SHIELD" value="0" useForReqs="true" warning="false"/>
+	<function name="SCRAP_COLLECTOR" value="0.5" useForReqs="false"/>
+	<superShield>
+		<value>13</value>
+		<color r="229" g="208" b="119" a="0.8"/>
+		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+	</superShield>
+	<locked/>
+</mod-append:aug>
+
+<mod-append:aug name="FR_GOLD_WIRES">
+	<statBoosts>
+		<statBoost name="damageMultiplier">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+			<amount>1.5</amount>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="sabotageSpeedMultiplier">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+			<amount>1.5</amount>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="repairSpeed">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+			<amount>1.5</amount>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="moveSpeedMultiplier">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+			<amount>0.5</amount>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="damageMultiplier">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<amount>1.5</amount>
+			<priority>0</priority>
+			<whiteList load="FR_ROBOTIC_CREW"/>
+		</statBoost>
+		<statBoost name="sabotageSpeedMultiplier">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<amount>1.5</amount>
+			<priority>0</priority>
+			<whiteList load="FR_ROBOTIC_CREW"/>
+		</statBoost>
+		<statBoost name="repairSpeed">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<amount>1.5</amount>
+			<priority>0</priority>
+			<whiteList load="FR_ROBOTIC_CREW"/>
+		</statBoost>
+		<statBoost name="moveSpeedMultiplier">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<amount>0.5</amount>
+			<priority>0</priority>
+			<whiteList load="FR_ROBOTIC_CREW"/>
+		</statBoost>
+	</statBoosts>
+	<locked/>
+</mod-append:aug>
+
+<mod-append:aug name="FR_TINKERERS_SHIELD">
+	<function name="ENERGY_SHIELD" value="0" useForReqs="true" warning="false"/>
+	<function name="DEFENSE_SCRAMBLER" value="0" useForReqs="true" warning="false"/>
+	<function name="DRONE_RECOVERY" value="1" useForReqs="true"/>
+	<statBoosts>
+		<statBoost name="trueHealAmount">
+			<boostType>FLAT</boostType>
+			<amount>-10.0</amount>
+			<shipTarget>ORIGINAL_SHIP</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+			<priority>999</priority>
+		</statBoost>
+	</statBoosts>
+	<superShield>
+		<value>7</value>
+		<color r="0" g="255" b="242" a="0.8"/>
+		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+	</superShield>
+	<locked/>
+</mod-append:aug>
+
+<mod-append:aug name="FR_COPPER_WIRES">
+	<function name="NANO_MEDBAY" value="0" useForReqs="false" warning="false"/>
+	<statBoosts>
+		<statBoost name="damageMultiplier">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+			<amount>0.5</amount>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="healCrewAmount">
+			<boostType>FLAT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+			<amount>3</amount>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="trueHealAmount">
+			<boostType>FLAT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+			<amount>3</amount>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="damageMultiplier">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<amount>0.5</amount>
+			<priority>0</priority>
+			<whiteList load="FR_ROBOTIC_CREW"/>
+		</statBoost>
+		<statBoost name="healCrewAmount">
+			<boostType>FLAT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<amount>3</amount>
+			<priority>0</priority>
+			<whiteList load="FR_ROBOTIC_CREW"/>
+		</statBoost>
+	</statBoosts>
+	<locked/>
+</mod-append:aug>
+
+<mod-append:aug name="FR_FIREBOTS">
+	<function name="NANOBOT_DEFENSE_SYSTEM" value="0" useForReqs="true" warning="false"/>
+	<statBoosts>
+		<statBoost name="trueHealAmount">
+			<boostType>FLAT</boostType>
+			<amount>-3.0</amount>
+			<shipTarget>ORIGINAL_SHIP</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<priority>0</priority>
+			<systemPowerDependency>
+				<oxygen/>
+			</systemPowerDependency>
+			<systemPowerScaling>
+				<noSys>0</noSys>
+				<noPwr>0</noPwr>
+				<onePwr>1</onePwr>
+				<twoPwr>2</twoPwr>
+				<threePwr>3</threePwr>
+				<fourPwr>4</fourPwr>
+			</systemPowerScaling>
+		</statBoost>
+	</statBoosts>
+	<locked/>
+</mod-append:aug>
+
+<mod-append:aug name="FR_WAR_CRIMINALS_SHIELD">
+	<function name="ENERGY_SHIELD" value="0" useForReqs="true" warning="false"/>
+	<function name="FTL_JAMMER" value="10" useForReqs="true"/>
+	<superShield>
+		<value>8</value>
+		<color r="255" g="0" b="0" a="0.8"/>
+		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+	</superShield>
+	<icon>icon_fr_warcriminal_shield_boss</icon>
+	<locked/>
+</mod-append:aug>
+
+<mod-append:aug name="FR_FLESH_MAKER">
+	<function name="BACKUP_DNA" value="0" useForReqs="true" warning="false"/>
+	<locked/>
+</mod-append:aug>
+
+<mod-append:aug name="FR_FLESH_MAKER_UNLOCKED">
+	<function name="FR_FLESH_MAKER" value="1" useForReqs="true" warning="false"/>
+	<locked/>
+</mod-append:aug>
+
+<mod-append:aug name="FR_ADAMANTINE_WIRES">
+	<statBoosts>
+		<statBoost name="maxHealth">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+			<amount>1.5</amount>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="fireDamageMultiplier">
+			<boostType>SET</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+			<amount>0</amount>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="suffocationModifier">
+			<boostType>SET</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+			<amount>0</amount>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="stunMultiplier">
+			<boostType>SET</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+			<amount>0</amount>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="canBurn">
+			<boostType>SET</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+			<value>false</value>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="canSuffocate">
+			<boostType>SET</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+			<value>false</value>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="statBoost">
+			<statBoost name="trueHealAmount">
+				<boostType>FLAT</boostType>
+				<amount>-5</amount>
+				<shipTarget>CURRENT_ROOM</shipTarget>
+				<crewTarget>ALL</crewTarget>
+				<droneTarget>CREW</droneTarget>
+				<priority>0</priority>
+				<blackList load="FR_METALLOID_CREW"/>
+				<blackList load="FR_METALLOID_CREW">
+					<drone_battle/>
+					<atom/>
+					<human_technician_drone/>
+				</blackList>
+			</statBoost>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>DRONES</droneTarget>
+		</statBoost>
+		<statBoost name="maxHealth">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<amount>1.5</amount>
+			<priority>0</priority>
+			<whiteList load="FR_ROBOTIC_CREW"/>
+		</statBoost>
+		<statBoost name="fireDamageMultiplier">
+			<boostType>SET</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<amount>0</amount>
+			<priority>0</priority>
+			<whiteList load="FR_ROBOTIC_CREW"/>
+		</statBoost>
+		<statBoost name="suffocationModifier">
+			<boostType>SET</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<amount>0</amount>
+			<priority>0</priority>
+			<whiteList load="FR_ROBOTIC_CREW"/>
+		</statBoost>
+		<statBoost name="stunMultiplier">
+			<boostType>SET</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<amount>0</amount>
+			<priority>0</priority>
+			<whiteList load="FR_ROBOTIC_CREW"/>
+		</statBoost>
+		<statBoost name="canBurn">
+			<boostType>SET</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<value>false</value>
+			<priority>0</priority>
+			<whiteList load="FR_ROBOTIC_CREW"/>
+		</statBoost>
+		<statBoost name="canSuffocate">
+			<boostType>SET</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<value>false</value>
+			<priority>0</priority>
+			<whiteList load="FR_ROBOTIC_CREW"/>
+		</statBoost>
+		<statBoost name="statBoost">
+			<statBoost name="trueHealAmount">
+				<boostType>FLAT</boostType>
+				<amount>-5</amount>
+				<shipTarget>CURRENT_ROOM</shipTarget>
+				<crewTarget>ALL</crewTarget>
+				<droneTarget>CREW</droneTarget>
+				<priority>0</priority>
+				<blackList load="FR_METALLOID_CREW"/>
+				<blackList load="FR_METALLOID_CREW">
+					<drone_battle/>
+					<atom/>
+					<human_technician_drone/>
+				</blackList>
+			</statBoost>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<whiteList load="FR_ROBOTIC_CREW"/>
+		</statBoost>
+	</statBoosts>
+	<locked/>
+</mod-append:aug>
+
+<mod-append:aug name="FR_TOXIC_ROOMS">
+	<statBoosts>
+		<statBoost name="isAnaerobic">
+			<boostType>SET</boostType>
+			<value>false</value>
+			<shipTarget>ORIGINAL_SHIP</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<priority>999</priority>
+		</statBoost>
+		<statBoost name="canSuffocate">
+			<boostType>SET</boostType>
+			<value>true</value>
+			<shipTarget>ORIGINAL_SHIP</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<priority>999</priority>
+		</statBoost>
+		<statBoost name="suffocationModifier">
+			<boostType>SET</boostType>
+			<amount>1.4</amount>
+			<shipTarget>ORIGINAL_SHIP</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<priority>999</priority>
+			<blackList load="LIST_CREW_SHELL"/>
+		</statBoost>
+		<statBoost name="suffocationModifier">
+			<boostType>MULT</boostType>
+			<amount>1.2</amount>
+			<shipTarget>ORIGINAL_SHIP</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<priority>999</priority>
+			<whiteList load="LIST_CREW_SHELL"/>
+		</statBoost>
+		<statBoost name="moveSpeedMultiplier">
+			<boostType>MULT</boostType>
+			<amount>0.33</amount>
+			<shipTarget>ORIGINAL_SHIP</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<priority>999</priority>
+			<boostAnim>fr_toxiety</boostAnim>
+		</statBoost>
+		<statBoost name="repairSpeed">
+			<boostType>MULT</boostType>
+			<amount>0.33</amount>
+			<shipTarget>ORIGINAL_SHIP</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<priority>999</priority>
+		</statBoost>
+	</statBoosts>
+	<locked/>
+</mod-append:aug>
+
+<mod-append:aug name="FR_SUSTAIN_PROTOCOL">
+	<statBoosts>
+		<statBoost name="allDamageTakenMultiplier">
+			<boostType>MULT</boostType>
+			<shipTarget>ORIGINAL_SHIP</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<amount>0</amount>
+			<priority>0</priority>
+			<systemPowerDependency>
+				<medbay/>
+			</systemPowerDependency>
+			<systemPowerScaling>
+				<noSys>0</noSys>
+				<noPwr>0</noPwr>
+				<onePwr>1</onePwr>
+				<twoPwr>1</twoPwr>
+				<threePwr>1</threePwr>
+				<fourPwr>1</fourPwr>
+			</systemPowerScaling>
+		</statBoost>
+	</statBoosts>
+	<icon>icon_fr_sustain_protocol</icon>
+</mod-append:aug>
+
+<!-- LABS & JUDGES -->
+
+<!-- INTERNAL LABS -->
+
+<mod-append:aug name="FR_LAB_DIAMOND_FISTITUTE">
+	<statBoosts>
+		<statBoost name="sabotageSpeedMultiplier">
+			<boostType>MULT</boostType>
+			<amount>0.1</amount>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<priority>0</priority>
+			<whiteList load="FR_LIST_CREW_DIAMOND"/>
+		</statBoost>
+		<statBoost name="repairSpeed">
+			<boostType>MULT</boostType>
+			<amount>0.1</amount>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<priority>0</priority>
+			<whiteList load="FR_LIST_CREW_DIAMOND"/>
+		</statBoost>
+		<statBoost name="damageMultiplier">
+			<boostType>MULT</boostType>
+			<amount>2</amount>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<priority>0</priority>
+			<whiteList load="FR_LIST_CREW_DIAMOND"/>
+		</statBoost>
+	</statBoosts>
+</mod-append:aug>
+
+<mod-append:aug name="FR_LAB_DIAMOND_SYSTEMIC">
+	<statBoosts>
+		<statBoost name="moveSpeedMultiplier">
+			<boostType>MULT</boostType>
+			<amount>1.5</amount>
+			<shipTarget>ORIGINAL_SHIP</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<systemRoomTarget>ALL</systemRoomTarget>
+			<systemList>
+				<all/>
+			</systemList>
+			<whiteList load="FR_LIST_CREW_DIAMOND"/>
+		</statBoost>
+		<statBoost name="damageMultiplier">
+			<boostType>MULT</boostType>
+			<amount>1.5</amount>
+			<shipTarget>ORIGINAL_SHIP</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<systemRoomTarget>ALL</systemRoomTarget>
+			<systemList>
+				<all/>
+			</systemList>
+			<whiteList load="FR_LIST_CREW_DIAMOND"/>
+		</statBoost>
+		<statBoost name="moveSpeedMultiplier">
+			<boostType>MULT</boostType>
+			<amount>0.5</amount>
+			<shipTarget>OTHER_ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<systemRoomTarget>ALL</systemRoomTarget>
+			<systemList>
+				<all/>
+			</systemList>
+			<whiteList load="FR_LIST_CREW_DIAMOND"/>
+		</statBoost>
+		<statBoost name="damageMultiplier">
+			<boostType>MULT</boostType>
+			<amount>0.5</amount>
+			<shipTarget>OTHER_ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<systemRoomTarget>ALL</systemRoomTarget>
+			<systemList>
+				<all/>
+			</systemList>
+			<whiteList load="FR_LIST_CREW_DIAMOND"/>
+		</statBoost>
+		<statBoost name="canBurn">
+			<boostType>SET</boostType>
+			<value>true</value>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<priority>999</priority>
+			<whiteList load="FR_LIST_CREW_DIAMOND"/>
+		</statBoost>
+	</statBoosts>
+</mod-append:aug>
+
+<mod-append:aug name="FR_LAB_DIAMOND_NOXIOUS">
+	<statBoosts>
+		<statBoost name="statBoost">
+				<statBoost name="trueHealAmount">
+					<boostType>FLAT</boostType>
+					<amount>-3</amount>
+					<shipTarget>CURRENT_ALL</shipTarget>
+					<crewTarget>ENEMIES</crewTarget>
+					<droneTarget>ALL</droneTarget>
+					<affectsSelf>false</affectsSelf>
+					<priority>0</priority>
+					<blackList load="FR_LIST_CREW_DIAMOND"/>
+				</statBoost>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<whiteList load="FR_LIST_CREW_DIAMOND"/>
+		</statBoost>
+		<statBoost name="canFight">
+			<boostType>SET</boostType>
+			<value>false</value>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<priority>0</priority>
+			<whiteList load="FR_LIST_CREW_DIAMOND"/>
+		</statBoost>
+	</statBoosts>
+</mod-append:aug>
+
+<mod-append:aug name="FR_LAB_OPERATOR_PACIFISM_PROTOCOLS">
+	<statBoosts>
+		<statBoost name="statBoost">
+			<statBoost name="canFight">
+				<boostType>SET</boostType>
+				<value>false</value>
+				<shipTarget>CURRENT_ROOM</shipTarget>
+				<crewTarget>ALL</crewTarget>
+			</statBoost>
+			<statBoost name="canSabotage">
+				<boostType>SET</boostType>
+				<value>false</value>
+				<shipTarget>CURRENT_ROOM</shipTarget>
+				<crewTarget>ALL</crewTarget>
+			</statBoost>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<whiteList load="FR_BLUELIST_OPERATORS"/>
+		</statBoost>
+		<statBoost name="canFight">
+			<boostType>SET</boostType>
+			<value>false</value>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<priority>0</priority>
+			<whiteList load="FR_BLUELIST_OPERATORS"/>
+		</statBoost>
+		<statBoost name="canSabotage">
+			<boostType>SET</boostType>
+			<value>false</value>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<priority>0</priority>
+			<whiteList load="FR_BLUELIST_OPERATORS"/>
+		</statBoost>
+	</statBoosts>
+</mod-append:aug>
+
+<mod-append:aug name="FR_LAB_OPERATOR_BIO_PROTOCOLS">
+	<statBoosts>
+		<statBoost name="statBoost">
+			<statBoost name="damageMultiplier">
+				<boostType>MULT</boostType>
+				<amount>0.85</amount>
+				<shipTarget>CURRENT_ROOM</shipTarget>
+				<crewTarget>ENEMIES</crewTarget>
+				<droneTarget>ALL</droneTarget>
+				<affectsSelf>false</affectsSelf>
+				<maxStacks id="fr_operator_debuff_damage">1</maxStacks>
+				<priority>999</priority>
+				<boostAnim>fr_radiation</boostAnim>
+			</statBoost>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<whiteList load="FR_BLUELIST_OPERATORS"/>
+		</statBoost>
+		<statBoost name="statBoost">
+			<statBoost name="healSpeed">
+				<boostType>SET</boostType>
+				<amount>0</amount>
+				<shipTarget>CURRENT_ROOM</shipTarget>
+				<crewTarget>ENEMIES</crewTarget>
+				<droneTarget>ALL</droneTarget>
+				<affectsSelf>false</affectsSelf>
+				<priority>999</priority>
+			</statBoost>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<whiteList load="FR_BLUELIST_OPERATORS"/>
+		</statBoost>
+		<statBoost name="statBoost">
+			<statBoost name="noClone">
+				<boostType>SET</boostType>
+				<value>true</value>
+				<shipTarget>CURRENT_ROOM</shipTarget>
+				<crewTarget>ENEMIES</crewTarget>
+				<affectsSelf>false</affectsSelf>
+				<priority>999</priority>
+			</statBoost>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<whiteList load="FR_BLUELIST_OPERATORS"/>
+		</statBoost>
+		<statBoost name="statBoost">
+			<statBoost name="canTeleport">
+				<boostType>SET</boostType>
+				<value>false</value>
+				<shipTarget>CURRENT_ROOM</shipTarget>
+				<crewTarget>ENEMIES</crewTarget>
+				<droneTarget>ALL</droneTarget>
+				<affectsSelf>false</affectsSelf>
+				<priority>1000</priority>
+			</statBoost>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<whiteList load="FR_BLUELIST_OPERATORS"/>
+		</statBoost>
+		<statBoost name="damageMultiplier">
+			<boostType>MULT</boostType>
+			<amount>0.5</amount>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<priority>999</priority>
+			<whiteList load="FR_BLUELIST_OPERATORS"/>
+		</statBoost>
+	</statBoosts>
+</mod-append:aug>
+
+<mod-append:aug name="FR_LAB_OPERATOR_BEACON_PROTOCOLS">
+	<statBoosts>
+		<statBoost name="statBoost">
+			<statBoost name="teleportMoveOtherShip">
+				<boostType>SET</boostType>
+				<shipTarget>CURRENT_ROOM</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<droneTarget>CREW</droneTarget>
+				<value>true</value>
+				<priority>0</priority>
+				<blackList load="FR_BLUELIST_OPERATORS"/>
+			</statBoost>
+			<statBoost name="teleportMove">
+				<boostType>SET</boostType>
+				<value>true</value>
+				<shipTarget>CURRENT_ROOM</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<droneTarget>CREW</droneTarget>
+				<priority>999</priority>
+				<blackList load="FR_BLUELIST_OPERATORS"/>
+			</statBoost>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<whiteList load="FR_BLUELIST_OPERATORS"/>
+		</statBoost>
+		<statBoost name="maxHealth">
+			<boostType>MULT</boostType>
+			<amount>0.5</amount>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<priority>999</priority>
+			<whiteList load="FR_BLUELIST_OPERATORS"/>
+		</statBoost>
+		<statBoost name="damageTakenMultiplier">
+			<boostType>MULT</boostType>
+			<amount>1.25</amount>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<priority>999</priority>
+			<whiteList load="FR_BLUELIST_OPERATORS"/>
+		</statBoost>
+	</statBoosts>
+</mod-append:aug>
+
+<mod-append:aug name="JUDGE_BOON_FR_METAL_LANIUS">
+	<statBoosts>
+		<statBoost name="resistsMindControl">
+			<boostType>SET</boostType>
+			<value>true</value>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<priority>0</priority>
+			<whiteList load="FR_LIST_CREW_METAL_LANIUS"/>
+		</statBoost>
+		<statBoost name="isTelepathic">
+			<boostType>SET</boostType>
+			<value>true</value>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<priority>0</priority>
+			<whiteList load="FR_LIST_CREW_METAL_LANIUS"/>
+		</statBoost>
+	</statBoosts>
+</mod-append:aug>
+	
+<mod-append:aug name="JUDGE_BOON_FR_GOLDEN">
+	<function name="SCRAP_COLLECTOR" value="0.1" useForReqs="false"/>
+</mod-append:aug>
+
+<mod-append:aug name="JUDGE_BOON_FR_COPPER">
+	<function name="DRONE_RECOVERY" value="1" useForReqs="false"/>
+</mod-append:aug>
+
+<mod-append:aug name="JUDGE_BOON_FR_ADAMANTINE">
+	<statBoosts>
+		<statBoost name="cloneLoseSkills">
+			<boostType>SET</boostType>
+			<value>false</value>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<priority>0</priority>
+		</statBoost>
+		<statBoost name="defaultSkillLevel">
+			<boostType>SET</boostType>
+			<amount>1</amount>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<priority>0</priority>
+		</statBoost>
+	</statBoosts>
+</mod-append:aug>
+
+<mod-append:aug name="JUDGE_BOON_FR_DIAMOND">
+	<statBoosts>
+		<statBoost name="canPhaseThroughDoors">
+			<boostType>SET</boostType>
+			<value>true</value>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<priority>99</priority>
+			<whiteList load="FR_LIST_CREW_DIAMOND"/>
+		</statBoost>
+		<statBoost name="moveSpeedMultiplier">
+			<boostType>MULT</boostType>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<amount>1.20</amount>
+			<priority>0</priority>
+			<whiteList load="FR_LIST_CREW_DIAMOND"/>
+		</statBoost>
+	</statBoosts>
+</mod-append:aug>
+
+<mod-append:aug name="JUDGE_BOON_FR_OPERATOR">
+	<statBoosts>
+		<statBoost name="hackDoors">
+			<boostType>SET</boostType>
+			<shipTarget>ORIGINAL_OTHER_SHIP</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<value>true</value>
+			<priority>1</priority>
+			<whiteList load="FR_BLUELIST_OPERATORS"/>
+		</statBoost>
+	</statBoosts>
+</mod-append:aug>
+
+</mod:findLike>
+
+<!-- APPENDED AUGMENTS-->
+
+<!--thanks Blizz for the code!-->
+
+<mod:findLike type="augments" limit="1">
+
+<mod:findName type="aug" name="ANCIENT_DNA">
+    <mod:findLike type="statBoosts">
+        <mod:findName type="statBoost" name="suffocationModifier">
+            <mod:findLike type="blackList">
+                <mod-append:fr_golden_diamond />
+                <mod-append:fr_adamantine_diamond />
+                <mod-append:fr_copper_diamond />
+                <mod-append:fr_golden_operator />
+                <mod-append:fr_copper_operator />
+                <mod-append:fr_adamantine_operator />
+                <mod-append:fr_golden_lanius_1 />
+                <mod-append:fr_golden_lanius_2 />
+                <mod-append:fr_golden_lanius_3 />
+                <mod-append:fr_copper_lanius />
+                <mod-append:fr_adamantine_lanius />
+            </mod:findLike>
+        </mod:findName>
+        <mod:findName type="statBoost" name="fireDamageMultiplier">
+            <mod:findLike type="blackList">
+                <mod-append:fr_golden_diamond />
+                <mod-append:fr_adamantine_diamond />
+                <mod-append:fr_copper_diamond />
+                <mod-append:fr_golden_operator />
+                <mod-append:fr_copper_operator />
+                <mod-append:fr_adamantine_operator />
+                <mod-append:fr_golden_lanius_1 />
+                <mod-append:fr_golden_lanius_2 />
+                <mod-append:fr_golden_lanius_3 />
+                <mod-append:fr_copper_lanius />
+                <mod-append:fr_adamantine_lanius />
+            </mod:findLike>
+        </mod:findName>
+        <mod:findName type="statBoost" name="maxHealth">
+            <mod:findLike type="blackList">
+                <mod-append:fr_golden_diamond />
+                <mod-append:fr_adamantine_diamond />
+                <mod-append:fr_copper_diamond />
+                <mod-append:fr_golden_operator />
+                <mod-append:fr_copper_operator />
+                <mod-append:fr_adamantine_operator />
+                <mod-append:fr_golden_lanius_1 />
+                <mod-append:fr_golden_lanius_2 />
+                <mod-append:fr_golden_lanius_3 />
+                <mod-append:fr_copper_lanius />
+                <mod-append:fr_adamantine_lanius />
+            </mod:findLike>
+        </mod:findName>
+        <mod:findName type="statBoost" name="healSpeed">
+            <mod:findLike type="blackList">
+                <mod-append:fr_golden_diamond />
+                <mod-append:fr_adamantine_diamond />
+                <mod-append:fr_copper_diamond />
+                <mod-append:fr_golden_operator />
+                <mod-append:fr_copper_operator />
+                <mod-append:fr_adamantine_operator />
+                <mod-append:fr_golden_lanius_1 />
+                <mod-append:fr_golden_lanius_2 />
+                <mod-append:fr_golden_lanius_3 />
+                <mod-append:fr_copper_lanius />
+                <mod-append:fr_adamantine_lanius />
+            </mod:findLike>
+        </mod:findName>
+    </mod:findLike>
+</mod:findName>
+
+<mod:findName type="aug" name="LOCKED_XENOPHOBIA">
+    <mod:findLike type="statBoosts">
+        <mod:findName type="statBoost" name="maxHealth">
+            <mod:findLike type="blackList">
+	            <mod-append:fr_copper_battledrone_2 />
+            </mod:findLike>
+        </mod:findName>
+        <mod:findName type="statBoost" name="damageMultiplier">
+            <mod:findLike type="blackList">
+	            <mod-append:fr_copper_battledrone_2 />
+            </mod:findLike>
+        </mod:findName>
+        <mod:findName type="statBoost" name="sabotageSpeedMultiplier">
+            <mod:findLike type="blackList">
+	            <mod-append:fr_copper_battledrone_2 />
+            </mod:findLike>
+        </mod:findName>
+        <mod:findName type="statBoost" name="repairSpeed">
+            <mod:findLike type="blackList">
+	            <mod-append:fr_copper_battledrone_2 />
+            </mod:findLike>
+        </mod:findName>
+        <mod:findName type="statBoost" name="moveSpeedMultiplier">
+            <mod:findLike type="blackList">
+	            <mod-append:fr_copper_battledrone_2 />
+            </mod:findLike>
+        </mod:findName>
+    </mod:findLike>
+</mod:findName>
+
+</mod:findLike>
+
+<!--
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+			                    SHIPS
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->
+
+<mod:findLike type="ships" limit="1">
+<mod:findLike type="shipOrder" limit="1">
+        <mod-append:ship>PLAYER_SHIP_FR_METAL_LANIUS</mod-append:ship>
+        <mod-append:ship>PLAYER_SHIP_FR_METAL_DIAMOND</mod-append:ship>
+        <mod-append:ship>PLAYER_SHIP_FR_OPERATOR</mod-append:ship>
+        <mod-append:empty/>
+        <!-- -->
+        <mod-append:empty/>
+        <mod-append:empty/>
+        <mod-append:empty/>
+        <mod-append:empty/>
+        <!-- -->
+        <mod-append:ship>PLAYER_SHIP_FR_ALLOY</mod-append:ship>
+        <mod-append:empty/>
+</mod:findLike>
+</mod:findLike>
+
+<mod:findLike type="ships" limit="1">
+
+<mod:findName type="customShip" name="PLAYER_SHIP_SYLVAN_TRANSPORT_3">
+	<mod-append:hiddenAug>FR_FORGGOTEN_DIAMOND_WALLACE</mod-append:hiddenAug>
+</mod:findName>
+
+<mod-append:ship name="PLAYER_SHIP_FR_ALLOY" b="true" c="true">
+		<unlock variant="a" silent="false">
+		<type>3</type>
+            <otherUnlocks>
+				<ship>PLAYER_SHIP_FR_METAL_DIAMOND</ship>
+				<ship>PLAYER_SHIP_FR_METAL_DIAMOND_2</ship>
+				<ship>PLAYER_SHIP_FR_METAL_DIAMOND_3</ship>
+            </otherUnlocks>
+		</unlock>
+		<unlock variant="b" silent="false">
+		<type>3</type>
+            <otherUnlocks>
+				<ship>PLAYER_SHIP_FR_OPERATOR</ship>
+				<ship>PLAYER_SHIP_FR_OPERATOR_2</ship>
+				<ship>PLAYER_SHIP_FR_OPERATOR_3</ship>
+            </otherUnlocks>
+		</unlock>
+		<unlock variant="c" silent="false">
+		<type>3</type>
+            <otherUnlocks>
+				<ship>PLAYER_SHIP_FR_METAL_LANIUS</ship>
+				<ship>PLAYER_SHIP_FR_METAL_LANIUS_2</ship>
+				<ship>PLAYER_SHIP_FR_METAL_LANIUS_3</ship>
+            </otherUnlocks>
+		</unlock>
+	</mod-append:ship>
+<mod-append:customShip name="PLAYER_SHIP_FR_ALLOY">
+		<hiddenAug>FR_SHIP_METAL_DIAMOND</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>8</crewLimit>
+</mod-append:customShip>
+<mod-append:customShip name="PLAYER_SHIP_FR_ALLOY_2">
+		<hiddenAug>FR_SHIP_OPERATOR</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>8</crewLimit>
+</mod-append:customShip>
+<mod-append:customShip name="PLAYER_SHIP_FR_ALLOY_3">
+		<hiddenAug>FR_SHIP_METALLANIUS</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<systemLimit>10</systemLimit>
+		<crewLimit>8</crewLimit>
+</mod-append:customShip>
+	
+<mod-append:ship name="PLAYER_SHIP_FR_METAL_DIAMOND" b="true" c="true">
+		<unlock variant="a" silent="false">
+			<type>4</type>
+		</unlock>
+		<unlock variant="b" silent="false">
+            <type>1</type>
+            <shipReq>PLAYER_SHIP_FR_METAL_DIAMOND</shipReq>
+            <value>5</value>
+        </unlock>
+		<unlock variant="c" silent="false">
+            <type>2</type>
+            <shipReq>PLAYER_SHIP_FR_METAL_DIAMOND</shipReq>
+        </unlock>
+		<unlock variant="c" silent="false">
+            <type>1</type>
+            <shipReq>PLAYER_SHIP_FR_METAL_DIAMOND_2</shipReq>
+            <value>5</value>
+        </unlock>
+</mod-append:ship>
+<mod-append:customShip name="PLAYER_SHIP_FR_METAL_DIAMOND">
+		<hiddenAug>FR_SHIP_METAL_DIAMOND</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>6</crewLimit>
+        <rooms>
+			<room id="16"> 
+				<roomAnim renderLayer="2">tele_ico</roomAnim>
+			</room>
+			<room id="3"> <!--Weapons-->
+				<roomAnim renderLayer="0">resist_2x2</roomAnim>
+				<roomAnim renderLayer="3">resist_icon</roomAnim>
+				<sysDamageResistChance>100</sysDamageResistChance>
+			</room>
+		</rooms>
+</mod-append:customShip>
+<mod-append:customShip name="PLAYER_SHIP_FR_METAL_DIAMOND_2">
+		<hiddenAug>FR_SHIP_METAL_DIAMOND</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>10</crewLimit>
+        <rooms>
+			<room id="7"> 
+				<roomAnim renderLayer="2">tele_ico</roomAnim>
+			</room>
+			<room id="3"> <!--Drones-->
+				<roomAnim renderLayer="0">fr_room_resist_3x2</roomAnim>
+				<roomAnim renderLayer="3">resist_icon</roomAnim>
+				<sysDamageResistChance>100</sysDamageResistChance>
+			</room>
+		</rooms>
+</mod-append:customShip>
+<mod-append:customShip name="PLAYER_SHIP_FR_METAL_DIAMOND_3">
+		<hiddenAug>FR_SHIP_METAL_DIAMOND</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>20</crewLimit>
+        <rooms>
+			<room id="9"> <!--Shields-->
+				<roomAnim renderLayer="0">resist_2x2</roomAnim>
+				<roomAnim renderLayer="3">resist_icon</roomAnim>
+				<sysDamageResistChance>100</sysDamageResistChance>
+			</room>
+			<room id="1"> <!--clonebay-->
+				<roomAnim renderLayer="0">resist_2x2</roomAnim>
+				<roomAnim renderLayer="3">resist_icon</roomAnim>
+				<sysDamageResistChance>100</sysDamageResistChance>
+			</room>
+			<room id="2"> <!--teleporter-->
+				<roomAnim renderLayer="0">fr_room_resist_3x2</roomAnim>
+				<roomAnim renderLayer="3">resist_icon</roomAnim>
+				<sysDamageResistChance>100</sysDamageResistChance>
+			</room>
+		</rooms>
+</mod-append:customShip>
+
+<mod-append:ship name="PLAYER_SHIP_FR_OPERATOR" b="true" c="true">
+		<unlock variant="a" silent="false">
+			<type>4</type>
+		</unlock>
+		<unlock variant="b" silent="false">
+            <type>1</type>
+            <shipReq>PLAYER_SHIP_FR_OPERATOR</shipReq>
+            <value>5</value>
+        </unlock>
+		<unlock variant="c" silent="false">
+            <type>2</type>
+            <shipReq>PLAYER_SHIP_FR_OPERATOR</shipReq>
+        </unlock>
+		<unlock variant="c" silent="false">
+            <type>1</type>
+            <shipReq>PLAYER_SHIP_FR_OPERATOR_2</shipReq>
+            <value>5</value>
+        </unlock>
+</mod-append:ship>
+<mod-append:customShip name="PLAYER_SHIP_FR_OPERATOR">
+		<hiddenAug>FR_SHIP_OPERATOR</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>8</crewLimit>
+</mod-append:customShip>
+<mod-append:customShip name="PLAYER_SHIP_FR_OPERATOR_2">
+		<hiddenAug>FR_SHIP_OPERATOR</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>8</crewLimit>
+</mod-append:customShip>
+<mod-append:customShip name="PLAYER_SHIP_FR_OPERATOR_3">
+		<hiddenAug>FR_SHIP_OPERATOR</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>8</crewLimit>
+		<systemLimit>10</systemLimit>
+</mod-append:customShip>
+
+<mod-append:ship name="PLAYER_SHIP_FR_METAL_LANIUS" b="true" c="true" >
+		<unlock variant="a" silent="false">
+			<type>4</type>
+		</unlock>
+		<unlock variant="b" silent="false">
+            <type>1</type>
+            <shipReq>PLAYER_SHIP_FR_METAL_LANIUS</shipReq>
+            <value>5</value>
+        </unlock>
+		<unlock variant="c" silent="false">
+            <type>2</type>
+            <shipReq>PLAYER_SHIP_FR_METAL_LANIUS</shipReq>
+        </unlock>
+		<unlock variant="c" silent="false">
+            <type>1</type>
+            <shipReq>PLAYER_SHIP_FR_METAL_LANIUS_2</shipReq>
+            <value>5</value>
+        </unlock>
+</mod-append:ship>
+<mod-append:customShip name="PLAYER_SHIP_FR_METAL_LANIUS">
+	<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+	<hiddenAug>FR_SHIP_METALLANIUS</hiddenAug>
+    <systemLimit>10</systemLimit>
+	<crewLimit>8</crewLimit>
+	<crew>
+		<fr_golden_lanius_1 room="0" name="Sharlan"/>  <!--piloting-->
+	</crew>
+</mod-append:customShip>
+<mod-append:customShip name="PLAYER_SHIP_FR_METAL_LANIUS_2">
+	<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+	<hiddenAug>FR_SHIP_METALLANIUS</hiddenAug>
+    <systemLimit>10</systemLimit>
+	<crewLimit>8</crewLimit>
+</mod-append:customShip>
+<mod-append:customShip name="PLAYER_SHIP_FR_METAL_LANIUS_3">
+	<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+	<hiddenAug>FR_SHIP_METALLANIUS</hiddenAug>
+    <systemLimit>10</systemLimit>
+	<crewLimit>8</crewLimit>
+</mod-append:customShip>
+
+</mod:findLike>
+
+<!--
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+			                    ENEMIES
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->
+
+<mod:findLike type="ships" limit="1">
+
+<mod-append:customShip name="FR_MULTIVERSE_GOLDEN_DIAMOND_NORMAL">
+	<shipIcons>
+		<shipIcon>icon_no2</shipIcon>
+		<shipIcon>icon_threat</shipIcon>
+		<shipIcon>icon_specialwep</shipIcon>
+	</shipIcons>
+	<crew>
+		<fr_golden_diamond room="5"/> <!--weapons-->
+		<fr_golden_diamond room="4"/> <!--shields-->
+		<fr_golden_diamond room="15"/> <!--engines-->
+		<fr_golden_operator room="4"/> <!--shields-->
+		<fr_golden_operator room="5"/> <!--weapons-->
+	</crew>
+	<noFuelStalemate/>
+</mod-append:customShip>
+
+<mod-append:customShip name="FR_MULTIVERSE_GOLDEN_DIAMOND_CHALLENGE">
+	<shipIcons>
+		<shipIcon>icon_no2</shipIcon>
+		<shipIcon>icon_threat</shipIcon>
+		<shipIcon>icon_specialwep</shipIcon>
+	</shipIcons>
+	<crew>
+		<fr_golden_diamond room="5"/> <!--weapons-->
+		<fr_golden_diamond room="4"/> <!--shields-->
+		<fr_golden_diamond room="15"/> <!--engines-->
+		<fr_golden_operator room="4"/> <!--shields-->
+		<fr_golden_operator room="5"/> <!--weapons-->
+	</crew>
+	<noFuelStalemate/>
+</mod-append:customShip>
+
+<mod-append:customShip name="FR_MULTIVERSE_GOLDEN_DIAMOND_EXTREME">
+	<shipIcons>
+		<shipIcon>icon_no2</shipIcon>
+		<shipIcon>icon_threat</shipIcon>
+		<shipIcon>icon_specialwep</shipIcon>
+	</shipIcons>
+	<crew>
+		<fr_golden_diamond room="5"/> <!--weapons-->
+		<fr_golden_diamond room="4"/> <!--shields-->
+		<fr_golden_diamond room="15"/> <!--engines-->
+		<fr_golden_operator room="4"/> <!--shields-->
+		<fr_golden_operator room="5"/> <!--weapons-->
+	</crew>
+	<noFuelStalemate/>
+</mod-append:customShip>
+
+<mod-append:customShip name="FR_MULTIVERSE_GOLDEN_DIAMOND_CHAOS">
+	<shipIcons>
+		<shipIcon>icon_no2</shipIcon>
+		<shipIcon>icon_threat</shipIcon>
+		<shipIcon>icon_specialwep_chaos</shipIcon>
+	</shipIcons>
+	<crew>
+		<fr_golden_diamond room="5"/> <!--weapons-->
+		<fr_golden_diamond room="4"/> <!--shields-->
+		<fr_golden_diamond room="15"/> <!--engines-->
+		<fr_golden_operator room="15"/> <!--engines-->
+		<fr_golden_operator room="4"/> <!--shields-->
+		<fr_golden_operator room="5"/> <!--weapons-->
+	</crew>
+	<noFuelStalemate/>
+</mod-append:customShip>
+
+<mod-append:customShip name="FR_BOSS_QUEST_METAL_LANIUS_CRUISER">
+	<shipIcons>
+		<shipIcon>icon_threat</shipIcon>
+		<shipIcon>icon_no2</shipIcon>
+	</shipIcons>
+	<noFuelStalemate/>
+</mod-append:customShip>
+
+<mod-append:customShip name="FR_BOSS_QUEST_METAL_DIAMOND_CRUISER">
+	<shipIcons>
+		<shipIcon>icon_threat</shipIcon>
+		<shipIcon>icon_no2</shipIcon>
+	</shipIcons>
+	<noFuelStalemate/>
+</mod-append:customShip>
+
+<mod-append:customShip name="FR_BOSS_QUEST_OPERATOR_CRUISER">
+	<shipIcons>
+		<shipIcon>icon_threat</shipIcon>
+		<shipIcon>icon_no2</shipIcon>
+	</shipIcons>
+	<noFuelStalemate/>
+</mod-append:customShip>
+
+</mod:findLike>
+
+<!--
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+							EVENT FILES
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+ -->
+<events>
+    <eventFile>fr_special_fleshmaker</eventFile>
+</events>
+
+<!--
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+							ACHIEVEMENTS
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+ -->
+
+<mod:findLike type="achievements" limit="1">
+	<mod-append:page>
+		<section text="Forgotten Diamond Boons" hidden="false">
+			<achievement name="ACH_FR_BOON_DIAMOND">
+				<secretName>Boon of ???</secretName>
+				<secretDescription>Receive the Boon of ??? from Thest.</secretDescription>
+				<name>Boon of The Diamonds</name>
+				<description>Show an Diamond crew of any type to Thest. 
+				While in effect; Your metal diamond crew can phase through doors and gain 20% movement speed.</description>
+				<header>Boon Received</header>
+				<icon>fr_ach_boon_diamond</icon>
+				<lockImage>ach_locked</lockImage>
+				<multiDifficulty>false</multiDifficulty>
+			</achievement>
+			<achievement name="ACH_FR_BOON_OPERATOR">
+				<secretName>Boon of ???</secretName>
+				<secretDescription>Receive the Boon of ??? from Thest.</secretDescription>
+				<name>Boon of The Operators</name>
+				<description>Show an Operator crew of any type to Thest. 
+				While in effect; Your operators will now hack the doors of the room they are standing in while in enemy ships.</description>
+				<header>Boon Received</header>
+				<icon>fr_ach_boon_operator</icon>
+				<lockImage>ach_locked</lockImage>
+				<multiDifficulty>false</multiDifficulty>
+			</achievement>
+			<achievement name="ACH_FR_BOON_METAL_LANIUS">
+				<secretName>Boon of ???</secretName>
+				<secretDescription>Receive the Boon of ??? from Thest.</secretDescription>
+				<name>Boon of Alloys</name>
+				<description>Show a Metal Lanius crew to Thest. 
+				While in effect; All Metal Lanius Crew resist mind control can see adjacent rooms.</description>
+				<header>Boon Received</header>
+				<icon>fr_ach_boon_metal_lanius</icon>
+				<lockImage>ach_locked</lockImage>
+				<multiDifficulty>false</multiDifficulty>
+			</achievement>
+		</section>
+		<section text="Forgotten Diamond Blessings" hidden="false">
+			<achievement name="ACH_FR_BOON_GOLDEN">
+				<secretName>Blessing of ???</secretName>
+				<secretDescription>Receive the Blessing of ??? from Wakeson.</secretDescription>
+				<name>Blessing of Opulence</name>
+				<description>Show a golden weapon to Wakeson. 
+				While in effect; You gain 10% more scrap.</description>
+				<header>Blessing Received</header>
+				<icon>fr_ach_boon_golden</icon>
+				<lockImage>ach_locked</lockImage>
+				<multiDifficulty>false</multiDifficulty>
+			</achievement>
+			<achievement name="ACH_FR_BOON_COPPER">
+				<secretName>Blessing of ???</secretName>
+				<name>Blessing of Rusting</name>
+				<description>Show a copper drone to Wakeson. 
+				While in effect; Your combat drones are recovered after fights if not destroyed.</description>
+				<secretDescription>Receive the Blessing of ??? from Wakeson.</secretDescription>
+				<header>Blessing Received</header>
+				<icon>fr_ach_boon_copper</icon>
+				<lockImage>ach_locked</lockImage>
+				<multiDifficulty>false</multiDifficulty>
+			</achievement>
+			<achievement name="ACH_FR_BOON_ADAMANTINE">
+				<name>Blessing of Cloning</name>
+				<secretName>Blessing of ???</secretName>
+				<secretDescription>Receive the Blessing of ??? from Wakeson.</secretDescription>
+				<description>Show the fleshmaker to Wakeson. 
+				While in effect; Your crew won't lose skills from being cloned and all start with at least level 1 in all skills.</description>
+				<header>Blessing Received</header>
+				<icon>fr_ach_boon_adamantine</icon>
+				<lockImage>ach_locked</lockImage>
+				<multiDifficulty>false</multiDifficulty>
+			</achievement>
+		</section>
+		<section text="Forgotten Diamond Events" hidden="false">
+			<achievement name="ACH_FR_EVENT_DIAMOND">
+				<name>The Broken Eye</name>
+				<secretName>???</secretName>
+				<description>Kill the last operator inside the broken pyramid ship deep in rebel space.</description>
+				<secretDescription>Remove the last remaining crew inside the strange triangular ship.</secretDescription>
+				<icon>fr_ach_event_diamond</icon>
+				<lockImage>ach_locked</lockImage>
+			</achievement>
+			<achievement name="ACH_FR_EVENT_METAL">
+				<name>Formidable Ally</name>
+				<secretName>???</secretName>
+				<description>Rescue Sharlan and help him remove all the mutated lanius from his ship.</description>
+				<secretDescription>Rescue and help a strange lanius get their ship back.</secretDescription>
+				<icon>fr_ach_event_metal</icon>
+				<lockImage>ach_locked</lockImage>
+			</achievement>
+			<achievement name="ACH_FR_EVENT_OPERATOR_DEAL">
+				<name>For The Greater Good</name>
+				<secretName>???</secretName>
+				<description>Take the operator's deal.</description>
+				<secretDescription>Meet a strange copper ship deep in the rock Homeworlds and take the deal offered.</secretDescription>
+				<icon>fr_ach_event_operator_deal</icon>
+				<lockImage>ach_locked</lockImage>
+			</achievement>
+			<achievement name="ACH_FR_EVENT_DIAMOND_CREWKILL">
+				<name>Attachment Issues</name>
+				<secretName>???</secretName>
+				<description>Refuse the operator's deal and kill them instead.</description>
+				<secretDescription>Meet a strange copper ship deep in the rock Homeworlds and take the aggressive approach after refusing their deal.</secretDescription>
+				<icon>fr_ach_event_operator_crewkill</icon>
+				<lockImage>ach_locked</lockImage>
+			</achievement>
+		</section>
+		<section text="Forgotten Diamond Renegades" hidden="false">
+			<achievement name="ACH_FR_RENEGADE_GOLDEN_DIAMOND">
+				<name>Golden Glow</name>
+				<description>Defeat the Golden Diamond Renegade and get the golden flak gun.</description>
+				<secretDescription>Defeat the ??? Renegade and get its loot.</secretDescription>
+				<icon>fr_renegade_golden_diamond</icon>
+				<header>Renegade Defeated</header>
+				<lockImage>ach_locked</lockImage>
+			</achievement>
+		</section>
+	</mod-append:page>
+</mod:findLike>
+
+<!--
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+							REQUIREMENT LISTS
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+ -->
+ 
+<events>
+
+<variable name="forgorEnoughCrew" op="set" val="0"/>
+
+<metaVariable name="prof_r_boon_fr_metal_lanius" op="set" val="0"/>
+<metaVariable name="prof_r_boon_fr_golden" op="set" val="0"/>
+<metaVariable name="prof_r_boon_fr_copper" op="set" val="0"/>
+<metaVariable name="prof_r_boon_fr_adamantine" op="set" val="0"/>
+<metaVariable name="prof_r_boon_fr_diamond" op="set" val="0"/>
+<metaVariable name="prof_r_boon_fr_operator" op="set" val="0"/>
+
+<metaVariable name="ach_boss_fr_metaldiamondquest" op="set" val="0"/>
+<metaVariable name="ach_boss_fr_metallaniusquest" op="set" val="0"/>
+
+<metaVariable name="fleshmaker_scan_mayeb" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_tyerel" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_ivar" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_kazaaak" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_haynes" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_jerry" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_gunjerry" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_ponyjerry" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_crystaljerry" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_tully" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_devorak" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_turzil" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_shellalkali" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_ooj" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_nights" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_slocknog" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_Irwin" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_alkram" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_tyrdeo" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_freddy" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_dianesh" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_ariadne" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_ruwen" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_tuco" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_rockelder" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_beaconeater" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_anointed" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_dessius" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_vortigon" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_spiderqueen" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_sylvan" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_obyn" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_billy" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_guntput" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_metyunt" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_symbiote" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_tonysr" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_wither" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_crystalpony" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_cyberpony" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_venomousspider" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_vance" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_leah" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_mfkleah" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_cyra" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_thest" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_corby" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_wakeson" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_dylan" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_clansylvan" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_1dsylvan" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_gmansylvan" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_rebelsylvan" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_sanssylvan" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_maidsylvan" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_leahsylvan" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_ricksylvan" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_beanssylvan" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_primesylvan" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_papyrusobyn" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_gozer" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_eleanor" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_psych" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_scoleri" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_slimer" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_vinz" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_zuul" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_orkid" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_ellie" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_towr" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_thing" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_weakthing" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_gnome" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_bucket" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_celsylvan" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_celobyn" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_gmansylvan" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_pants" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_pants" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_ellie_lv1" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_ellie_lv2" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_ellie_lv3" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_ellie_lv4" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_ellie_lv5" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_ellie_lv6" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_stephan" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_anurak" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_humanoid" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_soldier" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_mfk" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_legion" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_pyrolegion" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_technician" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_angel" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_defender" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_peacekeeper" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_martyr" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_praetor" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_cultivator" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_suzerain" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_warlord" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_bishop" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_crusader" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_paladin" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_sentinel" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_radiant" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_ampere" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_saboteur" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_knight" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_alphaphantom" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_alphagoul" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_alphamare" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_alphawraith" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_tamedpony" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_welder" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_royalcognitive" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_royalobelisk" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_harpysiren" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_human" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_medic" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_engineer" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_rebel" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_medicrebel" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_engi" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_separatist" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_zoltan" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_monk" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_devotee" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_osmian" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_orchid" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_vampweed" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_shell" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_scientist" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_mechanic" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_guardian" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_mantis" op="set" val="0"/>
+<metaVariable name="fleshmaker_scaneemantis" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_rockman" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_outcast" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_commando" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_cultist" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_crystal" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_liberator" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_slug" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_hektar" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_clansman" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_leech" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_siren" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_phantom" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_goul" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_mare" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_wraith" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_orchid_caretaker" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_lanius" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_augmented" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_spider" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_pony" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_lizard" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_morph" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_technopath" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_malformed" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_cognitive" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_obelisk" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_commonwealth" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_golden_diamond" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_adamantine_diamond" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_copper_diamond" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_goldenoperator" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_adamantineoperator" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_copperoperator" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_avatarproto" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_experimentalcognitive" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_enhanced" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_withered" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_goldenlanius" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_copperlanius" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_adamantinelanius" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_mantisqueen" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_hauntslimer" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_hauntphys" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_hauntcleo" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_hauntvin" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_hauntzulu" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_hauntaleenor" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_hauntg" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_chaos_hauntsmoke" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_chaos_hauntchills" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_chaos_hauntpok" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_snowman" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_lavaman" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_chaos_hauntcharror" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_chaos_hauntleo" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_chaos_hauntsearak" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_watcher" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_aiavatar" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_errorman" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_augustus" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_legionleah" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_sally" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_prince" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_tririac" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_spherax" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_bilvan" op="set" val="0"/>
+
+
+ <!--diploma for the fleshmaker is ready-->
+ 
+<req name="FR_REQUIREMENT_BADGE_READY" type="all">
+    <req lvl="1" type="all">
+        <name>FR_FLESHMAKER_ALL_UNLOCKS</name>
+    </req>
+ 	<req lvl="0" max_lvl="0" type="all">
+		<name>prof_fr_badge_got</name>
+	</req>
+</req>
+
+ <!--morph-->
+
+<req name="FR_MORPH_DIAMOND_REQUIREMENT_MORPH_INTO" type="all">
+ 	<req lvl="1">
+		<name>FR_LIST_CREW_DIAMOND</name>
+	</req>
+    <name>blob</name>
+</req>
+
+<req name="FR_MORPH_OPERATOR_REQUIREMENT_MORPH_INTO" type="all">
+ 	<req lvl="1">
+		<name>FR_BLUELIST_OPERATORS</name>
+	</req>
+    <name>techno</name>
+</req>
+
+ <!--crew + sacrifice check-->
+
+
+<req name="FR_LIST_DIAMOND_SACRIFICE_1" type="all">
+    <name>FR_LIST_CREW_DIAMOND</name>
+	<name>FR_DIAMOND_SACRIFICE_1</name>
+ 	<req lvl="0" max_lvl="0">
+		<name>FR_DIAMOND_SACRIFICE_2</name>
+	</req>
+</req>
+<req name="FR_LIST_DIAMOND_SACRIFICE_HALF" type="all">
+	<name>FR_DIAMOND_SACRIFICE_1</name>
+ 	<req lvl="0" max_lvl="0">
+		<name>FR_LIST_CREW_DIAMOND</name>
+		<name>FR_DIAMOND_SACRIFICE_2</name>
+	</req>
+</req>
+<req name="FR_LIST_DIAMOND_SACRIFICE_0" type="all">
+    <name>FR_LIST_CREW_DIAMOND</name>
+ 	<req lvl="0" max_lvl="0">
+		<name>FR_DIAMOND_SACRIFICE_1</name>
+		<name>FR_DIAMOND_SACRIFICE_2</name>
+	</req>
+</req>
+
+<req name="FR_LIST_OPERATORS_SACRIFICE_1" type="all">
+    <name>FR_BLUELIST_OPERATORS</name>
+	<name>FR_OPERATOR_SACRIFICE_1</name>
+ 	<req lvl="0" max_lvl="0">
+		<name>FR_OPERATOR_SACRIFICE_2</name>
+	</req>
+</req>
+<req name="FR_LIST_OPERATORS_SACRIFICE_HALF" type="all">
+	<name>FR_OPERATOR_SACRIFICE_1</name>
+ 	<req lvl="0" max_lvl="0">
+		<name>FR_BLUELIST_OPERATORS</name>
+		<name>FR_OPERATOR_SACRIFICE_2</name>
+	</req>
+</req>
+<req name="FR_LIST_OPERATORS_SACRIFICE_0" type="all">
+    <name>FR_BLUELIST_OPERATORS</name>
+ 	<req lvl="0" max_lvl="0">
+		<name>FR_OPERATOR_SACRIFICE_1</name>
+		<name>FR_OPERATOR_SACRIFICE_2</name>
+	</req>
+</req>
+ 
+ <!--uniques-->
+
+<req name="FR_FLESHMAKER_MAYEB_LIST" type="all">
+    <name>unique_mayeb</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_mayeb</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_TYEREL_LIST" type="all">
+    <name>unique_tyerel</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_tyerel</name>
+    </req>
+</req>
+
+ <req name="FR_FLESHMAKER_IVAR_LIST" type="all">
+    <name>unique_ivar</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_ivar</name>
+    </req>
+</req>
+ 
+<req name="FR_FLESHMAKER_KAZAAAK_LIST" type="all">
+    <name>unique_kaz</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_kazaaak</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_HAYNES_LIST" type="all">
+    <name>unique_haynes</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_haynes</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_JERRY_LIST" type="all">
+    <name>unique_jerry</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_jerry</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_GUNJERRY_LIST" type="all">
+    <name>unique_jerry_gun</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_gunjerry</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_PONYJERRY_LIST" type="all">
+    <name>unique_jerry_pony</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_ponyjerry</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_CRYSTALJERRY_LIST" type="all">
+    <name>unique_jerry_pony_crystal</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_crystaljerry</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_TULLY_LIST" type="all">
+    <name>unique_tully</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_tully</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_DEVORAK_LIST" type="all">
+    <name>unique_devorak</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_devorak</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_TURZIL_LIST" type="all">
+    <name>unique_turzil</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_turzil</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_SHELLALKALI_LIST" type="all">
+    <name>unique_alkali</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_shellalkali</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_OOJ_LIST" type="all">
+    <name>unique_ooj</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_ooj</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_NIGHTS_LIST" type="all">
+    <name>unique_nights</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_nights</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_SLOCKNOG_LIST" type="all">
+    <name>unique_slocknog</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_slocknog</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_IRWIN_LIST" type="all">
+    <name>unique_irwin</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_Irwin</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ALKRAM_LIST" type="all">
+    <name>unique_alkram</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_alkram</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_TYRDEO_LIST" type="all">
+    <name>unique_tyrdeo</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_tyrdeo</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_FREDDY_LIST" type="all">
+	<req type="any">
+		<name>LIST_CREW_FREDDY</name>
+	</req>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_freddy</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_DIANESH_LIST" type="all">
+    <name>unique_dianesh</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_dianesh</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ARIADNE_LIST" type="all">
+    <name>unique_ariadne</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_ariadne</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_RUWEN_LIST" type="all">
+    <name>unique_ruwen</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_ruwen</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_TUCO_LIST" type="all">
+    <name>unique_tuco</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_tuco</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ROCKELDER_LIST" type="all">
+    <name>rock_elder</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_rockelder</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_BEACONEATER_LIST" type="all">
+    <name>unique_eater</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_beaconeater</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ANOINTED_LIST" type="all">
+    <name>unique_anointed</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_anointed</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_DESSIUS_LIST" type="all">
+    <name>unique_dessius</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_dessius</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_VORTIGON_LIST" type="all">
+    <name>unique_vortigon</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_vortigon</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_SPIDERQUEEN_LIST" type="all">
+    <name>unique_queen</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_spiderqueen</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_SYLVAN_LIST" type="all">
+    <name>unique_sylvan</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_sylvan</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_OBYN_LIST" type="all">
+	<req type="any">
+		<name>unique_obyn</name>
+		<name>unique_obyn_temp</name>
+	</req>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_obyn</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_BILLY_LIST" type="all">
+    <name>unique_billy</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_billy</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_GUNTPUT_LIST" type="all">
+    <name>unique_guntput</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_guntput</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_METYUNT_LIST" type="all">
+    <name>unique_metyunt</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_metyunt</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_SYMBIOTE_LIST" type="all">
+    <name>unique_symbiote</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_symbiote</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_TONYSR_LIST" type="all">
+    <name>unique_tonysr</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_tonysr</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_WITHER_LIST" type="all">
+    <name>unique_wither</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_wither</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_CRYSTALPONY_LIST" type="all">
+    <name>ponyc</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_crystalpony</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_CYBERPONY_LIST" type="all">
+	<req type="any">
+		<name>pony_engi</name>
+		<name>pony_engi_chaos</name>
+		<name>pony_engi_nano</name>
+		<name>pony_engi_nano_chaos</name>
+	</req>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_cyberpony</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_VENOMOUSSPIDER_LIST" type="all">
+	<req type="any">
+		<name>spider_venom</name>
+		<name>spider_venom_chaos/</name>
+	</req>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_venomousspider</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_VANCE_LIST" type="all">
+    <name>unique_vance</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_vance</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_LEAH_LIST" type="all">
+    <name>unique_leah</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_leah</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_MFKLEAH_LIST" type="all">
+    <name>unique_leah_mfk</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_mfkleah</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_CYRA_LIST" type="all">
+    <name>unique_cyra</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_cyra</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_THEST_LIST" type="all">
+    <name>unique_judge_thest</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_thest</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_CORBY_LIST" type="all">
+    <name>unique_judge_corby</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_corby</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_WAKESON_LIST" type="all">
+    <name>unique_judge_wakeson</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_wakeson</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_DYLAN_LIST" type="all">
+    <name>dylan</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_dylan</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_CLANSYLVAN_LIST" type="all">
+    <name>sylvanclan</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_clansylvan</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_1DSYLVAN_LIST" type="all">
+    <name>sylvan1d</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_1dsylvan</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_GMANSYLVAN_LIST" type="all">
+    <name>nexus_sylvan_gman</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_gmansylvan</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_REBELSYLVAN_LIST" type="all">
+    <name>sylvanrebel</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_rebelsylvan</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_SANSSYLVAN_LIST" type="all">
+    <name>sylvansans</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_sanssylvan</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_MAIDSYLVAN_LIST" type="all">
+    <name>sylvanmaid</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_maidsylvan</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_LEAHSYLVAN_LIST" type="all">
+    <name>sylvanleah</name>
+    <req max_lvl="0">
+        <name>fleshmaker_sc
+			an_leahsylvan</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_RICKSYLVAN_LIST" type="all">
+    <name>sylvanrick</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_ricksylvan</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_BEANSSYLVAN_LIST" type="all">
+    <name>beans</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_beanssylvan</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_PRIMESYLVAN_LIST" type="all">
+    <name>prime</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_primesylvan</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_PAPYRUSOBYN_LIST" type="all">
+    <name>saltpapy</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_papyrusobyn</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_GOZER_LIST" type="all">
+    <name>fr_gozer</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_gozer</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ELEANOR_LIST" type="all">
+    <name>gbeleanor</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_eleanor</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_PSYCH_LIST" type="all">
+    <name>gbpsych</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_psych</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_SCOLERI_LIST" type="all">
+    <name>gbscoleri</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_scoleri</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_SLIMER_LIST" type="all">
+    <name>gbslimer</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_slimer</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_VINZ_LIST" type="all">
+    <name>gbvinz</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_vinz</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ZUUL_LIST" type="all">
+    <name>gbzuul</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_zuul</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ORKID_LIST" type="all">
+    <name>blobswarm</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_orkid</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ELLIE_LIST" type="all">
+    <name>unique_ellie</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_ellie</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_TOWR_LIST" type="all">
+    <name>eldritch_cat</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_towr</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_THING_LIST" type="all">
+    <name>eldritch_thing</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_thing</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_WEAKTHING_LIST" type="all">
+    <name>eldritch_thing_weak</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_weakthing</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_GNOME_LIST" type="all">
+    <name>gnome</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_gnome</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_BUCKET_LIST" type="all">
+    <name>bucket</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_bucket</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_CELSYLVAN_LIST" type="all">
+	<req type="any">
+		<name>nexus_sylvan_cel</name>
+		<name>fr_sylvan_cel</name>
+	</req>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_celsylvan</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_CELOBYN_LIST" type="all">
+	<req type="any">
+		<name>nexus_obyn_cel</name>
+		<name>fr_obyn_cel</name>
+	</req>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_celobyn</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_GMANSYLVAN_LIST" type="all">
+    <name>nexus_sylvan_gman</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_gmansylvan</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_PANTS_LIST" type="all">
+    <name>nexus_pants</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_pants</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_PANTS_LIST" type="all">
+    <name>nexus_pants</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_pants</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ELLIE_LV1_LIST" type="all">
+    <name>unique_ellie_lvl1</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_ellie_lv1</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ELLIE_LV2_LIST" type="all">
+    <name>unique_ellie_lvl2</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_ellie_lv2</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ELLIE_LV3_LIST" type="all">
+    <name>unique_ellie_lvl3</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_ellie_lv3</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ELLIE_LV4_LIST" type="all">
+    <name>unique_ellie_lvl4</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_ellie_lv4</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ELLIE_LV5_LIST" type="all">
+    <name>unique_ellie_lvl5</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_ellie_lv5</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ELLIE_LV6_LIST" type="all">
+    <name>unique_ellie_lvl6</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_ellie_lv6</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_STEPHAN_LIST" type="all">
+    <name>unique_ellie_stephan</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_stephan</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ANURAK_LIST" type="all">
+    <name>unique_anurak</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_anurak</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_HUMANOID_LIST" type="all">
+    <name>human_humanoid</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_humanoid</name>
+    </req>
+</req>
+
+ <!--elites-->
+ 
+<req name="FR_FLESHMAKER_SOLDIER_LIST" type="all">
+    <name>human_soldier</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_soldier</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_MFK_LIST" type="all">
+    <name>human_mfk</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_mfk</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_LEGION_LIST" type="all">
+    <name>human_legion</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_legion</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_PYROLEGION_LIST" type="all">
+    <name>human_legion_pyro</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_pyrolegion</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_TECHNICIAN_LIST" type="all">
+    <name>human_technician</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_technician</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ANGEL_LIST" type="all">
+    <name>human_angel</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_angel</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_DEFENDER_LIST" type="all">
+    <name>engi_defender</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_defender</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_PEACEKEEPER_LIST" type="all">
+    <name>zoltan_peacekeeper</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_peacekeeper</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_MARTYR_LIST" type="all">
+    <name>zoltan_martyr</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_martyr</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_PRAETOR_LIST" type="all">
+    <name>orchid_praetor</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_praetor</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_CULTIVATOR_LIST" type="all">
+    <name>orchid_cultivator</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_cultivator</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_SUZERAIN_LIST" type="all">
+    <name>mantis_suzerain</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_suzerain</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_WARLORD_LIST" type="all">
+    <name>mantis_warlord</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_warlord</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_BISHOP_LIST" type="all">
+    <name>mantis_bishop</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_bishop</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_CRUSADER_LIST" type="all">
+    <name>rock_crusader</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_crusader</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_PALADIN_LIST" type="all">
+    <name>rock_paladin</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_paladin</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_SENTINEL_LIST" type="all">
+    <name>crystal_sentinel</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_sentinel</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_RADIANT_LIST" type="all">
+    <name>shell_radiant</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_radiant</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_AMPERE_LIST" type="all">
+    <name>leech_ampere</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_ampere</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_SABOTEUR_LIST" type="all">
+    <name>slug_saboteur</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_saboteur</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_KNIGHT_LIST" type="all">
+    <name>slug_knight</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_knight</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ALPHAPHANTOM_LIST" type="all">
+    <name>phantom_alpha</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_alphaphantom</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ALPHAGOUL_LIST" type="all">
+    <name>phantom_goul_alpha</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_alphagoul</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ALPHAMARE_LIST" type="all">
+    <name>phantom_mare_alpha</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_alphamare</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ALPHAWRAITH_LIST" type="all">
+    <name>phantom_wraith_alpha</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_alphawraith</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_TAMEDPONY_LIST" type="all">
+    <name>pony_tamed</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_tamedpony</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_WELDER_LIST" type="all">
+    <name>lanius_welder</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_welder</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ROYALCOGNITIVE_LIST" type="all">
+    <name>cognitive_advanced</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_royalcognitive</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ROYALOBELISK_LIST" type="all">
+    <name>obelisk_royal</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_royalobelisk</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_HARPYSIREN_LIST" type="all">
+    <name>siren_harpy</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_harpysiren</name>
+    </req>
+</req>
+
+ <!--generics-->
+
+<req name="FR_FLESHMAKER_HUMAN_LIST" type="all">
+    <name>human</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_human</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_MEDIC_LIST" type="all">
+    <name>human_medic</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_medic</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ENGINEER_LIST" type="all">
+    <name>human_engineer</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_engineer</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_REBEL_LIST" type="all">
+    <name>human_rebel</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_rebel</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_MEDICREBEL_LIST" type="all">
+    <name>human_rebel_medic</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_medicrebel</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ENGI_LIST" type="all">
+    <name>engi</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_engi</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_SEPARATIST_LIST" type="all">
+    <name>engi_separatist</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_separatist</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ZOLTAN_LIST" type="all">
+    <name>zoltan</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_zoltan</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_MONK_LIST" type="all">
+    <name>zoltan_monk</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_monk</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_DEVOTEE_LIST" type="all">
+    <name>zoltan_devotee</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_devotee</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_OSMIAN_LIST" type="all">
+    <name>zoltan_osmian</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_osmian</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ORCHID_LIST" type="all">
+    <name>orchid</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_orchid</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_VAMPWEED_LIST" type="all">
+    <name>orchid_vampweed</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_vampweed</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_SHELL_LIST" type="all">
+    <name>shell</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_shell</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_SCIENTIST_LIST" type="all">
+    <name>shell_scientist</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_scientist</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_MECHANIC_LIST" type="all">
+    <name>shell_mechanic</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_mechanic</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_GUARDIAN_LIST" type="all">
+    <name>shell_guardian</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_guardian</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ORCHID_CARETAKER_LIST" type="all">
+    <name>orchid_caretaker</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_orchid_caretaker</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_MANTIS_LIST" type="all">
+    <name>mantis</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_mantis</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_FREEMANTIS_LIST" type="all">
+    <name>mantis_free</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scaneemantis</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ROCKMAN_LIST" type="all">
+    <name>rock</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_rockman</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_OUTCAST_LIST" type="all">
+    <name>rock_outcast</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_outcast</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_COMMANDO_LIST" type="all">
+    <name>rock_commando</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_commando</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_CULTIST_LIST" type="all">
+    <name>rock_cultist</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_cultist</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_CRYSTAL_LIST" type="all">
+    <name>crystal</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_crystal</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_LIBERATOR_LIST" type="all">
+    <name>crystal_liberator</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_liberator</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_SLUG_LIST" type="all">
+    <name>slug</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_slug</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_HEKTAR_LIST" type="all">
+    <name>slug_hektar</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_hektar</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_CLANSMAN_LIST" type="all">
+    <name>slug_clansman</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_clansman</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_LEECH_LIST" type="all">
+    <name>leech</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_leech</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_SIREN_LIST" type="all">
+    <name>siren</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_siren</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_PHANTOM_LIST" type="all">
+    <name>phantom</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_phantom</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_GOUL_LIST" type="all">
+    <name>phantom_goul</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_goul</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_MARE_LIST" type="all">
+    <name>phantom_mare</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_mare</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_WRAITH_LIST" type="all">
+    <name>phantom_wraith</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_wraith</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_LANIUS_LIST" type="all">
+    <name>lanius</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_lanius</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_AUGMENTED_LIST" type="all">
+    <name>lanius_augmented</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_augmented</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_SPIDER_LIST" type="all">
+    <name>spider</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_spider</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_PONY_LIST" type="all">
+    <name>pony</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_pony</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_LIZARD_LIST" type="all">
+    <name>lizard</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_lizard</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_MORPH_LIST" type="all">
+    <name>blob</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_morph</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_TECHNOPATH_LIST" type="all">
+    <name>techno</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_technopath</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_MALFORMED_LIST" type="all">
+    <name>gold</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_malformed</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_COGNITIVE_LIST" type="all">
+    <name>cognitive</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_cognitive</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_OBELISK_LIST" type="all">
+    <name>obelisk</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_obelisk</name>
+    </req>
+</req>
+
+ <!--specials-->
+
+<req name="FR_FLESHMAKER_COMMONWEALTH_LIST" type="all">
+    <name>fr_commonwealth</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_commonwealth</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_GOLDENDIAMOND_LIST" type="all">
+    <name>fr_golden_diamond</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_golden_diamond</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ADAMANTINEDIAMOND_LIST" type="all">
+    <name>fr_adamantine_diamond</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_adamantine_diamond</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_COPPERDIAMOND_LIST" type="all">
+    <name>fr_copper_diamond</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_copper_diamond</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_GOLDENOPERATOR_LIST" type="all">
+    <name>fr_golden_operator</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_goldenoperator</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ADAMANTINEOPERATOR_LIST" type="all">
+    <name>fr_adamantine_operator</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_adamantineoperator</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_COPPEROPERATOR_LIST" type="all">
+    <name>fr_copper_operator</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_copperoperator</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_AVATARPROTO_LIST" type="all">
+    <name>fr_proto_cognitive</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_avatarproto</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_EXPERIMENTALCOGNITIVE_LIST" type="all">
+    <name>fr_experimental_cognitive</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_experimentalcognitive</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ENHANCED_LIST" type="all">
+    <name>fr_enhanced</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_enhanced</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_WITHERED_LIST" type="all">
+    <name>fr_withered</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_withered</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_GOLDENLANIUS_LIST" type="all">
+    <name>fr_golden_lanius_1</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_goldenlanius</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_COPPERLANIUS_LIST" type="all">
+    <name>fr_copper_lanius</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_copperlanius</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ADAMANTINELANIUS_LIST" type="all">
+    <name>fr_adamantine_lanius</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_adamantinelanius</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_MANTISQUEEN_LIST" type="all">
+    <name>fr_unique_mantis_queen</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_mantisqueen</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_HAUNTSLIMER_LIST" type="all">
+    <name>fr_reborn_slimer</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_hauntslimer</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_HAUNTPHYS_LIST" type="all">
+    <name>fr_reborn_phys</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_hauntphys</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_HAUNTCLEO_LIST" type="all">
+    <name>fr_reborn_cleo</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_hauntcleo</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_HAUNTVIN_LIST" type="all">
+    <name>fr_reborn_vin</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_hauntvin</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_HAUNTZULU_LIST" type="all">
+    <name>fr_reborn_zulu</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_hauntzulu</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_HAUNTALEENOR_LIST" type="all">
+    <name>fr_reborn_aleenor</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_hauntaleenor</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_HAUNTG_LIST" type="all">
+    <name>fr_reborn_g</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_hauntg</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_CHAOS_HAUNTSMOKE_LIST" type="all">
+    <name>fr_reformed_smoke</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_chaos_hauntsmoke</name>
+    </req>
+</req>
+<req name="FR_FLESHMAKER_CHAOS_HAUNTCHILLS_LIST" type="all">
+    <name>fr_reformed_chills</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_chaos_hauntchills</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_CHAOS_HAUNTPOK_LIST" type="all">
+    <name>FR_MORPH_HAUNT_ALL</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_chaos_hauntpok</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_SNOWMAN_LIST" type="all">
+    <name>fr_snowman_smart</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_snowman</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_LAVAMAN_LIST" type="all">
+    <name>fr_lavaman</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_lavaman</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_CHAOS_HAUNTCHARROR_LIST" type="all">
+    <name>fr_reformed_charror</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_chaos_hauntcharror</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_CHAOS_HAUNTLEO_LIST" type="all">
+    <name>fr_reformed_leo</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_chaos_hauntleo</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_CHAOS_HAUNTSEARAK_LIST" type="all">
+    <name>fr_reformed_searak</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_chaos_hauntsearak</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_WATCHER_LIST" type="all">
+    <name>fr_watcher</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_watcher</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_AUGUSTUS_LIST" type="all">
+    <name>fr_bonus_augustus</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_augustus</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_SALLY_LIST" type="all">
+    <name>FR_LIST_CREW_SALLY</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_sally</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_AIAVATAR_LIST" type="all">
+    <name>fr_CE_avatar</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_aiavatar</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ERRORMAN_LIST" type="all">
+    <name>fr_errorman</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_errorman</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_LEGIONLEAH_LIST" type="all">
+    <name>fr_unique_leah_legion</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_legionleah</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_TRIRIAC_LIST" type="all">
+    <name>fr_bonus_tririac</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_tririac</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_PRINCE_LIST" type="all">
+    <name>fr_bonus_prince</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_prince</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_SPHERAX_LIST" type="all">
+    <name>fr_spherax</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_spherax</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_BILLVAN_LIST" type="all">
+    <name>FR_LIST_CREW_BILLVAN</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_bilvan</name>
+    </req>
+</req>
+ 
+
+ <!--Fleshmaker Acheevo-->
+ 
+<req name="FR_FLESHMAKER_ALL_UNLOCKS" type="all">
+	<name>fleshmaker_scan_bilvan</name>
+	<name>fleshmaker_scan_spherax</name>
+	<name>fleshmaker_scan_tririac</name>
+	<name>fleshmaker_scan_prince</name>
+	<name>fleshmaker_scan_sally</name>
+	<name>fleshmaker_scan_mayeb</name>
+	<name>fleshmaker_scan_tyerel</name>
+	<name>fleshmaker_scan_ivar</name>
+	<name>fleshmaker_scan_kazaaak</name>
+	<name>fleshmaker_scan_haynes</name>
+	<name>fleshmaker_scan_jerry</name>
+	<name>fleshmaker_scan_gunjerry</name>
+	<name>fleshmaker_scan_ponyjerry</name>
+	<name>fleshmaker_scan_crystaljerry</name>
+	<name>fleshmaker_scan_tully</name>
+	<name>fleshmaker_scan_devorak</name>
+	<name>fleshmaker_scan_turzil</name>
+	<name>fleshmaker_scan_shellalkali</name>
+	<name>fleshmaker_scan_ooj</name>
+	<name>fleshmaker_scan_nights</name>
+	<name>fleshmaker_scan_slocknog</name>
+	<name>fleshmaker_scan_Irwin</name>
+	<name>fleshmaker_scan_alkram</name>
+	<name>fleshmaker_scan_tyrdeo</name>
+	<name>fleshmaker_scan_freddy</name>
+	<name>fleshmaker_scan_dianesh</name>
+	<name>fleshmaker_scan_ariadne</name>
+	<name>fleshmaker_scan_ruwen</name>
+	<name>fleshmaker_scan_tuco</name>
+	<name>fleshmaker_scan_rockelder</name>
+	<name>fleshmaker_scan_beaconeater</name>
+	<name>fleshmaker_scan_anointed</name>
+	<name>fleshmaker_scan_dessius</name>
+	<name>fleshmaker_scan_vortigon</name>
+	<name>fleshmaker_scan_spiderqueen</name>
+	<name>fleshmaker_scan_sylvan</name>
+	<name>fleshmaker_scan_obyn</name>
+	<name>fleshmaker_scan_billy</name>
+	<name>fleshmaker_scan_guntput</name>
+	<name>fleshmaker_scan_metyunt</name>
+	<name>fleshmaker_scan_symbiote</name>
+	<name>fleshmaker_scan_tonysr</name>
+	<name>fleshmaker_scan_wither</name>
+	<name>fleshmaker_scan_crystalpony</name>
+	<name>fleshmaker_scan_cyberpony</name>
+	<name>fleshmaker_scan_venomousspider</name>
+	<name>fleshmaker_scan_vance</name>
+	<name>fleshmaker_scan_leah</name>
+	<name>fleshmaker_scan_mfkleah</name>
+	<name>fleshmaker_scan_cyra</name>
+	<name>fleshmaker_scan_thest</name>
+	<name>fleshmaker_scan_corby</name>
+	<name>fleshmaker_scan_wakeson</name>
+	<name>fleshmaker_scan_dylan</name>
+	<name>fleshmaker_scan_clansylvan</name>
+	<name>fleshmaker_scan_1dsylvan</name>
+	<name>fleshmaker_scan_gmansylvan</name>
+	<name>fleshmaker_scan_rebelsylvan</name>
+	<name>fleshmaker_scan_sanssylvan</name>
+	<name>fleshmaker_scan_maidsylvan</name>
+	<name>fleshmaker_scan_leahsylvan</name>
+	<name>fleshmaker_scan_ricksylvan</name>
+	<name>fleshmaker_scan_beanssylvan</name>
+	<name>fleshmaker_scan_primesylvan</name>
+	<name>fleshmaker_scan_papyrusobyn</name>
+	<name>fleshmaker_scan_gozer</name>
+	<name>fleshmaker_scan_eleanor</name>
+	<name>fleshmaker_scan_psych</name>
+	<name>fleshmaker_scan_scoleri</name>
+	<name>fleshmaker_scan_slimer</name>
+	<name>fleshmaker_scan_vinz</name>
+	<name>fleshmaker_scan_zuul</name>
+	<name>fleshmaker_scan_orkid</name>
+	<name>fleshmaker_scan_ellie</name>
+	<name>fleshmaker_scan_towr</name>
+	<name>fleshmaker_scan_thing</name>
+	<name>fleshmaker_scan_weakthing</name>
+	<name>fleshmaker_scan_gnome</name>
+	<name>fleshmaker_scan_bucket</name>
+	<name>fleshmaker_scan_celsylvan</name>
+	<name>fleshmaker_scan_celobyn</name>
+	<name>fleshmaker_scan_gmansylvan</name>
+	<name>fleshmaker_scan_pants</name>
+	<name>fleshmaker_scan_pants</name>
+	<name>fleshmaker_scan_ellie_lv1</name>
+	<name>fleshmaker_scan_ellie_lv2</name>
+	<name>fleshmaker_scan_ellie_lv3</name>
+	<name>fleshmaker_scan_ellie_lv4</name>
+	<name>fleshmaker_scan_ellie_lv5</name>
+	<name>fleshmaker_scan_ellie_lv6</name>
+	<name>fleshmaker_scan_stephan</name>
+	<name>fleshmaker_scan_anurak</name>
+	<name>fleshmaker_scan_humanoid</name>
+	<name>fleshmaker_scan_soldier</name>
+	<name>fleshmaker_scan_mfk</name>
+	<name>fleshmaker_scan_legion</name>
+	<name>fleshmaker_scan_pyrolegion</name>
+	<name>fleshmaker_scan_technician</name>
+	<name>fleshmaker_scan_angel</name>
+	<name>fleshmaker_scan_defender</name>
+	<name>fleshmaker_scan_peacekeeper</name>
+	<name>fleshmaker_scan_martyr</name>
+	<name>fleshmaker_scan_praetor</name>
+	<name>fleshmaker_scan_cultivator</name>
+	<name>fleshmaker_scan_suzerain</name>
+	<name>fleshmaker_scan_warlord</name>
+	<name>fleshmaker_scan_bishop</name>
+	<name>fleshmaker_scan_crusader</name>
+	<name>fleshmaker_scan_paladin</name>
+	<name>fleshmaker_scan_sentinel</name>
+	<name>fleshmaker_scan_radiant</name>
+	<name>fleshmaker_scan_ampere</name>
+	<name>fleshmaker_scan_saboteur</name>
+	<name>fleshmaker_scan_knight</name>
+	<name>fleshmaker_scan_alphaphantom</name>
+	<name>fleshmaker_scan_alphagoul</name>
+	<name>fleshmaker_scan_alphamare</name>
+	<name>fleshmaker_scan_alphawraith</name>
+	<name>fleshmaker_scan_tamedpony</name>
+	<name>fleshmaker_scan_welder</name>
+	<name>fleshmaker_scan_royalcognitive</name>
+	<name>fleshmaker_scan_royalobelisk</name>
+	<name>fleshmaker_scan_harpysiren</name>
+	<name>fleshmaker_scan_human</name>
+	<name>fleshmaker_scan_medic</name>
+	<name>fleshmaker_scan_engineer</name>
+	<name>fleshmaker_scan_rebel</name>
+	<name>fleshmaker_scan_medicrebel</name>
+	<name>fleshmaker_scan_engi</name>
+	<name>fleshmaker_scan_separatist</name>
+	<name>fleshmaker_scan_zoltan</name>
+	<name>fleshmaker_scan_monk</name>
+	<name>fleshmaker_scan_devotee</name>
+	<name>fleshmaker_scan_osmian</name>
+	<name>fleshmaker_scan_orchid</name>
+	<name>fleshmaker_scan_vampweed</name>
+	<name>fleshmaker_scan_shell</name>
+	<name>fleshmaker_scan_scientist</name>
+	<name>fleshmaker_scan_mechanic</name>
+	<name>fleshmaker_scan_guardian</name>
+	<name>fleshmaker_scan_mantis</name>
+	<name>fleshmaker_scaneemantis</name>
+	<name>fleshmaker_scan_rockman</name>
+	<name>fleshmaker_scan_outcast</name>
+	<name>fleshmaker_scan_commando</name>
+	<name>fleshmaker_scan_cultist</name>
+	<name>fleshmaker_scan_crystal</name>
+	<name>fleshmaker_scan_liberator</name>
+	<name>fleshmaker_scan_slug</name>
+	<name>fleshmaker_scan_hektar</name>
+	<name>fleshmaker_scan_clansman</name>
+	<name>fleshmaker_scan_leech</name>
+	<name>fleshmaker_scan_siren</name>
+	<name>fleshmaker_scan_phantom</name>
+	<name>fleshmaker_scan_goul</name>
+	<name>fleshmaker_scan_mare</name>
+	<name>fleshmaker_scan_wraith</name>
+	<name>fleshmaker_scan_orchid_caretaker</name>
+	<name>fleshmaker_scan_lanius</name>
+	<name>fleshmaker_scan_augmented</name>
+	<name>fleshmaker_scan_spider</name>
+	<name>fleshmaker_scan_pony</name>
+	<name>fleshmaker_scan_lizard</name>
+	<name>fleshmaker_scan_morph</name>
+	<name>fleshmaker_scan_technopath</name>
+	<name>fleshmaker_scan_malformed</name>
+	<name>fleshmaker_scan_cognitive</name>
+	<name>fleshmaker_scan_obelisk</name>
+	<name>fleshmaker_scan_commonwealth</name>
+	<name>fleshmaker_scan_golden_diamond</name>
+	<name>fleshmaker_scan_adamantine_diamond</name>
+	<name>fleshmaker_scan_copper_diamond</name>
+	<name>fleshmaker_scan_goldenoperator</name>
+	<name>fleshmaker_scan_adamantineoperator</name>
+	<name>fleshmaker_scan_copperoperator</name>
+	<name>fleshmaker_scan_avatarproto</name>
+	<name>fleshmaker_scan_experimentalcognitive</name>
+	<name>fleshmaker_scan_enhanced</name>
+	<name>fleshmaker_scan_withered</name>
+	<name>fleshmaker_scan_goldenlanius</name>
+	<name>fleshmaker_scan_copperlanius</name>
+	<name>fleshmaker_scan_adamantinelanius</name>
+	<name>fleshmaker_scan_mantisqueen</name>
+	<name>fleshmaker_scan_hauntslimer</name>
+	<name>fleshmaker_scan_hauntphys</name>
+	<name>fleshmaker_scan_hauntcleo</name>
+	<name>fleshmaker_scan_hauntvin</name>
+	<name>fleshmaker_scan_hauntzulu</name>
+	<name>fleshmaker_scan_hauntaleenor</name>
+	<name>fleshmaker_scan_hauntg</name>
+	<name>fleshmaker_scan_chaos_hauntsmoke</name>
+	<name>fleshmaker_scan_chaos_hauntchills</name>
+	<name>fleshmaker_scan_chaos_hauntpok</name>
+	<name>fleshmaker_scan_snowman</name>
+	<name>fleshmaker_scan_lavaman</name>
+	<name>fleshmaker_scan_chaos_hauntcharror</name>
+	<name>fleshmaker_scan_chaos_hauntleo</name>
+	<name>fleshmaker_scan_chaos_hauntsearak</name>
+	<name>fleshmaker_scan_watcher</name>
+	<name>fleshmaker_scan_aiavatar</name>
+	<name>fleshmaker_scan_errorman</name>
+	<name>fleshmaker_scan_augustus</name>
+	<name>fleshmaker_scan_legionleah</name>
+</req>
+
+ <!--LAB EVENTS-->
+
+<event name="FR_INSTALL_LAB_DIAMOND_FISTITUDE">
+    <hiddenAug>FR_LAB_DIAMOND_FISTITUTE</hiddenAug>
+	<hiddenAug>FR_LAB_DIAMOND_INSTALLED</hiddenAug>
+	<loadEvent>STORAGE_CHECK_LAB_FR_DIAMOND</loadEvent>
+</event>
+<event name="FR_INSTALL_LAB_DIAMOND_SYSTEMIC">
+    <hiddenAug>FR_LAB_DIAMOND_SYSTEMIC</hiddenAug>
+	<hiddenAug>FR_LAB_DIAMOND_INSTALLED</hiddenAug>
+	<loadEvent>STORAGE_CHECK_LAB_FR_DIAMOND</loadEvent>
+</event>
+<event name="FR_INSTALL_LAB_DIAMOND_NOXIOUS">
+    <hiddenAug>FR_LAB_DIAMOND_NOXIOUS</hiddenAug>
+	<hiddenAug>FR_LAB_DIAMOND_INSTALLED</hiddenAug>
+	<loadEvent>STORAGE_CHECK_LAB_FR_DIAMOND</loadEvent>
+</event>
+
+<event name="FR_INSTALL_LAB_OPERATOR_PACIFISM_PROTOCOLS">
+    <hiddenAug>FR_LAB_OPERATOR_PACIFISM_PROTOCOLS</hiddenAug>
+	<hiddenAug>FR_LAB_OPERATOR_INSTALLED</hiddenAug>
+	<loadEvent>STORAGE_CHECK_LAB_FR_OPERATOR</loadEvent>
+</event>
+<event name="FR_INSTALL_LAB_OPERATOR_BIO_PROTOCOLS">
+    <hiddenAug>FR_LAB_OPERATOR_BIO_PROTOCOLS</hiddenAug>
+	<hiddenAug>FR_LAB_OPERATOR_INSTALLED</hiddenAug>
+	<loadEvent>STORAGE_CHECK_LAB_FR_OPERATOR</loadEvent>
+</event>
+<event name="FR_INSTALL_LAB_OPERATOR_BEACON_PROTOCOLS">
+    <hiddenAug>FR_LAB_OPERATOR_BEACON_PROTOCOLS</hiddenAug>
+	<hiddenAug>FR_LAB_OPERATOR_INSTALLED</hiddenAug>
+	<loadEvent>STORAGE_CHECK_LAB_FR_OPERATOR</loadEvent>
+</event>
+
+</events>
+
+</FTL>

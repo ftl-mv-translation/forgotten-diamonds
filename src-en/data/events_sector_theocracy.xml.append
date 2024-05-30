@@ -1,0 +1,127 @@
+﻿<FTL>
+
+<event name="FR_OPERATOR_QUEST">
+	<preventQuest/>
+	<preventFleet/>
+	<beaconType id="map_icon_fr_operator" global="true">
+		<color r="0" g="255" b="242" a="1.0"/>
+	</beaconType>
+    <loadEvent>FR_OPERATOR_QUEST_REAL</loadEvent>
+</event>
+
+<event name="FR_OPERATOR_QUEST_REAL" unique="true">
+	<text>You reach the beacon which was emitting that strange "request" signal, and to your surprise it isn't a rock ship, it's a ship from a class you haven't ever seen before, a extremely smooth exterior with a diamond shaped design with the colors being that of copper metal. They hail you, at first whatever they are saying is pure gibberish, however, after a few minutes they slowly start to speak in a language your translator can understand.</text>
+	<ship load="SHIP_FR_QUEST_OPERATOR_CRUISER" hostile="false"/> 
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event>
+			<text>"Greetings, fleshed thing, me are operator, arrive from different cluster, wanted a some trade, inquire towards 5 being shaped flesh to search, pay plan towards ship, assert?" While still heavily mistranslated, the offer the being that called itself an "operator" can be understood enough to be made sense: they require 5 of your crew and in exchange, the ship's blueprints.</text>
+				<choice hidden="true" req="forgorEnoughCrew" lvl="1" max_group="1">
+					<text>Agree to the terms.</text>
+					<event>
+						<text>The Operators seem happy with your decision as they slowly start beaming out your crew into their ship.</text>
+						<removeCrew>
+							<clone>false</clone>
+							<text>You cannot clone your crew, as they are not dead.</text>
+						</removeCrew>
+								<choice hidden="true">
+									<text>Continue...</text>
+									<event>
+										<text>It continues.</text>
+										<removeCrew>
+											<clone>false</clone>
+											<text>You cannot clone your crew, as they are not dead.</text>
+										</removeCrew>
+												<choice hidden="true">
+													<text>Continue...</text>
+													<event>
+														<text>It continues.</text>
+														<removeCrew>
+															<clone>false</clone>
+															<text>You cannot clone your crew, as they are not dead.</text>
+														</removeCrew>
+															<choice hidden="true">
+																<text>Continue...</text>
+																<event>
+																		<text>It continues.</text>
+																		<removeCrew>
+																			<clone>false</clone>
+																			<text>You cannot clone your crew, as they are not dead.</text>
+																		</removeCrew>
+																				<choice hidden="true">
+																					<text>Continue...</text>
+																					<event>
+																						<text>After a while, the last crew is beamed away, and shortly thereafter you receive the blueprints for the cruiser those "Operators" were using. Not only that, but they also give you a strange copper drone and a hefty amount of scrap.
+																						
+																						Suddenly, the operator hails you "Phenomenal! All this data let us skip years of research! However, it may not be enough. To make sure that's the case, I will join you in your mission in hopes of getting some much deeper data about your cluster."</text>
+																						<removeCrew>
+																							<clone>false</clone>
+																							<text>You cannot clone your crew, as they are not dead.</text>
+																						</removeCrew>
+																						<crewMember amount="1" class="fr_copper_operator"/>
+																						<autoReward level="HIGH">scrap_only</autoReward>
+																						<drone name="FR_BLUELIST_COPPER_DRONES_INCOMPLETE"/>
+																						<achievement silent="false">ACH_FR_EVENT_OPERATOR_DEAL</achievement>
+																						<unlockCustomShip silent="false">PLAYER_SHIP_FR_OPERATOR</unlockCustomShip>
+																					</event>
+																				</choice>
+																</event>
+															</choice>
+													</event>
+												</choice>
+									</event>
+								</choice>
+					</event>
+				</choice>
+				<choice req="forgorEnoughCrew" max_lvl="0" lvl="0" max_group="1" blue="false" hidden="true">
+					<text>Not enough Crew.</text>
+					<event load="OPTION_INVALID"/>
+				</choice>
+				<choice hidden="true" max_group="3">
+					<text>We won't ever give our crew away! Let's take the blueprints by force!</text>
+					<event>
+						<text>It seems the "operators" didn't take this well, their ship starts releasing combat drones, perhaps it's possible to still get the blueprints if you clear out the ship?</text>
+						<ship hostile="true"/> 
+							<choice hidden="true">
+								<text>Continue...</text>
+								<event load="COMBAT_CHECK"/>
+							</choice>
+					</event>
+				</choice>
+				<choice hidden="true" max_group="2" >
+					<text>Apologize and say you don't have the crew to spare.</text>
+					<event>
+						<text>The operators, while quite sadden by it, thank you for your cooperation and give you some scrap to compensate before jumping away.</text>
+						<autoReward level="LOW">scrap_only</autoReward>
+						<instantEscape/>
+					</event>
+				</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Whatever that is, we don't want to find out.</text>
+		<event>
+			<text>You have way too much stuff to deal with right now, you ignore the massive vessel and jump away as soon as possible..</text>
+			<choice>
+				<text>Do something onboard the ship.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+			<choice>
+				<text>Do nothing.</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="FR_OPERATOR_QUEST_CREWKILL">
+	<text>After what felt like endless firewalls and traps, the crew was finally able to find the blueprints hidden deep in the alien's systems, unfortunately all their drones seemed to disintegrate once the crew died.</text>
+	<achievement silent="false">ACH_FR_EVENT_DIAMOND_CREWKILL</achievement>
+	<unlockCustomShip silent="false">PLAYER_SHIP_FR_OPERATOR</unlockCustomShip>
+		<choice hidden="true">
+			<text>Sweet!</text>
+				<event/>
+		</choice>
+</event>
+
+</FTL>

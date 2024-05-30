@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FTL>
+
+<!--
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+			                    EVENT APPENDS
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->
+
+<mod:findName type="event" name="BOON_SELECT">
+    <mod:findLike type="loadEventList">
+        <mod-append:event name="BOON_SELECT_FR_METAL_LANIUS" req="prof_r_boon_fr_metal_lanius"/>
+        <mod-append:event name="BOON_SELECT_FR_GOLDEN" req="prof_r_boon_fr_golden"/>
+        <mod-append:event name="BOON_SELECT_FR_COPPER" req="prof_r_boon_fr_copper"/>
+        <mod-append:event name="BOON_SELECT_FR_ADAMANTINE" req="prof_r_boon_fr_adamantine"/>
+        <mod-append:event name="BOON_SELECT_FR_DIAMOND" req="prof_r_boon_fr_diamond"/>
+        <mod-append:event name="BOON_SELECT_FR_OPERATOR" req="prof_r_boon_fr_operator"/>
+    </mod:findLike>
+</mod:findName>
+</FTL>
+

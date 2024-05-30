@@ -1,0 +1,17 @@
+<FTL>
+
+<mod:findName type="event" name="SLUG_DISTRESS_TRICK">
+	<mod-append:choice hidden="true" req="FR_BLUELIST_OPERATORS" blue="true">
+		<text>(Operator Crew) Send your operator to deal with their situation.</text>
+		<event>
+			<text>Having a walking data-bank does come in hand sometimes, the operator is able to easily find the issue, handing the slugs a list of possible fixes before also handing them a bill for its service. Outraged, the slugs turn on their guns and prepare for combat.</text>
+			<ship hostile="true"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="COMBAT_CHECK"/>
+			</choice>
+		</event>
+	</mod-append:choice>
+</mod:findName>
+
+</FTL>

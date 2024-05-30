@@ -1,0 +1,1922 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/blueprints.xml.append:19
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_blob_diamond\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:25
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_diamond\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:26
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_diamond\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:27
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_diamond\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:35
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_diamond\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:36
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_diamond\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:37
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_diamond\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:41
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:42
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:43
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:48
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:49
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:50
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:51
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:55
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:56
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:57
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:62
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:63
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:64
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:71
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:72
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:73
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:80
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:81
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:82
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:83
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:87
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:88
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:89
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:96
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:97
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:98
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:99
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:100
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/powerList/power[5]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:104
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:105
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:106
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:113
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:114
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:115
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:116
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:126
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_techno_operator\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:135
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:136
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:137
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:142
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_1\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:143
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_1\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:147
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:148
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:149
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:154
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_2\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:155
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_2\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:156
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_2\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:160
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:161
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_3\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:162
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_3\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:167
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_3\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:168
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_3\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:169
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_3\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:173
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:174
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:175
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:180
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:181
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:182
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:183
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:187
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:188
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:189
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:194
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:195
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:196
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:197
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:217
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:218
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:219
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:220
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_1\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:251
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:252
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:253
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:254
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_2\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:285
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_3\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:286
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_3\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:287
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:288
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_3\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:314
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:315
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:317
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:318
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_1\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:355
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:356
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:358
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:359
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_2\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:396
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_3\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:397
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_3\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:399
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:400
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_3\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:438
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:439
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:441
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:442
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_1\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:486
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:487
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:489
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:490
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_2\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:534
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_3\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:535
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_3\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:537
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:538
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_3\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:583
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:584
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:586
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:587
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_1\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:618
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:619
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:621
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:622
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_2\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:653
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_3\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:654
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_3\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:656
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:657
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_3\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:689
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:691
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:692
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:693
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:735
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK_CHAOS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:737
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK_CHAOS\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:738
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK_CHAOS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:741
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK_CHAOS\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:789
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:790
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:791
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:807
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:808
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:810
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:811
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:842
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:843
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:844
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:860
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:861
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:863
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:864
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_2\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:895
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_3\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:896
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_3\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:897
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:913
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_3\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:914
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_3\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:916
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:917
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_3\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:958
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_4\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:959
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_4\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:960
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_4\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:976
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_4\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:977
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_4\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:979
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_4\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:980
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_4\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1020
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1021
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1022
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1038
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1039
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1041
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1042
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1070
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1071
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1072
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1088
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1089
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1091
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1092
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_2\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1121
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_3\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1122
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_3\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1123
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1139
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_3\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1140
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_3\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1142
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1143
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_3\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1171
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_4\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1172
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_4\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1173
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_4\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1189
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_4\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1190
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_4\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1192
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_4\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1193
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_4\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1223
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_PROJECTILE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1224
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_PROJECTILE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1225
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_PROJECTILE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1243
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_DRONE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1244
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_DRONE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1245
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_DRONE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1262
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_DEFENSE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1263
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_DEFENSE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1265
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_DEFENSE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1266
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_DEFENSE\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1303
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1304
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1305
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1322
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1323
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1324
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1325
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1358
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1359
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1360
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1377
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1378
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1379
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1380
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE_2\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1412
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1413
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1414
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1430
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1431
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1433
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1434
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1467
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1468
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1469
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1485
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1486
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1488
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1489
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_2\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1523
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_3\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1524
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_3\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1525
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1541
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_3\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1542
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_3\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1544
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1545
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_3\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1578
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_4\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1579
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_4\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1580
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_4\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1596
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_4\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1597
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_4\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1599
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_4\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1600
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_4\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1632
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1633
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1634
+#, fuzzy
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_1\"]/desc"
+msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
+
+#: src-en/data/blueprints.xml.append:1638
+#, fuzzy
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_1\"]/powerList/power"
+msgstr "DRONE"
+
+#: src-en/data/blueprints.xml.append:1645
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1646
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1647
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1660
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1661
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1662
+#, fuzzy
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_2\"]/desc"
+msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
+
+#: src-en/data/blueprints.xml.append:1666
+#, fuzzy
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_2\"]/powerList/power"
+msgstr "DRONE"
+
+#: src-en/data/blueprints.xml.append:1673
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1674
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1675
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1694
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_SHIELD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1695
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_SHIELD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1705
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_WIRES\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1706
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_WIRES\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1714
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_BOTS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1715
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_BOTS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1725
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1726
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1733
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1734
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1741
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_3\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1742
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1749
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_4\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1750
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_4\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1757
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_5\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1758
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_5\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1765
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_6\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1766
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_6\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1773
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_7\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1774
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_7\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1781
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_8\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1782
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_8\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1789
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_9\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1790
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_9\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1797
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_10\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1798
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_10\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1805
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_11\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1806
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_11\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1814
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLD_WIRES\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1815
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLD_WIRES\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1825
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_TINKERERS_SHIELD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1826
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_TINKERERS_SHIELD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1838
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_COPPER_WIRES\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1839
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_COPPER_WIRES\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1849
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FIREBOTS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1850
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FIREBOTS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1860
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_WAR_CRIMINALS_SHIELD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1861
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_WAR_CRIMINALS_SHIELD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1869
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FLESH_MAKER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1870
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FLESH_MAKER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1882
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_FLESH_MAKER_UNLOCKED\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1883
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_FLESH_MAKER_UNLOCKED\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1895
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_ADAMANTINE_WIRES\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1896
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_ADAMANTINE_WIRES\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1906
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_TOXIC_ROOMS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1907
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_TOXIC_ROOMS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1921
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_SUSTAIN_PROTOCOL\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1922
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_SUSTAIN_PROTOCOL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1931
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_FORGGOTEN_DIAMOND_WALLACE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1932
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_FORGGOTEN_DIAMOND_WALLACE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1946
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_SHIP_OPERATOR\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1947
+#, fuzzy
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_SHIP_OPERATOR\"]/desc"
+msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
+
+#: src-en/data/blueprints.xml.append:1955
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_SHIP_METAL_DIAMOND\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1956
+#, fuzzy
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_SHIP_METAL_DIAMOND\"]/desc"
+msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
+
+#: src-en/data/blueprints.xml.append:1964
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_SHIP_METALLANIUS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1965
+#, fuzzy
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_SHIP_METALLANIUS\"]/desc"
+msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
+
+#: src-en/data/blueprints.xml.append:1979
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_METAL_LANIUS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1980
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_METAL_LANIUS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1987
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_GOLDEN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1988
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_GOLDEN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1995
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_COPPER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1996
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_COPPER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2003
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_ADAMANTINE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2004
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_ADAMANTINE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2011
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_DIAMOND\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2012
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_DIAMOND\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2019
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_OPERATOR\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2020
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_OPERATOR\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2033
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_INSTALLED\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2034
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_INSTALLED\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2040
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_FISTITUTE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2041
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_FISTITUTE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2047
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_SYSTEMIC\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2048
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_SYSTEMIC\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2054
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_NOXIOUS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2055
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_NOXIOUS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2062
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_INSTALLED\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2063
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_INSTALLED\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2069
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_PACIFISM_PROTOCOLS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2070
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_PACIFISM_PROTOCOLS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2076
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_BIO_PROTOCOLS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2077
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_BIO_PROTOCOLS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2083
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_BEACON_PROTOCOLS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2084
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_BEACON_PROTOCOLS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2098
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2099
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2100
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY\"]/unlock"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2101
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2177
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2178
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2179
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_2\"]/unlock"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2180
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2256
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2257
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2258
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_3\"]/unlock"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2259
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2336
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2337
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2338
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND\"]/unlock"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2339
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2414
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2415
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2416
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_2\"]/unlock"
+msgstr "Atteignez le Secteur 5 avec le Type A pour débloquer ce vaisseau."
+
+#: src-en/data/blueprints.xml.append:2417
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2487
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2488
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2489
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_3\"]/unlock"
+msgstr ""
+"Atteignez le Secteur 5 avec le Type B ou remportez la partie avec le Type A "
+"pour débloquer ce vaisseau."
+
+#: src-en/data/blueprints.xml.append:2490
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2558
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2559
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2560
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR\"]/unlock"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2561
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2633
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2634
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2635
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_2\"]/unlock"
+msgstr "Atteignez le Secteur 5 avec le Type A pour débloquer ce vaisseau."
+
+#: src-en/data/blueprints.xml.append:2636
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2711
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2712
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2713
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_3\"]/unlock"
+msgstr ""
+"Atteignez le Secteur 5 avec le Type B ou remportez la partie avec le Type A "
+"pour débloquer ce vaisseau."
+
+#: src-en/data/blueprints.xml.append:2714
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2792
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2793
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2794
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS\"]/unlock"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2795
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2865
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2866
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2867
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/unlock"
+msgstr "Atteignez le Secteur 5 avec le Type A pour débloquer ce vaisseau."
+
+#: src-en/data/blueprints.xml.append:2868
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2940
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2941
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2942
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/unlock"
+msgstr ""
+"Atteignez le Secteur 5 avec le Type B ou remportez la partie avec le Type A "
+"pour débloquer ce vaisseau."
+
+#: src-en/data/blueprints.xml.append:2943
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/desc"
+msgstr ""

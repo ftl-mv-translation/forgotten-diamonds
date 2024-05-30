@@ -1,0 +1,3015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FTL>
+
+<!-- 
+**********************************************************************************************************************
+                                         CREW
+**********************************************************************************************************************
+-->
+
+<!-- DIAMONDS -->
+
+<crewBlueprint name="fr_blob_diamond">
+	<desc id="crew_morph_desc"/>
+	<cost>45</cost>
+	<title id="crew_morph_title"/>
+	<short id="crew_morph_title"/>
+	<rarity>0</rarity>
+	<powerList>
+		<power>Currently mimicking: All Metal Diamonds Combined (at half the power)</power>
+		<power id="crew_morph_power_1"/>
+		<power id="crew_morph_power_2"/>
+	</powerList>
+</crewBlueprint>
+<crewBlueprint name="fr_golden_diamond">
+	<title>Golden Diamond</title>
+	<short>Golden</short>
+	<desc>The diamonds are a group of 3 species made out of organic metal, one of those is the golden diamonds, a species fully focused on scrap and methods of acquiring it and utilizing it to improve their weapons to extreme levels.
+
+		The golden diamonds can't fight in ranged combat, instead relying on their melee skills to protect them.
+	</desc>
+	<cost>125</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<powerList>
+		<power>150 Health, takes 1.2x damage in combat.</power>
+		<power>3x melee damage, attacks 20% slower, deals no ranged damage.</power>
+		<power>Cannot burn, suffocate or be mind controlled.</power>
+	</powerList>
+</crewBlueprint>
+<crewBlueprint name="fr_adamantine_diamond">
+	<title>Adamantine Diamond</title>
+	<short>Adamantine</short>
+	<desc>The diamonds are a group of 3 species made out of organic metal, one of those is the adamantine diamonds, a warlord species known to only value power, this also extended to their sciences, an industry of blood and flesh responsible for creating the most controversial technology ever made: the Fleshmaker.</desc>
+	<cost>125</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<powerList>
+		<power>300 Health, takes 50% longer to heal.</power>
+		<power>Deal 0.25x combat damage. Sabotages at half speed but repairs at double speed.</power>
+		<power>0.5x movement speed, cannot burn or suffocate.</power>
+		<power>Toxic emissions make enemies in the same room as them have their damage lowered by 0.5x. Doesn't stack.</power>
+	</powerList>
+</crewBlueprint>
+<crewBlueprint name="fr_copper_diamond">
+	<title>Copper Diamond</title>
+	<short>Copper</short>
+	<desc>The diamonds are a group of 3 species made out of organic metal, one of those is the copper diamonds, a species that has evolved to fully rely on their drones for everything, to the point of needing to be in the drone-bay to heal.</desc>
+	<cost>125</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<powerList>
+		<power>0.2x combat damage, 2x sabotage damage.</power>
+		<power>1.5x movement speed, cannot burn or suffocate.</power>
+		<power>Can't heal through normal means, instead they heal for 10 health per second while inside the drone-bay.</power>
+	</powerList>
+</crewBlueprint>
+
+<!-- OPERATORS -->
+
+<crewBlueprint name="fr_golden_operator">
+	<title>Golden Operator</title>
+	<short>G. Operator</short>
+	<desc>When a Diamond dies, their body is transferred to a mechanical shell as a way of evading death, this does, however, have the unfortunate side effect of losing the diamond's old personalty.
+	
+	The golden operators focus on trying to make up for the diamond's weaknesses, having state of the art blasters, but can't fight in melee range. Their range attacks might be slow but they deal heavy damage.</desc>
+	<cost>110</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<powerList>
+		<power>110 max health, heals at double the speed while inside shields, weapons, piloting and engines.</power>
+		<power>Takes 1.2x damage. Immune to mind control, suffocation and hazards.</power>
+		<power>Can't fight in melee range, 3.5x ranged damage, shoots 20% slower.</power>
+		<power>2x repair speed, Learns skills at double the speed.</power>
+	</powerList>
+</crewBlueprint>
+<crewBlueprint name="fr_adamantine_operator">
+	<title>Adamantine Operator</title>
+	<short>A. Operator</short>
+	<desc>When a Diamond dies, their body is transferred to a mechanical shell as a way of evading death, this does, however, have the unfortunate side effect of losing the diamond's old personalty.
+	
+	The adamantine operators are walking knowledge centers, being able to operate any system at max capacity right away, but being helpless during any stressful situations.</desc>
+	<cost>110</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<powerList>
+		<power>150 max health, Takes 0.5x damage. Allies in the same room are immune to hazards.</power>
+		<power>Can't fight, sabotage or repair. Is cloned 100x faster.</power>
+		<power>Immune to mind control, Provides 4 power to occupied system.</power>
+		<power>Immune to suffocation and fire damage.</power>
+		<power>Programmed in lvl2 skills. Can't lose skills after being cloned.</power>
+	</powerList>
+</crewBlueprint>
+<crewBlueprint name="fr_copper_operator">
+	<title>Copper Operator</title>
+	<short>C. Operator</short>
+	<desc>When a Diamond dies, their body is transferred to a mechanical shell as a way of evading death, this does, however, have the unfortunate side effect of losing the diamond's old personalty.
+	
+	The copper operators are made to be the healers and maintenance crew aboard ships, being able to patch up any robotic crew while also repairing systems extremely quickly.</desc>
+	<cost>110</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<powerList>
+		<power>70 max health. Moves at 1.5x speed.</power>
+		<power>0.1x combat damage, 5x repair speed.</power>
+		<power>Immune to mind control. Heals nearby friendly drones and robotic crew for 5 hp/s.</power>
+		<power>Immune to suffocation and fire damage.</power>
+	</powerList>
+</crewBlueprint>
+<crewBlueprint name="fr_techno_operator">
+	<desc id="crew_techno_desc" />
+	<cost>45</cost>
+	<title id="crew_techno_title" />
+	<short id="crew_techno_title" />
+	<rarity>0</rarity>
+	<powerList>
+		<power>Currently mimicking: All Metal Operators Combined At Half Power (Strangely, the Technomorph didn't change its color to its usual green)</power>
+		<power id="crew_techno_power_1"/>
+		<power id="crew_techno_power_2"/>
+	</powerList>
+</crewBlueprint>
+
+<!-- LANIUS -->
+
+<crewBlueprint name="fr_golden_lanius_1">
+	<desc>An Augmented individual who underwent a significantly different mutation by consuming a distinct piece of ancient wreckage from a distant cluster. It can upgrade itself at empty beacons.</desc>
+	<title>The Golden Ones</title>
+	<short>Golden Ones</short>
+	<cost>50</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<powerList>
+		<power>70 Health. 1.1x combat damage, takes 0.9x damage while in combat.</power>
+		<power>Provides power to current room, repairs systems 1.5x faster.</power>
+	</powerList>
+</crewBlueprint>
+<crewBlueprint name="fr_golden_lanius_2">
+	<desc>An Augmented individual who underwent a significantly different mutation by consuming a unique fragment of ancient wreckage from a distant cluster. It now possesses bonus combat damage and can regenerate health when outside of combat.</desc>
+	<title>The Augmented Golden Ones</title>
+	<short>Golden Ones</short>
+	<cost>100</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<powerList>
+		<power>Regenerates at 5 hp a second after a brief delay.</power>
+		<power>100 Health. 1.5x combat damage, takes 0.8x damage while in combat.</power>
+		<power>Provides power to current room, repairs systems 1.8x faster.</power>
+	</powerList>
+</crewBlueprint>
+<crewBlueprint name="fr_golden_lanius_3">
+	<desc>An Augmented individual who underwent a significantly different mutation by consuming a unique fragment of ancient wreckage from a distant cluster. Now fully upgraded, it has reached its peak damage and movement speed, while also becoming immune to fires.</desc>
+	<title>The Ascended Golden Ones</title>
+	<short>Golden Ones</short>
+	<cost>200</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<powerList>
+		<power>Regenerates at 10 hp a second after a brief delay.</power>
+		<power>150 Health. 2x combat damage, takes 0.5x damage while in combat. Immune to fires.</power>
+		<power>Provides two power to current room, repairs systems 2x faster.</power>
+	</powerList>
+</crewBlueprint>
+<crewBlueprint name="fr_copper_lanius">
+	<desc>An Augmented individual that underwent a significantly different mutation by consuming a unique fragment of ancient wreckage from a distant cluster. These Lanius have a symbiotic relationship with fire, being healed by it and having the ability to spawn fires at will.</desc>
+	<title>The Copper Ones</title>
+	<short>Coppers</short>
+	<cost>140</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<powerList>
+		<power>Active Ability: Summons a fire in the current room. Moves at 0.8 speed and doubles its o2 production for 12 seconds.</power>
+		<power>110 Health, deals 0.9x combat damage and takes 1.1x combat damage.</power>
+		<power>Slowly regenerate while in fire and decays when not on full health. Removes the enemy's immunity from fire while in the same room as them. </power>
+		<power>Can suffocate and will take damage from shell gasses. Slowly fills the room with o2.</power>
+	</powerList>
+</crewBlueprint>
+<crewBlueprint name="fr_adamantine_lanius">
+	<desc>An Augmented individual that underwent a significantly different mutation by consuming a unique fragment of ancient wreckage from a distant cluster. These Lanius create breaches while aboard the enemy's ship and can also inflict a weak affliction upon nearby enemy crew.</desc>
+	<title>The Adamantine Ones</title>
+	<short>Adamantines</short>
+	<cost>160</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<powerList>
+		<power>Active Ability: Fully heals the lanius, creates a breach and deals 1 system damage to the current room.</power>
+		<power>80 Health, Deals 0.5x damage in combat. 2x sabotage damage. Moves at 1.5x speed.</power>
+		<power>Applies a constant single stack affliction to nearby enemies. Removes immunity from suffocation from nearby enemies.</power>
+		<power>Repairs systems at 0.5x speed. Takes 10x damage from fire.</power>
+	</powerList>
+</crewBlueprint>
+
+<!-- 
+**********************************************************************************************************************
+                                         WEAPONS AND DRONES
+**********************************************************************************************************************
+-->
+
+<!-- 
+**********************************************************************************************************************
+                                         GOLD WEAPONS
+**********************************************************************************************************************
+-->
+
+<weaponBlueprint name="FR_GOLDEN_BEAM_1">
+	<type>BEAM</type>
+	<tip>tip_ancient</tip>
+	<flavorType>Aether Beam</flavorType>
+	<title>Disintegrator Mk I</title>
+	<short>Disint. I</short>
+	<desc>A fairly strong golden weapon made by a rare Diamond species. Can be upgraded if you have the Shields of Opulence.</desc>
+	<tooltip>1 hull damage, 2 system damage, always stuns.</tooltip>
+	<damage>1</damage>
+	<sysDamage>2</sysDamage>
+	<sp>0</sp>
+	<stun>10</stun>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<stunChance>10</stunChance>
+	<cooldown>16</cooldown>
+	<color>
+		<r>229</r>
+		<g>208</g>
+		<b>119</b>
+	</color>
+	<speed>4</speed>
+	<power>1</power>
+	<cost>30</cost>
+	<rarity>0</rarity>
+	<length>150</length>
+	<image>beam_contact</image>
+	<launchSounds>
+		<sound>ancient_beam</sound>
+	</launchSounds>
+	<weaponArt>fr_golden_beam</weaponArt>
+	<iconImage>beam</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="FR_GOLDEN_BEAM_2">
+	<type>BEAM</type>
+	<tip>tip_ancient</tip>
+	<flavorType>Aether Beam</flavorType>
+	<title>Disintegrator Mk II</title>
+	<short>Disint. II</short>
+	<desc>A powerful golden weapon made by a rare Diamond species. Can be upgraded if you have the Shields of Opulence.</desc>
+	<tooltip>3 hull damage, 5 system damage, always stuns.</tooltip>
+	<damage>3</damage>
+	<sysDamage>2</sysDamage>
+	<sp>0</sp>
+	<stun>11</stun>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<stunChance>10</stunChance>
+	<cooldown>25</cooldown>
+	<color>
+		<r>229</r>
+		<g>208</g>
+		<b>119</b>
+	</color>
+	<speed>3</speed>
+	<power>3</power>
+	<cost>110</cost>
+	<rarity>0</rarity>
+	<length>200</length>
+	<image>beam_contact</image>
+	<launchSounds>
+		<sound>ancient_beam</sound>
+	</launchSounds>
+	<weaponArt>fr_golden_beam_2</weaponArt>
+	<iconImage>beam</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="FR_GOLDEN_BEAM_3">
+	<type>BEAM</type>
+	<tip>tip_ancient</tip>
+	<flavorType>Aether Beam</flavorType>
+	<title>Disintegrator Mk III</title>
+	<short>Disint. III</short>
+	<desc>A abnormally powerful golden weapon that's stronger than even the best the royals have to offer.</desc>
+	<tooltip>5 hull damage, 7 system damage, always stuns.</tooltip>
+	<damage>5</damage>
+	<sysDamage>2</sysDamage>
+	<sp>0</sp>
+	<stun>20</stun>
+	<cooldown>35</cooldown>
+	<color>
+		<r>229</r>
+		<g>208</g>
+		<b>119</b>
+	</color>
+	<speed>2</speed>
+	<power>4</power>
+	<cost>205</cost>
+	<rarity>0</rarity>
+	<length>250</length>
+	<image>beam_contact</image>
+	<launchSounds>
+		<sound>ancient_beam</sound>
+	</launchSounds>
+	<weaponArt>fr_golden_beam_3</weaponArt>
+	<iconImage>beam</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="FR_GOLDEN_LASER_1">
+	<type>LASER</type>
+	<title>Golden Burst Laser MK.I</title>
+	<short>Golden L I</short>
+	<tip>tip_ancient</tip>
+	<desc>The first burst laser conceptualized by the Golden Diamonds. Can be upgraded if you have the Shields of Opulence.</desc>
+	<tooltip>Ancient Burst laser; 1 damage, always stuns, 2 projectiles, small radius and 10% accuracy.</tooltip>
+	<damage>1</damage>
+	<radius>12</radius>
+	<accuracyMod>10</accuracyMod>
+	<shots>2</shots>
+	<fireTime>0.04</fireTime>
+	<stun>10</stun>
+	<sp>0</sp>
+	<cooldown>15</cooldown>
+	<power>1</power>
+	<cost>30</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<image>fr_laser_golden</image>
+	<launchSounds>
+		<sound>laser_light</sound>
+		<sound>laser_light</sound>
+		<sound>laser_light</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>fr_golden_laser</weaponArt>
+	<iconImage>laser</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="FR_GOLDEN_LASER_2">
+	<type>LASER</type>
+	<title>Golden Burst Laser MK.II</title>
+	<short>Golden L II</short>
+	<tip>tip_ancient</tip>
+	<desc>A vast improvement over the first model, the scrap fed to the gun allowed it to become stronger than the current version of the burst laser mark 3. Can be upgraded if you have the Shields of Opulence.</desc>
+	<tooltip>Ancient Burst laser; 1 damage, always stuns, 7 projectiles, small radius and 20% accuracy.</tooltip>
+	<damage>1</damage>
+	<radius>17</radius>
+	<accuracyMod>20</accuracyMod>
+	<shots>7</shots>
+	<fireTime>0.03</fireTime>
+	<stun>10</stun>
+	<sp>0</sp>
+	<cooldown>20</cooldown>
+	<power>3</power>
+	<cost>110</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<image>fr_laser_golden</image>
+	<launchSounds>
+		<sound>laser_light</sound>
+		<sound>laser_light</sound>
+		<sound>laser_light</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>fr_golden_laser_2</weaponArt>
+	<iconImage>laser</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="FR_GOLDEN_LASER_3">
+	<type>LASER</type>
+	<title>Golden Burst Laser MK.III</title>
+	<short>Golden L III</short>
+	<tip>tip_ancient</tip>
+	<desc>The final form of the golden burst laser, now with the max amount of shots possible, it also never misses.</desc>
+	<tooltip>Ancient Burst laser; 1 damage, always stuns, 10 projectiles, small radius and never misses.</tooltip>
+	<damage>1</damage>
+	<radius>20</radius>
+	<accuracyMod>100</accuracyMod>
+	<shots>10</shots>
+	<fireTime>0.02</fireTime>
+	<stun>10</stun>
+	<sp>0</sp>
+	<cooldown>25</cooldown>
+	<power>4</power>
+	<cost>205</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<image>fr_laser_golden</image>
+	<launchSounds>
+		<sound>laser_light</sound>
+		<sound>laser_light</sound>
+		<sound>laser_light</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>fr_golden_laser_3</weaponArt>
+	<iconImage>laser</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="FR_GOLDEN_ION_1">
+	<type>LASER</type>
+	<flavorType>Golden Plasma Cannon</flavorType>
+	<title>Golden Plasma Cannon Mk I</title>
+	<short>G. Plasma I</short>
+	<tip>tip_ancient_plasma</tip>
+	<desc>The start of the golden ion line, not very flashy currently, but just feed it scrap and it can obliterate shields with ease. Can be upgraded if you have the Shields of Opulence.</desc>
+	<tooltip>Fires 1 shot that deals 1 ion and system damage that always stuns. It chains once, dealing more damage.</tooltip>
+	<damage>0</damage>
+	<sysDamage>1</sysDamage>
+	<ion>1</ion>
+	<shots>1</shots>
+	<sp>0</sp>
+	<speed>20</speed>
+	<spin>100</spin>
+	<cooldown>10</cooldown>
+	<power>2</power>
+	<stun>10</stun>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<stunChance>10</stunChance>
+	<cost>30</cost>
+	<bp>6</bp>
+	<rarity>0</rarity>
+	<boost>
+		<type>damage</type>
+		<amount>1</amount>
+		<count>1</count>
+	</boost>
+	<image>fr_energy_golden</image>
+	<launchSounds>
+		<sound>ancient_ion</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull1</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>fr_golden_ion</weaponArt>
+	<iconImage>heavyL</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="FR_GOLDEN_ION_2">
+	<type>LASER</type>
+	<flavorType>Golden Plasma Cannon</flavorType>
+	<title>Golden Plasma Cannon Mk II</title>
+	<short>G. Plasma II</short>
+	<tip>tip_ancient_plasma</tip>
+	<desc>The middle stage of the golden ion gun, it can now pierce any and all shields while also being generally stronger. Can be upgraded if you have the Shields of Opulence.</desc>
+	<tooltip>Fires 1 shot that deals 1 ion and system damage that always stuns and pierces all shields. it's chain now ends with it dealing more damage than before.</tooltip>
+	<damage>0</damage>
+	<sysDamage>1</sysDamage>
+	<ion>1</ion>
+	<shots>1</shots>
+	<sp>10</sp>
+	<speed>23</speed>
+	<spin>100</spin>
+	<cooldown>15</cooldown>
+	<power>3</power>
+	<stun>10</stun>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<stunChance>10</stunChance>
+	<cost>110</cost>
+	<bp>6</bp>
+	<rarity>0</rarity>
+	<boost>
+		<type>damage</type>
+		<amount>2</amount>
+		<count>2</count>
+	</boost>
+	<image>fr_energy_golden</image>
+	<launchSounds>
+		<sound>ancient_ion</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull1</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>fr_golden_ion_2</weaponArt>
+	<iconImage>heavyL</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="FR_GOLDEN_ION_3">
+	<type>LASER</type>
+	<flavorType>Golden Plasma Cannon</flavorType>
+	<title>Golden Plasma Cannon Mk III</title>
+	<short>G. Plasma III</short>
+	<tip>tip_ancient_plasma</tip>
+	<desc>The final stage of the golden ion gun, it now also deals crew damage, as well as ending in a even stronger chain.</desc>
+	<tooltip>Fires 1 shot that deals 1 ion and system damage that always stuns and pierces all shields. 30 crew damage. it's chain now ends with it dealing more damage than before.</tooltip>
+	<damage>0</damage>
+ 	<persDamage>2</persDamage>
+	<sysDamage>1</sysDamage>
+	<ion>1</ion>
+	<shots>1</shots>
+	<sp>10</sp>
+	<speed>25</speed>
+	<spin>100</spin>
+	<cooldown>20</cooldown>
+	<power>4</power>
+	<stun>10</stun>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<stunChance>10</stunChance>
+	<cost>205</cost>
+	<bp>6</bp>
+	<rarity>0</rarity>
+	<boost>
+		<type>damage</type>
+		<amount>2</amount>
+		<count>3</count>
+	</boost>
+	<image>fr_energy_golden</image>
+	<launchSounds>
+		<sound>ancient_ion</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull1</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>fr_golden_ion_3</weaponArt>
+	<iconImage>heavyL</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="FR_GOLDEN_BOMB_1">
+	<type>BOMB</type>
+	<flavorType>Golden Bomb Launcher</flavorType>
+	<title>Golden Bomb Launcher Mk I</title>
+	<short>G. Bomb I</short>
+	<tip>tip_bombs</tip>
+	<desc>The start of the golden bomb line, not very flashy currently, but just feed it scrap and it will start more gaining charges and damage. Can be upgraded if you have the Shields of Opulence.</desc>
+	<tooltip>Bomb weapon; requires a missile; does 2 damage to systems and 30 to crew, and always stuns. Can charge up to 2 bombs. Can target your own ship.</tooltip>
+	<damage>0</damage>
+	<sysDamage>2</sysDamage>
+	<persDamage>2</persDamage>
+	<missiles>1</missiles>
+	<shots>1</shots>
+	<sp>0</sp>
+	<stun>10</stun>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<cooldown>8</cooldown>
+	<chargeLevels>2</chargeLevels>
+	<power>2</power>
+	<cost>30</cost>
+	<bp>4</bp>
+	<rarity>0</rarity>
+	<image>fr_bomb_golden</image>
+	<explosion>fr_explosion_bomb_golden</explosion>
+	<launchSounds>
+		<sound>bombTeleport</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>smallExplosion</sound>
+	</hitShipSounds>
+	<weaponArt>fr_golden_bomblauncher_1</weaponArt>
+	<iconImage>bomb</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="FR_GOLDEN_BOMB_2">
+	<type>BOMB</type>
+	<flavorType>Golden Bomb Launcher</flavorType>
+	<title>Golden Bomb Launcher Mk II</title>
+	<short>G. Bomb II</short>
+	<tip>tip_bombs</tip>
+	<desc>The middle stage of the golden bomb launcher, it can now store one more charge while also dealing more system and crew damage. Can be upgraded if you have the Shields of Opulence.</desc>
+	<tooltip>Bomb weapon; requires a missile; does 3 damage to systems and 45 crew damage, and always stuns. Can charge up to 3 bombs. Can target your own ship.</tooltip>
+	<damage>0</damage>
+	<sysDamage>3</sysDamage>
+	<persDamage>3</persDamage>
+	<missiles>1</missiles>
+	<shots>1</shots>
+	<sp>0</sp>
+	<stun>10</stun>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<cooldown>7</cooldown>
+	<chargeLevels>3</chargeLevels>
+	<power>3</power>
+	<cost>100</cost>
+	<bp>4</bp>
+	<rarity>0</rarity>
+	<image>fr_bomb_golden</image>
+	<explosion>fr_explosion_bomb_golden</explosion>
+	<launchSounds>
+		<sound>bombTeleport</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>smallExplosion</sound>
+	</hitShipSounds>
+	<weaponArt>fr_golden_bomblauncher_2</weaponArt>
+	<iconImage>bomb</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="FR_GOLDEN_BOMB_3">
+	<type>BOMB</type>
+	<flavorType>Golden Bomb Launcher</flavorType>
+	<title>Golden Bomb Launcher Mk III</title>
+	<short>G. Bomb III</short>
+	<tip>tip_bombs</tip>
+	<desc>The final stage of the golden bomb launcher, it can now hold 4 charges and deals more system and crew damage.</desc>
+	<tooltip>Bomb weapon; requires a missile; does 4 damage to systems and 60 crew damage, and always stuns. Can charge up to 4 bombs. Can target your own ship.</tooltip>
+	<damage>0</damage>
+	<sysDamage>4</sysDamage>
+	<persDamage>4</persDamage>
+	<missiles>1</missiles>
+	<shots>1</shots>
+	<sp>0</sp>
+	<stun>10</stun>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<cooldown>5</cooldown>
+	<chargeLevels>4</chargeLevels>
+	<power>4</power>
+	<cost>205</cost>
+	<bp>4</bp>
+	<rarity>0</rarity>
+	<image>fr_bomb_golden</image>
+	<explosion>fr_explosion_bomb_golden</explosion>
+	<launchSounds>
+		<sound>bombTeleport</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>smallExplosion</sound>
+	</hitShipSounds>
+	<weaponArt>fr_golden_bomblauncher_3</weaponArt>
+	<iconImage>bomb</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="FR_GOLDEN_FLAK">
+	<type>BURST</type>
+	<flavorType>Physical Projectile Blast</flavorType>
+	<drone_targetable>1</drone_targetable>
+	<title>Overcharged Golden Flak Gun</title>
+	<tip>tip_flak</tip>
+	<short>O. Gold Flak</short>
+	<desc>A modified Flak cannon that blankets the enemy's ship in projectiles which travel incredibly quickly. However, due to its enormous radius, it's unlikely to deal damage to any specific system.</desc>
+	<tooltip>Blankets the enemy's ship in projectiles, shooting 20 shots at a huge area. Always breaches.</tooltip>
+	<radius>150</radius>
+	<damage>1</damage>
+	<shots>1</shots>
+	<sp>0</sp>
+	<spin>720</spin>
+	<fireChance>0</fireChance>
+	<breachChance>10</breachChance>
+	<cooldown>30</cooldown>
+	<power>5</power>
+	<cost>100</cost>
+	<bp>10</bp>
+	<speed>50</speed>
+	<rarity>0</rarity>
+	<projectiles>
+		<projectile count="20" fake="false">fr_flak_gold</projectile>
+	</projectiles>
+	<launchSounds>
+		<sound>flak</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>flakImpact1</sound>
+		<sound>flakImpact2</sound>
+		<sound>flakImpact3</sound>
+		<sound>flakImpact4</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>fr_golden_flak</weaponArt> 
+	<iconImage>flak</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="FR_GOLDEN_FLAK_CHAOS">
+	<type>BURST</type>
+	<flavorType>Physical Projectile Blast</flavorType>
+	<drone_targetable>1</drone_targetable>
+	<title>Chaotic Overcharged Golden Flak Gun</title>
+	<tip>tip_flak</tip>
+	<short>Chaos Flak™</short>
+	<desc>A modified Flak cannon that blankets the enemy's ship in projectiles which travel incredibly quickly. However, due to its enormous radius, it's unlikely to deal damage to any specific system. 
+	
+	Chaotic version shoots a lot less projectiles split in 3 shots, it is, however, a lot more accurate.</desc>
+	<tooltip>Shoots 3 bursts with 4 projectiles each in an area. Always starts fires.</tooltip>
+	<radius>25</radius>
+	<damage>1</damage>
+	<shots>3</shots>
+	<sp>0</sp>
+	<spin>720</spin>
+	<fireChance>10</fireChance>
+	<breachChance>0</breachChance>
+	<cooldown>30</cooldown>
+	<power>5</power>
+	<cost>100</cost>
+	<bp>10</bp>
+	<speed>15</speed>
+	<rarity>0</rarity>
+	<projectiles>
+		<projectile count="4" fake="false">fr_flak_gold_chaos</projectile>
+	</projectiles>
+	<launchSounds>
+		<sound>flak</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>flakImpact1</sound>
+		<sound>flakImpact2</sound>
+		<sound>flakImpact3</sound>
+		<sound>flakImpact4</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>fr_golden_flak_chaos</weaponArt> 
+	<iconImage>flak</iconImage>
+</weaponBlueprint>
+
+
+<!-- 
+**********************************************************************************************************************
+                                         COPPER DRONES
+**********************************************************************************************************************
+-->
+
+<droneBlueprint name="FR_COPPER_COMBAT_LASER">
+    <type>COMBAT</type>
+    <tip>tip_ancient</tip>
+    <title>Copper Terminator Drone Mk. I</title>
+    <short>Term. I</short>
+    <desc>1 hull damage, 2 system damage, 20% Fire chance, 1 Projectiles. Can be upgraded with the Tinkerer's Shield Augment.</desc>
+    <power>1</power>
+    <cooldown>1000</cooldown>
+    <dodge>0</dodge>
+    <speed>8</speed>
+    <cost>25</cost>
+    <bp>3</bp>
+    <droneImage>drone_fr_copper_laser_1</droneImage>
+    <weaponBlueprint>FR_COPPER_DRONE_LASER</weaponBlueprint>
+    <rarity>0</rarity>
+    <iconImage>combat</iconImage>
+</droneBlueprint>
+
+<weaponBlueprint name="FR_COPPER_DRONE_LASER">
+	<type>LASER</type>
+	<flavorType>Ancient Tech</flavorType>
+	<title>Ancient Laser</title>
+	<short>A. Laser</short>
+	<tip>tip_laser</tip>
+	<desc>DRONE WEAPON</desc>
+	<tooltip>DRONE WEAPON</tooltip>
+	<damage>1</damage>
+	<sysDamage>1</sysDamage>
+	<shots>1</shots>
+	<sp>0</sp>
+	<fireChance>2</fireChance>
+	<breachChance>0</breachChance>
+	<cost>50</cost>
+	<rarity>0</rarity>
+	<image>fr_laser_copper</image>
+	<launchSounds>
+		<sound>ancient_laser</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull1</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>fr_commonwealth_laser</weaponArt>
+	<iconImage>heavyL</iconImage>
+</weaponBlueprint>
+
+<droneBlueprint name="FR_COPPER_COMBAT_LASER_2">
+    <type>COMBAT</type>
+    <tip>tip_ancient</tip>
+    <title>Copper Terminator Drone Mk. II</title>
+    <short>Term. II</short>
+    <desc>1 hull damage, 3 system damage, 50% Fire chance, 1 Projectiles. Can be upgraded with the Tinkerer's Shield Augment.</desc>
+    <power>2</power>
+    <cooldown>1000</cooldown>
+    <dodge>0</dodge>
+    <speed>12</speed>
+    <cost>50</cost>
+    <bp>3</bp>
+    <droneImage>drone_fr_copper_laser_2</droneImage>
+    <weaponBlueprint>FR_COPPER_DRONE_LASER_2</weaponBlueprint>
+    <rarity>0</rarity>
+    <iconImage>combat</iconImage>
+</droneBlueprint>
+
+<weaponBlueprint name="FR_COPPER_DRONE_LASER_2">
+	<type>LASER</type>
+	<flavorType>Ancient Tech</flavorType>
+	<title>Ancient Laser</title>
+	<short>A. Laser</short>
+	<tip>tip_laser</tip>
+	<desc>DRONE WEAPON</desc>
+	<tooltip>DRONE WEAPON</tooltip>
+	<damage>1</damage>
+	<sysDamage>2</sysDamage>
+	<shots>1</shots>
+	<sp>0</sp>
+	<fireChance>5</fireChance>
+	<breachChance>0</breachChance>
+	<cost>50</cost>
+	<rarity>0</rarity>
+	<image>fr_laser_copper</image>
+	<launchSounds>
+		<sound>ancient_laser</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull1</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>fr_commonwealth_laser</weaponArt>
+	<iconImage>heavyL</iconImage>
+</weaponBlueprint>
+
+<droneBlueprint name="FR_COPPER_COMBAT_LASER_3">
+    <type>COMBAT</type>
+    <tip>tip_ancient</tip>
+    <title>Copper Terminator Drone Mk. III</title>
+    <short>Term. III</short>
+    <desc>1 hull damage, 3 system damage, 60% Fire chance, 3 Projectiles, 60 Radius. Can be upgraded with the Tinkerer's Shield Augment.</desc>
+    <power>3</power>
+    <cooldown>1000</cooldown>
+    <dodge>0</dodge>
+    <speed>17</speed>
+    <cost>50</cost>
+    <bp>3</bp>
+    <droneImage>drone_fr_copper_laser_3</droneImage>
+    <weaponBlueprint>FR_COPPER_DRONE_LASER_3</weaponBlueprint>
+    <rarity>0</rarity>
+    <iconImage>combat</iconImage>
+</droneBlueprint>
+
+<weaponBlueprint name="FR_COPPER_DRONE_LASER_3">
+	<type>BURST</type>
+	<flavorType>Ancient Tech</flavorType>
+	<title>Ancient Laser</title>
+	<short>A. Laser</short>
+	<tip>tip_laser</tip>
+	<desc>DRONE WEAPON</desc>
+	<tooltip>DRONE WEAPON</tooltip>
+	<damage>1</damage>
+	<sysDamage>2</sysDamage>
+	<shots>1</shots>
+	<radius>60</radius>
+	<speed>10</speed>
+	<spin>0</spin>
+	<sp>0</sp>
+	<fireChance>6</fireChance>
+	<breachChance>0</breachChance>
+	<cost>50</cost>
+	<rarity>0</rarity>
+		<projectiles>
+		<projectile count="1" fake="false">fr_flak_copper_large</projectile>
+		<projectile count="1" fake="false">fr_flak_copper_med</projectile>
+		<projectile count="1" fake="false">fr_flak_copper_small</projectile>
+	</projectiles>
+	<launchSounds>
+		<sound>ancient_laser</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>flakImpact1</sound>
+		<sound>flakImpact2</sound>
+		<sound>flakImpact3</sound>
+		<sound>flakImpact4</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>fr_commonwealth_laser</weaponArt>
+	<iconImage>heavyL</iconImage>
+</weaponBlueprint>
+
+<droneBlueprint name="FR_COPPER_COMBAT_LASER_4">
+    <type>COMBAT</type>
+    <tip>tip_ancient</tip>
+    <title>Copper Terminator Drone Mk. IV</title>
+    <short>Term. IV</short>
+    <desc>2 damage, 70% Fire chance, 5 Projectiles, 70 Radius.</desc>
+    <power>4</power>
+    <cooldown>1000</cooldown>
+    <dodge>0</dodge>
+    <speed>20</speed>
+    <cost>100</cost>
+    <bp>3</bp>
+    <droneImage>drone_fr_copper_laser_4</droneImage>
+    <weaponBlueprint>FR_COPPER_DRONE_LASER_4</weaponBlueprint>
+    <rarity>0</rarity>
+    <iconImage>combat</iconImage>
+</droneBlueprint>
+
+<weaponBlueprint name="FR_COPPER_DRONE_LASER_4">
+	<type>BURST</type>
+	<flavorType>Ancient Tech</flavorType>
+	<title>Ancient Laser</title>
+	<short>A. Laser</short>
+	<tip>tip_laser</tip>
+	<desc>DRONE WEAPON</desc>
+	<tooltip>DRONE WEAPON</tooltip>
+	<damage>2</damage>
+	<shots>1</shots>
+	<radius>70</radius>
+	<speed>15</speed>
+	<spin>0</spin>
+	<sp>0</sp>
+	<fireChance>7</fireChance>
+	<breachChance>0</breachChance>
+	<cost>50</cost>
+	<rarity>0</rarity>
+	<projectiles>
+		<projectile count="1" fake="false">fr_flak_copper_large</projectile>
+		<projectile count="2" fake="false">fr_flak_copper_med</projectile>
+		<projectile count="2" fake="false">fr_flak_copper_small</projectile>
+	</projectiles>
+	<launchSounds>
+		<sound>ancient_laser</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>flakImpact1</sound>
+		<sound>flakImpact2</sound>
+		<sound>flakImpact3</sound>
+		<sound>flakImpact4</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>fr_commonwealth_laser</weaponArt>
+	<iconImage>heavyL</iconImage>
+</weaponBlueprint>
+
+<droneBlueprint name="FR_COPPER_COMBAT_BEAM">
+    <type>COMBAT</type>
+    <tip>tip_ancient</tip>
+    <title>Copper Atomizer Drone Mk. I</title>
+    <short>Atom. I</short>
+    <desc>1 damage, 10% Fire chance, 100 Beam length, 5 Beam speed, Can be upgraded with the Tinkerer's Shield Augment.</desc>
+    <power>1</power>
+    <cooldown>1000</cooldown>
+    <dodge>0</dodge>
+    <speed>8</speed>
+    <cost>25</cost>
+    <bp>3</bp>
+    <droneImage>drone_fr_copper_beam_1</droneImage>
+    <weaponBlueprint>FR_COPPER_DRONE_BEAM</weaponBlueprint>
+    <rarity>0</rarity>
+    <iconImage>combat</iconImage>
+</droneBlueprint>
+
+<weaponBlueprint name="FR_COPPER_DRONE_BEAM">
+	<type>BEAM</type>
+	<flavorType>Ancient Tech</flavorType>
+	<title>Ancient Beam</title>
+	<short>A. Beam</short>
+	<tip>tip_laser</tip>
+	<desc>DRONE WEAPON</desc>
+	<tooltip>DRONE WEAPON</tooltip>
+	<damage>1</damage>
+	<sp>0</sp>
+	<speed>5</speed>
+	<length>100</length>
+	<fireChance>1</fireChance>
+	<breachChance>0</breachChance>
+	<cost>50</cost>
+	<rarity>0</rarity>
+	<image>beam_contact</image>
+	<color>
+		<r>0</r>
+		<g>255</g>
+		<b>242</b>
+	</color>
+	<launchSounds>
+		<sound>beam1</sound>
+		<sound>beam1_2</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull1</sound>
+	</hitShipSounds>
+	<weaponArt>fr_commonwealth_beam</weaponArt>
+</weaponBlueprint>
+
+<droneBlueprint name="FR_COPPER_COMBAT_BEAM_2">
+    <type>COMBAT</type>
+    <tip>tip_ancient</tip>
+    <title>Copper Atomizer Drone Mk. II</title>
+    <short>Atom. II</short>
+    <desc>1 Hull damage, 2 System damage, 20% Fire chance, 100 Beam length, 10 Beam speed, Can be upgraded with the Tinkerer's Shield Augment.</desc>
+    <power>2</power>
+    <cooldown>1000</cooldown>
+    <dodge>0</dodge>
+    <speed>12</speed>
+    <cost>110</cost>
+    <bp>3</bp>
+    <droneImage>drone_fr_copper_beam_2</droneImage>
+    <weaponBlueprint>FR_COPPER_DRONE_BEAM_2</weaponBlueprint>
+    <rarity>0</rarity>
+    <iconImage>combat</iconImage>
+</droneBlueprint>
+
+<weaponBlueprint name="FR_COPPER_DRONE_BEAM_2">
+	<type>BEAM</type>
+	<flavorType>Ancient Tech</flavorType>
+	<title>Ancient Beam</title>
+	<short>A. Beam</short>
+	<tip>tip_laser</tip>
+	<desc>DRONE WEAPON</desc>
+	<tooltip>DRONE WEAPON</tooltip>
+	<damage>1</damage>
+	<sysDamage>1</sysDamage>
+	<sp>0</sp>
+	<speed>10</speed>
+	<length>100</length>
+	<fireChance>2</fireChance>
+	<breachChance>0</breachChance>
+	<cost>25</cost>
+	<rarity>0</rarity>
+	<image>beam_contact</image>
+	<color>
+		<r>0</r>
+		<g>255</g>
+		<b>242</b>
+	</color>
+	<launchSounds>
+		<sound>beam1</sound>
+		<sound>beam1_2</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull1</sound>
+	</hitShipSounds>
+	<weaponArt>fr_commonwealth_beam</weaponArt>
+</weaponBlueprint>
+
+<droneBlueprint name="FR_COPPER_COMBAT_BEAM_3">
+    <type>COMBAT</type>
+    <tip>tip_ancient</tip>
+    <title>Copper Atomizer Drone Mk. III</title>
+    <short>Atom. III</short>
+	<desc>2 damage, -2 shield pierce, 30% Fire chance, 120 Beam length, 10 Beam speed, Can be upgraded with the Tinkerer's Shield Augment.</desc>
+    <power>3</power>
+    <cooldown>1000</cooldown>
+    <dodge>0</dodge>
+    <speed>20</speed>
+    <cost>205</cost>
+    <bp>3</bp>
+    <droneImage>drone_fr_copper_beam_3</droneImage>
+    <weaponBlueprint>FR_COPPER_DRONE_BEAM_3</weaponBlueprint>
+    <rarity>0</rarity>
+    <iconImage>combat</iconImage>
+</droneBlueprint>
+
+<weaponBlueprint name="FR_COPPER_DRONE_BEAM_3">
+	<type>BEAM</type>
+	<flavorType>Ancient Tech</flavorType>
+	<title>Ancient Beam</title>
+	<short>A. Beam</short>
+	<tip>tip_laser</tip>
+	<desc>DRONE WEAPON</desc>
+	<tooltip>DRONE WEAPON</tooltip>
+	<damage>2</damage>
+	<sp>-2</sp>
+	<speed>10</speed>
+	<length>120</length>
+	<fireChance>3</fireChance>
+	<breachChance>0</breachChance>
+	<cost>50</cost>
+	<rarity>0</rarity>
+	<image>beam_contact</image>
+	<color>
+		<r>0</r>
+		<g>255</g>
+		<b>242</b>
+	</color>
+	<launchSounds>
+		<sound>beam1</sound>
+		<sound>beam1_2</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull1</sound>
+	</hitShipSounds>
+	<weaponArt>fr_commonwealth_beam</weaponArt>
+</weaponBlueprint>
+
+<droneBlueprint name="FR_COPPER_COMBAT_BEAM_4">
+    <type>COMBAT</type>
+    <tip>tip_ancient</tip>
+    <title>Copper Atomizer Drone Mk. IV</title>
+    <short>Atom. IV</short>
+    <desc>2 Hull damage, 4 System damage, 100% Fire chance, 150 Beam length, 15 Beam speed.</desc>
+    <power>4</power>
+    <cooldown>1000</cooldown>
+    <dodge>0</dodge>
+    <speed>25</speed>
+    <cost>205</cost>
+    <bp>3</bp>
+    <droneImage>drone_fr_copper_beam_4</droneImage>
+    <weaponBlueprint>FR_COPPER_DRONE_BEAM_4</weaponBlueprint>
+    <rarity>0</rarity>
+    <iconImage>combat</iconImage>
+</droneBlueprint>
+
+<weaponBlueprint name="FR_COPPER_DRONE_BEAM_4">
+	<type>BEAM</type>
+	<flavorType>Ancient Beam</flavorType>
+	<title>Ancient Beam</title>
+	<short>A. Laser</short>
+	<tip>tip_laser</tip>
+	<desc>DRONE WEAPON</desc>
+	<tooltip>DRONE WEAPON</tooltip>
+	<damage>2</damage>
+	<sysDamage>-1</sysDamage>
+	<sp>0</sp>
+	<speed>15</speed>
+	<length>150</length>
+	<fireChance>10</fireChance>
+	<breachChance>0</breachChance>
+	<cost>250</cost>
+	<rarity>0</rarity>
+	<image>beam_contact</image>
+	<color>
+		<r>0</r>
+		<g>255</g>
+		<b>242</b>
+	</color>
+	<launchSounds>
+		<sound>beam1</sound>
+		<sound>beam1_2</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull1</sound>
+	</hitShipSounds>
+	<weaponArt>fr_commonwealth_beam</weaponArt>
+</weaponBlueprint>
+
+<droneBlueprint name="FR_COPPER_DEFENSE_PROJECTILE">
+	<type>DEFENSE</type>
+	<target>LASERS</target>
+	<tip>tip_defense</tip>
+	<title>Copper Nightwatch [P]</title>
+	<short>Nightwatch [P]</short>
+	<desc>This defense drone shoots down projectiles by shooting bursts of projectiles against incoming targets. 8 Projectiles, 100 Projectile speed.
+	Reload: 200 MS</desc>
+	<power>3</power>
+	<cooldown>200</cooldown>
+	<dodge>0</dodge>
+	<speed>18</speed>
+	<cost>100</cost>
+	<bp>2</bp>
+	<droneImage>drone_fr_copper_defense_projectile</droneImage>
+	<weaponBlueprint>FR_COPPER_DRONE_DEFENSE</weaponBlueprint>
+	<iconImage>defense</iconImage>
+	<rarity>0</rarity>
+</droneBlueprint>
+
+<droneBlueprint name="FR_COPPER_DEFENSE_DRONE">
+	<type>DEFENSE</type>
+	<target>DRONES</target>
+	<tip>tip_defense</tip>
+	<title>Copper Nightwatch [D]</title>
+	<short>Nightwatch [D]</short>
+	<desc>This defense drone shoots down drones by shooting bursts of projectiles against incoming targets. 8 Projectiles, 100 Projectile speed.
+	Reload: 200 MS</desc>
+	<power>3</power>
+	<cooldown>200</cooldown>
+	<dodge>0</dodge>
+	<speed>18</speed>
+	<cost>100</cost>
+	<bp>2</bp>
+	<droneImage>drone_fr_copper_defense_drone</droneImage>
+	<weaponBlueprint>FR_COPPER_DRONE_DEFENSE</weaponBlueprint>
+	<iconImage>defense</iconImage>
+	<rarity>0</rarity>
+</droneBlueprint>
+
+<weaponBlueprint name="FR_COPPER_DRONE_DEFENSE">
+	<type>BURST</type>
+	<flavorType>Ancient Tech</flavorType>
+	<title>Ancient Laser</title>
+	<short>A. Laser</short>
+	<tip>tip_laser</tip>
+	<desc>DRONE WEAPON</desc>
+	<tooltip>DRONE WEAPON</tooltip>
+	<damage>2</damage>
+	<sysDamage>1</sysDamage>
+	<speed>100</speed>
+	<shots>1</shots>
+	<sp>0</sp>
+	<stun>2</stun>
+	<fireChance>5</fireChance>
+	<breachChance>5</breachChance>
+	<stunChance>10</stunChance>
+	<hullBust>1</hullBust>
+	<cost>190</cost>
+	<rarity>0</rarity>
+	<projectiles>
+		<projectile count="8" fake="false">fr_laser_copper</projectile>
+	</projectiles>
+	<launchSounds>
+		<sound>ancient_laser</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull1</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>fr_commonwealth_laser</weaponArt>
+	<iconImage>heavyL</iconImage>
+</weaponBlueprint>
+
+<droneBlueprint name="FR_COPPER_COMBAT_MISSILE">
+    <type>COMBAT</type>
+    <tip>tip_ancient</tip>
+    <title>Copper Obliterator Drone Mk. I</title>
+    <short>Oblit. I</short>
+    <desc>1 Hull damage, 2 System damage, Hullbuster, 50% Fire chance, 1 Projectiles, Pierces all shields, Doesn't consume missiles. Can't be shot down by enemy defense drones. Can be upgraded with the Tinkerer's Shield Augment.</desc>
+    <power>2</power>
+    <cooldown>1000</cooldown>
+    <dodge>100</dodge>
+    <speed>10</speed>
+    <cost>50</cost>
+    <bp>3</bp>
+    <droneImage>drone_fr_copper_missile_1</droneImage>
+    <weaponBlueprint>FR_COPPER_DRONE_MISSILE</weaponBlueprint>
+    <rarity>0</rarity>
+    <iconImage>combat</iconImage>
+</droneBlueprint>
+
+<weaponBlueprint name="FR_COPPER_DRONE_MISSILE">
+	<type>MISSILES</type>
+	<tip>tip_missiles</tip>
+	<flavorType>Ancient Tech</flavorType>
+	<title>Ancient Missiles</title>
+	<short>A. Missile</short>
+	<desc>An ancient Missile Launcher, far out-dating any launcher you've ever seen.</desc>
+	<tooltip>Fires 1 missile; does 1 damage to hull and 2 to systems; pierces all shields.</tooltip>
+	<damage>1</damage>
+	<sysDamage>1</sysDamage>
+	<missiles>0</missiles>
+	<shots>1</shots>
+	<sp>10</sp>
+	<fireChance>5</fireChance>
+	<breachChance>0</breachChance>
+	<hullBust>1</hullBust>
+	<cost>100</cost>
+	<rarity>0</rarity>
+	<image>fr_missile_drone_copper</image>
+	<launchSounds>
+		<sound>ancient_missile</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>smallExplosion</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>ancient_missiles</weaponArt>
+	<iconImage>missile</iconImage>
+</weaponBlueprint>
+
+<droneBlueprint name="FR_COPPER_COMBAT_MISSILE_2">
+    <type>COMBAT</type>
+    <tip>tip_ancient</tip>
+    <title>Copper Obliterator Drone Mk. II</title>
+    <short>Oblit. II</short>
+    <desc>3 damage, Hullbuster, 100% Fire chance, 1 Projectiles, Pierces all shields, Can't be shot down by enemy defense drones. Doesn't consume missiles.</desc>
+    <power>4</power>
+    <cooldown>1000</cooldown>
+    <dodge>100</dodge>
+    <speed>15</speed>
+    <cost>205</cost>
+    <bp>3</bp>
+    <droneImage>drone_fr_copper_missile_2</droneImage>
+    <weaponBlueprint>FR_COPPER_DRONE_MISSILE_2</weaponBlueprint>
+    <rarity>0</rarity>
+    <iconImage>combat</iconImage>
+</droneBlueprint>
+
+<weaponBlueprint name="FR_COPPER_DRONE_MISSILE_2">
+	<type>MISSILES</type>
+	<tip>tip_missiles</tip>
+	<flavorType>Ancient Tech</flavorType>
+	<title>Ancient Missiles</title>
+	<short>A. Missile</short>
+	<desc>An ancient Missile Launcher, far out-dating any launcher you've ever seen.</desc>
+	<tooltip>Fires 1 missile; does 3 damage; pierces all shields.</tooltip>
+	<damage>3</damage>
+	<missiles>0</missiles>
+	<shots>1</shots>
+	<sp>10</sp>
+	<fireChance>10</fireChance>
+	<breachChance>0</breachChance>
+	<hullBust>1</hullBust>
+	<cost>100</cost>
+	<rarity>0</rarity>
+	<image>fr_missile_drone_copper</image>
+	<launchSounds>
+		<sound>ancient_missile</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>smallExplosion</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>ancient_missiles</weaponArt>
+	<iconImage>missile</iconImage>
+</weaponBlueprint>
+
+<droneBlueprint name="FR_COPPER_COMBAT_ION">
+    <type>COMBAT</type>
+    <tip>tip_ancient</tip>
+    <title>Copper Disabler Drone Mk. I</title>
+    <short>Dis. I</short>
+    <desc>1 Ion and system damage, 10% Fire chance, 1 Projectiles. Can be upgraded with the Tinkerer's Shield Augment.</desc>
+    <power>1</power>
+    <cooldown>1000</cooldown>
+    <dodge>3</dodge>
+    <speed>8</speed>
+    <cost>25</cost>
+    <bp>3</bp>
+    <droneImage>drone_fr_copper_ion_1</droneImage>
+    <weaponBlueprint>FR_COPPER_DRONE_ION</weaponBlueprint>
+    <rarity>0</rarity>
+    <iconImage>combat</iconImage>
+</droneBlueprint>
+
+<weaponBlueprint name="FR_COPPER_DRONE_ION">
+	<type>LASER</type>
+	<flavorType>Ancient Tech</flavorType>
+	<title>Ancient Ion</title>
+	<short>A. Ion</short>
+	<tip>tip_laser</tip>
+	<desc>DRONE WEAPON</desc>
+	<tooltip>DRONE WEAPON</tooltip>
+	<damage>0</damage>
+	<sysDamage>1</sysDamage>
+	<ion>1</ion>
+	<shots>1</shots>
+	<sp>0</sp>
+	<fireChance>1</fireChance>
+	<breachChance>0</breachChance>
+	<cost>50</cost>
+	<rarity>0</rarity>
+	<image>fr_energy_copper</image>
+	<explosion>explosion_energy</explosion>
+	<launchSounds>
+		<sound>ancient_ion</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull1</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>ancient_laser</weaponArt>
+	<iconImage>heavyL</iconImage>
+</weaponBlueprint>
+
+<droneBlueprint name="FR_COPPER_COMBAT_ION_2">
+    <type>COMBAT</type>
+    <tip>tip_ancient</tip>
+    <title>Copper Disabler Drone Mk. II</title>
+    <short>Dis. II</short>
+    <desc>1 Ion and system damage, 20% Fire chance, 1 Projectiles, 10% Accuracy. Can be upgraded with the Tinkerer's Shield Augment.</desc>
+    <power>2</power>
+    <cooldown>1000</cooldown>
+    <dodge>3</dodge>
+    <speed>12</speed>
+    <cost>110</cost>
+    <bp>3</bp>
+    <droneImage>drone_fr_copper_ion_2</droneImage>
+    <weaponBlueprint>FR_COPPER_DRONE_ION_2</weaponBlueprint>
+    <rarity>0</rarity>
+    <iconImage>combat</iconImage>
+</droneBlueprint>
+
+<weaponBlueprint name="FR_COPPER_DRONE_ION_2">
+	<type>LASER</type>
+	<flavorType>Ancient Tech</flavorType>
+	<title>Ancient Ion</title>
+	<short>A. Ion</short>
+	<tip>tip_laser</tip>
+	<desc>DRONE WEAPON</desc>
+	<tooltip>DRONE WEAPON</tooltip>
+	<damage>0</damage>
+	<sysDamage>1</sysDamage>
+	<ion>1</ion>
+	<accuracyMod>10</accuracyMod>
+	<shots>1</shots>
+	<sp>0</sp>
+	<fireChance>2</fireChance>
+	<breachChance>0</breachChance>
+	<cost>70</cost>
+	<rarity>0</rarity>
+	<image>fr_energy_copper</image>
+	<explosion>explosion_energy</explosion>
+	<launchSounds>
+		<sound>ancient_ion</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull1</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>ancient_laser</weaponArt>
+	<iconImage>heavyL</iconImage>
+</weaponBlueprint>
+
+<droneBlueprint name="FR_COPPER_COMBAT_ION_3">
+    <type>COMBAT</type>
+    <tip>tip_ancient</tip>
+    <title>Copper Disabler Drone Mk. III</title>
+    <short>Dis. III</short>
+	<desc>2 System and Ion damage, 50% Fire chance, 1 Projectiles, 20% Accuracy. Can be upgraded with the Tinkerer's Shield Augment.</desc>
+    <power>3</power>
+    <cooldown>1000</cooldown>
+    <dodge>3</dodge>
+    <speed>15</speed>
+    <cost>205</cost>
+    <bp>3</bp>
+    <droneImage>drone_fr_copper_ion_3</droneImage>
+    <weaponBlueprint>FR_COPPER_DRONE_ION_3</weaponBlueprint>
+    <rarity>0</rarity>
+    <iconImage>combat</iconImage>
+</droneBlueprint>
+
+<weaponBlueprint name="FR_COPPER_DRONE_ION_3">
+	<type>LASER</type>
+	<flavorType>Ancient Tech</flavorType>
+	<title>Ancient Ion</title>
+	<short>A. Ion</short>
+	<tip>tip_laser</tip>
+	<desc>DRONE WEAPON</desc>
+	<tooltip>DRONE WEAPON</tooltip>
+	<sysDamage>2</sysDamage>
+	<ion>2</ion>
+	<accuracyMod>20</accuracyMod>
+	<shots>1</shots>
+	<sp>0</sp>
+	<fireChance>3</fireChance>
+	<breachChance>0</breachChance>
+	<cost>70</cost>
+	<rarity>0</rarity>
+	<image>fr_energy_copper</image>
+	<explosion>explosion_energy</explosion>
+	<launchSounds>
+		<sound>ancient_ion</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull1</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>ancient_laser</weaponArt>
+	<iconImage>heavyL</iconImage>
+</weaponBlueprint>
+
+<droneBlueprint name="FR_COPPER_COMBAT_ION_4">
+    <type>COMBAT</type>
+    <tip>tip_ancient</tip>
+    <title>Copper Disabler Drone Mk. IV</title>
+    <short>Dis. IV</short>
+    <desc>2 Ion and System Damage, 100% Fire chance, 1 Projectiles, 100% Accuracy.</desc>
+    <power>4</power>
+    <cooldown>1000</cooldown>
+    <dodge>3</dodge>
+    <speed>20</speed>
+    <cost>250</cost>
+    <bp>3</bp>
+    <droneImage>drone_fr_copper_ion_4</droneImage>
+    <weaponBlueprint>FR_COPPER_DRONE_ION_4</weaponBlueprint>
+    <rarity>0</rarity>
+    <iconImage>combat</iconImage>
+</droneBlueprint>
+
+<weaponBlueprint name="FR_COPPER_DRONE_ION_4">
+	<type>LASER</type>
+	<flavorType>Ancient Tech</flavorType>
+	<title>Ancient Ion</title>
+	<short>A. Ion</short>
+	<tip>tip_laser</tip>
+	<desc>DRONE WEAPON</desc>
+	<tooltip>DRONE WEAPON</tooltip>
+	<sysDamage>2</sysDamage>
+	<ion>2</ion>
+	<accuracyMod>100</accuracyMod>
+	<shots>1</shots>
+	<sp>0</sp>
+	<fireChance>10</fireChance>
+	<breachChance>0</breachChance>
+	<cost>70</cost>
+	<rarity>0</rarity>
+	<image>fr_energy_copper</image>
+	<explosion>explosion_energy</explosion>
+	<launchSounds>
+		<sound>ancient_ion</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull1</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>ancient_laser</weaponArt>
+	<iconImage>heavyL</iconImage>
+</weaponBlueprint>
+
+<!-- COPPER BOARDING DRONE -->
+<crewBlueprint name="fr_copper_battledrone_1">
+	<title>Copper Boarding Drone</title>
+	<short>Copper Drone</short>
+	<desc>YOU SHOULD NEVER SEE THIS.</desc>
+	<cost>0</cost>
+	<rarity>0</rarity>
+	<powerList>
+		<power>DRONE</power>
+	</powerList>
+</crewBlueprint>
+<droneBlueprint name="FR_COPPER_BOARDING_DRONE">
+	<type>BOARDER</type>
+	<tip>tip_crew</tip>
+	<locked>1</locked>
+	<title>Copper Boarding Drone Mk.I</title>
+	<short>C. B. Drone</short>
+	<desc>While not very powerful right now, this drone can become a powerhouse after enough drone parts. Can be upgraded with the Tinkerer's Shield Augment.
+    
+-Periodic Ability: Starts a fire in the current room
+-110 HP, x0.5 movement speed
+-1.5x crew damage, Takes no damage from hazards and can't be stunned.</desc>
+	<power>2</power>
+	<speed>15</speed>
+	<cost>100</cost>
+	<rarity>0</rarity>
+	<iconImage>boarder</iconImage>
+</droneBlueprint>
+
+<crewBlueprint name="fr_copper_battledrone_2">
+	<title>Copper Boarding Drone 2</title>
+	<short>Copper Drone 2</short>
+	<desc>YOU SHOULD NEVER SEE THIS.</desc>
+	<cost>0</cost>
+	<rarity>0</rarity>
+	<powerList>
+		<power>DRONE</power>
+	</powerList>
+</crewBlueprint>
+<droneBlueprint name="FR_COPPER_BOARDING_DRONE_2">
+	<type>BOARDER</type>
+	<tip>tip_crew</tip>
+	<locked>1</locked>
+	<title>Copper Boarding Drone Mk.II</title>
+	<short>C. Drone MK II</short>
+	<desc>A massively powerful boarding drone can can spawn as many fires as it needs.
+    
+-Periodic Ability: Starts a fire in the current room.
+-200 HP, x0.8 movement speed
+-2x crew damage, slightly heals in fire.</desc>
+	<power>4</power>
+	<speed>10</speed>
+	<cost>160</cost>
+	<rarity>0</rarity>
+	<iconImage>boarder</iconImage>
+</droneBlueprint>
+
+<!-- 
+**********************************************************************************************************************
+                                         AUGMENTS
+**********************************************************************************************************************
+-->
+
+<augBlueprint name="FR_ALLOY_SHIELD">
+	<title>Alloy Shielding</title>
+	<desc>The perfected unity of every major diamond group, being so versatile that it can do the same function as the: Shields of Opulence, Tinkerer's Shields or Flesh Maker.
+	
+	Has an integrity of 5 hitpoints, grants +10% scrap gain, returns used combat drones and doubles the enemy's FTL charge time.</desc>
+	<cost>205</cost>
+	<bp>15</bp>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+
+<augBlueprint name="FR_ALLOY_WIRES">
+	<title>Alloy Wires</title>
+	<desc>Robotic crew and crew drones are retrofit with a extremely advanced wires with alloys from all 3 major operator groups, raising their damage, repair, sabotage, health and healing speed by 15%.</desc>
+	<cost>205</cost>
+	<bp>15</bp>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+
+<augBlueprint name="FR_ALLOY_BOTS">
+	<title>Alloy Bots</title>
+	<desc>This augment dispenses nanobots which attack enemy crew by heating up their skin before breaking it down in a molecular level, while also removing their suffocation immunity and healing your crew.
+	
+	Deals 2 damage per second to enemy boarders and makes them take 20% more suffocation damage, your crew is also healed by 2 hp/s, with all those effects scaling with your oxygen level.</desc>
+	<cost>205</cost>
+	<bp>15</bp>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+
+<augBlueprint name="FR_GOLDEN_SHIELD_1">
+	<title>Shields of Opulence</title>
+	<desc>[LEVEL 1] This exotic shield seems to attract scrap in high amounts, it's hunger for money somehow making it stronger the more it feeds. Boosts scrap gain by 50% and allows the breaking of resources into scrap, Currently has a total of 3 shield HP, can have it's shield HP upgraded with high amounts of scrap. Can be increased up to a max of 13 total HP.</desc>
+	<cost>100</cost>
+	<bp>15</bp>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+<augBlueprint name="FR_GOLDEN_SHIELD_2">
+	<title>Shields of Opulence</title>
+	<desc>[LEVEL 2] This exotic shield seems to attract scrap in high amounts, it's hunger for money somehow making it stronger the more it feeds. Boosts scrap gain by 50% and allows the breaking of resources into scrap, Currently has a total of 4 shield HP, can have it's shield HP upgraded with high amounts of scrap. Can be increased up to a max of 13 total HP.</desc>
+	<cost>125</cost>
+	<bp>8</bp>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+<augBlueprint name="FR_GOLDEN_SHIELD_3">
+	<title>Shields of Opulence</title>
+	<desc>[LEVEL 3] This exotic shield seems to attract scrap in high amounts, it's hunger for money somehow making it stronger the more it feeds. Boosts scrap gain by 50% and allows the breaking of resources into scrap, Currently has a total of 5 shield HP, can have it's shield HP upgraded with high amounts of scrap. Can be increased up to a max of 13 total HP.</desc>
+	<cost>110</cost>
+	<bp>8</bp>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+<augBlueprint name="FR_GOLDEN_SHIELD_4">
+	<title>Shields of Opulence</title>
+	<desc>[LEVEL 4] This exotic shield seems to attract scrap in high amounts, it's hunger for money somehow making it stronger the more it feeds. Boosts scrap gain by 50% and allows the breaking of resources into scrap, Currently has a total of 6 shield HP, can have it's shield HP upgraded with high amounts of scrap. Can be increased up to a max of 13 total HP.</desc>
+	<cost>240</cost>
+	<bp>8</bp>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+<augBlueprint name="FR_GOLDEN_SHIELD_5">
+	<title>Shields of Opulence</title>
+	<desc>[LEVEL 5] This exotic shield seems to attract scrap in high amounts, it's hunger for money somehow making it stronger the more it feeds. Boosts scrap gain by 50% and allows the breaking of resources into scrap, Currently has a total of 7 shield HP, can have it's shield HP upgraded with high amounts of scrap. Can be increased up to a max of 13 total HP.</desc>
+	<cost>280</cost>
+	<bp>8</bp>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+<augBlueprint name="FR_GOLDEN_SHIELD_6">
+	<title>Shields of Opulence</title>
+	<desc>[LEVEL 6] This exotic shield seems to attract scrap in high amounts, it's hunger for money somehow making it stronger the more it feeds. Boosts scrap gain by 50% and allows the breaking of resources into scrap, Currently has a total of 8 shield HP, can have it's shield HP upgraded with high amounts of scrap. Can be increased up to a max of 13 total HP.</desc>
+	<cost>125</cost>
+	<bp>8</bp>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+<augBlueprint name="FR_GOLDEN_SHIELD_7">
+	<title>Shields of Opulence</title>
+	<desc>[LEVEL 7] This exotic shield seems to attract scrap in high amounts, it's hunger for money somehow making it stronger the more it feeds. Boosts scrap gain by 50% and allows the breaking of resources into scrap, Currently has a total of 9 shield HP, can have it's shield HP upgraded with high amounts of scrap. Can be increased up to a max of 13 total HP.</desc>
+	<cost>220</cost>
+	<bp>8</bp>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+<augBlueprint name="FR_GOLDEN_SHIELD_8">
+	<title>Shields of Opulence</title>
+	<desc>[LEVEL 8] This exotic shield seems to attract scrap in high amounts, it's hunger for money somehow making it stronger the more it feeds. Boosts scrap gain by 50% and allows the breaking of resources into scrap, Currently has a total of 10 shield HP, can have it's shield HP upgraded with high amounts of scrap. Can be increased up to a max of 13 total HP.</desc>
+	<cost>225</cost>
+	<bp>8</bp>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+<augBlueprint name="FR_GOLDEN_SHIELD_9">
+	<title>Shields of Opulence</title>
+	<desc>[LEVEL 9] This exotic shield seems to attract scrap in high amounts, it's hunger for money somehow making it stronger the more it feeds. Boosts scrap gain by 50% and allows the breaking of resources into scrap, Currently has a total of 11 shield HP, can have it's shield HP upgraded with high amounts of scrap. Can be increased up to a max of 13 total HP.</desc>
+	<cost>230</cost>
+	<bp>8</bp>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+<augBlueprint name="FR_GOLDEN_SHIELD_10">
+	<title>Shields of Opulence</title>
+	<desc>[LEVEL 10] This exotic shield seems to attract scrap in high amounts, it's hunger for money somehow making it stronger the more it feeds. Boosts scrap gain by 50% and allows the breaking of resources into scrap, Currently has a total of 12 shield HP, can have it's shield HP upgraded with high amounts of scrap. Can be increased up to a max of 13 total HP.</desc>
+	<cost>235</cost>
+	<bp>8</bp>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+<augBlueprint name="FR_GOLDEN_SHIELD_11">
+	<title>Shields of Opulence</title>
+	<desc>[LEVEL MAX] This exotic shield seems to attract scrap in high amounts. Boosts scrap gain by 50% and allows the breaking of resources into scrap, Currently has its max total shield HP of 13.</desc>
+	<cost>190</cost>
+	<bp>8</bp>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+
+<augBlueprint name="FR_GOLD_WIRES">
+	<title>Gold Wires</title>
+	<desc>Robotic crew and crew drones are retrofit with gold wires, improving their damage, repair and sabotage speed by 50%. 
+	
+	This, however, makes them quite heavy, lowering their speed by 50%.</desc>
+	<cost>280</cost>
+	<bp>8</bp>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+
+<augBlueprint name="FR_TINKERERS_SHIELD">
+	<title>Tinkerer's Shields</title>
+	<desc>A strange piece of aether technology, with 7 hitpoints. This shield can strangely inspire its crew and give them unnatural levels of creativity when designing drones. 
+	
+	It also returns all combat drones used in combat, deals heavy damage to boarding enemy drones and disables enemy's defense drones.
+	
+	Allows you to convert scrap, missiles and fuel into drone parts.</desc>
+	<cost>100</cost>
+	<bp>15</bp>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+
+<augBlueprint name="FR_COPPER_WIRES">
+	<title>Copper Wires</title>
+	<desc>Robotic crew and crew drones are retrofit with copper wires, lowering their damage by half but allowing them to heal crew in the same room by 3 hp/s. 
+	
+	Also allows drones to regenerate 3 hp/s.</desc>
+	<cost>280</cost>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+	<bp>0</bp>
+</augBlueprint>
+
+<augBlueprint name="FR_FIREBOTS">
+	<title>Fire Bots</title>
+	<desc>This augment shoots nanobots which attack enemy crew by heating up their skin before breaking it down in a molecular level, damaging even the toughest rock person. 
+	
+	Deals 3 damage per second to enemy boarders and scales with your oxygen level, each powered level adding 3 more damage.</desc>
+	<cost>110</cost>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+	<bp>0</bp>
+</augBlueprint>
+
+<augBlueprint name="FR_WAR_CRIMINALS_SHIELD">
+	<title>War Criminal's Shields</title>
+	<desc>A strange piece of aether technology, It prevents enemy's FTL drive from working properly as well as functioning like a regular energy shield.</desc>
+	<cost>120</cost>
+	<bp>15</bp>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+
+<augBlueprint name="FR_FLESH_MAKER">
+	<title>The Flesh Maker</title>
+	<desc>This bizarre piece of technology exclusive to the extremely reclusive adamantine Diamonds allows any crew that was previously scanned into the database to be replicated endlessly. 
+	
+	It also allows you to convert resources into fuel and allows your crew to be safe in clone storage even if the system is off, hacked, or broken.
+	
+	Crew registered will remain so forever, even across runs.</desc>
+	<cost>205</cost>
+	<bp>15</bp>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+
+<augBlueprint name="FR_FLESH_MAKER_UNLOCKED">
+	<title>The Flesh Maker</title>
+	<desc>This bizarre piece of technology exclusive to the extremely reclusive adamantine Diamonds allows any crew that was previously scanned into the database to be replicated endlessly. 
+	
+	It also allows you to convert resources into fuel at empty beacons and allows your crew to be safe in clone storage even if the system is off, hacked, or broken.
+	
+	Crew registered will remain so forever, even across runs.</desc>
+	<cost>205</cost>
+	<bp>15</bp>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+
+<augBlueprint name="FR_ADAMANTINE_WIRES">
+	<title>Adamantine Wires</title>
+	<desc>Robotic crew and crew drones are retrofit with adamantine wires, greatly boosting their durability by raising their health by 50% and making them immune to status. 
+	
+	Unfortunately the wires are quite toxic to organic crew, causing them to take 5 damage per second while in the same room as them.</desc>
+	<cost>280</cost>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+	<bp>0</bp>
+</augBlueprint>
+
+<augBlueprint name="FR_TOXIC_ROOMS">
+	<title>Toxic Rooms</title>
+	<desc>This ship's internal rooms and components are filled to the brim with toxic dust and radiation, to the point it strips enemy's suffocation immunity off of them as well as applying a constant affliction to them while in your ship.</desc>
+	<cost>205</cost>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+	<bp>0</bp>
+</augBlueprint>
+
+<!-- 
+**********************************************************************************************************************
+                                         MECHANICAL AUGMENTS
+**********************************************************************************************************************
+-->
+
+<augBlueprint name="FR_SUSTAIN_PROTOCOL">
+	<title>Sustain Protocol</title>
+	<desc>Crew is immune while the medbay is powered.</desc>
+	<cost>450</cost>
+	<bp>8</bp>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+
+
+<augBlueprint name="FR_FORGGOTEN_DIAMOND_WALLACE">
+	<title>Forgotten Diamond Wallace's Store</title>
+	<desc>Grants access to the forgotten diamond store which sells all Forgotten Races things.</desc>
+	<cost>100</cost>
+	<bp>0</bp>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+
+<!-- 
+**********************************************************************************************************************
+                                         SHIP META AUGMENTS
+**********************************************************************************************************************
+-->
+
+<augBlueprint name="FR_SHIP_OPERATOR">
+	<title>Metal Operator</title>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<cost>0</cost>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+	<bp>0</bp>
+</augBlueprint>
+
+<augBlueprint name="FR_SHIP_METAL_DIAMOND">
+	<title>Metal Diamond Cruiser</title>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<cost>0</cost>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+	<bp>0</bp>
+</augBlueprint>
+
+<augBlueprint name="FR_SHIP_METALLANIUS">
+	<title>Metal Lanius Cruiser</title>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<cost>0</cost>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+	<bp>0</bp>
+</augBlueprint>
+
+<!-- 
+**********************************************************************************************************************
+                                         BOON AUGMENTS
+**********************************************************************************************************************
+-->
+
+<augBlueprint name="JUDGE_BOON_FR_METAL_LANIUS">
+    <title>Boon of Alloys</title>
+    <desc>All Metal Lanius Crew resist mind control can see adjacent rooms.</desc>
+    <cost>0</cost>
+    <rarity>0</rarity>
+    <stackable>true</stackable>
+</augBlueprint>
+
+<augBlueprint name="JUDGE_BOON_FR_GOLDEN">
+    <title>Blessing of Opulence</title>
+    <desc>You gain 10% more scrap.</desc>
+    <cost>0</cost>
+    <rarity>0</rarity>
+    <stackable>true</stackable>
+</augBlueprint>
+
+<augBlueprint name="JUDGE_BOON_FR_COPPER">
+    <title>Blessing of Rusting</title>
+    <desc>Your combat drones are recovered after fights if not destroyed.</desc>
+    <cost>0</cost>
+    <rarity>0</rarity>
+    <stackable>true</stackable>
+</augBlueprint>
+
+<augBlueprint name="JUDGE_BOON_FR_ADAMANTINE">
+    <title>Blessing of Cloning</title>
+    <desc>Your crew won't lose skills from being cloned and all start with at least level 1 in all skills.</desc>
+    <cost>0</cost>
+    <rarity>0</rarity>
+    <stackable>true</stackable>
+</augBlueprint>
+
+<augBlueprint name="JUDGE_BOON_FR_DIAMOND">
+    <title>Boon of The Diamonds</title>
+    <desc>Your metal diamond crew can phase through doors and gain 20% movement speed.</desc>
+    <cost>0</cost>
+    <rarity>0</rarity>
+    <stackable>true</stackable>
+</augBlueprint>
+
+<augBlueprint name="JUDGE_BOON_FR_OPERATOR">
+    <title>Boon of The Operators</title>
+    <desc>Your operators will now hack the doors of the room they are standing in while in enemy ships.</desc>
+    <cost>0</cost>
+    <rarity>0</rarity>
+    <stackable>true</stackable>
+</augBlueprint>
+
+<!-- 
+**********************************************************************************************************************
+                                         LAB AUGMENTS
+**********************************************************************************************************************
+-->
+
+<augBlueprint name="FR_LAB_DIAMOND_INSTALLED">
+	<title>Diamond</title>
+	<desc>Diamond upgrade installed.</desc>
+	<cost>0</cost>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+<augBlueprint name="FR_LAB_DIAMOND_FISTITUTE">
+	<title>Fistitude</title>
+	<desc>Diamonds gain double combat damage in exchange of losing 90% of their repair and sabotage speed.</desc>
+	<cost>0</cost>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+<augBlueprint name="FR_LAB_DIAMOND_SYSTEMIC">
+	<title>Systematic</title>
+	<desc>Diamonds gain 50% movement speed and combat damage while in system rooms in their own ship. However they lose 50% of damage and movement speed while in the enemy ship.</desc>
+	<cost>0</cost>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+<augBlueprint name="FR_LAB_DIAMOND_NOXIOUS">
+	<title>Noxious</title>
+	<desc>Diamonds lose the ability to fight crew but gain a damaging aura that deals 3 damage over time to all enemy non diamonds in the same ship as them.</desc>
+	<cost>0</cost>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+
+<augBlueprint name="FR_LAB_OPERATOR_INSTALLED">
+	<title>Operator</title>
+	<desc>Operator upgrade installed.</desc>
+	<cost>0</cost>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+<augBlueprint name="FR_LAB_OPERATOR_PACIFISM_PROTOCOLS">
+	<title>Pacifism Protocols</title>
+	<desc>Operators lose the ability to fight or sabotage but will prevent all crew combat and sabotage while in the same room as them.</desc>
+	<cost>0</cost>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+<augBlueprint name="FR_LAB_OPERATOR_BIO_PROTOCOLS">
+	<title>Anti-Bio Protocols</title>
+	<desc>Operators lose 50% of their damage and instead will heavily debuff enemy crew within the same room as them, lowering their damage by 15% and nullifying any onboard teleportation and healing, as well as preventing crew killed in the same room as them from being able to be cloned.</desc>
+	<cost>0</cost>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+<augBlueprint name="FR_LAB_OPERATOR_BEACON_PROTOCOLS">
+	<title>Beacon Protocols</title>
+	<desc>Operators lose 50% of their health and take 25% more damage in exchange of serving as a mobile teleporting beacon, allowing any friendly crew in the same room as them to teleport to any room they desire, even teleporting directly to enemy ships.</desc>
+	<cost>0</cost>
+	<rarity>0</rarity>
+	<stackable>true</stackable>
+</augBlueprint>
+
+
+<!-- 
+**********************************************************************************************************************
+                                         SHIPS
+**********************************************************************************************************************
+-->
+
+<shipBlueprint name="PLAYER_SHIP_FR_ALLOY" layout="fr_player_alloy_a" img="fr_player_alloy_a">
+	<class>Alloy Pyramid Cruiser</class>
+	<name>The Alloy Joy</name>
+	<unlock>Unlock all metal diamond ships.</unlock>
+	<desc>A perfect union of all the major groups of the metal diamond society, equipped with a unique augment that can mimic any of the signature augments of the metal diamond ships.</desc>
+	<systemList>
+		<artillery max="4" power="1" room="15" start="false" weapon="ARTILLERY_FED" img="room_artillery" />
+		<battery max="2" power="1" room="9" start="false" img="room_battery_fr_13" />
+		<cloaking power="1" room="1" start="false" img="room_cloaking_2" />
+		<clonebay power="1" room="2" start="true">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="14" start="false" img="room_doors">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones max="8" power="1" room="5" start="true" img="room_drones_fr_9" />
+		<engines power="1" room="8" start="true" img="room_engines_2">
+			<slot>
+				<direction>down</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="6" start="false" img="room_hacking_fr_6" />
+		<medbay power="1" room="2" start="false" img="room_medbay">
+			<slot>
+				<number>1</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="7" start="false" img="room_mind_fr_8" />
+		<oxygen power="1" room="16" start="false" img="room_oxygen_fr_1" />
+		<pilot power="2" room="0" start="true" img="room_pilot">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="13" start="false" img="room_sensors">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields max="8" power="2" room="12" start="true" img="room_shields_5">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="4" start="true" />
+		<temporal power="1" room="11" start="false" img="room_temporal_fr_38" />
+		<weapons max="8" power="1" room="10" start="true" img="room_weapons_10">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>3</weaponSlots>
+	<droneSlots>3</droneSlots>
+	<weaponList missiles="0" count="3">
+		<weapon name="FR_GOLDEN_BEAM_1" />
+	</weaponList>
+	<droneList drones="5" count="3">
+		<drone name="FR_COPPER_COMBAT_ION" />
+	</droneList>
+	<health amount="30" />
+	<maxPower amount="6" />
+	<crewCount amount="1" class="fr_golden_diamond" />
+	<crewCount amount="1" class="fr_copper_diamond" />
+	<crewCount amount="1" class="fr_adamantine_diamond" />
+	<aug name="FR_ALLOY_SHIELD" />
+	<mv-mapImage>map_icon_fr_player_alloy_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_FR_ALLOY_2" layout="fr_player_alloy_b" img="fr_player_alloy_b">
+	<class>Alloy Diamond Cruiser</class>
+	<name>Wired Memory</name>
+	<unlock>Unlock all operators ships.</unlock>
+	<desc>A perfect union of all the major groups of the operators, equipped with a unique augment that has the effects of the other wires, though the potency of the effects is reduced.</desc>
+	<systemList>
+		<artillery max="4" power="1" room="7" start="false" weapon="ARTILLERY_FED" img="room_artillery_5" />
+		<battery max="2" power="1" room="6" start="false" img="room_battery_17" />
+		<cloaking power="1" room="11" start="false" img="room_cloaking" />
+		<clonebay power="1" room="12" start="false">
+			<slot>
+				<number>3</number>
+			</slot>
+		</clonebay>
+		<doors power="2" room="5" start="true" img="room_doors">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones max="8" power="4" room="9" start="true" img="room_drones_fr_9" />
+		<engines power="1" room="15" start="true" img="room_engines_2">
+			<slot>
+				<direction>down</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="2" start="false" img="room_hacking_fr_9" />
+		<medbay power="1" room="12" start="false" img="room_medbay_3">
+			<slot>
+				<number>3</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="1" start="false" img="room_mind_4" />
+		<oxygen power="1" room="14" start="false" img="room_oxygen_22" />
+		<pilot power="1" room="8" start="true" img="room_pilot">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="2" room="4" start="true" img="room_sensors">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields max="8" power="2" room="10" start="true" img="room_shields">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="0" start="false" />
+		<temporal power="1" room="13" start="true" img="room_temporal_fr_11" />
+		<weapons max="8" power="2" room="3" start="true" img="room_weapons_fr_1">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>4</droneSlots>
+	<weaponList missiles="10" count="3">
+		<weapon name="FR_GOLDEN_BOMB_1" />
+	</weaponList>
+	<droneList drones="10" count="3">
+		<drone name="FR_COPPER_BOARDING_DRONE_2" />
+	</droneList>
+	<health amount="30" />
+	<maxPower amount="8" />
+	<crewCount amount="1" class="fr_copper_operator" />
+	<crewCount amount="1" class="fr_golden_operator" />
+	<crewCount amount="1" class="fr_adamantine_operator" />
+	<aug name="FR_ALLOY_WIRES" />
+	<mv-mapImage>map_icon_fr_player_alloy_b</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_FR_ALLOY_3" layout="fr_player_alloy_c" img="fr_player_alloy_c">
+	<class>Alloy Lanius Cruiser</class>
+	<name>The Heavy Bots</name>
+	<unlock>Unlock all metal lanius ships.</unlock>
+	<desc>A perfect union of all the major groups of the metal lanius. equipped with a unique augment that gives high benefits if you level your life support system.</desc>
+	<systemList>
+		<artillery max="4" power="1" room="8" start="false" weapon="ARTILLERY_FED" img="room_artillery_3" />
+		<battery max="2" power="1" room="7" start="false" img="room_battery_18" />
+		<cloaking power="2" room="6" start="true" img="room_cloaking" />
+		<clonebay power="1" room="5" start="false">
+			<slot>
+				<number>3</number>
+			</slot>
+		</clonebay>
+		<doors power="2" room="13" start="true" img="room_doors_9">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones max="8" power="1" room="16" start="true" img="room_drones_12" />
+		<engines power="2" room="11" start="true" img="room_engines_2">
+			<slot>
+				<direction>down</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="3" start="false" img="room_hacking_fr_6" />
+		<medbay power="1" room="5" start="false" img="room_medbay_3">
+			<slot>
+				<number>3</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="4" start="false" img="room_mind_fr_8" />
+		<oxygen power="2" room="10" start="true" img="room_oxygen_fr_11" />
+		<pilot power="2" room="0" start="true" img="room_pilot_4">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="12" start="true" img="room_sensors_3">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields max="8" power="2" room="14" start="false" img="room_shields">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="18" start="true" />
+		<temporal power="1" room="15" start="false" img="room_temporal_fr_29" />
+		<weapons max="8" power="2" room="17" start="true" img="room_weapons_3">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>3</weaponSlots>
+	<droneSlots>3</droneSlots>
+	<weaponList missiles="0" count="3">
+		<weapon name="FR_GOLDEN_ION_1" />
+	</weaponList>
+	<droneList drones="15" count="3">
+		<drone name="FR_COPPER_COMBAT_BEAM" />
+	</droneList>
+	<health amount="30" />
+	<maxPower amount="10" />
+	<crewCount amount="1" class="fr_golden_lanius_1" />
+	<crewCount amount="1" class="fr_copper_lanius" />
+	<crewCount amount="1" class="fr_adamantine_lanius" />
+	<aug name="FR_ALLOY_BOTS" />
+	<mv-mapImage>map_icon_fr_player_alloy_c</mv-mapImage>
+</shipBlueprint>
+
+
+<shipBlueprint name="PLAYER_SHIP_FR_METAL_DIAMOND" layout="fr_player_metal_diamond_a" img="fr_player_metal_diamond_a">
+	<class>Metal Pyramid Cruiser</class>
+	<name>Golden Palace</name>
+	<unlock>Clear out the strange golden vessel in the rebel stronghold.</unlock>
+	<desc>This vessel is staffed by the scrap-focused Golden Diamonds. Their ship focuses around acquiring scrap and using it to evolve your weapons and shields.
+	
+	It can't, however, install a drone system.</desc>
+	<systemList>
+		<artillery max="4" power="2" room="6" start="false" weapon="ARTILLERY_BEAM" img="room_artillery_fr_7" />
+		<battery max="2" power="1" room="11" start="false" img="room_battery_16" />
+		<cloaking power="1" room="8" start="false" img="room_cloaking" />
+		<clonebay power="1" room="7" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="1" start="false" img="room_doors">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<engines power="3" room="18" start="true" img="room_engines_8">
+			<slot>
+				<direction>left</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="10" start="false" img="room_hacking_fr_4" />
+		<medbay power="1" room="7" start="true" img="room_medbay_4">
+			<slot>
+				<number>0</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="13" start="false" img="room_mind_fr_5" />
+		<oxygen power="1" room="14" start="false" img="room_oxygen_13" />
+		<pilot power="1" room="0" start="true" img="room_pilot_2">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="2" start="false" img="room_sensors">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields max="4" power="1" room="5" start="true" img="room_shields_9">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="16" start="false" />
+		<temporal power="1" room="17" start="false" img="room_temporal_fr_8" />
+		<weapons max="12" power="2" room="3" start="true" img="room_weapons_9">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>6</weaponSlots>
+	<droneSlots>0</droneSlots>
+	<weaponList missiles="0" count="6">
+		<weapon name="FR_GOLDEN_BEAM_1" />
+		<weapon name="FR_GOLDEN_LASER_1" />
+	</weaponList>
+	<droneList drones="0" count="0" />
+	<health amount="20" />
+	<maxPower amount="5" />
+	<crewCount amount="2" class="fr_golden_diamond"/>
+	<crewCount amount="1" class="fr_golden_operator"/>
+	<aug name="FR_GOLDEN_SHIELD_1" />
+	<mv-mapImage>map_icon_fr_player_alloy_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_FR_METAL_DIAMOND_2" layout="fr_player_metal_diamond_b" img="fr_player_metal_diamond_b">
+	<class>Metal Pyramid Cruiser</class>
+	<name>Dreadful Drones</name>
+	<unlock>Get to Sector 5 with the Type A to unlock this ship.</unlock>
+	<desc>This cruiser is the prime work of art of the Copper Diamond group, a ship exclusively focused on drones, mostly the combat variety.
+	
+	That did mean, however, that the ship can't install a weapon system.</desc>
+	<systemList>
+		<artillery max="4" power="1" room="6" start="false" weapon="ARTILLERY_BEAM" img="room_artillery_4" />
+		<battery max="2" power="1" room="16" start="false" img="room_battery_6" />
+		<cloaking power="3" room="11" start="true" img="room_cloaking_2" />
+		<clonebay power="1" room="14" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="15" start="false" img="room_doors_9">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones max="12" power="2" room="3" start="true" img="room_drones_9" />
+		<engines power="4" room="13" start="true" img="room_engines_7">
+			<slot>
+				<direction>right</direction>
+				<number>3</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="9" start="false" img="room_hacking_9" />
+		<medbay power="1" room="14" start="false" img="room_medbay">
+			<slot>
+				<number>1</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="10" start="false" img="room_mind_4" />
+		<oxygen power="1" room="12" start="false" img="room_oxygen_3" />
+		<pilot power="1" room="0" start="true" img="room_pilot_5">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="1" start="false" img="room_sensors_3">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields max="8" power="2" room="8" start="false" img="room_shields_13">
+			<slot>
+				<direction>down</direction>
+				<number>3</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="7" start="false" />
+		<temporal power="1" room="2" start="false" img="room_temporal_fr_22" />
+	</systemList>
+	<weaponSlots>0</weaponSlots>
+	<droneSlots>6</droneSlots>
+	<weaponList missiles="0" count="0" />
+	<droneList drones="15" count="6">
+		<drone name="FR_COPPER_COMBAT_LASER" />
+		<drone name="FR_COPPER_COMBAT_ION" />
+	</droneList>
+	<health amount="30" />
+	<maxPower amount="9" />
+	<crewCount amount="2" class="fr_copper_diamond" />
+	<crewCount amount="1" class="fr_copper_operator" />
+	<aug name="FR_TINKERERS_SHIELD" />
+	<mv-mapImage>map_icon_fr_player_alloy_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_FR_METAL_DIAMOND_3" layout="fr_player_metal_diamond_c" img="fr_player_metal_diamond_c">
+	<class>Metal Pyramid Cruiser</class>
+	<name>The Blood Rain</name>
+	<unlock>Get to Sector 5 with the Type B or beat the game with the Type A to unlock this ship.</unlock>
+	<desc>This ship can create life only to send it into battle as soon as it's made. Can register crew into its database once acquiring them once for future production, those registrations last even between runs.
+	
+	Unfortunately, the ship is unable to get either drones or weapons.</desc>
+	<systemList>
+		<battery max="3" power="1" room="4" start="false" img="room_battery_6" />
+		<cloaking power="1" room="7" start="false" img="room_cloaking" />
+		<clonebay max="4" power="1" room="1" start="true">
+			<slot>
+				<number>2</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="6" start="false" img="room_doors_fr_1">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</doors>
+		<engines power="1" room="10" start="true" img="room_engines_2">
+			<slot>
+				<direction>down</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="3" start="false" img="room_hacking_7" />
+		<medbay power="1" room="1" start="false" img="room_medbay_fr_2">
+			<slot>
+				<number>-2</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="8" start="true" img="room_mind" />
+		<oxygen power="1" room="12" start="true" img="room_oxygen_10" />
+		<pilot power="1" room="0" start="true" img="room_pilot_fr_3">
+			<slot>
+				<direction>right</direction>
+				<number>2</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="5" start="false" img="room_sensors_fr_5">
+			<slot>
+				<direction>down</direction>
+				<number>3</number>
+			</slot>
+		</sensors>
+		<shields max="12" power="2" room="9" start="true" img="room_shields_5">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="2" start="true" />
+		<temporal max="4" power="1" room="11" start="true" img="room_temporal_fr_49" />
+	</systemList>
+	<weaponSlots>0</weaponSlots>
+	<droneSlots>0</droneSlots>
+	<weaponList missiles="0" count="0">
+	</weaponList>
+	<droneList drones="0" count="0" />
+	<health amount="45" />
+	<maxPower amount="5" />
+	<crewCount amount="1" class="fr_adamantine_operator"/>
+	<crewCount amount="2" class="fr_adamantine_diamond"/>
+	<aug name="FR_WAR_CRIMINALS_SHIELD" />
+	<aug name="FR_FLESH_MAKER" />
+	<aug name="EX_ZOLTAN_BYPASS" />
+	<mv-mapImage>map_icon_fr_player_alloy_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_FR_OPERATOR" layout="fr_player_operator_a" img="fr_player_operator_a">
+	<class>Metal Diamond Class</class>
+	<name>The Golden Diamond</name>
+	<unlock>Take the mysterious vessel's deal in the rock home-world.</unlock>
+	<desc>A research vessel of the enigmatic Operators, this ship focuses on improving drones and its robotic crew. though it lacks any real means of dealing hull damage.</desc>
+	<systemList>
+		<artillery max="4" power="1" room="6" start="false" weapon="ARTILLERY_FED" img="room_artillery_5" />
+		<battery max="2" power="1" room="5" start="false" img="room_battery_17" />
+		<cloaking power="1" room="12" start="false" img="room_cloaking" />
+		<clonebay power="2" room="2" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="2" room="3" start="true" img="room_doors_fr_4">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</doors>
+		<drones max="8" power="2" room="14" start="false" img="room_drones_6" />
+		<engines power="1" room="1" start="true" img="room_engines_5">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="8" start="false" img="room_hacking_3" />
+		<medbay power="2" room="2" start="true" img="room_medbay">
+			<slot>
+				<number>1</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="13" start="false" img="room_mind_3" />
+		<oxygen power="1" room="10" start="false" img="room_oxygen" />
+		<pilot power="2" room="0" start="true" img="room_pilot">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="2" room="7" start="true" img="room_sensors_fr_4">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields max="8" power="2" room="4" start="true" img="room_shields_9">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="15" start="true" />
+		<temporal power="1" room="11" start="false" img="room_temporal_fr_13" />
+		<weapons max="8" power="2" room="9" start="true" img="room_weapons_fr_1">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>3</droneSlots>
+	<weaponList missiles="20" count="4">
+		<weapon name="FR_GOLDEN_BOMB_1" />
+	</weaponList>
+	<droneList drones="0" count="2" />
+	<health amount="30" />
+	<maxPower amount="6" />
+	<crewCount amount="3" class="fr_golden_operator" />
+	<aug name="FR_GOLD_WIRES" />
+	<mv-mapImage>map_icon_fr_player_alloy_b</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_FR_OPERATOR_2" layout="fr_player_operator_b" img="fr_player_operator_b">
+	<class>Metal Diamond Class</class>
+	<name>The Copper Shine</name>
+	<unlock>Get to Sector 5 with the Type A to unlock this ship.</unlock>
+	<desc>The most active Operators in this cluster, the copper operators love to study the physical anatomy of aliens. While a very powerful drone boarding vessel, this ship struggles to clear out boarders and must rely on the healing effect of the robotic crew for healing.</desc>
+	<systemList>
+		<artillery max="4" power="1" room="15" start="false" weapon="ARTILLERY_FED" img="room_artillery_2" />
+		<battery max="2" power="1" room="11" start="false" img="room_battery_fr_9" />
+		<cloaking power="1" room="6" start="true" img="room_cloaking_2" />
+		<clonebay power="1" room="8" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="18" start="false" img="room_doors_9">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones max="8" power="4" room="16" start="true" img="room_drones_16" />
+		<engines power="2" room="14" start="true" img="room_engines_3">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="17" start="false" img="room_hacking_4" />
+		<medbay power="1" room="8" start="false" img="room_medbay">
+			<slot>
+				<number>1</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="12" start="false" img="room_mind_fr_1" />
+		<oxygen power="1" room="9" start="false" img="room_oxygen_2" />
+		<pilot power="2" room="0" start="true" img="room_pilot_3">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="2" room="19" start="true" img="room_sensors_fr_1">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</sensors>
+		<shields max="8" power="2" room="2" start="true" img="room_shields_9">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="10" start="false" />
+		<temporal power="1" room="13" start="false" img="room_temporal_fr_8" />
+		<weapons max="8" power="2" room="1" start="false" img="room_weapons_fr_1">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>3</weaponSlots>
+	<droneSlots>4</droneSlots>
+	<weaponList missiles="0" count="2" />
+	<droneList drones="15" count="4">
+		<drone name="FR_COPPER_BOARDING_DRONE" />
+		<drone name="FR_COPPER_BOARDING_DRONE" />
+		<drone name="FR_COPPER_COMBAT_BEAM_2" />
+	</droneList>
+	<health amount="30" />
+	<maxPower amount="9" />
+	<crewCount amount="2" class="fr_copper_operator" />
+	<aug name="FR_COPPER_WIRES" />
+	<aug name="EX_DRONE_SPEED" />
+	<mv-mapImage>map_icon_fr_player_alloy_b</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_FR_OPERATOR_3" layout="fr_player_operator_c" img="fr_player_operator_c">
+	<class>Metal Diamond Class</class>
+	<name>Adamant Adamantine</name>
+	<unlock>Get to Sector 5 with the Type B or beat the game with the Type A to unlock this ship.</unlock>
+	<desc>The often forgotten and neglected subset of operators, extremely vulnerable and unable to do most basic functions, this little group heavily relies on subterfuge to get crew kills.
+At least its defenses are well maintained, though it came at the cost of its reactor.</desc>
+	<systemList>
+		<artillery max="4" power="1" room="6" start="false" weapon="ARTILLERY_FED" img="room_artillery" />
+		<battery max="2" power="1" room="9" start="false" img="room_battery_13" />
+		<cloaking power="1" room="1" start="true" img="room_cloaking" />
+		<clonebay power="1" room="2" start="true">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="3" room="23" start="true" img="room_doors_fr_6">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones max="8" power="1" room="12" start="true" img="room_drones_15" />
+		<engines power="2" room="15" start="true" img="room_engines_2">
+			<slot>
+				<direction>down</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="14" start="true" img="room_hacking_2" />
+		<medbay power="1" room="2" start="false" img="room_medbay">
+			<slot>
+				<number>1</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="13" start="true" img="room_mind_3" />
+		<oxygen power="1" room="11" start="false" img="room_oxygen_2" />
+		<pilot power="3" room="0" start="true" img="room_pilot">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="3" room="5" start="true" img="room_sensors_9">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</sensors>
+		<shields max="10" power="3" room="17" start="true" img="room_shields">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="20" start="false" />
+		<temporal power="1" room="8" start="true" img="room_temporal_fr_18" />
+		<weapons max="8" power="1" room="19" start="true" img="room_weapons_9">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>4</droneSlots>
+	<weaponList missiles="20" count="3">
+		<weapon name="MISSILES_1" />
+		<weapon name="BOMB_HEAL_SYSTEM_STRONG" />
+	</weaponList>
+	<droneList drones="15" count="3">
+		<drone name="DRONE_SHIELD_POWERLESS" />
+	</droneList>
+	<health amount="40" />
+	<maxPower amount="1" />
+	<crewCount amount="4" class="fr_adamantine_operator" />
+	<aug name="FR_ADAMANTINE_WIRES" />
+	<aug name="DRONE_RECOVERY" />
+	<aug name="EX_EXPLOSIVE_REPLICATOR" />
+	<mv-mapImage>map_icon_fr_player_alloy_b</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_FR_METAL_LANIUS" layout="fr_player_metal_lanius_a" img="fr_player_metal_lanius_a">
+	<class>Metal Lanius Cruiser</class>
+	<name>Forbidden Opulence</name>
+	<unlock>Help the Golden Lanius rescue his former vessel inside the lanius swarmlands.</unlock>
+	<desc>This boarding ship is home of the rare Golden Lanius, the species of augmented who feasted on the Golden Diamond's metal and transcended their old existence. These lanius have acquired the ability to become stronger as they consume scrap.</desc>
+	<systemList>
+		<artillery max="4" power="1" room="5" start="false" weapon="ARTILLERY_FED" img="room_artillery" />
+		<battery max="2" power="1" room="17" start="false" img="room_battery_fr_4" />
+		<cloaking power="1" room="10" start="false" img="room_cloaking_10" />
+		<clonebay power="1" room="1" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="6" start="true" img="room_doors_fr_6">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones max="4" power="2" room="7" start="false" img="room_drones_fr_15" />
+		<engines power="2" room="13" start="true" img="room_engines_2">
+			<slot>
+				<direction>down</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="9" start="false" img="room_hacking_fr_11" />
+		<medbay power="1" room="1" start="true" img="room_medbay_4">
+			<slot>
+				<number>0</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="8" start="false" img="room_mind_fr_17" />
+		<oxygen power="1" room="16" start="false" img="room_oxygen_fr_6" />
+		<pilot power="1" room="0" start="true" img="room_pilot_5">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="2" room="4" start="true" img="room_sensors_9">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</sensors>
+		<shields max="10" power="4" room="15" start="true" img="room_shields_fr_7">
+			<slot>
+				<direction>down</direction>
+				<number>3</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="2" start="true" />
+		<temporal power="1" room="3" start="false" img="room_temporal_fr_15" />
+		<weapons max="6" power="2" room="14" start="true" img="room_weapons_fr_1">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="0" count="3"/>
+	<droneList drones="0" count="2" />
+	<health amount="30" />
+	<maxPower amount="7" />
+	<crewCount amount="3" class="fr_golden_lanius_1" />
+	<aug name="SCRAP_COLLECTOR" />
+	<mv-mapImage>map_icon_fr_player_alloy_c</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_FR_METAL_LANIUS_2" layout="fr_player_metal_lanius_b" img="fr_player_metal_lanius_b">
+	<class>Metal Lanius Cruiser</class>
+	<name>Fire Penitence</name>
+	<unlock>Get to Sector 5 with the Type A to unlock this ship.</unlock>
+	<desc>This boarding ship burns with the endless fire of the Copper lanius, masters of fire and all things burning, these fierce lanius can regenerate themselves with their own flames while also stripping enemy's fire immunity. Unfortunately, just like fire, these lanius require oxygen to survive.</desc>
+	<systemList>
+		<artillery max="4" power="1" room="2" start="false" weapon="ARTILLERY_FED" img="room_artillery_3" />
+		<battery max="2" power="1" room="15" start="false" img="room_battery_6" />
+		<cloaking power="2" room="21" start="true" img="room_cloaking" />
+		<clonebay power="1" room="6" start="true">
+			<slot>
+				<number>2</number>
+			</slot>
+		</clonebay>
+		<doors power="2" room="17" start="true" img="room_doors_fr_4">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</doors>
+		<drones max="6" power="2" room="12" start="true" img="room_drones_fr_9" />
+		<engines power="3" room="14" start="true" img="room_engines_6">
+			<slot>
+				<direction>down</direction>
+				<number>3</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="20" start="false" img="room_hacking_fr_1" />
+		<medbay power="1" room="6" start="false" img="room_medbay_fr_3">
+			<slot>
+				<number>-2</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="11" start="false" img="room_mind" />
+		<oxygen power="2" room="13" start="true" img="room_oxygen_13" />
+		<pilot power="2" room="0" start="true" img="room_pilot_5">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="2" room="16" start="true" img="room_sensors_fr_4">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields max="10" power="3" room="19" start="false" img="room_shields">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="5" start="true" />
+		<temporal power="1" room="1" start="true" img="room_temporal_fr_18" />
+		<weapons max="3" power="2" room="18" start="false" img="room_weapons_3">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>2</weaponSlots>
+	<droneSlots>4</droneSlots>
+	<weaponList missiles="0" count="2" />
+	<droneList drones="15" count="4">
+		<drone name="FR_COPPER_COMBAT_MISSILE" />
+	</droneList>
+	<health amount="30" />
+	<maxPower amount="8" />
+	<crewCount amount="3" class="fr_copper_lanius" />
+	<aug name="FR_FIREBOTS" />
+	<mv-mapImage>map_icon_fr_player_alloy_c</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_FR_METAL_LANIUS_3" layout="fr_player_metal_lanius_c" img="fr_player_metal_lanius_c">
+	<class>Metal Lanius Cruiser</class>
+	<name>Suffocating Beauty</name>
+	<unlock>Get to Sector 5 with the Type B or beat the game with the Type A to unlock this ship.</unlock>
+	<desc>It seems the lanius that consumed the corpses of the Adamantine became just as ruthless as the ones they consumed. Their toxic fumes are enough to corrode even those who don't require oxygen to breathe.</desc>
+	<systemList>
+		<artillery max="4" power="1" room="11" start="false" weapon="ARTILLERY_FED" img="room_artillery" />
+		<battery max="2" power="1" room="4" start="false" img="room_battery_fr_19" />
+		<cloaking power="1" room="6" start="false" img="room_cloaking" />
+		<clonebay power="2" room="9" start="true">
+			<slot>
+				<number>0</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="18" start="false" img="room_doors_9">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones max="5" power="2" room="5" start="false" img="room_drones_fr_11" />
+		<engines power="2" room="16" start="true" img="room_engines_6">
+			<slot>
+				<direction>down</direction>
+				<number>3</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="7" start="false" img="room_hacking_fr_10" />
+		<medbay power="2" room="9" start="false" img="room_medbay_fr_8">
+			<slot>
+				<number>-2</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="8" start="false" img="room_mind_fr_20" />
+		<oxygen power="1" room="3" start="false" img="room_oxygen_fr_16" />
+		<pilot power="2" room="0" start="true" img="room_pilot_5">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="2" room="17" start="true" img="room_sensors_3">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields max="10" power="4" room="14" start="true" img="room_shields">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="2" room="10" start="true" />
+		<temporal power="1" room="1" start="false" img="room_temporal_fr_37" />
+		<weapons max="5" power="1" room="12" start="true" img="room_weapons_3">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>2</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="7" count="2"> 
+		<weapon name="MINELAUNCHER_FREE" />
+	</weaponList>
+	<droneList drones="0" count="2" />
+	<health amount="30" />
+	<maxPower amount="9" />
+	<crewCount amount="3" class="fr_adamantine_lanius" />
+	<aug name="FR_TOXIC_ROOMS" />
+	<aug name="EX_ZOLTAN_BYPASS" />
+	<mv-mapImage>map_icon_fr_player_alloy_c</mv-mapImage>
+</shipBlueprint>
+
+</FTL>
