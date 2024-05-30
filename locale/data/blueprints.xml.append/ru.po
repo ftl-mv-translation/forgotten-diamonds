@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-05-30 13:51+0000\n"
+"Last-Translator: Роман <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"forgotten-diamonds/datablueprintsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/blueprints.xml.append:19
 msgid ""
@@ -13,142 +21,179 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:25
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_diamond\"]/title"
-msgstr ""
+msgstr "Золотой алмаз"
 
 #: src-en/data/blueprints.xml.append:26
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_diamond\"]/short"
-msgstr ""
+msgstr "Золотой"
 
 #: src-en/data/blueprints.xml.append:27
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_diamond\"]/desc"
 msgstr ""
+"Алмазы - это группа из трех видов, состоящих из органических металлов, один "
+"из которых - золотые алмазы, вид, полностью сосредоточенный на ломе и "
+"методах его получения и использования для улучшения своего оружия до "
+"экстремальных уровней.\n"
+"\n"
+"\t\tЗолотые алмазы не могут сражаться в дальнем бою, вместо этого они "
+"полагаются на свои навыки ближнего боя, чтобы защитить себя."
 
 #: src-en/data/blueprints.xml.append:35
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_diamond\"]/powerList/power[1]"
-msgstr ""
+msgstr "150 здоровья, получает 1.2х урон в бою."
 
 #: src-en/data/blueprints.xml.append:36
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_diamond\"]/powerList/power[2]"
 msgstr ""
+"3x урон в ближнем бою, атакует на 20% медленнее, не наносит урона в дальнем "
+"бою."
 
 #: src-en/data/blueprints.xml.append:37
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_diamond\"]/powerList/power[3]"
-msgstr ""
+msgstr "Не может сгореть, задохнуться или находиться под контролем разума."
 
 #: src-en/data/blueprints.xml.append:41
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/title"
-msgstr ""
+msgstr "Адамантиновый алмаз"
 
 #: src-en/data/blueprints.xml.append:42
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/short"
-msgstr ""
+msgstr "Адамантиновый"
 
 #: src-en/data/blueprints.xml.append:43
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/desc"
 msgstr ""
+"Алмазы - это группа из трех видов, состоящих из органических металлов, один "
+"из которых - адамантиновые алмазы, военачальники, которые ценят только силу, "
+"и это также распространяется на их науку, индустрию крови и плоти, "
+"ответственную за создание самой противоречивой технологии из когда-либо "
+"созданных: Плотодел."
 
 #: src-en/data/blueprints.xml.append:48
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/powerList/power[1]"
-msgstr ""
+msgstr "300 здоровья, лечится на 50% дольше."
 
 #: src-en/data/blueprints.xml.append:49
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/powerList/power[2]"
 msgstr ""
+"Наносит 0.25x боевого урона. Саботаж с половинной скоростью, но ремонт вдвое "
+"быстрее."
 
 #: src-en/data/blueprints.xml.append:50
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/powerList/power[3]"
-msgstr ""
+msgstr "Скорость передвижения 0.5x, не может сгореть или задохнуться."
 
 #: src-en/data/blueprints.xml.append:51
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/powerList/power[4]"
 msgstr ""
+"Из-за токсичных выбросов урон врагов в одном отсеке с ним снижается на 0.5x. "
+"Не суммируется."
 
 #: src-en/data/blueprints.xml.append:55
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/title"
-msgstr ""
+msgstr "Медный алмаз"
 
 #: src-en/data/blueprints.xml.append:56
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/short"
-msgstr ""
+msgstr "Медный"
 
 #: src-en/data/blueprints.xml.append:57
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/desc"
 msgstr ""
+"Алмазы - это группа из трех видов, состоящих из органических металлов, один "
+"из которых - медные алмазы, вид, который эволюционировал, чтобы полностью "
+"полагаться на своих дронов во всем, вплоть до необходимости находиться в "
+"отсеке дронов, чтобы вылечиться."
 
 #: src-en/data/blueprints.xml.append:62
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/powerList/power[1]"
-msgstr ""
+msgstr "0.2x урона в бою, 2x урона от саботажа."
 
 #: src-en/data/blueprints.xml.append:63
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/powerList/power[2]"
-msgstr ""
+msgstr "1.5х скорость передвижения, не может сгореть или задохнуться."
 
 #: src-en/data/blueprints.xml.append:64
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/powerList/power[3]"
 msgstr ""
+"Не могут лечиться обычными способами, вместо этого они восстанавливают 10 ОЗ/"
+"с, пока находятся в отсеке дронов."
 
 #: src-en/data/blueprints.xml.append:71
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/title"
-msgstr ""
+msgstr "Золотой оператор"
 
 #: src-en/data/blueprints.xml.append:72
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/short"
-msgstr ""
+msgstr "З. оператор"
 
 #: src-en/data/blueprints.xml.append:73
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/desc"
 msgstr ""
+"Когда Алмаз умирает, его тело переходит в механическую оболочку, чтобы "
+"избежать смерти, однако это имеет досадный побочный эффект - он теряет "
+"прежнюю индивидуальность.\n"
+"\t\n"
+"\tЗолотые операторы пытаются компенсировать слабости алмазов: они оснащены "
+"самыми современными бластерами, но не могут сражаться в ближнем бою. Их "
+"дальние атаки могут быть медленными, но наносят большой урон."
 
 #: src-en/data/blueprints.xml.append:80
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/powerList/power[1]"
 msgstr ""
+"110 здоровья, восстанавливает здоровье с удвоенной скоростью в щитах, "
+"оружии, рулевой рубке и двигателях."
 
 #: src-en/data/blueprints.xml.append:81
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/powerList/power[2]"
 msgstr ""
+"Получает 1,2х урон. Невосприимчив к контролю разума, удушью и опасностям "
+"среды."
 
 #: src-en/data/blueprints.xml.append:82
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/powerList/power[3]"
 msgstr ""
+"Не может сражаться в ближнем бою, наносит 3.5х урона в дальнем бою, стреляет "
+"на 20% медленнее."
 
 #: src-en/data/blueprints.xml.append:83
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/powerList/power[4]"
-msgstr ""
+msgstr "2x скорость ремонта, изучает навыки с удвоенной скоростью."
 
 #: src-en/data/blueprints.xml.append:87
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/title"
-msgstr ""
+msgstr "Адамантиновый оператор"
 
 #: src-en/data/blueprints.xml.append:88
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/short"
-msgstr ""
+msgstr "А. оператор"
 
 #: src-en/data/blueprints.xml.append:89
 msgid ""
