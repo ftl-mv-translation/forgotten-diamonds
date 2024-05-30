@@ -1,14 +1,25 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-05-31 10:21+0000\n"
+"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"forgotten-diamonds/dataevents_shipsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_ships.xml.append:5
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_LANIUS_CRUISER\"]/destroyed/text"
 msgstr ""
+"Корабль разламывается пополам незадолго до взрыва летучего топлива, забирая "
+"жизни всех оставшихся внутри ланиусов. Вы забираете из обломков всё, что "
+"можете, и возвращаетесь к Шарлану."
 
 #: src-en/data/events_ships.xml.append:8
 msgid ""
@@ -19,6 +30,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_LANIUS_CRUISER\"]/deadCrew/text"
 msgstr ""
+"Вы истребляете всех ланиусов на борту корабля, не уничтожая сам корабль! Вы "
+"забираете из обломков всё, что можете, и возвращаетесь к Шарлану."
 
 #: src-en/data/events_ships.xml.append:16
 msgid ""
@@ -29,11 +42,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_DIAMOND_CRUISER\"]/destroyed/text"
 msgstr ""
+"Корабль разваливается на части и медленно распадается исчезающим золотым "
+"облаком, оставляя после себя ничего, что можно было бы спасти."
 
 #: src-en/data/events_ships.xml.append:32
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_DIAMOND_CRUISER\"]/deadCrew/text"
 msgstr ""
+"Вам удалось убить Оператора, и с его гибелью питание орудий вражеского "
+"корабля пропадает. Теперь вам ничто не мешает исследовать судно и выяснить, "
+"что этот инопришленец так старательно защищал."
 
 #: src-en/data/events_ships.xml.append:35
 msgid ""
@@ -44,11 +62,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_OPERATOR_CRUISER\"]/destroyed/text"
 msgstr ""
+"Корабль разваливается на части и медленно распадается исчезающим золотым "
+"облаком, оставляя после себя ничего, что можно было бы спасти."
 
 #: src-en/data/events_ships.xml.append:47
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_OPERATOR_CRUISER\"]/deadCrew/text"
 msgstr ""
+"Вам удалось убить Операторов, и с его гибелью питание дронов вражеского "
+"корабля пропадает. Теперь вам ничто не мешает исследовать судно и забрать "
+"себе чертежи."
 
 #: src-en/data/events_ships.xml.append:50
 msgid ""
