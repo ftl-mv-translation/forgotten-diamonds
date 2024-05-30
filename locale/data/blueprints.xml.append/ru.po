@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-05-30 13:51+0000\n"
+"PO-Revision-Date: 2024-05-30 15:19+0000\n"
 "Last-Translator: Роман <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/datablueprintsxmlappend/ru/>\n"
@@ -75,7 +75,7 @@ msgstr ""
 "из которых - адамантиновые алмазы, военачальники, которые ценят только силу, "
 "и это также распространяется на их науку, индустрию крови и плоти, "
 "ответственную за создание самой противоречивой технологии из когда-либо "
-"созданных: Плотодел."
+"созданных: Творец плоти."
 
 #: src-en/data/blueprints.xml.append:48
 msgid ""
@@ -199,66 +199,88 @@ msgstr "А. оператор"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/desc"
 msgstr ""
+"Когда Алмаз умирает, его тело переходит в механическую оболочку, чтобы "
+"избежать смерти, однако это имеет досадный побочный эффект - он теряет "
+"прежнюю индивидуальность.\n"
+"\t\n"
+"\tАдамантиновые операторы - это ходячие центры знаний, способные сразу же "
+"запустить любую систему на максимальную мощность, но беспомощные в "
+"стрессовых ситуациях."
 
 #: src-en/data/blueprints.xml.append:96
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/powerList/power[1]"
 msgstr ""
+"150 максимального здоровья, получает 0.5x урона. Союзники в том же отсеке "
+"невосприимчивы к опасностям среды."
 
 #: src-en/data/blueprints.xml.append:97
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/powerList/power[2]"
 msgstr ""
+"Не может сражаться, саботировать или ремонтировать. Клонируется в 100 раз "
+"быстрее."
 
 #: src-en/data/blueprints.xml.append:98
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/powerList/power[3]"
-msgstr ""
+msgstr "Невосприимчив к контролю разума, дает 4 энергии занятой системе."
 
 #: src-en/data/blueprints.xml.append:99
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/powerList/power[4]"
-msgstr ""
+msgstr "Невосприимчив к удушью и огню."
 
 #: src-en/data/blueprints.xml.append:100
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/powerList/power[5]"
 msgstr ""
+"Запрограммирован навыками 2 уровня. Не может потерять навыки после "
+"клонирования."
 
 #: src-en/data/blueprints.xml.append:104
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/title"
-msgstr ""
+msgstr "Медный оператор"
 
 #: src-en/data/blueprints.xml.append:105
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/short"
-msgstr ""
+msgstr "М. оператор"
 
 #: src-en/data/blueprints.xml.append:106
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/desc"
 msgstr ""
+"Когда Алмаз умирает, его тело переходит в механическую оболочку, чтобы "
+"избежать смерти, однако это имеет досадный побочный эффект - он теряет "
+"прежнюю индивидуальность.\n"
+"\t\n"
+"\tМедные операторы созданы для того, чтобы быть целителями и обслуживающим "
+"персоналом на борту кораблей, они способны починить любую роботизированную "
+"команду, а также чрезвычайно быстро отремонтировать системы."
 
 #: src-en/data/blueprints.xml.append:113
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/powerList/power[1]"
-msgstr ""
+msgstr "70 максимального здоровья. Перемещается с 1.5х скоростью."
 
 #: src-en/data/blueprints.xml.append:114
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/powerList/power[2]"
-msgstr ""
+msgstr "0.1х урона в бою, 5х скорость ремонта."
 
 #: src-en/data/blueprints.xml.append:115
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/powerList/power[3]"
 msgstr ""
+"Невосприимчив к контролю разума. Исцеляет близлежащих союзных дронов и "
+"роботов со скоростью 5 ОЗ/с."
 
 #: src-en/data/blueprints.xml.append:116
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/powerList/power[4]"
-msgstr ""
+msgstr "Невосприимчив к удушью и огню."
 
 #: src-en/data/blueprints.xml.append:126
 msgid ""
@@ -269,86 +291,98 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_1\"]/desc"
 msgstr ""
+"Возвышенная особь, которая претерпела существенно иную мутацию, поглотив "
+"особый кусок древних обломков из далекого кластера. Он может улучшать себя у "
+"пустых маяков."
 
 #: src-en/data/blueprints.xml.append:136
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_1\"]/title"
-msgstr ""
+msgstr "Золотоискатель"
 
 #: src-en/data/blueprints.xml.append:137
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_1\"]/short"
-msgstr ""
+msgstr "Золотоискатель"
 
 #: src-en/data/blueprints.xml.append:142
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_1\"]/powerList/power[1]"
-msgstr ""
+msgstr "70 здоровья. 1.1х боевого урона, в бою получает 0.9х урона."
 
 #: src-en/data/blueprints.xml.append:143
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_1\"]/powerList/power[2]"
-msgstr ""
+msgstr "Дает энергию текущему отсеку, 1.5х скорость ремонта систем."
 
 #: src-en/data/blueprints.xml.append:147
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_2\"]/desc"
 msgstr ""
+"Возвышенная особь, которая претерпела существенно иную мутацию, поглотив "
+"особый кусок древних обломков из далекого кластера. Теперь он обладает "
+"повышенным боевым уроном и может восстанавливать здоровье вне боя."
 
 #: src-en/data/blueprints.xml.append:148
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_2\"]/title"
-msgstr ""
+msgstr "Возвышенный Золотоискатель"
 
 #: src-en/data/blueprints.xml.append:149
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_2\"]/short"
-msgstr ""
+msgstr "Золотоискатель"
 
 #: src-en/data/blueprints.xml.append:154
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_2\"]/powerList/power[1]"
-msgstr ""
+msgstr "Регенерирует 5 ОЗ/с после небольшой задержки."
 
 #: src-en/data/blueprints.xml.append:155
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_2\"]/powerList/power[2]"
-msgstr ""
+msgstr "100 здоровья. 1.5х урона в бою, получает 0.8х урона в бою."
 
 #: src-en/data/blueprints.xml.append:156
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_2\"]/powerList/power[3]"
-msgstr ""
+msgstr "Дает энергию текущему отсеку, 1.8х скорость ремонта систем."
 
 #: src-en/data/blueprints.xml.append:160
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_3\"]/desc"
 msgstr ""
+"Возвышенная особь, которая претерпела существенно иную мутацию, поглотив "
+"особый кусок древних обломков из далекого кластера. Теперь он полностью "
+"усовершенствован, достиг пика урона и скорости передвижения, а также стал "
+"невосприимчив к огню."
 
 #: src-en/data/blueprints.xml.append:161
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_3\"]/title"
-msgstr ""
+msgstr "Вознесенный Золотоискатель"
 
 #: src-en/data/blueprints.xml.append:162
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_3\"]/short"
-msgstr ""
+msgstr "Золотоискатель"
 
 #: src-en/data/blueprints.xml.append:167
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_3\"]/powerList/power[1]"
-msgstr ""
+msgstr "Регенерирует 10 ОЗ/с после небольшой задержки."
 
 #: src-en/data/blueprints.xml.append:168
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_3\"]/powerList/power[2]"
 msgstr ""
+"150 здоровья. 2х урона в бою, получает 0.5х урона в бою. Невосприимчив к "
+"огню."
 
 #: src-en/data/blueprints.xml.append:169
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_3\"]/powerList/power[3]"
-msgstr ""
+msgstr "Дает 2 энергии текущему отсеку, 2х скорость ремонта систем."
 
 #: src-en/data/blueprints.xml.append:173
 msgid ""
@@ -1490,21 +1524,41 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:1869
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FLESH_MAKER\"]/title"
-msgstr ""
+msgstr "Творец плоти"
 
 #: src-en/data/blueprints.xml.append:1870
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FLESH_MAKER\"]/desc"
 msgstr ""
+"Эта причудливая технология, принадлежащая исключительно затворнической "
+"группе адамантиновых алмазов, позволяет бесконечно копировать любой экипаж, "
+"который был ранее отсканирован в базе данных. \n"
+"\t\n"
+"\tОна также позволяет конвертировать ресурсы в топливо и обеспечивает "
+"сохранность экипажа в хранилище клонов, даже если система отключена, "
+"взломана или сломана.\n"
+"\t\n"
+"\tЗарегистрированный экипаж останется таковым навсегда, даже в следующих "
+"прохождениях."
 
 #: src-en/data/blueprints.xml.append:1882
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FLESH_MAKER_UNLOCKED\"]/title"
-msgstr ""
+msgstr "Творец плоти"
 
 #: src-en/data/blueprints.xml.append:1883
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FLESH_MAKER_UNLOCKED\"]/desc"
 msgstr ""
+"Эта причудливая технология, принадлежащая исключительно затворнической "
+"группе адамантиновых алмазов, позволяет бесконечно копировать любой экипаж, "
+"который был ранее отсканирован в базе данных. \n"
+"\t\n"
+"\tОна также позволяет конвертировать ресурсы в топливо у пустых маяков и "
+"обеспечивает сохранность экипажа в хранилище клонов, даже если система "
+"отключена, взломана или сломана.\n"
+"\t\n"
+"\tЗарегистрированный экипаж останется таковым навсегда, даже в следующих "
+"прохождениях."
 
 #: src-en/data/blueprints.xml.append:1895
 msgid ""
