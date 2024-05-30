@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-05-30 13:51+0000\n"
-"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
+"Last-Translator: Роман <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_fr_special_fleshmakerxml/ru/>\n"
 "Language: ru\n"
@@ -296,7 +296,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:197
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PONYJERRY_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:205
 msgid ""
@@ -311,7 +311,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:210
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CRYSTALJERRY_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:218
 msgid ""
@@ -326,7 +326,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:223
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TULLY_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:231
 msgid ""
@@ -341,7 +341,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:236
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_DEVORAK_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:244
 msgid ""
@@ -356,7 +356,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:249
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TURZIL_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:257
 msgid ""
@@ -371,7 +371,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:262
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SHELLALKALI_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:270
 msgid ""
@@ -386,7 +386,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:275
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_OOJ_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:283
 msgid ""
@@ -401,7 +401,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:288
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_NIGHTS_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:296
 msgid ""
@@ -416,7 +416,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:301
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SLOCKNOG_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:309
 msgid ""
@@ -431,7 +431,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:314
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_IRWIN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:322
 msgid ""
@@ -446,7 +446,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:327
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ALKRAM_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:335
 msgid ""
@@ -461,7 +461,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:340
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ORCHID_CARETAKER_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:348
 msgid ""
@@ -476,7 +476,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:353
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TYRDEO_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:361
 msgid ""
@@ -491,7 +491,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:366
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_FREDDY_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:374
 msgid ""
@@ -506,7 +506,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:379
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_DIANESH_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:387
 msgid ""
@@ -521,7 +521,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:392
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ARIADNE_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:400
 msgid ""
@@ -536,7 +536,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:405
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_RUWEN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:413
 msgid ""
@@ -551,7 +551,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:418
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TUCO_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:426
 msgid ""
@@ -566,7 +566,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:431
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ROCKELDER_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:439
 msgid ""
@@ -581,7 +581,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:444
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_BEACONEATER_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:452
 msgid ""
@@ -596,7 +596,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:457
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ANOINTED_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:465
 msgid ""
@@ -611,7 +611,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:470
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_DESSIUS_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:478
 msgid ""
@@ -626,7 +626,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:483
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_VORTIGON_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:491
 msgid ""
@@ -641,7 +641,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:496
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SPIDERQUEEN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:504
 msgid ""
@@ -656,7 +656,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:509
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SYLVAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:517
 msgid ""
@@ -671,7 +671,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:522
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_VENOMOUSSPIDER_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:530
 msgid ""
@@ -686,7 +686,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:535
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CYBERPONY_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:543
 msgid ""
@@ -701,7 +701,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:548
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_OBYN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:556
 msgid ""
@@ -716,7 +716,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:561
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_BILLY_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:569
 msgid ""
@@ -731,7 +731,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:574
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GUNTPUT_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:582
 msgid ""
@@ -746,7 +746,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:587
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_METYUNT_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:595
 msgid ""
@@ -761,7 +761,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:600
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SYMBIOTE_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:608
 msgid ""
@@ -776,7 +776,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:613
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TONYSR_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:621
 msgid ""
@@ -791,7 +791,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:626
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WITHER_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:634
 msgid ""
@@ -806,7 +806,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:639
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CRYSTALPONY_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:647
 msgid ""
@@ -821,7 +821,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:652
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_VANCE_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:660
 msgid ""
@@ -836,7 +836,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:665
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LEAH_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:673
 msgid ""
@@ -851,7 +851,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:678
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GMANSYLVAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:686
 msgid ""
@@ -866,7 +866,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:691
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MFKLEAH_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:699
 msgid ""
@@ -881,7 +881,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:704
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CYRA_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:712
 msgid ""
@@ -896,7 +896,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:717
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_THEST_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:725
 msgid ""
@@ -911,7 +911,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:730
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CORBY_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:738
 msgid ""
@@ -926,7 +926,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:743
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WAKESON_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:751
 msgid ""
@@ -941,7 +941,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:756
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_DYLAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:764
 msgid ""
@@ -956,7 +956,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:769
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CLANSYLVAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:777
 msgid ""
@@ -971,7 +971,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:782
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_1DSYLVAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:790
 msgid ""
@@ -986,7 +986,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:795
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_REBELSYLVAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:803
 msgid ""
@@ -1001,7 +1001,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:808
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SANSSYLVAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:816
 msgid ""
@@ -1016,7 +1016,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:821
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MAIDSYLVAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:829
 msgid ""
@@ -1031,7 +1031,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:834
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LEAHSYLVAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:842
 msgid ""
@@ -1046,7 +1046,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:847
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_RICKSYLVAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:855
 msgid ""
@@ -1061,7 +1061,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:860
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_BEANSSYLVAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:868
 msgid ""
@@ -1076,7 +1076,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:873
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PRIMESYLVAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:881
 msgid ""
@@ -1091,7 +1091,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:886
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PAPYRUSOBYN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:894
 msgid ""
@@ -1106,7 +1106,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:899
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GOZER_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:907
 msgid ""
@@ -1121,7 +1121,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:912
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELEANOR_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:920
 msgid ""
@@ -1136,7 +1136,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:925
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PSYCH_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:933
 msgid ""
@@ -1151,7 +1151,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:938
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SCOLERI_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:946
 msgid ""
@@ -1166,7 +1166,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:951
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SLIMER_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:959
 msgid ""
@@ -1181,7 +1181,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:964
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_VINZ_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:972
 msgid ""
@@ -1196,7 +1196,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:977
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ZUUL_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:985
 msgid ""
@@ -1211,7 +1211,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:990
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ORKID_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:998
 msgid ""
@@ -1226,7 +1226,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1003
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELLIE_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1011
 msgid ""
@@ -1241,7 +1241,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1016
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TOWR_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1024
 msgid ""
@@ -1256,7 +1256,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1029
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_THING_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1037
 msgid ""
@@ -1271,7 +1271,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1042
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WEAKTHING_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1050
 msgid ""
@@ -1286,7 +1286,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1055
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GNOME_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1063
 msgid ""
@@ -1301,7 +1301,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1068
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_BUCKET_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1076
 msgid ""
@@ -1316,7 +1316,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1081
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CELSYLVAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1089
 msgid ""
@@ -1331,7 +1331,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1094
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CELOBYN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1102
 msgid ""
@@ -1346,7 +1346,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1107
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PANTS_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1115
 msgid ""
@@ -1361,7 +1361,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1120
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELLIE_LV1_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1128
 msgid ""
@@ -1376,7 +1376,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1133
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELLIE_LV2_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1141
 msgid ""
@@ -1391,7 +1391,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1146
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELLIE_LV3_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1154
 msgid ""
@@ -1406,7 +1406,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1159
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELLIE_LV4_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1167
 msgid ""
@@ -1421,7 +1421,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1172
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELLIE_LV5_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1180
 msgid ""
@@ -1436,7 +1436,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1185
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELLIE_LV6_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1193
 msgid ""
@@ -1451,7 +1451,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1198
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_STEPHAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1206
 msgid ""
@@ -1466,7 +1466,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1211
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ANURAK_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1219
 msgid ""
@@ -1481,7 +1481,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1224
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HUMANOID_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1232
 msgid ""
@@ -1496,7 +1496,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1237
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SOLDIER_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1245
 msgid ""
@@ -1511,7 +1511,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1250
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MFK_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1258
 msgid ""
@@ -1526,7 +1526,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1263
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LEGION_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1271
 msgid ""
@@ -1541,7 +1541,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1276
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PYROLEGION_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1284
 msgid ""
@@ -1556,7 +1556,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1289
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TECHNICIAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1297
 msgid ""
@@ -1571,7 +1571,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1302
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ANGEL_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1310
 msgid ""
@@ -1586,7 +1586,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1315
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_DEFENDER_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1323
 msgid ""
@@ -1601,7 +1601,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1328
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PEACEKEEPER_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1336
 msgid ""
@@ -1616,7 +1616,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1341
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MARTYR_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1349
 msgid ""
@@ -1631,7 +1631,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1354
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PRAETOR_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1362
 msgid ""
@@ -1646,7 +1646,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1367
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CULTIVATOR_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1375
 msgid ""
@@ -1661,7 +1661,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1380
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SUZERAIN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1388
 msgid ""
@@ -1676,7 +1676,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1393
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WARLORD_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1401
 msgid ""
@@ -1691,7 +1691,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1406
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_BISHOP_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1414
 msgid ""
@@ -1706,7 +1706,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1419
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CRUSADER_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1427
 msgid ""
@@ -1721,7 +1721,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1432
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PALADIN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1440
 msgid ""
@@ -1736,7 +1736,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1445
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SENTINEL_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1453
 msgid ""
@@ -1751,7 +1751,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1458
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_RADIANT_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1466
 msgid ""
@@ -1766,7 +1766,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1471
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_AMPERE_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1479
 msgid ""
@@ -1781,7 +1781,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1484
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SABOTEUR_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1492
 msgid ""
@@ -1796,7 +1796,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1497
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_KNIGHT_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1505
 msgid ""
@@ -1811,7 +1811,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1510
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ALPHAPHANTOM_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1518
 msgid ""
@@ -1826,7 +1826,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1523
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ALPHAGOUL_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1531
 msgid ""
@@ -1841,7 +1841,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1536
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ALPHAMARE_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1544
 msgid ""
@@ -1856,7 +1856,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1549
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ALPHAWRAITH_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1557
 msgid ""
@@ -1871,7 +1871,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1562
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TAMEDPONY_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1570
 msgid ""
@@ -1886,7 +1886,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1575
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WELDER_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1583
 msgid ""
@@ -1901,7 +1901,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1588
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ROYALCOGNITIVE_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1596
 msgid ""
@@ -1916,7 +1916,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1601
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HARPYSIREN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1609
 msgid ""
@@ -1931,7 +1931,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1614
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ROYALOBELISK_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1622
 msgid ""
@@ -1946,7 +1946,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1627
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HUMAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1635
 msgid ""
@@ -1961,7 +1961,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1640
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MEDIC_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1648
 msgid ""
@@ -1976,7 +1976,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1653
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ENGINEER_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1661
 msgid ""
@@ -1991,7 +1991,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1666
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_REBEL_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1674
 msgid ""
@@ -2006,7 +2006,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1679
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MEDICREBEL_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1687
 msgid ""
@@ -2021,7 +2021,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1692
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ENGI_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1700
 msgid ""
@@ -2036,7 +2036,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1705
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SEPARATIST_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1713
 msgid ""
@@ -2051,7 +2051,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1718
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ZOLTAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1726
 msgid ""
@@ -2066,7 +2066,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1731
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MONK_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1739
 msgid ""
@@ -2081,7 +2081,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1744
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_DEVOTEE_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1752
 msgid ""
@@ -2096,7 +2096,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1757
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_OSMIAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1765
 msgid ""
@@ -2111,7 +2111,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1770
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ORCHID_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1778
 msgid ""
@@ -2126,7 +2126,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1783
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_VAMPWEED_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1791
 msgid ""
@@ -2141,7 +2141,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1796
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SHELL_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1804
 msgid ""
@@ -2156,7 +2156,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1809
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SCIENTIST_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1817
 msgid ""
@@ -2171,7 +2171,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1822
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MECHANIC_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1830
 msgid ""
@@ -2186,7 +2186,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1835
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GUARDIAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1843
 msgid ""
@@ -2201,7 +2201,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1848
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MANTIS_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1856
 msgid ""
@@ -2216,7 +2216,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1861
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_FREEMANTIS_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1869
 msgid ""
@@ -2231,7 +2231,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1874
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ROCKMAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1882
 msgid ""
@@ -2246,7 +2246,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1887
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_OUTCAST_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1895
 msgid ""
@@ -2261,7 +2261,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1900
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_COMMANDO_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1908
 msgid ""
@@ -2276,7 +2276,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1913
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CULTIST_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1921
 msgid ""
@@ -2291,7 +2291,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1926
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CRYSTAL_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1934
 msgid ""
@@ -2306,7 +2306,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1939
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LIBERATOR_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1947
 msgid ""
@@ -2321,7 +2321,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1952
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SLUG_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1960
 msgid ""
@@ -2336,7 +2336,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1965
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HEKTAR_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1973
 msgid ""
@@ -2351,7 +2351,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1978
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CLANSMAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1986
 msgid ""
@@ -2366,7 +2366,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1991
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LEECH_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1999
 msgid ""
@@ -2381,7 +2381,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2004
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SIREN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2012
 msgid ""
@@ -2396,7 +2396,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2017
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PHANTOM_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2025
 msgid ""
@@ -2411,7 +2411,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2030
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GOUL_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2038
 msgid ""
@@ -2426,7 +2426,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2043
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MARE_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2051
 msgid ""
@@ -2441,7 +2441,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2056
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WRAITH_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2064
 msgid ""
@@ -2456,7 +2456,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2069
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LANIUS_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2077
 msgid ""
@@ -2471,7 +2471,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2082
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_AUGMENTED_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2090
 msgid ""
@@ -2486,7 +2486,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2095
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SPIDER_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2103
 msgid ""
@@ -2501,7 +2501,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2108
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PONY_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2116
 msgid ""
@@ -2516,7 +2516,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2121
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LIZARD_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2129
 msgid ""
@@ -2531,7 +2531,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2134
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MORPH_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2142
 msgid ""
@@ -2546,7 +2546,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2147
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TECHNOPATH_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2155
 msgid ""
@@ -2561,7 +2561,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2160
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MALFORMED_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2168
 msgid ""
@@ -2576,7 +2576,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2173
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_COGNITIVE_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2181
 msgid ""
@@ -2591,7 +2591,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2186
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_OBELISK_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2194
 msgid ""
@@ -2606,7 +2606,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2199
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_COMMONWEALTH_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2207
 msgid ""
@@ -2621,7 +2621,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2212
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GOLDENDIAMOND_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2220
 msgid ""
@@ -2636,7 +2636,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2225
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ADAMANTINEDIAMOND_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2233
 msgid ""
@@ -2651,7 +2651,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2238
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_COPPERDIAMOND_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2246
 msgid ""
@@ -2666,7 +2666,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2251
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GOLDENOPERATOR_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2259
 msgid ""
@@ -2681,7 +2681,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2264
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ADAMANTINEOPERATOR_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2272
 msgid ""
@@ -2696,7 +2696,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2277
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_COPPEROPERATOR_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2285
 msgid ""
@@ -2711,7 +2711,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2290
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_AVATARPROTO_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2298
 msgid ""
@@ -2726,7 +2726,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2303
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_EXPERIMENTALCOGNITIVE_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2311
 msgid ""
@@ -2741,7 +2741,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2316
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ENHANCED_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2324
 msgid ""
@@ -2756,7 +2756,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2329
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WITHERED_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2337
 msgid ""
@@ -2771,7 +2771,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2342
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GOLDENLANIUS_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2350
 msgid ""
@@ -2786,7 +2786,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2355
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_COPPERLANIUS_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2363
 msgid ""
@@ -2801,7 +2801,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2368
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ADAMANTINELANIUS_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2376
 msgid ""
@@ -2816,7 +2816,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2381
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HAUNTSLIMER_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2389
 msgid ""
@@ -2831,7 +2831,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2394
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HAUNTPHYS_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2402
 msgid ""
@@ -2846,7 +2846,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2407
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HAUNTCLEO_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2415
 msgid ""
@@ -2861,7 +2861,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2420
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HAUNTVIN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2428
 msgid ""
@@ -2876,7 +2876,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2433
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HAUNTZULU_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2441
 msgid ""
@@ -2891,7 +2891,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2446
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HAUNTALEENOR_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2454
 msgid ""
@@ -2906,7 +2906,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2459
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HAUNTG_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2467
 msgid ""
@@ -2921,7 +2921,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2472
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CHAOS_HAUNTSMOKE_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2480
 msgid ""
@@ -2936,7 +2936,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2485
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CHAOS_HAUNTCHILLS_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2493
 msgid ""
@@ -2951,7 +2951,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2498
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SNOWMAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2506
 msgid ""
@@ -2966,7 +2966,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2511
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LAVAMAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2519
 msgid ""
@@ -2981,7 +2981,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2524
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CHAOS_HAUNTPOK_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2532
 msgid ""
@@ -2996,7 +2996,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2537
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CHAOS_HAUNTCHARROR_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2545
 msgid ""
@@ -3011,7 +3011,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2550
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CHAOS_HAUNTLEO_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2558
 msgid ""
@@ -3026,7 +3026,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2563
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CHAOS_HAUNTSEARAK_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2571
 msgid ""
@@ -3041,7 +3041,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2576
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WATCHER_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2584
 msgid ""
@@ -3056,7 +3056,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2589
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_AUGUSTUS_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2597
 msgid ""
@@ -3071,7 +3071,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2602
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SALLY_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2610
 msgid ""
@@ -3086,7 +3086,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2615
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PRINCE_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2623
 msgid ""
@@ -3101,7 +3101,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2628
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TRIRIAC_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2636
 msgid ""
@@ -3116,7 +3116,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2641
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_AIAVATAR_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2649
 msgid ""
@@ -3131,7 +3131,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2654
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ERRORMAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2662
 msgid ""
@@ -3146,7 +3146,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2667
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LEGIONLEAH_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2675
 msgid ""
@@ -3161,7 +3161,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2680
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SPHERAX_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2688
 msgid ""
@@ -3176,7 +3176,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2693
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_BILLVAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "continue..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2701
 msgid ""
