@@ -1,19 +1,28 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-05-30 13:51+0000\n"
+"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"forgotten-diamonds/dataevents_fr_special_fleshmakerxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"STORAGE_CHECK_AUG_FR_FLESH_MAKER\"]/text"
 msgstr ""
+"Хотите отсканировать нового члена экипажа или создать его самостоятельно?"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:6
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"STORAGE_CHECK_AUG_FR_FLESH_MAKER\"]/choice[1]/text"
-msgstr ""
+msgstr "Сканировать экипаж для добавления в базу данных"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:8
 msgid ""
@@ -28,12 +37,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:18
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"STORAGE_CHECK_AUG_FR_FLESH_MAKER\"]/choice[2]/text"
-msgstr ""
+msgstr "Создать нового члена экипажа в Творце Плоти"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:20
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"STORAGE_CHECK_AUG_FR_FLESH_MAKER\"]/choice[2]/event/text"
 msgstr ""
+"Вы собираете все ингредиенты для процесса, учитывая, какого члена экипажа из "
+"вашей базы данных вы хотите создать."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:22
 msgid ""
@@ -43,12 +54,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:30
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"STORAGE_CHECK_AUG_FR_FLESH_MAKER\"]/choice[3]/text"
-msgstr ""
+msgstr "Перегнать ресурсы в топливо."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:32
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"STORAGE_CHECK_AUG_FR_FLESH_MAKER\"]/choice[3]/event/text"
-msgstr ""
+msgstr "Вы проверяете хранилище на предмет того, что можно перегнать в топливо."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:34
 msgid ""
@@ -58,12 +69,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:42
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"STORAGE_CHECK_AUG_FR_FLESH_MAKER\"]/choice[4]/text"
-msgstr ""
+msgstr "Создать Случайного неуникального члена экипажа [10 топлива]"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:48
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"STORAGE_CHECK_AUG_FR_FLESH_MAKER\"]/choice[4]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишнего вопроса."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:50
 msgid ""
@@ -73,12 +87,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:56
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"STORAGE_CHECK_AUG_FR_FLESH_MAKER\"]/choice[5]/text"
-msgstr ""
+msgstr "Создать Случайного уникального члена экипажа [25 топлива]"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:62
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"STORAGE_CHECK_AUG_FR_FLESH_MAKER\"]/choice[5]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишнего вопроса."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:64
 msgid ""
@@ -98,7 +115,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:76
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"STORAGE_CHECK_AUG_FR_FLESH_MAKER\"]/choice[@req=\"FR_REQUIREMENT_BADGE_READY\"]/event/choice/text"
-msgstr ""
+msgstr "Спасибо вам!"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:82
 msgid ""
@@ -113,32 +130,40 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:90
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MAYEB_LIST\"]/text"
-msgstr ""
+msgstr "Внести Майеб в базу данных"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:92
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MAYEB_LIST\"]/event/text"
 msgstr ""
+"Член вашего экипажа встаёт напротив огромной, похожей на портал машины, она "
+"внезапно включает свет, окутывающий члена вашего экипажа ярко-розовым "
+"сиянием, через несколько минут свет исчезает, а машина выключается. Ваш "
+"подчинённый в порядке, однако ужасно утомлён."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:95
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MAYEB_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:103
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_IVAR_LIST\"]/text"
-msgstr ""
+msgstr "Внести Майеб в базу данных"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:105
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_IVAR_LIST\"]/event/text"
 msgstr ""
+"Член вашего экипажа встаёт напротив огромной, похожей на портал машины, она "
+"внезапно включает свет, окутывающий члена вашего экипажа ярко-розовым "
+"сиянием, через несколько минут свет исчезает, а машина выключается. Ваш "
+"подчинённый в порядке, однако ужасно утомлён."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:108
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_IVAR_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:116
 msgid ""
@@ -149,71 +174,91 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TYEREL_LIST\"]/event/text"
 msgstr ""
+"Член вашего экипажа встаёт напротив огромной, похожей на портал машины, она "
+"внезапно включает свет, окутывающий члена вашего экипажа ярко-розовым "
+"сиянием, через несколько минут свет исчезает, а машина выключается. Ваш "
+"подчинённый в порядке, однако ужасно утомлён."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:121
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TYEREL_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:129
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MANTISQUEEN_LIST\"]/text"
-msgstr ""
+msgstr "Внести Королеву Богомолов в базу данных"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:131
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MANTISQUEEN_LIST\"]/event/text"
 msgstr ""
+"Член вашего экипажа встаёт напротив огромной, похожей на портал машины, она "
+"внезапно включает свет, окутывающий члена вашего экипажа ярко-розовым "
+"сиянием, через несколько минут свет исчезает, а машина выключается. Ваш "
+"подчинённый в порядке, однако ужасно утомлён."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:134
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MANTISQUEEN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:142
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_KAZAAAK_LIST\"]/text"
-msgstr ""
+msgstr "Внести Казааакплеткилика в базу данных"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:144
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_KAZAAAK_LIST\"]/event/text"
 msgstr ""
+"Член вашего экипажа встаёт напротив огромной, похожей на портал машины, она "
+"внезапно включает свет, окутывающий члена вашего экипажа ярко-розовым "
+"сиянием, через несколько минут свет исчезает, а машина выключается. Ваш "
+"подчинённый в порядке, однако ужасно утомлён."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:147
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_KAZAAAK_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:155
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HAYNES_LIST\"]/text"
-msgstr ""
+msgstr "Внести Хайенса в базу данных"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:157
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HAYNES_LIST\"]/event/text"
 msgstr ""
+"Член вашего экипажа встаёт напротив огромной, похожей на портал машины, она "
+"внезапно включает свет, окутывающий члена вашего экипажа ярко-розовым "
+"сиянием, через несколько минут свет исчезает, а машина выключается. Ваш "
+"подчинённый в порядке, однако ужасно утомлён."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:160
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HAYNES_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:168
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_JERRY_LIST\"]/text"
-msgstr ""
+msgstr "Внести Джерри в базу данных"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:170
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_JERRY_LIST\"]/event/text"
 msgstr ""
+"Член вашего экипажа встаёт напротив огромной, похожей на портал машины, она "
+"внезапно включает свет, окутывающий члена вашего экипажа ярко-розовым "
+"сиянием, через несколько минут свет исчезает, а машина выключается. Ваш "
+"подчинённый в порядке, однако ужасно утомлён."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:173
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_JERRY_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:181
 msgid ""
@@ -224,6 +269,10 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GUNJERRY_LIST\"]/event/text"
 msgstr ""
+"Член вашего экипажа встаёт напротив огромной, похожей на портал машины, она "
+"внезапно включает свет, окутывающий члена вашего экипажа ярко-розовым "
+"сиянием, через несколько минут свет исчезает, а машина выключается. Ваш "
+"подчинённый в порядке, однако ужасно утомлён."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:186
 msgid ""
@@ -233,12 +282,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:192
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PONYJERRY_LIST\"]/text"
-msgstr ""
+msgstr "Внести Джерри на Пони в базу данных"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:194
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PONYJERRY_LIST\"]/event/text"
 msgstr ""
+"Член вашего экипажа встаёт напротив огромной, похожей на портал машины, она "
+"внезапно включает свет, окутывающий члена вашего экипажа ярко-розовым "
+"сиянием, через несколько минут свет исчезает, а машина выключается. Ваш "
+"подчинённый в порядке, однако ужасно утомлён."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:197
 msgid ""
