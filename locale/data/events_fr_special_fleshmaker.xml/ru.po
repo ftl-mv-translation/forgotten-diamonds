@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-05-30 15:19+0000\n"
-"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
+"Last-Translator: Роман <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_fr_special_fleshmakerxml/ru/>\n"
 "Language: ru\n"
@@ -28,6 +28,7 @@ msgstr "Сканировать экипаж для добавления в ба�
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"STORAGE_CHECK_AUG_FR_FLESH_MAKER\"]/choice[1]/event/text"
 msgstr ""
+"Вы собираете всех членов экипажа своего корабля и приводите их в лабораторию."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:10
 msgid ""
@@ -37,7 +38,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:18
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"STORAGE_CHECK_AUG_FR_FLESH_MAKER\"]/choice[2]/text"
-msgstr "Создать нового члена экипажа в Творце Плоти"
+msgstr "Создать нового члена экипажа в Творце плоти"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:20
 msgid ""
@@ -77,7 +78,7 @@ msgid ""
 msgstr ""
 "Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
 "имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
-"миссии без лишнего вопроса."
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:50
 msgid ""
@@ -95,7 +96,7 @@ msgid ""
 msgstr ""
 "Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
 "имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
-"миссии без лишнего вопроса."
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:64
 msgid ""
@@ -334,7 +335,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:223
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TULLY_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:231
 msgid ""
@@ -349,7 +350,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:236
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_DEVORAK_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:244
 msgid ""
@@ -364,7 +365,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:249
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TURZIL_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:257
 msgid ""
@@ -379,7 +380,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:262
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SHELLALKALI_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:270
 msgid ""
@@ -394,7 +395,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:275
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_OOJ_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:283
 msgid ""
@@ -409,7 +410,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:288
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_NIGHTS_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:296
 msgid ""
@@ -424,7 +425,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:301
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SLOCKNOG_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:309
 msgid ""
@@ -439,7 +440,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:314
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_IRWIN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:322
 msgid ""
@@ -454,7 +455,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:327
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ALKRAM_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:335
 msgid ""
@@ -469,7 +470,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:340
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ORCHID_CARETAKER_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:348
 msgid ""
@@ -484,7 +485,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:353
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TYRDEO_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:361
 msgid ""
@@ -499,7 +500,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:366
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_FREDDY_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:374
 msgid ""
@@ -514,7 +515,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:379
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_DIANESH_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:387
 msgid ""
@@ -529,7 +530,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:392
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ARIADNE_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:400
 msgid ""
@@ -544,7 +545,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:405
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_RUWEN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:413
 msgid ""
@@ -559,7 +560,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:418
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TUCO_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:426
 msgid ""
@@ -574,7 +575,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:431
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ROCKELDER_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:439
 msgid ""
@@ -589,7 +590,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:444
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_BEACONEATER_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:452
 msgid ""
@@ -604,7 +605,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:457
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ANOINTED_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:465
 msgid ""
@@ -619,7 +620,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:470
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_DESSIUS_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:478
 msgid ""
@@ -634,7 +635,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:483
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_VORTIGON_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:491
 msgid ""
@@ -649,7 +650,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:496
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SPIDERQUEEN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:504
 msgid ""
@@ -664,7 +665,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:509
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SYLVAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:517
 msgid ""
@@ -679,7 +680,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:522
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_VENOMOUSSPIDER_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:530
 msgid ""
@@ -694,7 +695,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:535
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CYBERPONY_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:543
 msgid ""
@@ -709,7 +710,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:548
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_OBYN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:556
 msgid ""
@@ -724,7 +725,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:561
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_BILLY_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:569
 msgid ""
@@ -739,7 +740,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:574
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GUNTPUT_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:582
 msgid ""
@@ -754,7 +755,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:587
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_METYUNT_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:595
 msgid ""
@@ -769,7 +770,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:600
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SYMBIOTE_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:608
 msgid ""
@@ -784,7 +785,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:613
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TONYSR_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:621
 msgid ""
@@ -799,7 +800,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:626
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WITHER_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:634
 msgid ""
@@ -814,7 +815,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:639
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CRYSTALPONY_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:647
 msgid ""
@@ -829,7 +830,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:652
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_VANCE_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:660
 msgid ""
@@ -844,7 +845,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:665
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LEAH_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:673
 msgid ""
@@ -859,7 +860,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:678
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GMANSYLVAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:686
 msgid ""
@@ -874,7 +875,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:691
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MFKLEAH_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:699
 msgid ""
@@ -889,7 +890,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:704
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CYRA_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:712
 msgid ""
@@ -904,7 +905,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:717
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_THEST_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:725
 msgid ""
@@ -919,7 +920,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:730
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CORBY_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:738
 msgid ""
@@ -934,7 +935,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:743
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WAKESON_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:751
 msgid ""
@@ -949,7 +950,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:756
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_DYLAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:764
 msgid ""
@@ -964,7 +965,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:769
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CLANSYLVAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:777
 msgid ""
@@ -979,7 +980,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:782
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_1DSYLVAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:790
 msgid ""
@@ -994,7 +995,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:795
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_REBELSYLVAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:803
 msgid ""
@@ -1009,7 +1010,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:808
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SANSSYLVAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:816
 msgid ""
@@ -1024,7 +1025,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:821
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MAIDSYLVAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:829
 msgid ""
@@ -1039,7 +1040,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:834
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LEAHSYLVAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:842
 msgid ""
@@ -1054,7 +1055,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:847
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_RICKSYLVAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:855
 msgid ""
@@ -1069,7 +1070,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:860
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_BEANSSYLVAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:868
 msgid ""
@@ -1084,7 +1085,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:873
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PRIMESYLVAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:881
 msgid ""
@@ -1099,7 +1100,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:886
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PAPYRUSOBYN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:894
 msgid ""
@@ -1114,7 +1115,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:899
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GOZER_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:907
 msgid ""
@@ -1129,7 +1130,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:912
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELEANOR_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:920
 msgid ""
@@ -1144,7 +1145,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:925
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PSYCH_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:933
 msgid ""
@@ -1159,7 +1160,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:938
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SCOLERI_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:946
 msgid ""
@@ -1174,7 +1175,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:951
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SLIMER_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:959
 msgid ""
@@ -1189,7 +1190,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:964
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_VINZ_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:972
 msgid ""
@@ -1204,7 +1205,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:977
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ZUUL_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:985
 msgid ""
@@ -1219,7 +1220,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:990
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ORKID_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:998
 msgid ""
@@ -1234,7 +1235,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1003
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELLIE_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1011
 msgid ""
@@ -1249,7 +1250,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1016
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TOWR_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1024
 msgid ""
@@ -1264,7 +1265,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1029
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_THING_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1037
 msgid ""
@@ -1279,7 +1280,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1042
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WEAKTHING_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1050
 msgid ""
@@ -1294,7 +1295,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1055
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GNOME_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1063
 msgid ""
@@ -1309,7 +1310,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1068
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_BUCKET_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1076
 msgid ""
@@ -1324,7 +1325,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1081
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CELSYLVAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1089
 msgid ""
@@ -1339,7 +1340,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1094
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CELOBYN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1102
 msgid ""
@@ -1354,7 +1355,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1107
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PANTS_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1115
 msgid ""
@@ -1369,7 +1370,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1120
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELLIE_LV1_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1128
 msgid ""
@@ -1384,7 +1385,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1133
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELLIE_LV2_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1141
 msgid ""
@@ -1399,7 +1400,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1146
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELLIE_LV3_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1154
 msgid ""
@@ -1414,7 +1415,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1159
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELLIE_LV4_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1167
 msgid ""
@@ -1429,7 +1430,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1172
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELLIE_LV5_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1180
 msgid ""
@@ -1444,7 +1445,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1185
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELLIE_LV6_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1193
 msgid ""
@@ -1459,7 +1460,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1198
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_STEPHAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1206
 msgid ""
@@ -1474,7 +1475,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1211
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ANURAK_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1219
 msgid ""
@@ -1489,7 +1490,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1224
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HUMANOID_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1232
 msgid ""
@@ -1504,7 +1505,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1237
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SOLDIER_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1245
 msgid ""
@@ -1519,7 +1520,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1250
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MFK_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1258
 msgid ""
@@ -1534,7 +1535,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1263
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LEGION_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1271
 msgid ""
@@ -1549,7 +1550,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1276
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PYROLEGION_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1284
 msgid ""
@@ -1564,7 +1565,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1289
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TECHNICIAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1297
 msgid ""
@@ -1579,7 +1580,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1302
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ANGEL_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1310
 msgid ""
@@ -1594,7 +1595,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1315
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_DEFENDER_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1323
 msgid ""
@@ -1609,7 +1610,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1328
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PEACEKEEPER_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1336
 msgid ""
@@ -1624,7 +1625,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1341
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MARTYR_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1349
 msgid ""
@@ -1639,7 +1640,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1354
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PRAETOR_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1362
 msgid ""
@@ -1654,7 +1655,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1367
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CULTIVATOR_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1375
 msgid ""
@@ -1669,7 +1670,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1380
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SUZERAIN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1388
 msgid ""
@@ -1684,7 +1685,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1393
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WARLORD_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1401
 msgid ""
@@ -1699,7 +1700,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1406
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_BISHOP_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1414
 msgid ""
@@ -1714,7 +1715,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1419
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CRUSADER_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1427
 msgid ""
@@ -1729,7 +1730,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1432
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PALADIN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1440
 msgid ""
@@ -1744,7 +1745,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1445
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SENTINEL_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1453
 msgid ""
@@ -1759,7 +1760,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1458
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_RADIANT_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1466
 msgid ""
@@ -1774,7 +1775,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1471
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_AMPERE_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1479
 msgid ""
@@ -1789,7 +1790,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1484
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SABOTEUR_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1492
 msgid ""
@@ -1804,7 +1805,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1497
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_KNIGHT_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1505
 msgid ""
@@ -1819,7 +1820,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1510
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ALPHAPHANTOM_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1518
 msgid ""
@@ -1834,7 +1835,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1523
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ALPHAGOUL_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1531
 msgid ""
@@ -1849,7 +1850,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1536
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ALPHAMARE_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1544
 msgid ""
@@ -1864,7 +1865,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1549
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ALPHAWRAITH_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1557
 msgid ""
@@ -1879,7 +1880,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1562
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TAMEDPONY_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1570
 msgid ""
@@ -1894,7 +1895,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1575
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WELDER_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1583
 msgid ""
@@ -1909,7 +1910,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1588
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ROYALCOGNITIVE_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1596
 msgid ""
@@ -1924,7 +1925,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1601
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HARPYSIREN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1609
 msgid ""
@@ -1939,7 +1940,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1614
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ROYALOBELISK_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1622
 msgid ""
@@ -1954,7 +1955,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1627
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HUMAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1635
 msgid ""
@@ -1969,7 +1970,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1640
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MEDIC_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1648
 msgid ""
@@ -1984,7 +1985,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1653
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ENGINEER_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1661
 msgid ""
@@ -1999,7 +2000,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1666
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_REBEL_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1674
 msgid ""
@@ -2014,7 +2015,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1679
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MEDICREBEL_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1687
 msgid ""
@@ -2029,7 +2030,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1692
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ENGI_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1700
 msgid ""
@@ -2044,7 +2045,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1705
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SEPARATIST_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1713
 msgid ""
@@ -2059,7 +2060,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1718
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ZOLTAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1726
 msgid ""
@@ -2074,7 +2075,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1731
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MONK_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1739
 msgid ""
@@ -2089,7 +2090,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1744
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_DEVOTEE_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1752
 msgid ""
@@ -2104,7 +2105,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1757
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_OSMIAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1765
 msgid ""
@@ -2119,7 +2120,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1770
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ORCHID_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1778
 msgid ""
@@ -2134,7 +2135,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1783
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_VAMPWEED_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1791
 msgid ""
@@ -2149,7 +2150,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1796
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SHELL_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1804
 msgid ""
@@ -2164,7 +2165,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1809
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SCIENTIST_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1817
 msgid ""
@@ -2179,7 +2180,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1822
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MECHANIC_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1830
 msgid ""
@@ -2194,7 +2195,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1835
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GUARDIAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1843
 msgid ""
@@ -2209,7 +2210,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1848
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MANTIS_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1856
 msgid ""
@@ -2224,7 +2225,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1861
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_FREEMANTIS_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1869
 msgid ""
@@ -2239,7 +2240,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1874
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ROCKMAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1882
 msgid ""
@@ -2254,7 +2255,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1887
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_OUTCAST_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1895
 msgid ""
@@ -2269,7 +2270,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1900
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_COMMANDO_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1908
 msgid ""
@@ -2284,7 +2285,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1913
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CULTIST_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1921
 msgid ""
@@ -2299,7 +2300,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1926
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CRYSTAL_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1934
 msgid ""
@@ -2314,7 +2315,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1939
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LIBERATOR_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1947
 msgid ""
@@ -2329,7 +2330,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1952
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SLUG_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1960
 msgid ""
@@ -2344,7 +2345,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1965
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HEKTAR_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1973
 msgid ""
@@ -2359,7 +2360,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1978
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CLANSMAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1986
 msgid ""
@@ -2374,7 +2375,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:1991
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LEECH_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1999
 msgid ""
@@ -2389,7 +2390,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2004
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SIREN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2012
 msgid ""
@@ -2404,7 +2405,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2017
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PHANTOM_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2025
 msgid ""
@@ -2419,7 +2420,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2030
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GOUL_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2038
 msgid ""
@@ -2434,7 +2435,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2043
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MARE_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2051
 msgid ""
@@ -2449,7 +2450,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2056
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WRAITH_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2064
 msgid ""
@@ -2464,7 +2465,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2069
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LANIUS_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2077
 msgid ""
@@ -2479,7 +2480,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2082
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_AUGMENTED_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2090
 msgid ""
@@ -2494,7 +2495,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2095
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SPIDER_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2103
 msgid ""
@@ -2509,7 +2510,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2108
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PONY_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2116
 msgid ""
@@ -2524,7 +2525,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2121
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LIZARD_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2129
 msgid ""
@@ -2539,7 +2540,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2134
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MORPH_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2142
 msgid ""
@@ -2554,7 +2555,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2147
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TECHNOPATH_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2155
 msgid ""
@@ -2569,7 +2570,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2160
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MALFORMED_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2168
 msgid ""
@@ -2584,7 +2585,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2173
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_COGNITIVE_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2181
 msgid ""
@@ -2599,7 +2600,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2186
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_OBELISK_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2194
 msgid ""
@@ -2614,7 +2615,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2199
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_COMMONWEALTH_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2207
 msgid ""
@@ -2629,7 +2630,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2212
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GOLDENDIAMOND_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2220
 msgid ""
@@ -2644,7 +2645,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2225
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ADAMANTINEDIAMOND_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2233
 msgid ""
@@ -2659,7 +2660,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2238
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_COPPERDIAMOND_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2246
 msgid ""
@@ -2674,7 +2675,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2251
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GOLDENOPERATOR_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2259
 msgid ""
@@ -2689,7 +2690,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2264
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ADAMANTINEOPERATOR_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2272
 msgid ""
@@ -2704,7 +2705,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2277
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_COPPEROPERATOR_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2285
 msgid ""
@@ -2719,7 +2720,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2290
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_AVATARPROTO_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2298
 msgid ""
@@ -2734,7 +2735,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2303
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_EXPERIMENTALCOGNITIVE_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2311
 msgid ""
@@ -2749,7 +2750,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2316
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ENHANCED_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2324
 msgid ""
@@ -2764,7 +2765,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2329
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WITHERED_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2337
 msgid ""
@@ -2779,7 +2780,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2342
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GOLDENLANIUS_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2350
 msgid ""
@@ -2794,7 +2795,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2355
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_COPPERLANIUS_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2363
 msgid ""
@@ -2809,7 +2810,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2368
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ADAMANTINELANIUS_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2376
 msgid ""
@@ -2824,7 +2825,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2381
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HAUNTSLIMER_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2389
 msgid ""
@@ -2839,7 +2840,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2394
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HAUNTPHYS_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2402
 msgid ""
@@ -2854,7 +2855,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2407
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HAUNTCLEO_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2415
 msgid ""
@@ -2869,7 +2870,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2420
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HAUNTVIN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2428
 msgid ""
@@ -2884,7 +2885,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2433
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HAUNTZULU_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2441
 msgid ""
@@ -2899,7 +2900,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2446
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HAUNTALEENOR_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2454
 msgid ""
@@ -2914,7 +2915,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2459
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HAUNTG_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2467
 msgid ""
@@ -2929,7 +2930,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2472
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CHAOS_HAUNTSMOKE_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2480
 msgid ""
@@ -2944,7 +2945,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2485
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CHAOS_HAUNTCHILLS_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2493
 msgid ""
@@ -2959,7 +2960,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2498
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SNOWMAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2506
 msgid ""
@@ -2974,7 +2975,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2511
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LAVAMAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2519
 msgid ""
@@ -2989,7 +2990,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2524
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CHAOS_HAUNTPOK_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2532
 msgid ""
@@ -3004,7 +3005,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2537
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CHAOS_HAUNTCHARROR_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2545
 msgid ""
@@ -3019,7 +3020,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2550
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CHAOS_HAUNTLEO_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2558
 msgid ""
@@ -3034,7 +3035,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2563
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CHAOS_HAUNTSEARAK_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2571
 msgid ""
@@ -3049,7 +3050,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2576
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WATCHER_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2584
 msgid ""
@@ -3064,7 +3065,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2589
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_AUGUSTUS_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2597
 msgid ""
@@ -3079,7 +3080,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2602
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SALLY_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2610
 msgid ""
@@ -3094,7 +3095,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2615
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PRINCE_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2623
 msgid ""
@@ -3109,7 +3110,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2628
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TRIRIAC_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2636
 msgid ""
@@ -3124,7 +3125,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2641
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_AIAVATAR_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2649
 msgid ""
@@ -3139,7 +3140,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2654
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ERRORMAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2662
 msgid ""
@@ -3154,7 +3155,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2667
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LEGIONLEAH_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2675
 msgid ""
@@ -3169,7 +3170,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2680
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SPHERAX_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2688
 msgid ""
@@ -3184,7 +3185,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2693
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_BILLVAN_LIST\"]/event/choice/text"
-msgstr "continue..."
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2701
 msgid ""
@@ -3240,6 +3241,9 @@ msgstr "Казааакплеткилик"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_kazaaak\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2752
 msgid ""
@@ -3259,6 +3263,9 @@ msgstr "Хэйнс"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_haynes\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2766
 msgid ""
@@ -3278,6 +3285,9 @@ msgstr "Майев"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_mayeb\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2780
 msgid ""
@@ -3297,6 +3307,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_tyerel\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2794
 msgid ""
@@ -3316,6 +3329,9 @@ msgstr "Ивар"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_ivar\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2808
 msgid ""
@@ -3336,6 +3352,9 @@ msgstr "Джерри"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_jerry\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2822
 msgid ""
@@ -3355,6 +3374,9 @@ msgstr "Талли"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_tully\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2836
 msgid ""
@@ -3375,6 +3397,9 @@ msgstr "Деворак"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_devorak\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2850
 msgid ""
@@ -3394,6 +3419,9 @@ msgstr "Турзил"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_turzil\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2864
 msgid ""
@@ -3414,6 +3442,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_shellalkali\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2878
 msgid ""
@@ -3435,6 +3466,9 @@ msgstr "УДЖ МАДЖУ"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_ooj\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2892
 msgid ""
@@ -3454,6 +3488,9 @@ msgstr "Туман"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_nights\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2906
 msgid ""
@@ -3474,6 +3511,9 @@ msgstr "Слокног"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_slocknog\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2920
 msgid ""
@@ -3493,6 +3533,9 @@ msgstr "Ирвин"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_Irwin\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2934
 msgid ""
@@ -3512,6 +3555,9 @@ msgstr "Алькрам"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_alkram\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2948
 msgid ""
@@ -3531,6 +3577,9 @@ msgstr "Тирдео"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_tyrdeo\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2962
 msgid ""
@@ -3550,6 +3599,9 @@ msgstr "Фредди"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_freddy\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2976
 msgid ""
@@ -3570,6 +3622,9 @@ msgstr "Дианеш"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_dianesh\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2990
 msgid ""
@@ -3590,6 +3645,9 @@ msgstr "Ариадна"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_ariadne\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3004
 msgid ""
@@ -3609,6 +3667,9 @@ msgstr "Рувен"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_ruwen\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3018
 msgid ""
@@ -3628,6 +3689,9 @@ msgstr "Туко"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_tuco\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3032
 msgid ""
@@ -3649,6 +3713,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_rockelder\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3046
 msgid ""
@@ -3670,6 +3737,9 @@ msgstr "Пожиратель маяков"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_beaconeater\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3060
 msgid ""
@@ -3690,6 +3760,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_anointed\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3074
 msgid ""
@@ -3710,6 +3783,9 @@ msgstr "Дессиус"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_dessius\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3088
 msgid ""
@@ -3730,6 +3806,9 @@ msgstr "Вортигон"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_vortigon\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3102
 msgid ""
@@ -3749,6 +3828,9 @@ msgstr "Королева"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_spiderqueen\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3116
 msgid ""
@@ -3769,6 +3851,9 @@ msgstr "Сильван"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_sylvan\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3130
 msgid ""
@@ -3789,6 +3874,9 @@ msgstr "Обин"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_obyn\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3144
 msgid ""
@@ -3808,6 +3896,9 @@ msgstr "Билли"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_billy\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3158
 msgid ""
@@ -3828,6 +3919,9 @@ msgstr "Гантпут"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_guntput\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3172
 msgid ""
@@ -3848,6 +3942,9 @@ msgstr "Метьюнт"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_metyunt\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3186
 msgid ""
@@ -3868,6 +3965,9 @@ msgstr "Симбионт"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_symbiote\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3200
 msgid ""
@@ -3888,6 +3988,9 @@ msgstr "Тони Ст."
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_tonysr\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3214
 msgid ""
@@ -3907,6 +4010,9 @@ msgstr "Витэр"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_wither\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3228
 msgid ""
@@ -3922,6 +4028,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_crystalpony\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3242
 msgid ""
@@ -3941,6 +4050,9 @@ msgstr "Вэнс"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_vance\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3256
 msgid ""
@@ -3961,6 +4073,9 @@ msgstr "Лия"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_leah\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3270
 msgid ""
@@ -3981,6 +4096,9 @@ msgstr "Лия"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_mfkleah\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3284
 msgid ""
@@ -4000,6 +4118,9 @@ msgstr "Сайра"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_cyra\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3298
 msgid ""
@@ -4019,6 +4140,9 @@ msgstr "Сест"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_thest\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3312
 msgid ""
@@ -4038,6 +4162,9 @@ msgstr "Корби"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_corby\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3326
 msgid ""
@@ -4058,6 +4185,9 @@ msgstr "Уэйксон"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_wakeson\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3340
 msgid ""
@@ -4077,6 +4207,9 @@ msgstr "Дилан"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_dylan\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3354
 msgid ""
@@ -4096,6 +4229,9 @@ msgstr "Брюки"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_pants\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3368
 msgid ""
@@ -4111,6 +4247,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_clansylvan\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3382
 msgid ""
@@ -4131,6 +4270,9 @@ msgstr "Сильван"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_1dsylvan\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3396
 msgid ""
@@ -4151,6 +4293,9 @@ msgstr "Сильван"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_rebelsylvan\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3410
 msgid ""
@@ -4171,6 +4316,9 @@ msgstr "Сильван"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_sanssylvan\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3424
 msgid ""
@@ -4191,6 +4339,9 @@ msgstr "Сильван"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_maidsylvan\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3438
 msgid ""
@@ -4211,6 +4362,9 @@ msgstr "Сильван"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_leahsylvan\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3452
 msgid ""
@@ -4231,6 +4385,9 @@ msgstr "Сильврик"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_ricksylvan\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3466
 msgid ""
@@ -4251,6 +4408,9 @@ msgstr "Сильврик"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_beanssylvan\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3480
 msgid ""
@@ -4270,6 +4430,9 @@ msgstr "Первый"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_primesylvan\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3494
 msgid ""
@@ -4289,6 +4452,9 @@ msgstr "Обирус"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_papyrusobyn\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3508
 msgid ""
@@ -4308,6 +4474,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_gozer\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3522
 msgid ""
@@ -4328,6 +4497,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_eleanor\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3536
 msgid ""
@@ -4347,6 +4519,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_psych\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3550
 msgid ""
@@ -4367,6 +4542,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_scoleri\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3564
 msgid ""
@@ -4387,6 +4565,9 @@ msgstr "Слаймер"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_slimer\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3578
 msgid ""
@@ -4406,6 +4587,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_vinz\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3592
 msgid ""
@@ -4425,6 +4609,9 @@ msgstr "Зуул"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_zuul\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3606
 msgid ""
@@ -4445,6 +4632,9 @@ msgstr "Джерри"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_gunjerry\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3620
 msgid ""
@@ -4465,6 +4655,9 @@ msgstr "Джерри"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_ponyjerry\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3634
 msgid ""
@@ -4480,6 +4673,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_orkid\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3648
 msgid ""
@@ -4500,6 +4696,9 @@ msgstr "Джерри"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_crystaljerry\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3662
 msgid ""
@@ -4519,6 +4718,9 @@ msgstr "Джи-Ван"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_gmansylvan\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3676
 msgid ""
@@ -4539,6 +4741,9 @@ msgstr "Сильван"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_celsylvan\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3690
 msgid ""
@@ -4559,6 +4764,9 @@ msgstr "Обин"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_celobyn\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3704
 msgid ""
@@ -4579,6 +4787,9 @@ msgstr "Элли"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_ellie\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3718
 msgid ""
@@ -4599,6 +4810,9 @@ msgstr "Элли"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_ellie_lv1\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3732
 msgid ""
@@ -4619,6 +4833,9 @@ msgstr "Элли"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_ellie_lv2\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3746
 msgid ""
@@ -4639,6 +4856,9 @@ msgstr "Элли"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_ellie_lv3\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3760
 msgid ""
@@ -4659,6 +4879,9 @@ msgstr "Элли"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_ellie_lv4\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3774
 msgid ""
@@ -4679,6 +4902,9 @@ msgstr "Элли"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_ellie_lv5\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3788
 msgid ""
@@ -4699,6 +4925,9 @@ msgstr "Элли"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_ellie_lv6\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3802
 msgid ""
@@ -4719,6 +4948,9 @@ msgstr "Стефан"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_stephan\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3816
 msgid ""
@@ -4739,6 +4971,9 @@ msgstr "Шарлотта"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_venomousspider\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3830
 msgid ""
@@ -4759,6 +4994,9 @@ msgstr "3КВ3СТРИ91"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_cyberpony\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3844
 msgid ""
@@ -4778,6 +5016,9 @@ msgstr "Анурак"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_anurak\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3858
 msgid ""
@@ -4797,6 +5038,9 @@ msgstr "Стефан"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_humanoid\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3872
 msgid ""
@@ -4816,6 +5060,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_towr\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3886
 msgid ""
@@ -4836,6 +5083,9 @@ msgstr "Нечто"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_thing\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3900
 msgid ""
@@ -4856,6 +5106,9 @@ msgstr "Нечто"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_weakthing\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3914
 msgid ""
@@ -4919,6 +5172,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_soldier\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3966
 msgid ""
@@ -4934,6 +5190,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_mfk\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3980
 msgid ""
@@ -4949,6 +5208,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_legion\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3994
 msgid ""
@@ -4964,6 +5226,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_pyrolegion\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4008
 msgid ""
@@ -4979,6 +5244,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_technician\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4022
 msgid ""
@@ -4994,6 +5262,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_angel\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4036
 msgid ""
@@ -5009,6 +5280,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_defender\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4050
 msgid ""
@@ -5024,6 +5298,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_peacekeeper\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4064
 msgid ""
@@ -5039,6 +5316,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_martyr\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4078
 msgid ""
@@ -5054,6 +5334,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_praetor\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4092
 msgid ""
@@ -5069,6 +5352,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_cultivator\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4106
 msgid ""
@@ -5084,6 +5370,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_suzerain\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4120
 msgid ""
@@ -5099,6 +5388,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_warlord\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4134
 msgid ""
@@ -5114,6 +5406,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_bishop\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4148
 msgid ""
@@ -5129,6 +5424,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_crusader\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4162
 msgid ""
@@ -5144,6 +5442,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_paladin\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4176
 msgid ""
@@ -5159,6 +5460,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_sentinel\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4190
 msgid ""
@@ -5174,6 +5478,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_radiant\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4204
 msgid ""
@@ -5189,6 +5496,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_ampere\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4218
 msgid ""
@@ -5204,6 +5514,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_saboteur\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4232
 msgid ""
@@ -5219,6 +5532,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_knight\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4246
 msgid ""
@@ -5234,6 +5550,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_alphaphantom\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4260
 msgid ""
@@ -5249,6 +5568,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_alphagoul\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4274
 msgid ""
@@ -5264,6 +5586,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_alphamare\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4288
 msgid ""
@@ -5279,6 +5604,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_alphawraith\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4302
 msgid ""
@@ -5294,6 +5622,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_welder\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4316
 msgid ""
@@ -5309,6 +5640,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_royalcognitive\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4330
 msgid ""
@@ -5324,6 +5658,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_royalobelisk\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4344
 msgid ""
@@ -5339,6 +5676,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_harpysiren\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4358
 msgid ""
@@ -5364,6 +5704,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_human\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4380
 msgid ""
@@ -5379,6 +5722,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_medic\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4394
 msgid ""
@@ -5394,6 +5740,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_engineer\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4408
 msgid ""
@@ -5409,6 +5758,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_rebel\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4422
 msgid ""
@@ -5424,6 +5776,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_medicrebel\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4436
 msgid ""
@@ -5439,6 +5794,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_engi\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4450
 msgid ""
@@ -5454,6 +5812,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_separatist\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4464
 msgid ""
@@ -5469,6 +5830,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_zoltan\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4478
 msgid ""
@@ -5484,6 +5848,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_monk\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4492
 msgid ""
@@ -5499,6 +5866,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_devotee\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4506
 msgid ""
@@ -5514,6 +5884,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_osmian\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4520
 msgid ""
@@ -5529,6 +5902,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_orchid\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4534
 msgid ""
@@ -5544,6 +5920,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_orchid_caretaker\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4548
 msgid ""
@@ -5559,6 +5938,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_vampweed\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4562
 msgid ""
@@ -5574,6 +5956,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_shell\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4576
 msgid ""
@@ -5589,6 +5974,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_scientist\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4590
 msgid ""
@@ -5604,6 +5992,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_mechanic\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4604
 msgid ""
@@ -5619,6 +6010,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_guardian\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4618
 msgid ""
@@ -5634,6 +6028,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_mantis\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4632
 msgid ""
@@ -5649,6 +6046,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scaneemantis\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4646
 msgid ""
@@ -5664,6 +6064,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_rockman\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4660
 msgid ""
@@ -5679,6 +6082,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_outcast\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4674
 msgid ""
@@ -5694,6 +6100,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_commando\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4688
 msgid ""
@@ -5709,6 +6118,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_cultist\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4702
 msgid ""
@@ -5724,6 +6136,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_crystal\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4716
 msgid ""
@@ -5739,6 +6154,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_liberator\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4730
 msgid ""
@@ -5754,6 +6172,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_slug\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4744
 msgid ""
@@ -5769,6 +6190,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_hektar\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4758
 msgid ""
@@ -5784,6 +6208,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_clansman\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4772
 msgid ""
@@ -5799,6 +6226,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_leech\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4786
 msgid ""
@@ -5814,6 +6244,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_siren\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4800
 msgid ""
@@ -5829,6 +6262,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_phantom\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4814
 msgid ""
@@ -5844,6 +6280,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_goul\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4828
 msgid ""
@@ -5859,6 +6298,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_mare\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4842
 msgid ""
@@ -5874,6 +6316,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_wraith\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4856
 msgid ""
@@ -5889,6 +6334,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_lanius\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4870
 msgid ""
@@ -5904,6 +6352,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_augmented\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4884
 msgid ""
@@ -5919,6 +6370,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_spider\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4898
 msgid ""
@@ -5934,6 +6388,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_pony\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4912
 msgid ""
@@ -5949,6 +6406,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_lizard\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4926
 msgid ""
@@ -5964,6 +6424,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_cognitive\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4940
 msgid ""
@@ -5979,6 +6442,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_obelisk\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4954
 msgid ""
@@ -5994,6 +6460,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_morph\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4968
 msgid ""
@@ -6009,6 +6478,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_technopath\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4982
 msgid ""
@@ -6024,6 +6496,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_GENERIC\"]/choice[@req=\"fleshmaker_scan_malformed\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4996
 msgid ""
@@ -6049,6 +6524,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_golden_diamond\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5018
 msgid ""
@@ -6064,6 +6542,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_adamantine_diamond\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5032
 msgid ""
@@ -6079,6 +6560,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_copper_diamond\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5046
 msgid ""
@@ -6094,6 +6578,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_goldenoperator\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5060
 msgid ""
@@ -6109,6 +6596,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_adamantineoperator\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5074
 msgid ""
@@ -6124,6 +6614,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_copperoperator\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5088
 msgid ""
@@ -6139,6 +6632,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_commonwealth\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5102
 msgid ""
@@ -6154,6 +6650,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_avatarproto\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5116
 msgid ""
@@ -6169,6 +6668,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_experimentalcognitive\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5130
 msgid ""
@@ -6184,6 +6686,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_enhanced\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5144
 msgid ""
@@ -6199,6 +6704,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_goldenlanius\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5158
 msgid ""
@@ -6214,6 +6722,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_copperlanius\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5172
 msgid ""
@@ -6229,6 +6740,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_adamantinelanius\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5186
 msgid ""
@@ -6244,6 +6758,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_withered\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5200
 msgid ""
@@ -6264,6 +6781,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_mantisqueen\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5214
 msgid ""
@@ -6284,6 +6804,9 @@ msgstr "Слаймер"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_hauntslimer\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5228
 msgid ""
@@ -6303,6 +6826,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_hauntphys\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5242
 msgid ""
@@ -6322,6 +6848,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_hauntcleo\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5256
 msgid ""
@@ -6341,6 +6870,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_hauntvin\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5270
 msgid ""
@@ -6360,6 +6892,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_hauntzulu\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5284
 msgid ""
@@ -6380,6 +6915,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_hauntaleenor\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5298
 msgid ""
@@ -6399,6 +6937,9 @@ msgstr "G"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_hauntg\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5312
 msgid ""
@@ -6418,6 +6959,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_chaos_hauntsmoke\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5326
 msgid ""
@@ -6437,6 +6981,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_chaos_hauntchills\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5340
 msgid ""
@@ -6452,6 +6999,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_snowman\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5354
 msgid ""
@@ -6467,6 +7017,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_lavaman\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5368
 msgid ""
@@ -6486,6 +7039,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_chaos_hauntpok\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5382
 msgid ""
@@ -6506,6 +7062,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_chaos_hauntcharror\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5396
 msgid ""
@@ -6525,6 +7084,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_chaos_hauntleo\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5410
 msgid ""
@@ -6544,6 +7106,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_chaos_hauntsearak\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5424
 msgid ""
@@ -6564,6 +7129,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_watcher\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5438
 msgid ""
@@ -6584,6 +7152,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_augustus\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5452
 msgid ""
@@ -6603,6 +7174,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_sally\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5466
 msgid ""
@@ -6624,6 +7198,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_prince\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5480
 msgid ""
@@ -6644,6 +7221,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_tririac\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5494
 msgid ""
@@ -6659,6 +7239,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_aiavatar\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5508
 msgid ""
@@ -6674,6 +7257,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_errorman\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5522
 msgid ""
@@ -6694,6 +7280,9 @@ msgstr "Лия"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_legionleah\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5536
 msgid ""
@@ -6709,6 +7298,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_spherax\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5550
 msgid ""
@@ -6729,6 +7321,9 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_bilvan\"]/event/text"
 msgstr ""
+"Ваш новый подчинённый перешагивает порог Творца, вы уже позаботились об "
+"имплантации в его голову искусственных воспоминаний, чтобы он помогал вашей "
+"миссии без лишних вопросов."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5564
 msgid ""
