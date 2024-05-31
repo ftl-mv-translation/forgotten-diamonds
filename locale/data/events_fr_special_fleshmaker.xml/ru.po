@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-05-31 13:13+0000\n"
-"Last-Translator: Роман <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_fr_special_fleshmakerxml/ru/>\n"
 "Language: ru\n"
@@ -1086,7 +1086,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:751
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_DYLAN_LIST\"]/text"
-msgstr "Добавить данные Дилана в базу данных"
+msgstr "Зарегистрировать Дилана в базе данных"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:753
 msgid ""
