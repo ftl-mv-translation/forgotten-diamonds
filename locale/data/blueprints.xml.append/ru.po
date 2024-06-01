@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-01 20:26+0000\n"
-"Last-Translator: Роман <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1720,7 +1720,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2011
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_DIAMOND\"]/title"
-msgstr ""
+msgstr "Благо алмазов"
 
 #: src-en/data/blueprints.xml.append:2012
 msgid ""
