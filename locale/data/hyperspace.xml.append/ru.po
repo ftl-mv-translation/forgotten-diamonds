@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-05-31 13:11+0000\n"
+"PO-Revision-Date: 2024-06-01 20:26+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/datahyperspace-xml-append/ru/>\n"
@@ -86,7 +86,7 @@ msgstr "Получите благо ??? от Сеста."
 #: src-en/data/hyperspace.xml.append:2830
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/name"
-msgstr ""
+msgstr "Благо алмазов"
 
 #: src-en/data/hyperspace.xml.append:2831
 msgid ""
