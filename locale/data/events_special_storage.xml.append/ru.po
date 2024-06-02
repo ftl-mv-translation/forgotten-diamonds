@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-02 15:12+0000\n"
-"Last-Translator: Роман <aleev1414@gmail.com>\n"
+"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -216,7 +216,7 @@ msgstr "Сбросить форму Технопата оператора. [-2{]
 #: src-en/data/events_special_storage.xml.append:195
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_OPERATOR\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш Технопат возвращает свою изначальную форму."
 
 #: src-en/data/events_special_storage.xml.append:198
 msgid ""
@@ -232,7 +232,7 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "(Щит Кузнеца) Создать и улучшить дронов."
 
 #: src-en/data/events_special_storage.xml.append:231
 msgid ""
