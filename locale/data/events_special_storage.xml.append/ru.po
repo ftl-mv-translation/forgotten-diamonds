@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-02 14:54+0000\n"
-"Last-Translator: Роман <aleev1414@gmail.com>\n"
+"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -166,7 +166,7 @@ msgstr "(Член экипажа-оператор) Принять форму о�
 #: src-en/data/events_special_storage.xml.append:147
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_OPERATOR\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш Технопат принимает новую форму."
 
 #: src-en/data/events_special_storage.xml.append:150
 msgid ""
@@ -206,7 +206,7 @@ msgstr "Неважно, заняться чем-то еще."
 #: src-en/data/events_special_storage.xml.append:190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_OPERATOR\"]/text"
-msgstr ""
+msgstr "Вы собираетесь сбросить форму вашего Технопата Оператора."
 
 #: src-en/data/events_special_storage.xml.append:192
 msgid ""
