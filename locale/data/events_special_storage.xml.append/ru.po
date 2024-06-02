@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-01 20:26+0000\n"
+"PO-Revision-Date: 2024-06-02 13:42+0000\n"
 "Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INTERACT\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Усилить Золотого Ланиуса"
 
 #: src-en/data/events_special_storage.xml.append:20
 msgid ""
