@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-03 15:13+0000\n"
+"PO-Revision-Date: 2024-06-03 15:14+0000\n"
 "Last-Translator: Роман <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
@@ -476,12 +476,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[3]/text"
-msgstr "Создать простое золотое ионное оружие."
+msgstr "Создать простой золотой ион."
 
 #: src-en/data/events_special_storage.xml.append:430
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[3]/event/text"
 msgstr ""
+"Спустя часы ожидания, ваше орудие принимает завершённый вид и выбрасывается "
+"из щита, заставляя вас возвращать оружие на корабль."
 
 #: src-en/data/events_special_storage.xml.append:432
 msgid ""
