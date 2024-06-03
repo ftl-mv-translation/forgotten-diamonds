@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-03 14:33+0000\n"
+"PO-Revision-Date: 2024-06-03 14:34+0000\n"
 "Last-Translator: Роман <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
@@ -105,7 +105,7 @@ msgstr "(Торговый маяк забытых алмазов) Вызвать
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[1]/text"
-msgstr "Превратить морфа в алмаз."
+msgstr "Трансформировать морфа в алмаз."
 
 #: src-en/data/events_special_storage.xml.append:104
 msgid ""
