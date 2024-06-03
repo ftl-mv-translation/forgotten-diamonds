@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-03 10:27+0000\n"
-"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
+"PO-Revision-Date: 2024-06-03 10:28+0000\n"
+"Last-Translator: Роман <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -252,7 +252,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[4]/text"
-msgstr "(Щит Сплавов) Выбрать, какой элемент Щита Сплавов будет использован."
+msgstr ""
+"(Защитный сплав) Выбрать, какой элемент Защитного сплава будет использован."
 
 #: src-en/data/events_special_storage.xml.append:254
 msgid ""
@@ -262,7 +263,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:256
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_ALLOY_SHIELD\"]/choice[1]/text"
-msgstr ""
+msgstr "Щит роскоши"
 
 #: src-en/data/events_special_storage.xml.append:262
 msgid ""
