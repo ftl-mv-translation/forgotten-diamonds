@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-03 10:28+0000\n"
-"Last-Translator: Роман <aleev1414@gmail.com>\n"
+"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -273,7 +273,7 @@ msgstr "Щит Тинкерера"
 #: src-en/data/events_special_storage.xml.append:268
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_ALLOY_SHIELD\"]/choice[3]/text"
-msgstr ""
+msgstr "Творец Плоти"
 
 #: src-en/data/events_special_storage.xml.append:274
 msgid ""
