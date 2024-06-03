@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-03 14:56+0000\n"
+"PO-Revision-Date: 2024-06-03 15:13+0000\n"
 "Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
@@ -474,7 +474,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[3]/text"
-msgstr ""
+msgstr "Создать простое золотое ионное оружие."
 
 #: src-en/data/events_special_storage.xml.append:430
 msgid ""
