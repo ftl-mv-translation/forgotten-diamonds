@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-03 14:30+0000\n"
-"Last-Translator: Роман <aleev1414@gmail.com>\n"
+"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -363,12 +363,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:340
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[2]/text"
-msgstr ""
+msgstr "Перегнать ресурсы в лом."
 
 #: src-en/data/events_special_storage.xml.append:342
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[2]/event/text"
 msgstr ""
+"Вы проводите инвентаризацию всех ресурсов на корабле, что понять, чем вы "
+"можете пожертвовать.."
 
 #: src-en/data/events_special_storage.xml.append:344
 msgid ""
