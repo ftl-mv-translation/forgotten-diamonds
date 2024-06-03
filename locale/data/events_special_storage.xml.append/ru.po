@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-03 10:27+0000\n"
-"Last-Translator: Роман <aleev1414@gmail.com>\n"
+"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -252,7 +252,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "(Щит Сплавов) Выбрать, какой элемент Щита Сплавов будет использован."
 
 #: src-en/data/events_special_storage.xml.append:254
 msgid ""
