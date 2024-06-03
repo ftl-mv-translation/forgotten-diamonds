@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-03 14:34+0000\n"
-"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
+"Last-Translator: Роман <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -117,7 +117,7 @@ msgstr "Превратить Технопата в оператора."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[3]/text"
-msgstr "Сбросить форму Морфа Алмаза"
+msgstr "Сбросить морфа алмаза"
 
 #: src-en/data/events_special_storage.xml.append:112
 msgid ""
