@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-03 14:35+0000\n"
+"PO-Revision-Date: 2024-06-03 14:44+0000\n"
 "Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
@@ -158,7 +158,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_OPERATOR\"]/text"
 msgstr ""
 "Вы собираетесь трансформировать вашего Технопата в оператора.\n"
-"\t\tЭто можно отменить позже, но это может стоить топлива в зависимости от "
+"\tЭто можно отменить позже, но это может стоить топлива в зависимости от "
 "того, в какой форме он сейчас находится."
 
 #: src-en/data/events_special_storage.xml.append:145
@@ -184,7 +184,7 @@ msgstr "Неважно, заняться чем-то еще."
 #: src-en/data/events_special_storage.xml.append:166
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_DIAMOND\"]/text"
-msgstr ""
+msgstr "Вы собираетесь сбросить форму вашего морфа алмаза."
 
 #: src-en/data/events_special_storage.xml.append:168
 msgid ""
