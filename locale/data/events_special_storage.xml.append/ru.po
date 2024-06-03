@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-03 12:48+0000\n"
-"Last-Translator: Роман <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-06-03 12:49+0000\n"
+"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -346,12 +346,14 @@ msgstr "Что вы хотите сделать?"
 #: src-en/data/events_special_storage.xml.append:328
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[1]/text"
-msgstr ""
+msgstr "Создать золотое оружие."
 
 #: src-en/data/events_special_storage.xml.append:330
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[1]/event/text"
 msgstr ""
+"Вы собираете весь находящийся на корабле лом, мечтая, какую стреляющую "
+"блестяшку вы могли бы получить."
 
 #: src-en/data/events_special_storage.xml.append:332
 msgid ""
