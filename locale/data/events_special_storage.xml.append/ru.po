@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-03 10:29+0000\n"
+"PO-Revision-Date: 2024-06-03 10:30+0000\n"
 "Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
@@ -288,12 +288,13 @@ msgstr "Создать новых дронов или улучшить уже с
 #: src-en/data/events_special_storage.xml.append:284
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[1]/text"
-msgstr ""
+msgstr "Создать дронов"
 
 #: src-en/data/events_special_storage.xml.append:286
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[1]/event/text"
 msgstr ""
+"Вы проверяете ваши чертежи на наличие прототипов, которые можно использовать"
 
 #: src-en/data/events_special_storage.xml.append:288
 msgid ""
