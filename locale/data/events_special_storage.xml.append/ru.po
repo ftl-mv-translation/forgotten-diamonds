@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-03 14:44+0000\n"
-"Last-Translator: Роман <aleev1414@gmail.com>\n"
+"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -189,7 +189,7 @@ msgstr "Вы собираетесь сбросить форму вашего м�
 #: src-en/data/events_special_storage.xml.append:168
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_DIAMOND\"]/choice[1]/text"
-msgstr ""
+msgstr "Сбросить форму Морфа Алмаза. [-2{]"
 
 #: src-en/data/events_special_storage.xml.append:171
 msgid ""
