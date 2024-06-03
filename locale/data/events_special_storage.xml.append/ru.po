@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-03 12:49+0000\n"
-"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
+"Last-Translator: Роман <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -326,7 +326,7 @@ msgstr "Перегнать ресурсы в дрон-комплекты"
 #: src-en/data/events_special_storage.xml.append:310
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[3]/event/text"
-msgstr "Вы проводите инвентаризацию всего, что можете перегнать в части дронов."
+msgstr "Вы составляете список того, из чего можете сделать дрон-комплекты."
 
 #: src-en/data/events_special_storage.xml.append:312
 msgid ""
