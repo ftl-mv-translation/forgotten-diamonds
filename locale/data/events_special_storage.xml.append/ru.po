@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-03 15:14+0000\n"
-"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
+"PO-Revision-Date: 2024-06-04 15:46+0000\n"
+"Last-Translator: Роман <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.16.4\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/events_special_storage.xml.append:16
 msgid ""
@@ -493,12 +493,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:438
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[4]/text"
-msgstr "Создать простой золотой телепортатор бомб."
+msgstr "Создать простую золотую пусковую установку бомб."
 
 #: src-en/data/events_special_storage.xml.append:444
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[4]/event/text"
 msgstr ""
+"Спустя часы ожидания, ваше орудие принимает завершённый вид и выбрасывается "
+"из щита, заставляя вас возвращать оружие на корабль."
 
 #: src-en/data/events_special_storage.xml.append:446
 msgid ""
