@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-07 19:18+0000\n"
+"Last-Translator: Роман <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"forgotten-diamonds/dataevents_fr_special_fleshmakerxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4
 msgid ""
@@ -101,12 +109,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:70
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"STORAGE_CHECK_AUG_FR_FLESH_MAKER\"]/choice[@req=\"FR_REQUIREMENT_BADGE_READY\"]/text"
-msgstr ""
+msgstr "Взять значок за заполнения базы данных!"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:72
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"STORAGE_CHECK_AUG_FR_FLESH_MAKER\"]/choice[@req=\"FR_REQUIREMENT_BADGE_READY\"]/event/text"
 msgstr ""
+"Ох... вау, вы сделали это! Я никогда не думал, что кто-то сможет зайти так "
+"далеко, но вы сделали это! Поздравляем! Получите этот значок в виде "
+"достижения, чтобы показать свою преданность этому кораблю!"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:76
 msgid ""
@@ -3962,17 +3973,17 @@ msgstr "Уникальный экипаж"
 #: src-en/data/events_fr_special_fleshmaker.xml:2715
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE\"]/choice[2]/text"
-msgstr ""
+msgstr "Элитный экипаж"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2721
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE\"]/choice[3]/text"
-msgstr ""
+msgstr "Обычный экипаж"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2727
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE\"]/choice[4]/text"
-msgstr ""
+msgstr "Особый экипаж"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2733
 msgid ""
@@ -3982,12 +3993,12 @@ msgstr "Неважно, заняться чем-то еще."
 #: src-en/data/events_fr_special_fleshmaker.xml:2742
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/text"
-msgstr ""
+msgstr "Какой уникальный экипаж нам следует создать? [Цена -20{]"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2744
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_kazaaak\"]/text"
-msgstr ""
+msgstr "Создать Казааакплеткилика"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2746
 msgid ""
@@ -4010,7 +4021,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2758
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_haynes\"]/text"
-msgstr ""
+msgstr "Создать Хэйнса"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2760
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Haynes\"]/@name"
@@ -4032,7 +4043,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2772
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_mayeb\"]/text"
-msgstr ""
+msgstr "Создать Майев"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2774
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Mayeb\"]/@name"
@@ -4054,11 +4065,11 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2786
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_tyerel\"]/text"
-msgstr ""
+msgstr "Создать Тай Э'Рел"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2788
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Tyerel\"]/@name"
-msgstr ""
+msgstr "Тай Э'Рел"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2792
 msgid ""
@@ -4076,7 +4087,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2800
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_ivar\"]/text"
-msgstr ""
+msgstr "Создать Ивара"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2802
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Ivar\"]/@name"
@@ -4098,7 +4109,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2814
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_jerry\"]/text"
-msgstr ""
+msgstr "Создать Джерри"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2816
 msgid ""
@@ -4121,7 +4132,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2828
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_tully\"]/text"
-msgstr ""
+msgstr "Создать Талли"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2830
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Tully\"]/@name"
@@ -4143,7 +4154,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2842
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_devorak\"]/text"
-msgstr ""
+msgstr "Создать Деворака"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2844
 msgid ""
@@ -4166,7 +4177,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2856
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_turzil\"]/text"
-msgstr ""
+msgstr "Создать Турзила"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2858
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Turzil\"]/@name"
@@ -4188,12 +4199,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2870
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_shellalkali\"]/text"
-msgstr ""
+msgstr "Создать Алькали"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2872
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Shellalkali\"]/@name"
-msgstr ""
+msgstr "Алькали"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2876
 msgid ""
@@ -4211,7 +4222,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2884
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_ooj\"]/text"
-msgstr ""
+msgstr "Создать УДЖ"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2886
 msgid ""
@@ -4235,7 +4246,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2898
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_nights\"]/text"
-msgstr ""
+msgstr "Создать Тумана"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2900
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Nights\"]/@name"
@@ -4257,7 +4268,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2912
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_slocknog\"]/text"
-msgstr ""
+msgstr "Создать Слокнога"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2914
 msgid ""
@@ -4280,7 +4291,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2926
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_Irwin\"]/text"
-msgstr ""
+msgstr "Создать Ирвина"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2928
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Irwin\"]/@name"
@@ -4302,7 +4313,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2940
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_alkram\"]/text"
-msgstr ""
+msgstr "Создать Алькрама"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2942
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Alkram\"]/@name"
@@ -4324,7 +4335,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2954
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_tyrdeo\"]/text"
-msgstr ""
+msgstr "Создать Тирдео"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2956
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Tyrdeo\"]/@name"
@@ -4346,7 +4357,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2968
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_freddy\"]/text"
-msgstr ""
+msgstr "Создать Фредди"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2970
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Freddy\"]/@name"
@@ -4368,7 +4379,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2982
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_dianesh\"]/text"
-msgstr ""
+msgstr "Создать Дианеш"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2984
 msgid ""
@@ -4391,7 +4402,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2996
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_ariadne\"]/text"
-msgstr ""
+msgstr "Создать Ариадну"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2998
 msgid ""
@@ -4414,7 +4425,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3010
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_ruwen\"]/text"
-msgstr ""
+msgstr "Создать Рувена"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3012
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Ruwen\"]/@name"
@@ -4436,7 +4447,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3024
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_tuco\"]/text"
-msgstr ""
+msgstr "Создать Туко"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3026
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Tuco\"]/@name"
@@ -4458,13 +4469,13 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3038
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_rockelder\"]/text"
-msgstr ""
+msgstr "Создать Старейшина валуна"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3040
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Rock "
 "Elder\"]/@name"
-msgstr ""
+msgstr "Создать Старейшина"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3044
 msgid ""
@@ -4482,7 +4493,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3052
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_beaconeater\"]/text"
-msgstr ""
+msgstr "Создать Пожирателя маяков"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3054
 msgid ""
@@ -4506,12 +4517,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3066
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_anointed\"]/text"
-msgstr ""
+msgstr "Создать Помазанницу"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3068
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Annointed\"]/@name"
-msgstr ""
+msgstr "Помазанница"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3072
 msgid ""
@@ -4529,7 +4540,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3080
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_dessius\"]/text"
-msgstr ""
+msgstr "Создать Дессиуса"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3082
 msgid ""
@@ -4552,7 +4563,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3094
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_vortigon\"]/text"
-msgstr ""
+msgstr "Создать Вортигона"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3096
 msgid ""
@@ -4575,7 +4586,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3108
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_spiderqueen\"]/text"
-msgstr ""
+msgstr "Создать Королеву Г.И.П."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3110
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Queen\"]/@name"
@@ -4597,7 +4608,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3122
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_sylvan\"]/text"
-msgstr ""
+msgstr "Создать Сильвана"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3124
 msgid ""
@@ -4620,7 +4631,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3136
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_obyn\"]/text"
-msgstr ""
+msgstr "Создать Обина"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3138
 msgid ""
@@ -4643,7 +4654,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3150
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_billy\"]/text"
-msgstr ""
+msgstr "Создать Билли"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3152
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Billy\"]/@name"
@@ -4665,7 +4676,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3164
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_guntput\"]/text"
-msgstr ""
+msgstr "Создать Гантпута"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3166
 msgid ""
@@ -4688,7 +4699,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3178
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_metyunt\"]/text"
-msgstr ""
+msgstr "Создать Метьюнта"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3180
 msgid ""
@@ -4711,7 +4722,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3192
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_symbiote\"]/text"
-msgstr ""
+msgstr "Создать Симбионта"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3194
 msgid ""
@@ -4734,7 +4745,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3206
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_tonysr\"]/text"
-msgstr ""
+msgstr "Создать Тони Старшего"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3208
 msgid ""
@@ -4757,7 +4768,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3220
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_wither\"]/text"
-msgstr ""
+msgstr "Создать Витэра"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3222
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Wither\"]/@name"
@@ -4779,7 +4790,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3234
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_crystalpony\"]/text"
-msgstr ""
+msgstr "Создать кристаллического эквиноида"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3240
 msgid ""
@@ -4797,7 +4808,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3248
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_vance\"]/text"
-msgstr ""
+msgstr "Создать Вэнса"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3250
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Vance\"]/@name"
@@ -4819,7 +4830,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3262
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_leah\"]/text"
-msgstr ""
+msgstr "Создать Лию"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3264
 msgid ""
@@ -4842,7 +4853,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3276
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_mfkleah\"]/text"
-msgstr ""
+msgstr "Создать МФК Лию"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3278
 msgid ""
@@ -4865,7 +4876,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3290
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_cyra\"]/text"
-msgstr ""
+msgstr "Создать Сайру"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3292
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Cyra\"]/@name"
@@ -4887,7 +4898,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3304
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_thest\"]/text"
-msgstr ""
+msgstr "Создать Сеста"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3306
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Thest\"]/@name"
@@ -4909,7 +4920,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3318
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_corby\"]/text"
-msgstr ""
+msgstr "Создать Корби"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3320
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Corby\"]/@name"
@@ -4931,7 +4942,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3332
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_wakeson\"]/text"
-msgstr ""
+msgstr "Создать Уэйксона"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3334
 msgid ""
@@ -4954,7 +4965,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3346
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_dylan\"]/text"
-msgstr ""
+msgstr "Создать Дилана"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3348
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Dylan\"]/@name"
@@ -4976,7 +4987,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3360
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_pants\"]/text"
-msgstr ""
+msgstr "Создать КЭШМИР БРЮКИ - ПЛОХОЙ МУЖЧИНА"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3362
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Pants\"]/@name"
@@ -4998,7 +5009,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3374
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_clansylvan\"]/text"
-msgstr ""
+msgstr "Создать Сильвана-Клановца"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3380
 msgid ""
@@ -5016,7 +5027,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3388
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_1dsylvan\"]/text"
-msgstr ""
+msgstr "Создать 1D Сильвана"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3390
 msgid ""
@@ -5039,7 +5050,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3402
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_rebelsylvan\"]/text"
-msgstr ""
+msgstr "Создать Сильвана-повстанца"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3404
 msgid ""
@@ -5062,7 +5073,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3416
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_sanssylvan\"]/text"
-msgstr ""
+msgstr "Создать Санса-Сильвана"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3418
 msgid ""
@@ -5085,7 +5096,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3430
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_maidsylvan\"]/text"
-msgstr ""
+msgstr "Создать Сильвана-горничную"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3432
 msgid ""
