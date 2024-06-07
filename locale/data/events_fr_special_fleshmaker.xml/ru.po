@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-07 19:18+0000\n"
-"Last-Translator: Роман <aleev1414@gmail.com>\n"
+"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_fr_special_fleshmakerxml/ru/>\n"
 "Language: ru\n"
@@ -133,6 +133,9 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/text"
 msgstr ""
+"В лаборатории вы проверяете, каких членов экипажа вы уже имеете, а каких ещё "
+"нет. Спустя несколько минут вы возвращаетесь с полным списком, кого следует "
+"добавить в базу данных?"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:90
 msgid ""
