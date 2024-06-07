@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-01 20:26+0000\n"
+"PO-Revision-Date: 2024-06-07 10:40+0000\n"
 "Last-Translator: Роман <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_fr_special_fleshmakerxml/ru/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.16.4\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4
 msgid ""
@@ -3344,7 +3344,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2285
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_AVATARPROTO_LIST\"]/text"
-msgstr ""
+msgstr "Зарегистрировать Прото-аватара в базе данных"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2287
 msgid ""
@@ -3958,6 +3958,8 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE\"]/text"
 msgstr ""
+"Ресурсы есть, ритуал можно начинать в любое время, но какой вид мы должны "
+"создать?"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2709
 msgid ""
