@@ -77,6 +77,10 @@ msgstr ""
 "[COOLDOWN:10s]\n"
 "\t\t\tStart fires in the occupied room."
 
+#: src-en/data/hyperspace.xml.append:2684
+msgid "data/hyperspace.xml.append$//fr_golden_lanius_1[@name=\"Sharlan\"]/@name"
+msgstr "Sharlan"
+
 #: src-en/data/hyperspace.xml.append:2828
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/secretName"
