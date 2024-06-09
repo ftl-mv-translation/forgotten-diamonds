@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-08 19:42+0000\n"
-"Last-Translator: Роман <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-06-10 16:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_fr_special_fleshmakerxml/ru/>\n"
 "Language: ru\n"
@@ -786,7 +786,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:530
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CYBERPONY_LIST\"]/text"
-msgstr "Зарегистрировать киберпони в базе данных"
+msgstr "Зарегистрировать Киберпони в базе данных"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:532
 msgid ""
@@ -5754,7 +5754,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3836
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_cyberpony\"]/text"
-msgstr "Создать киберпони."
+msgstr "Создать Киберпони."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3838
 msgid ""
@@ -5910,7 +5910,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:3934
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_bucket\"]/text"
-msgstr ""
+msgstr "Создать самое идеальное ведро из всех"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3936
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Bucket\"]/@name"
@@ -5920,6 +5920,8 @@ msgstr "Ведро"
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_bucket\"]/event/text"
 msgstr ""
+"Вы не уверены в том, что только что сделали... надеюсь, это не приведет к "
+"негативным последствиям."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3942
 msgid ""
