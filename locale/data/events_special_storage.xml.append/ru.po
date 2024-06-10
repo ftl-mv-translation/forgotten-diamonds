@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-10 20:06+0000\n"
-"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
+"PO-Revision-Date: 2024-06-10 20:09+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -1573,32 +1573,32 @@ msgstr "Добавлено: Ничего"
 #: src-en/data/events_special_storage.xml.append:1412
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[5]/text"
-msgstr "???: Боевой дух. [Улучшение уже добавлено]"
+msgstr "Осн: Боевой дух. [Улучшение уже добавлено]"
 
 #: src-en/data/events_special_storage.xml.append:1416
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[6]/text"
-msgstr "???: Боевой дух. [Цена: 100~]"
+msgstr "Осн: Боевой дух. [Цена: 100~]"
 
 #: src-en/data/events_special_storage.xml.append:1420
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[7]/text"
-msgstr "???: Систематичность. [Улучшение уже добавлено]"
+msgstr "Осн: Систематичность. [Улучшение уже добавлено]"
 
 #: src-en/data/events_special_storage.xml.append:1424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[8]/text"
-msgstr "???: Систематичность. [Цена: 50~, 6|]"
+msgstr "Осн: Систематичность. [Цена: 50~, 6|]"
 
 #: src-en/data/events_special_storage.xml.append:1428
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[9]/text"
-msgstr "???: Вредоносность. [Улучшение уже добавлено]"
+msgstr "Осн: Вредоносность. [Улучшение уже добавлено]"
 
 #: src-en/data/events_special_storage.xml.append:1432
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[10]/text"
-msgstr "???: Вредность. [Стоимость: 150~]"
+msgstr "Осн: Вредоносность. [Цена: 150~]"
 
 #: src-en/data/events_special_storage.xml.append:1436
 msgid ""
