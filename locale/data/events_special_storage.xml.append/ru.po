@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-10 19:18+0000\n"
-"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
+"PO-Revision-Date: 2024-06-10 19:21+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -655,7 +655,7 @@ msgstr "Что бы вы хотели сделать?"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_1\"]/text"
 msgstr ""
-"Улучшить: Уровень 1 -> Уровень 2 [Стоимость 100~, +1 к целостности "
+"Улучшить: Уровень 1 -> Уровень 2 [Цена: 100~, +1 к целостности "
 "Энергетического щита]"
 
 #: src-en/data/events_special_storage.xml.append:594
@@ -682,7 +682,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_2\"]/text"
 msgstr ""
-"Улучшить: Уровень 2 -> Уровень 3 [Стоимость 100~, +1 к целостности "
+"Улучшить: Уровень 2 -> Уровень 3 [Цена: 100~, +1 к целостности "
 "Энергетического щита]"
 
 #: src-en/data/events_special_storage.xml.append:615
@@ -709,8 +709,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_3\"]/text"
 msgstr ""
-"Улучшить Щит: Уровень 3 -> Уровень 4 [Стоимость 100~, +1 к прочности "
-"энергетического щита]"
+"Улучшить: Уровень 3 -> Уровень 4 [Цена: 100~, +1 к целостности "
+"Энергетического щита]"
 
 #: src-en/data/events_special_storage.xml.append:636
 msgid ""
@@ -736,6 +736,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_4\"]/text"
 msgstr ""
+"Улучшить: Уровень 4 -> Уровень 5 [Цена: 100~, +1 к целостности "
+"Энергетического щита]"
 
 #: src-en/data/events_special_storage.xml.append:657
 msgid ""
@@ -761,6 +763,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_5\"]/text"
 msgstr ""
+"Улучшить: Уровень 5 -> Уровень 6 [Цена: 100~, +1 к целостности "
+"Энергетического щита]"
 
 #: src-en/data/events_special_storage.xml.append:678
 msgid ""
@@ -786,6 +790,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_6\"]/text"
 msgstr ""
+"Улучшить: Уровень 6 -> Уровень 7 [Цена: 100~, +1 к целостности "
+"Энергетического щита]"
 
 #: src-en/data/events_special_storage.xml.append:699
 msgid ""
@@ -811,6 +817,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_7\"]/text"
 msgstr ""
+"Улучшить: Уровень 7 -> Уровень 8 [Цена: 100~, +1 к целостности "
+"Энергетического щита]"
 
 #: src-en/data/events_special_storage.xml.append:720
 msgid ""
@@ -836,6 +844,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_8\"]/text"
 msgstr ""
+"Улучшить: Уровень 8 -> Уровень 9 [Цена: 100~, +1 к целостности "
+"Энергетического щита]"
 
 #: src-en/data/events_special_storage.xml.append:741
 msgid ""
@@ -861,6 +871,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_9\"]/text"
 msgstr ""
+"Улучшить: Уровень 9 -> Уровень 10 [Цена: 100~, +1 к целостности "
+"Энергетического щита]"
 
 #: src-en/data/events_special_storage.xml.append:762
 msgid ""
@@ -886,6 +898,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_10\"]/text"
 msgstr ""
+"Улучшить: Уровень 10 -> Уровень 11 [Цена: 100~, +1 к целостности "
+"Энергетического щита]"
 
 #: src-en/data/events_special_storage.xml.append:783
 msgid ""
