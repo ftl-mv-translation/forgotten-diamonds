@@ -1124,7 +1124,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1006
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_BEAM\"]/text"
-msgstr "Улучшить Атомайзер Мод. I -> Атомайзер Мод.II"
+msgstr "Улучшить дрон Атомизатор мод. I -> дрон Атомизатор мод.II"
 
 #: src-en/data/events_special_storage.xml.append:1012
 msgid ""
