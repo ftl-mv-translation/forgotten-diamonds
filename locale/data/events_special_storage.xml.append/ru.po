@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-10 19:17+0000\n"
-"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
+"PO-Revision-Date: 2024-06-10 19:18+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -655,8 +655,8 @@ msgstr "Что бы вы хотели сделать?"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_1\"]/text"
 msgstr ""
-"Улучшить Щит: Уровень 1 -> Уровень 2 [Стоимость 100~, +1 к прочности "
-"энергетического щита]"
+"Улучшить: Уровень 1 -> Уровень 2 [Стоимость 100~, +1 к целостности "
+"Энергетического щита]"
 
 #: src-en/data/events_special_storage.xml.append:594
 msgid ""
