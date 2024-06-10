@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-10 19:29+0000\n"
+"PO-Revision-Date: 2024-06-10 19:30+0000\n"
 "Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
@@ -1124,7 +1124,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1006
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_BEAM\"]/text"
-msgstr ""
+msgstr "Улучшить Атомайзер Мод. I -> Атомайзер Мод.II"
 
 #: src-en/data/events_special_storage.xml.append:1012
 msgid ""
