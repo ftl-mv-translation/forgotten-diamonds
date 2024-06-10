@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-10 18:12+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"forgotten-diamonds/datablueprintsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/blueprints.xml.append:19
 msgid ""
@@ -1646,7 +1654,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:1979
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_METAL_LANIUS\"]/title"
-msgstr ""
+msgstr "Благо сплавов"
 
 #: src-en/data/blueprints.xml.append:1980
 msgid ""
@@ -1676,7 +1684,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2003
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_ADAMANTINE\"]/title"
-msgstr ""
+msgstr "Благословение клонирования"
 
 #: src-en/data/blueprints.xml.append:2004
 msgid ""
@@ -1696,7 +1704,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2019
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_OPERATOR\"]/title"
-msgstr ""
+msgstr "Благословение операторов"
 
 #: src-en/data/blueprints.xml.append:2020
 msgid ""
@@ -1842,6 +1850,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_3\"]/desc"
 msgstr ""
+"Идеальное сочетание всех основных групп металлических ланиусов. оснащен "
+"уникальным модулем, который дает большие преимущества, если вы поднимаете "
+"уровень своей системы жизнеобеспечения."
 
 #: src-en/data/blueprints.xml.append:2336
 msgid ""
