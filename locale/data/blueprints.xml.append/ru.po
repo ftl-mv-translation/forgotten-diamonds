@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-10 18:12+0000\n"
+"PO-Revision-Date: 2024-06-10 18:46+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/datablueprintsxmlappend/ru/>\n"
@@ -119,7 +119,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:62
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/powerList/power[1]"
-msgstr "0.2x урона в бою, 2x урона от саботажа."
+msgstr "0.2x урона в бою, 2x урона при саботаже."
 
 #: src-en/data/blueprints.xml.append:63
 msgid ""
