@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-10 19:30+0000\n"
-"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
+"PO-Revision-Date: 2024-06-10 19:35+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -444,8 +444,8 @@ msgstr "Создать простой Золотой лазер."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[1]/event/text"
 msgstr ""
-"Спустя часы ожидания, ваше орудие принимает завершённый вид и выбрасывается "
-"из щита, заставляя вас возвращать оружие на корабль."
+"После долгих часов ожидания ваше орудие, наконец, сформировано, его "
+"выбрасывает из щита, и вам приходится искать его за пределами корабля."
 
 #: src-en/data/events_special_storage.xml.append:404
 msgid ""
@@ -461,8 +461,8 @@ msgstr "Создать простой Золотой луч."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[2]/event/text"
 msgstr ""
-"Спустя часы ожидания, ваше орудие принимает завершённый вид и выбрасывается "
-"из щита, заставляя вас возвращать оружие на корабль."
+"После долгих часов ожидания ваше орудие, наконец, сформировано, его "
+"выбрасывает из щита, и вам приходится искать его за пределами корабля."
 
 #: src-en/data/events_special_storage.xml.append:418
 msgid ""
@@ -478,8 +478,8 @@ msgstr "Создать простой золотой ион."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[3]/event/text"
 msgstr ""
-"Спустя часы ожидания, ваше орудие принимает завершённый вид и выбрасывается "
-"из щита, заставляя вас возвращать оружие на корабль."
+"После долгих часов ожидания ваше орудие, наконец, сформировано, его "
+"выбрасывает из щита, и вам приходится искать его за пределами корабля."
 
 #: src-en/data/events_special_storage.xml.append:432
 msgid ""
@@ -495,8 +495,8 @@ msgstr "Создать простую Золотую пусковую устан
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[4]/event/text"
 msgstr ""
-"Спустя часы ожидания, ваше орудие принимает завершённый вид и выбрасывается "
-"из щита, заставляя вас возвращать оружие на корабль."
+"После долгих часов ожидания ваше орудие, наконец, сформировано, его "
+"выбрасывает из щита, и вам приходится искать его за пределами корабля."
 
 #: src-en/data/events_special_storage.xml.append:446
 msgid ""
@@ -1079,7 +1079,7 @@ msgstr "Какого дрона вы хотите улучшить?"
 #: src-en/data/events_special_storage.xml.append:961
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_LASER\"]/text"
-msgstr "Улучшить дрон Терминатор мод. I -> дрон Терминатор мод.II"
+msgstr "Улучшить дрон Терминатор мод. I -> дрон Терминатор мод. II"
 
 #: src-en/data/events_special_storage.xml.append:967
 msgid ""
@@ -1094,7 +1094,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:976
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_LASER_2\"]/text"
-msgstr "Улучшить дрон Терминатор мод. II -> дрон Терминатор мод.III"
+msgstr "Улучшить дрон Терминатор мод. II -> дрон Терминатор мод. III"
 
 #: src-en/data/events_special_storage.xml.append:982
 msgid ""
@@ -1109,7 +1109,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:991
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_LASER_3\"]/text"
-msgstr "Улучшить дрон Терминатор мод. III -> дрон Терминатор мод.IV"
+msgstr "Улучшить дрон Терминатор мод. III -> дрон Терминатор мод. IV"
 
 #: src-en/data/events_special_storage.xml.append:997
 msgid ""
@@ -1124,7 +1124,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1006
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_BEAM\"]/text"
-msgstr "Улучшить дрон Атомизатор мод. I -> дрон Атомизатор мод.II"
+msgstr "Улучшить дрон Атомизатор мод. I -> дрон Атомизатор мод. II"
 
 #: src-en/data/events_special_storage.xml.append:1012
 msgid ""
@@ -1139,7 +1139,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1021
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_BEAM_2\"]/text"
-msgstr "Улучшить Атомайзер Мод. II -> Атомайзер Мод.III"
+msgstr "Улучшить дрон Атомизатор мод. II -> дрон Атомизатор мод. III"
 
 #: src-en/data/events_special_storage.xml.append:1027
 msgid ""
@@ -1154,7 +1154,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1036
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_BEAM_3\"]/text"
-msgstr ""
+msgstr "Улучшить дрон Атомизатор мод. III -> дрон Атомизатор мод. IV"
 
 #: src-en/data/events_special_storage.xml.append:1042
 msgid ""
