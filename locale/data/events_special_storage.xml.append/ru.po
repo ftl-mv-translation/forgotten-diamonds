@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-10 19:37+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -1255,7 +1255,7 @@ msgstr "Чертежи перед вами, какой прототип вы с�
 #: src-en/data/events_special_storage.xml.append:1134
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[1]/text"
-msgstr ""
+msgstr "Создать Прототип Лазерого Дрона"
 
 #: src-en/data/events_special_storage.xml.append:1140
 msgid ""
