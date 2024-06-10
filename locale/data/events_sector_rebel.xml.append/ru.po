@@ -1,14 +1,30 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-10 18:46+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"forgotten-diamonds/dataevents_sector_rebelxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/events_sector_rebel.xml.append:13
 msgid ""
 "data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/text"
 msgstr ""
+"Оказавшись рядом с маяком в поисках того, кто послал этот странный сигнал "
+"бедствия, вы видите, что по всей этой местности разбросаны множество черно-"
+"желтых кораблей со странными знаками, все они разбиты и разрушены, а среди "
+"их разломанных корпусов виднеется золотистая пыль. Когда вы начинаете "
+"разбирать их, то замечаете неподалеку еще один корабль, отличающийся от "
+"остальных, - треугольной формы, который, похоже, испускает ту самую золотую "
+"пыль, которую вы нашли на обломках. Хотя сам корабль кажется почти "
+"неповрежденным, вы не можете обнаружить на его борту никаких признаков жизни."
 
 #: src-en/data/events_sector_rebel.xml.append:16
 msgid ""
@@ -19,16 +35,31 @@ msgstr "Приблизиться к кораблю."
 msgid ""
 "data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/text"
 msgstr ""
+"Когда вы приближаетесь к кораблю в надежде поживиться тем, что в нем "
+"находится, системы корабля внезапно включаются, и он посылает тревожное "
+"сообщение. \"Неопознанное судно! Не подходите, или вы присоединитесь к "
+"другим кораблям на этом межзвездном кладбище!\" Орудия этого корабля не "
+"похожи ни на что, виденное вами ранее, кроме того, похоже, на борту "
+"находится один-единственная жизненная сигнатура, и она не принадлежит ни "
+"одному виду из вашей базы данных."
 
 #: src-en/data/events_sector_rebel.xml.append:20
 msgid ""
 "data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[1]/text"
 msgstr ""
+"Все, что находится внутри корабля, должно быть невероятно ценным, заряжаем "
+"орудия и приближаемся!"
 
 #: src-en/data/events_sector_rebel.xml.append:22
 msgid ""
 "data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Системы корабля работают на полную мощность! Похоже, его Медотсек питает "
+"какую-то систему жизнеобеспечения, делая единственного выжившего "
+"бессмертным, пока она работает! Вы должны сначала ее отключить, если хотите "
+"иметь шанс убить этого пришельца. К счастью, похоже, что предыдущие бои с "
+"этими странными кораблями повредили их оружейную систему, не позволяя "
+"заряжать орудия с обычной скоростью."
 
 #: src-en/data/events_sector_rebel.xml.append:25
 msgid ""
@@ -38,12 +69,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_rebel.xml.append:31
 msgid ""
 "data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Прислушаться к его предупреждению и держитесь подальше."
 
 #: src-en/data/events_sector_rebel.xml.append:33
 msgid ""
 "data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Как только вы начинаете заряжать свой ССД, корабль выключает свои орудия и "
+"оставляет вас в покое."
 
 #: src-en/data/events_sector_rebel.xml.append:35
 msgid ""
@@ -58,12 +91,14 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_rebel.xml.append:47
 msgid ""
 "data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[2]/text"
-msgstr ""
+msgstr "Что бы это ни было, мы не хотим этого знать."
 
 #: src-en/data/events_sector_rebel.xml.append:49
 msgid ""
 "data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[2]/event/text"
 msgstr ""
+"У вас сейчас слишком много забот, поэтому вы игнорируете огромный корабль и "
+"уходите в прыжок как можно скорее."
 
 #: src-en/data/events_sector_rebel.xml.append:51
 msgid ""
@@ -79,8 +114,18 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST_CREWKILL\"]/text"
 msgstr ""
+"Убедившись, что корабле не осталось никаких живых существ, вы отправляете "
+"экипаж узнать, что же охранял пришелец, и, к вашему удивлению, это не просто "
+"груда металлолома! Управление кораблем, похоже, все еще функционирует, что "
+"позволяет вам перенаправить его в ангар Федерации! И что еще лучше, в "
+"складском помещении вы находите пушку, точно такую же, как те, что корабль "
+"использовал против вас, а также кучу металлолома!\n"
+"\n"
+"\t\tИсследовав еще немного, вы обнаруживаете единственного выжившего на "
+"корабле, который оказался заперт в изолированном отсеке. Освободив его, он "
+"так благодарен вам, что предлагает присоединиться к вашему экипажу!"
 
 #: src-en/data/events_sector_rebel.xml.append:74
 msgid ""
 "data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST_CREWKILL\"]/choice/text"
-msgstr ""
+msgstr "Супер!"
