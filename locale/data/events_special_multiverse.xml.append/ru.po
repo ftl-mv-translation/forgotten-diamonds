@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-10 18:46+0000\n"
+"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"forgotten-diamonds/dataevents_special_multiversexmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/events_special_multiverse.xml.append:63
 msgid ""
@@ -19,6 +27,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/text"
 msgstr ""
+"\"К-кто здесь?! Я-я тебя не вижу! С-свет, он...он...Повсюду! Он ослепляет "
+"меня, даже когда мои оптические датчики выключены! Странное создание, п-"
+"прошу, уходи, я не хочу...П-подожди... Я.. я чувствую...Металл...Он....мне "
+"необходим...\""
 
 #: src-en/data/events_special_multiverse.xml.append:71
 msgid ""
