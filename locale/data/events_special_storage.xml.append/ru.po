@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-10 19:54+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -1429,7 +1429,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1282
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[4]/text"
-msgstr ""
+msgstr "Переделать 6 топливных канистр в 2 дрон-комплекта."
 
 #: src-en/data/events_special_storage.xml.append:1288
 msgid ""
