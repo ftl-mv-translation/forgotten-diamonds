@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-10 19:21+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -954,7 +954,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:836
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы разобрали ракеты на лом."
 
 #: src-en/data/events_special_storage.xml.append:838
 msgid ""
@@ -969,7 +969,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:851
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[3]/event/text"
-msgstr ""
+msgstr "Вы разобрали ракеты на лом."
 
 #: src-en/data/events_special_storage.xml.append:853
 msgid ""
