@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-10 19:36+0000\n"
-"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -1199,7 +1199,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1081
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_ION_2\"]/text"
-msgstr "Улучшить Дезактиватор Мод. II -> Дезактиватор Мод. III"
+msgstr "Улучшить дрон Дезактиватор мод. II -> дрон Дезактиватор мод. III"
 
 #: src-en/data/events_special_storage.xml.append:1087
 msgid ""
