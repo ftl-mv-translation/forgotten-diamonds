@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-10 19:57+0000\n"
+"PO-Revision-Date: 2024-06-10 19:58+0000\n"
 "Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
@@ -1479,7 +1479,7 @@ msgstr "Собрать 1 дрон-комплект из 10 лома."
 #: src-en/data/events_special_storage.xml.append:1330
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[7]/event/text"
-msgstr ""
+msgstr "Вы собираете дрон-комплект из лома."
 
 #: src-en/data/events_special_storage.xml.append:1332
 msgid ""
@@ -1489,12 +1489,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1338
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[8]/text"
-msgstr ""
+msgstr "Собрать 6 дрон-комплектов из 50 лома."
 
 #: src-en/data/events_special_storage.xml.append:1344
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[8]/event/text"
-msgstr ""
+msgstr "Вы собираете дрон-комплекты из лома."
 
 #: src-en/data/events_special_storage.xml.append:1346
 msgid ""
@@ -1504,12 +1504,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1352
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[9]/text"
-msgstr ""
+msgstr "Собрать 12 дрон-комплектов из 100 лома."
 
 #: src-en/data/events_special_storage.xml.append:1358
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[9]/event/text"
-msgstr ""
+msgstr "Вы собираете дрон-комплекты из лома."
 
 #: src-en/data/events_special_storage.xml.append:1360
 msgid ""
@@ -1525,18 +1525,18 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Алмаз."
 
 #: src-en/data/events_special_storage.xml.append:1385
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Оператор."
 
 #: src-en/data/events_special_storage.xml.append:1391
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/text"
-msgstr ""
+msgstr "Вы просматриваете меню лаборатории для: [АЛМАЗ]"
 
 #: src-en/data/events_special_storage.xml.append:1393
 msgid ""
