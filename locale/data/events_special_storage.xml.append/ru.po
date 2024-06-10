@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-10 20:00+0000\n"
-"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
+"PO-Revision-Date: 2024-06-10 20:01+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -1542,9 +1542,9 @@ msgstr "Вы открыли лабораторное меню для: [АЛМА�
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[@req=\"FR_LAB_DIAMOND_FISTITUTE\"]/text"
 msgstr ""
-"Сейчас установлено: Драчливость.\n"
-"\t\t[Алмазы наносят удвоенный урон, однако теряют 90% скорости ремонта и "
-"саботажа.]"
+"Добавлено: Стойкость.\n"
+"\t\t[Алмазы наносят 2х боевого урона, однако теряют 90% скорости ремонта и "
+"саботажа]"
 
 #: src-en/data/events_special_storage.xml.append:1398
 msgid ""
