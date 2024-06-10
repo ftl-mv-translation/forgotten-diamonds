@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-10 19:52+0000\n"
-"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -1389,7 +1389,7 @@ msgstr "Разобрать 4 боеголовки на 2 дрон-комплек
 #: src-en/data/events_special_storage.xml.append:1246
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[1]/event/text"
-msgstr "Вы переделываете ракеты в дрон-комплекты."
+msgstr "Вы превращаете боеголовки в дрон-комплекты."
 
 #: src-en/data/events_special_storage.xml.append:1248
 msgid ""
