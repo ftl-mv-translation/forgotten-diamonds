@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-10 16:42+0000\n"
+"PO-Revision-Date: 2024-06-10 18:12+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_sector_laniusxmlappend/ru/>\n"
@@ -33,22 +33,31 @@ msgstr ""
 #: src-en/data/events_sector_lanius.xml.append:13
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/text"
-msgstr ""
+msgstr "Поднять ланиуса на борт! Может быть, мы сможем его спасти."
 
 #: src-en/data/events_sector_lanius.xml.append:15
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/text"
 msgstr ""
+"Вы быстро отправляете спасательную команду к внешней стороне корабля и "
+"забираете ланиуса. Как вы и следовало ожидать, странное существо находится в "
+"критическом состоянии, его тело разлагается все больше и больше с каждой "
+"секундой, и вы подозреваете, что у вас есть не больше нескольких минут, "
+"чтобы стабилизировать его состояние."
 
 #: src-en/data/events_sector_lanius.xml.append:17
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[@req=\"medbay\"]/text"
 msgstr ""
+"(Улучш. Медотсек) Использовать свой Медотсек, чтобы стабилизировать его!"
 
 #: src-en/data/events_sector_lanius.xml.append:19
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[@req=\"medbay\"]/event/text"
 msgstr ""
+"Вы быстро поднимаете ланиуса с двух сторон и несете его разлагающееся тело в "
+"Медотсек, и как только добираетесь до него, включаете максимальную мощность "
+"и надеетесь на лучшее."
 
 #: src-en/data/events_sector_lanius.xml.append:21
 msgid ""
@@ -58,12 +67,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_lanius.xml.append:27
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[@req=\"clonebay\"]/text"
-msgstr ""
+msgstr "(Клон-отсек) Добавить данные ланиуса в Клон-отсек, пока не поздно!"
 
 #: src-en/data/events_sector_lanius.xml.append:29
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[@req=\"clonebay\"]/event/text"
 msgstr ""
+"Вы быстро поднимаете ланиуса с двух сторон и несете его разлагающееся тело в "
+"Клон-отсек. Не теряя времени, вы сканируете его и добавляете в базу данных, "
+"и как раз вовремя, потому что, как только сканирование было завершено, "
+"странный ланиус умирает прямо у вас на глазах. Похоже, в системе нет никакой "
+"информации о нем или его виде, но, к счастью, это не мешает клонировать его."
 
 #: src-en/data/events_sector_lanius.xml.append:31
 msgid ""
@@ -73,12 +87,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_lanius.xml.append:37
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Ланиусы ведь едят металл? Может, мы сможем дать ему немного лома!"
 
 #: src-en/data/events_sector_lanius.xml.append:39
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"Не видя другого выхода, вы решаете просто вывалить на ланиуса кучу лома, "
+"надеясь, что это даст его телу достаточно пищи, чтобы обратить процесс "
+"разложения вспять."
 
 #: src-en/data/events_sector_lanius.xml.append:44
 msgid ""
@@ -88,12 +105,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_lanius.xml.append:50
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "Мы ничего не можем сделать."
 
 #: src-en/data/events_sector_lanius.xml.append:52
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[4]/event/text"
 msgstr ""
+"С тяжелым сердцем вы понимаете, что не можете спасти это странное существо, "
+"и наблюдаете, как ланиус медленно разлагается, пока не превращается в "
+"металлическую лужу на полу. Вы готовитесь продолжить свою миссию."
 
 #: src-en/data/events_sector_lanius.xml.append:54
 msgid ""
@@ -108,12 +128,15 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_lanius.xml.append:66
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[2]/text"
-msgstr ""
+msgstr "Оставить ланиуса на произвол судьбы."
 
 #: src-en/data/events_sector_lanius.xml.append:68
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[2]/event/text"
 msgstr ""
+"Не стоит брать с собой на корабль разлагающегося и неизвестного ланиуса, кто "
+"знает, что он может натворить, если очнется? Вы решаете дождаться полной "
+"зарядки ССД и выбросить все это из головы."
 
 #: src-en/data/events_sector_lanius.xml.append:70
 msgid ""
@@ -129,56 +152,104 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/text"
 msgstr ""
+"Проходит некоторое время, но в конце концов ланиус приходит в себя и "
+"начинает паниковать, в ужасе оглядывая незнакомый корабль и незнакомый "
+"экипаж вокруг, крича на неизвестном языке и пятясь в угол отсека."
 
 #: src-en/data/events_sector_lanius.xml.append:84
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/text"
 msgstr ""
+"Медленно поднять руки вверх и заверить его в том, что вы не желаете ему зла."
 
 #: src-en/data/events_sector_lanius.xml.append:86
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/text"
 msgstr ""
+"Сначала кажется, что странное существо не заметило, не поняло или не придало "
+"значения вашим словам, однако спустя несколько мгновений оно, кажется, "
+"постепенно успокаивается, его испуганные глаза медленно останавливаются на "
+"вас, словно изучая вас взглядом. Наконец, спустя, как кажется, целую "
+"вечность, он удивительно хорошо начинает говорить на вашем языке.\n"
+"\t\t\t\n"
+"\t\t\t\"Ты не мой палач и не похож на моих сородичей, кто ты, странное "
+"существо?\""
 
 #: src-en/data/events_sector_lanius.xml.append:90
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/text"
 msgstr ""
+"Я - Ренегат, отвечающий за этот корабль, нас наняла Федерация, чтобы "
+"уничтожить Флагман повстанцев, вторгшийся в эту реальность."
 
 #: src-en/data/events_sector_lanius.xml.append:92
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/text"
 msgstr ""
+"Существо оглядывает отсек, а затем снова вас, будучи заинтригованным. \"Меня "
+"зовут Шарлан из Золотых Полей, я капитан крейсера \"Запретная Роскошь\" и "
+"исследователь эфирных технологий в свободное время\".\n"
+"\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\"Ренегат, говоришь. Я встречал некоторых из вас в прошлом, "
+"избавлю тебя от подробностей, но уверяю тебя, это были не очень приятные "
+"встречи, будь я более простым существом, я бы прикончил тебя прямо здесь и "
+"сейчас\". \"Однако ты спас меня от верной смерти, и за это я достаточно "
+"благодарен, чтобы пощадить твою жизнь\". Существо еще раз смотрит на вас, а "
+"затем направляется к ближайшему шлюзу."
 
 #: src-en/data/events_sector_lanius.xml.append:96
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Подожди, куда ты идешь?"
 
 #: src-en/data/events_sector_lanius.xml.append:98
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"Теперь, когда моя форма стабилизировалась, я боюсь, что должен уйти. "
+"Восстановление моего корабля - слишком важная задача, чтобы тратить время на "
+"болтовню со скотом\". Ланиус начал входить в шлюз, но остановился и медленно "
+"повернулся. \n"
+"\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\"Хм, однако, возможно, грубияны - это именно то, что мне "
+"нужно, чтобы вернуть свой корабль\". Существо медленно оценивающим взглядом "
+"осматривает корабль, затем бросает взгляд на ваш экипаж и медленно кивает "
+"головой. \"Да-да, возможно, это именно то, что мне нужно. Скажи, скотина, "
+"как ты смотришь на то, чтобы поработать наемником? Я могу сделать так, что "
+"это будет стоить твоего времени\", - заманчиво говорит существо."
 
 #: src-en/data/events_sector_lanius.xml.append:102
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Я слушаю, что ты хочешь?"
 
 #: src-en/data/events_sector_lanius.xml.append:104
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\" Видишь ли, я и мой экипаж сопровождали транспортный корабль, наполненный "
+"эфирными технологиями, а корабль, который я пилотировал, был крейсером "
+"класса АУ, приспособленным для боя между кораблями. К сожалению, мы не "
+"оснастили его средствами защиты от абордажа, и поэтому мой корабль захватила "
+"орда злобных пиратов, точнее, пиратов-ланиусов. \n"
+"\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\tМне нужно, чтобы ты доставил меня к моему кораблю и убил "
+"всех пиратов на нем, не разрушив мой корабль. Если ты справишься с этой "
+"простой задачей, я расстанусь с крейсером и отправлюсь обратно в родной "
+"кластер на транспортном корабле. Как тебе это?\""
 
 #: src-en/data/events_sector_lanius.xml.append:108
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Звучит заманчиво, куда мы должны отправиться?"
 
 #: src-en/data/events_sector_lanius.xml.append:110
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"\"Это последние координаты, которые я могу вспомнить, где я был до того, как "
+"меня \"устранили\", не разочаруй меня, Ренегат\", - Шарлан вводит координаты "
+"в навигационную систему и выходит из отсека."
 
 #: src-en/data/events_sector_lanius.xml.append:116
 msgid ""
@@ -189,11 +260,13 @@ msgstr "Отказаться."
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"\"Я вижу, ты не только скотина, но и трус\". Не говоря больше ни слова, "
+"ланиус покидает корабль через шлюз. Вы готовитесь к прыжку."
 
 #: src-en/data/events_sector_lanius.xml.append:121
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/removeCrew/text"
-msgstr ""
+msgstr "Вашего члена экипажа нельзя клонировать, так как он все еще жив."
 
 #: src-en/data/events_sector_lanius.xml.append:124
 msgid ""
@@ -209,6 +282,10 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/text"
 msgstr ""
+"Как только вы прибываете к маяку, вас встречает ужасное зрелище: ланиусы "
+"внутри крейсера мутировали и теперь выглядят точно так же, как Шарлан. Более "
+"того, они кажутся невероятно агрессивными, и как только они замечают вас, то "
+"сразу же начинают заряжать свои орудия!"
 
 #: src-en/data/events_sector_lanius.xml.append:156
 msgid ""
@@ -219,16 +296,21 @@ msgstr "Приблизиться."
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[1]/event/text"
 msgstr ""
+"Шарлан в ужасе смотрит на свой корабль и кричит: \"Вот эти крысы! Они еще "
+"пожалеют, что перешли дорогу могучему Шарлану!\" К этому моменту крейсер уже "
+"полностью зарядил орудия и переходит в атаку."
 
 #: src-en/data/events_sector_lanius.xml.append:160
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Захватить крейсер!"
 
 #: src-en/data/events_sector_lanius.xml.append:162
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"Если мы хотим выполнить свою часть сделки, вам нужно будет уничтожить "
+"экипаж, не причинив большого ущерба корпусу."
 
 #: src-en/data/events_sector_lanius.xml.append:165
 msgid ""
@@ -238,37 +320,55 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_lanius.xml.append:173
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[2]/text"
-msgstr ""
+msgstr "Мы не можем сражаться с таким количеством обезумевших ланиусов, бежим!"
 
 #: src-en/data/events_sector_lanius.xml.append:175
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[2]/event/text"
 msgstr ""
+"\"Что ты делаешь, мерзавец?! Я знал, что тебя нельзя доверять!\" Шарлан "
+"превращает свою руку в клинок и нападает на ваш экипаж!"
 
 #: src-en/data/events_sector_lanius.xml.append:178
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[2]/event/removeCrew/text"
-msgstr ""
+msgstr "Вашего члена экипажа нельзя клонировать, так как он все еще жив."
 
 #: src-en/data/events_sector_lanius.xml.append:182
+#, fuzzy
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Ну"
 
 #: src-en/data/events_sector_lanius.xml.append:190
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY\"]/text"
 msgstr ""
+"Шарлан занят тем, что расправляется с несколькими ланиусами, которым удалось "
+"пробраться на транспортный корабль, но, к счастью, никто из них не "
+"доставляет хлопот закаленному в боях ланиусу. Он поворачивается к вам и "
+"похлопывает вас по плечу. \"Ну что ж! Думаю, ты сделал то, что я хотел, жаль "
+"только, что ты упустил крейсер, ну да ладно, в качестве компенсации я готов "
+"отдать тебе одно из эфирных орудий, которые мы перевозили, надеюсь, это "
+"немного уменьшит боль от твоей неудачи\", - самодовольно произносит он."
 
 #: src-en/data/events_sector_lanius.xml.append:193
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY\"]/choice/text"
-msgstr ""
+msgstr "Это лучше, чем ничего."
 
 #: src-en/data/events_sector_lanius.xml.append:199
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL\"]/text"
 msgstr ""
+"Шарлан занят тем, что расправляется с несколькими ланиусами, которым удалось "
+"пробраться на транспортный корабль, но, к счастью, никто из них не "
+"доставляет хлопот закаленному в боях ланиусу. Он поворачивается к вам и "
+"похлопывает вас по плечу. \"Ну что ж! Оказывается, ты не так бесполезен, как "
+"я ожидал! Как и было обещано, ты можешь забрать старый крейсер, он и так был "
+"нам уже не нужен. В качестве бонуса я также дарю тебе одно из эфирных "
+"орудий, которые мы перевозили, за то, что ты так хорошо поработал в этом "
+"бою\"."
 
 #: src-en/data/events_sector_lanius.xml.append:202
 msgid ""
@@ -279,6 +379,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY_REWARD\"]/text"
 msgstr ""
+"Шарлан заходит в транспортный корабль и достает невероятно "
+"высокотехнологичное орудие, не похожее ни на что, что вы когда-либо видели "
+"раньше. \"Спасибо за помощь, Ренегат, я позабочусь о том, чтобы наша "
+"королева узнала о твоих подвигах, когда я вернусь домой\", - говорит он, "
+"глядя на транспортный корабль, а его взгляд прикован к орудиям на борту."
 
 #: src-en/data/events_sector_lanius.xml.append:212
 msgid ""
@@ -289,16 +394,30 @@ msgstr "Что случилось?"
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY_REWARD\"]/choice/event/text"
 msgstr ""
+"Шарлан некоторое время смотрит на вас, а затем снова переводит взгляд на "
+"корабль.\"О, это... ничего, просто... вся эта миссия должна была помочь нам "
+"понять, как работают существа из этого кластера, а также перевезти все "
+"эфирные технологии, которые мы здесь нашли, домой для дальнейшего изучения. "
+"Однако сразу по прибытии мы попали в засаду, и нам едва удалось найти что-"
+"нибудь интересное в этом кластере\"."
 
 #: src-en/data/events_sector_lanius.xml.append:216
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY_REWARD\"]/choice/event/choice/text"
 msgstr ""
+"Почему бы тебе не присоединиться к нам? Я уверен, что наша миссия может дать "
+"ценные знания для твоих исследований."
 
 #: src-en/data/events_sector_lanius.xml.append:218
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY_REWARD\"]/choice/event/choice/event/text"
 msgstr ""
+"Шарлан смотрит на вас некоторое время, а затем снова переводит взгляд на "
+"свой транспортный корабль, наконец он снова поворачивается к вам и кивает. "
+"\"Полагаю, это сработает, однако транспортный корабль станет обузой для "
+"исследования, я подозреваю, что именно это и привлекло пиратов. Я настрою "
+"его на возвращение в наше кластер и встречусь с тобой на вашем корабле через "
+"минуту. Спасибо\"."
 
 #: src-en/data/events_sector_lanius.xml.append:220
 msgid ""
@@ -309,6 +428,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL_REWARD\"]/text"
 msgstr ""
+"Вы поднимаетесь на крейсер и берете курс на ближайший ангар Федерации, а "
+"затем возвращаетесь к Шарлану. Шарлан занят тем, что достает невероятно "
+"высокотехнологичное орудие, не похожее ни на что, что вы когда-либо видели "
+"раньше, и передает его вам, а затем возвращается к своему транспортному "
+"кораблю. \"Спасибо за помощь, Ренегат, я позабочусь о том, чтобы наша "
+"королева услышала о твоих подвигах, когда я вернусь домой\", - говорит он, "
+"глядя на транспортный корабль, его глаза прикованы к орудиям на борту."
 
 #: src-en/data/events_sector_lanius.xml.append:236
 msgid ""
@@ -319,16 +445,30 @@ msgstr "Что случилось?"
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL_REWARD\"]/choice/event/text"
 msgstr ""
+"Шарлан некоторое время смотрит на вас, а затем снова переводит взгляд на "
+"корабль.\"О, это... ничего, просто... вся эта миссия должна была помочь нам "
+"понять, как работают существа из этого кластера, а также перевезти все "
+"эфирные технологии, которые мы здесь нашли, домой для дальнейшего изучения. "
+"Однако сразу по прибытии мы попали в засаду, и нам едва удалось найти что-"
+"нибудь интересное в этом кластере\"."
 
 #: src-en/data/events_sector_lanius.xml.append:240
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL_REWARD\"]/choice/event/choice/text"
 msgstr ""
+"Почему бы тебе не присоединиться к нам? Я уверен, что наша миссия может дать "
+"ценные знания для твоих исследований."
 
 #: src-en/data/events_sector_lanius.xml.append:242
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL_REWARD\"]/choice/event/choice/event/text"
 msgstr ""
+"Шарлан смотрит на вас некоторое время, а затем снова переводит взгляд на "
+"свой транспортный корабль, наконец он снова поворачивается к вам и кивает. "
+"\"Полагаю, это сработает, однако транспортный корабль станет обузой для "
+"исследования, я подозреваю, что именно это и привлекло пиратов. Я настрою "
+"его на возвращение в наше кластер и встречусь с тобой на вашем корабле через "
+"минуту. Спасибо\"."
 
 #: src-en/data/events_sector_lanius.xml.append:244
 msgid ""
