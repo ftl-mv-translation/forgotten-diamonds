@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-10 19:38+0000\n"
-"Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
+"PO-Revision-Date: 2024-06-10 19:39+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -1261,8 +1261,8 @@ msgstr "Создать Прототип лазерого дрона"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[1]/event/text"
 msgstr ""
-"Ваш новый дрон наделяется жизнью (метафорически), и всё последующие тесты "
-"проходят без заминок, успех!"
+"Ваш новый дрон оживает (метафорически), и все дальнейшие испытания проходят "
+"успешно, Удача!"
 
 #: src-en/data/events_special_storage.xml.append:1142
 msgid ""
