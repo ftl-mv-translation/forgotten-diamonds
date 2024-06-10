@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-11-16 06:44+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -27,7 +27,9 @@ msgid ""
 "append:shipIcon[2]/tooltip"
 msgstr ""
 "ПРОТОКОЛ ПОДДЕРЖКИ:\n"
-"Медотсек этого противника делает его экипаж невосприимчивым к урону, пока он включен. Истощите всю энергию в нем или сломайте систему, чтобы отключить этот эффект."
+"Медотсек этого противника делает его экипаж невосприимчивым к урону, пока он "
+"включен. Истощите всю энергию в нем или сломайте систему, чтобы отключить "
+"этот эффект."
 
 #: src-en/data/hyperspace.xml.append:994
 msgid ""
@@ -41,7 +43,8 @@ msgid ""
 "append:race[@name=\"fr_copper_lanius\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:40с ДЛИТЕЛЬНОСТЬ:12с]\n"
-"\t\t\tРазжигает пожар в текущем отсеке. Временно передвигается со скоростью 0.8х, но удваивает производство кислорода."
+"\t\t\tРазжигает пожар в текущем отсеке. Временно передвигается со скоростью "
+"0.8х, но удваивает производство кислорода."
 
 #: src-en/data/hyperspace.xml.append:1091
 msgid ""
@@ -55,7 +58,8 @@ msgid ""
 "append:race[@name=\"fr_adamantine_lanius\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:5с]\n"
-"\t\t\tПолностью исцеляет ланиуса, создает пробоину и наносит 1 системный урон в текущем отсеке."
+"\t\t\tПолностью исцеляет ланиуса, создает пробоину и наносит 1 системный "
+"урон в текущем отсеке."
 
 #: src-en/data/hyperspace.xml.append:1149
 msgid ""
@@ -115,7 +119,8 @@ msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/description"
 msgstr ""
 "Покажите алмазный экипаж любого типа Сесту. \n"
-"\t\t\t\tПока действует: Ваш металлический алмазный экипаж может проходить сквозь двери и увеличивает на 20% скорость передвижения."
+"\t\t\t\tПока действует: Ваш металлический алмазный экипаж может проходить "
+"сквозь двери и увеличивает на 20% скорость передвижения."
 
 #: src-en/data/hyperspace.xml.append:2833
 msgid ""
@@ -142,7 +147,8 @@ msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/description"
 msgstr ""
 "Покажите Сесту экипаж операторов любого типа. \n"
-"\t\t\t\tПока действует: Ваши операторы будут взламывать двери отсеков, в которых они находятся, находясь на вражеских кораблях."
+"\t\t\t\tПока действует: Ваши операторы будут взламывать двери отсеков, в "
+"которых они находятся, находясь на вражеских кораблях."
 
 #: src-en/data/hyperspace.xml.append:2844
 msgid ""
@@ -169,7 +175,8 @@ msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/description"
 msgstr ""
 "Покажите экипаж металлических ланиусов Сесту. \n"
-"\t\t\t\tПока действует: Весь экипаж металлических ланиусов сопротивляется контролю разума и может видеть соседние отсеки."
+"\t\t\t\tПока действует: Весь экипаж металлических ланиусов сопротивляется "
+"контролю разума и может видеть соседние отсеки."
 
 #: src-en/data/hyperspace.xml.append:2855
 msgid ""
@@ -224,7 +231,8 @@ msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/description"
 msgstr ""
 "Покажите медный дрон Уэйксону. \n"
-"\t\t\t\tПока действует: Ваши боевые дроны возвращаются после боев, если не уничтожены."
+"\t\t\t\tПока действует: Ваши боевые дроны возвращаются после боев, если не "
+"уничтожены."
 
 #: src-en/data/hyperspace.xml.append:2878
 msgid ""
@@ -289,8 +297,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:2901
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/secretDescription"
-msgstr ""
-"Уничтожьте последний оставшийся экипаж странного треугольного корабля."
+msgstr "Уничтожьте последний оставшийся экипаж странного треугольного корабля."
 
 #: src-en/data/hyperspace.xml.append:2906
 msgid ""
@@ -372,8 +379,7 @@ msgstr "Золотое сияние"
 #: src-en/data/hyperspace.xml.append:2933
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/description"
-msgstr ""
-"Победите золото-алмазного Ренегата и получите золотую осколочную пушку."
+msgstr "Победите золото-алмазного Ренегата и получите золотую осколочную пушку."
 
 #: src-en/data/hyperspace.xml.append:2934
 msgid ""
