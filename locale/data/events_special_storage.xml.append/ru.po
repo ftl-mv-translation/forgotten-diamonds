@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-11 17:44+0000\n"
+"PO-Revision-Date: 2024-06-11 20:30+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
@@ -119,7 +119,7 @@ msgstr "Сбросить морфа алмаза"
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[4]/text"
-msgstr "Сбросить Технопата оператора"
+msgstr "Сбросить Технопата-оператора"
 
 #: src-en/data/events_special_storage.xml.append:118
 msgid ""
@@ -203,12 +203,12 @@ msgstr "Неважно, заняться чем-то еще."
 #: src-en/data/events_special_storage.xml.append:190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_OPERATOR\"]/text"
-msgstr "Вы собираетесь сбросить форму вашего Технопата оператора."
+msgstr "Вы собираетесь сбросить форму вашего Технопата-оператора."
 
 #: src-en/data/events_special_storage.xml.append:192
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_OPERATOR\"]/choice[1]/text"
-msgstr "Сбросить форму Технопата оператора. [-2{]"
+msgstr "Сбросить форму Технопата-оператора. [-2{]"
 
 #: src-en/data/events_special_storage.xml.append:195
 msgid ""
@@ -1531,7 +1531,7 @@ msgstr "Алмаз."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice[2]/text"
-msgstr "Оператор."
+msgstr "оператор."
 
 #: src-en/data/events_special_storage.xml.append:1391
 msgid ""
@@ -1715,23 +1715,28 @@ msgid ""
 msgstr ""
 "Добавлено: Протоколы пацифизма.\n"
 "\t\t[Операторы теряют способность сражаться или устраивать саботаж, но "
-"предотвращают все сражения и саботаж экипажа, находясь в одном с ними отсеке]"
+"предотвращают все сражения и саботаж экипажа, находясь в одном с ним отсеке]"
 
 #: src-en/data/events_special_storage.xml.append:1531
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[@req=\"FR_LAB_OPERATOR_BIO_PROTOCOLS\"]/text"
 msgstr ""
-"Сейчас установлено: Анти-Био Протоколы.\n"
+"Добавлено: Анти-Био протоколы.\n"
 "\t\t[Операторы теряют 50% наносимого урона, однако сильно ослабляют "
 "вражеский экипаж, если находятся с ним в одном отсеке. Ослабленный экипаж "
 "теряет способность лечиться, телепортироваться по борту корабля, наносит на "
-"15% меньше урона в бою, а также он не может быть клонирован, если он был "
-"убит в одном отсеке с Оператором.]"
+"15% меньше урона в бою, а также экипаж убитый в одном с ним отсеке лишается "
+"возможности быть клонированным]"
 
 #: src-en/data/events_special_storage.xml.append:1536
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[@req=\"FR_LAB_OPERATOR_BEACON_PROTOCOLS\"]/text"
 msgstr ""
+"Добавлено: Протоколы маяка.\n"
+"\t\t[Операторы теряют 50% здоровья и получают на 25% больше урона в обмен на "
+"то, чтобы работать в качестве мобильного телепортационного маяка, который "
+"позволяет любому дружественному экипажу, находящемуся с ними в одном отсеке, "
+"телепортироваться в любой отсек по своему желанию, даже на вражеские корабли]"
 
 #: src-en/data/events_special_storage.xml.append:1541
 msgid ""
@@ -1741,32 +1746,32 @@ msgstr "Добавлено: Ничего"
 #: src-en/data/events_special_storage.xml.append:1545
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[5]/text"
-msgstr ""
+msgstr "Осн: Протоколы пацифизма. [Улучшение уже добавлено]"
 
 #: src-en/data/events_special_storage.xml.append:1549
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[6]/text"
-msgstr ""
+msgstr "Осн:: Протоколы пацифизма. [Цена: 25~]"
 
 #: src-en/data/events_special_storage.xml.append:1553
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[7]/text"
-msgstr ""
+msgstr "Осн: Анти-Био протоколы. [Улучшение уже добавлено]"
 
 #: src-en/data/events_special_storage.xml.append:1557
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[8]/text"
-msgstr ""
+msgstr "Осн:: Анти-Био протоколы. [Цена: 30~, 10|]"
 
 #: src-en/data/events_special_storage.xml.append:1561
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[9]/text"
-msgstr ""
+msgstr "Осн: Протоколы маяков. [Улучшение уже добавлено]"
 
 #: src-en/data/events_special_storage.xml.append:1565
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[10]/text"
-msgstr ""
+msgstr "Осн: Протоколы маяка. [Цена: 15{]"
 
 #: src-en/data/events_special_storage.xml.append:1569
 msgid ""
@@ -1777,6 +1782,14 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_PACIFISM_PROTOCOLS\"]/text"
 msgstr ""
+"Вы собираетесь добавить Протоколы пацифизма.\n"
+"\t[Эффекты: Операторы теряют способность сражаться или совершать саботаж, но "
+"предотвращают все сражения и саботаж экипажа, находясь с ними в одном отсеке]"
+"\n"
+"\t\n"
+"\t[Предупреждение: После ее добавления вы больше не сможете применять "
+"основные модификации к экипажу расы операторов. Вы также не сможете "
+"деактивировать эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:1580
 msgid ""
@@ -1802,11 +1815,21 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BIO_PROTOCOLS\"]/text"
 msgstr ""
+"Вы собираетесь добавить модификацию Анти-Био протоколы.\n"
+"\t[Эффекты: Операторы теряют 50% наносимого урона, однако сильно ослабляют "
+"вражеский экипаж, если находятся с ним в одном отсеке. Ослабленный экипаж "
+"теряет способность лечиться, телепортироваться по борту корабля, наносит на "
+"15% меньше урона в бою, а также экипаж убитый в одном с ним отсеке лишается "
+"возможности быть клонированным]\n"
+"\t\n"
+"\t[Предупреждение: После ее добавления вы больше не сможете применять "
+"основные модификации к экипажу расы операторов. Вы также не сможете "
+"деактивировать эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:1607
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BIO_PROTOCOLS\"]/choice[1]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 30~, 10|]"
 
 #: src-en/data/events_special_storage.xml.append:1609
 msgid ""
@@ -1827,11 +1850,21 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BEACON_PROTOCOLS\"]/text"
 msgstr ""
+"Вы собираетесь добавить модификацию Протоколы маяков.\n"
+"\t[Эффекты: Операторы теряют 50% здоровья и получают на 25% больше урона в "
+"обмен на то, чтобы работать в качестве мобильного телепортационного маяка, "
+"который позволяет любому дружественному экипажу, находящемуся с ними в одном "
+"отсеке, телепортироваться в любой отсек по своему желанию, даже на вражеские "
+"корабли]\n"
+"\t\n"
+"\t[Предупреждение: После ее добавления вы больше не сможете применять "
+"основные модификации к экипажу расы операторов. Вы также не сможете "
+"деактивировать эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:1635
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BEACON_PROTOCOLS\"]/choice[1]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 15{]"
 
 #: src-en/data/events_special_storage.xml.append:1637
 msgid ""
