@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-11 20:30+0000\n"
+"PO-Revision-Date: 2024-06-12 05:20+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/datablueprintsxmlappend/ru/>\n"
@@ -421,276 +421,342 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/desc"
 msgstr ""
+"Улучшенная особь, которая подверглась существенной мутации, съев уникальный "
+"фрагмент древних обломков из далекого кластера. Эти ланиусы создают пробоины "
+"на борту вражеского корабля, а также могут наносить слабые повреждения "
+"ближайшему вражескому экипажу."
 
 #: src-en/data/blueprints.xml.append:188
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/title"
-msgstr ""
+msgstr "Адамантиновый ланиус"
 
 #: src-en/data/blueprints.xml.append:189
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/short"
-msgstr ""
+msgstr "Адамантиновый ланиус"
 
 #: src-en/data/blueprints.xml.append:194
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Полностью исцеляет ланиуса, создает пробоину и наносит "
+"1 системный урон текущему отсеку."
 
 #: src-en/data/blueprints.xml.append:195
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/powerList/power[2]"
 msgstr ""
+"80 здоровья, наносит 0.5х урон в бою, 2х урон при саботаже, 1.5х скорость "
+"передвижения."
 
 #: src-en/data/blueprints.xml.append:196
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/powerList/power[3]"
 msgstr ""
+"Накладывает на ближайших врагов постоянное удушение в один уровень. Лишает "
+"ближайших врагов иммунитета к удушению."
 
 #: src-en/data/blueprints.xml.append:197
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/powerList/power[4]"
-msgstr ""
+msgstr "0.5x скорость ремонта систем. Получает 10х урон от огня."
 
 #: src-en/data/blueprints.xml.append:217
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_1\"]/title"
-msgstr ""
+msgstr "Дезинтегратор мод. I"
 
 #: src-en/data/blueprints.xml.append:218
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_1\"]/short"
-msgstr ""
+msgstr "Дезинтег. I"
 
 #: src-en/data/blueprints.xml.append:219
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_1\"]/desc"
 msgstr ""
+"Довольно сильное золотое орудие, созданное редким видом алмазов. Может быть "
+"улучшено, если у вас есть Щит роскоши."
 
 #: src-en/data/blueprints.xml.append:220
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_1\"]/tooltip"
-msgstr ""
+msgstr "1 урон по корпусу, 2 урона по системам, всегда оглушает."
 
 #: src-en/data/blueprints.xml.append:251
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_2\"]/title"
-msgstr ""
+msgstr "Дезинтегратор мод. II"
 
 #: src-en/data/blueprints.xml.append:252
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_2\"]/short"
-msgstr ""
+msgstr "Дезинтег. II"
 
 #: src-en/data/blueprints.xml.append:253
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_2\"]/desc"
 msgstr ""
+"Мощное золотое орудие, созданное редким видом алмазов. Может быть улучшено, "
+"если у вас есть Щит роскоши."
 
 #: src-en/data/blueprints.xml.append:254
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_2\"]/tooltip"
-msgstr ""
+msgstr "3 повреждения корпуса, 5 повреждений системам, всегда оглушает."
 
 #: src-en/data/blueprints.xml.append:285
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_3\"]/title"
-msgstr ""
+msgstr "Дезинтегратор мод. III"
 
 #: src-en/data/blueprints.xml.append:286
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_3\"]/short"
-msgstr ""
+msgstr "Дезинтег. III"
 
 #: src-en/data/blueprints.xml.append:287
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_3\"]/desc"
 msgstr ""
+"Необычайно мощное золотое орудие, которое сильнее даже самого лучшего, что "
+"есть у обелисков."
 
 #: src-en/data/blueprints.xml.append:288
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_3\"]/tooltip"
-msgstr ""
+msgstr "5 повреждений корпуса, 7 повреждений системам, всегда оглушает."
 
 #: src-en/data/blueprints.xml.append:314
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_1\"]/title"
-msgstr ""
+msgstr "Золотой импульсный лазер мод. I"
 
 #: src-en/data/blueprints.xml.append:315
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_1\"]/short"
-msgstr ""
+msgstr "Зол. лаз. I"
 
 #: src-en/data/blueprints.xml.append:317
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_1\"]/desc"
 msgstr ""
+"Первый серийный лазер, разработанный Золотыми алмазами. Может быть улучшен, "
+"если у вас есть Щит роскоши."
 
 #: src-en/data/blueprints.xml.append:318
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_1\"]/tooltip"
 msgstr ""
+"Древний импульсный лазер; 1 урон, всегда оглушает, 2 выстрела, малый радиус "
+"и 10% точности."
 
 #: src-en/data/blueprints.xml.append:355
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_2\"]/title"
-msgstr ""
+msgstr "Золотой импульсный лазер мод. II"
 
 #: src-en/data/blueprints.xml.append:356
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_2\"]/short"
-msgstr ""
+msgstr "Зол. лаз. II"
 
 #: src-en/data/blueprints.xml.append:358
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_2\"]/desc"
 msgstr ""
+"Значительно улучшенное орудие по сравнению с первой моделью, лом, "
+"поступающий в него, позволил ему стать сильнее, чем нынешняя версия "
+"Импульсного лазера мод. III. Может быть улучшено, если у вас есть Щит "
+"роскоши."
 
 #: src-en/data/blueprints.xml.append:359
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_2\"]/tooltip"
 msgstr ""
+"Древний импульсный лазер; 1 урон, всегда оглушает, 7 выстрелов, малый радиус "
+"и 20% точности."
 
 #: src-en/data/blueprints.xml.append:396
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_3\"]/title"
-msgstr ""
+msgstr "Золотой импульсный лазер мод. III"
 
 #: src-en/data/blueprints.xml.append:397
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_3\"]/short"
-msgstr ""
+msgstr "Зол. лаз. III"
 
 #: src-en/data/blueprints.xml.append:399
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_3\"]/desc"
 msgstr ""
+"Последняя версия Золотого импульсного лазера, теперь с максимальным "
+"количеством выстрелов, а также никогда не промахивается."
 
 #: src-en/data/blueprints.xml.append:400
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_3\"]/tooltip"
 msgstr ""
+"Древний импульсный лазер; 1 урон, всегда оглушает, 10 выстрелов, малый "
+"радиус и никогда не промахивается."
 
 #: src-en/data/blueprints.xml.append:438
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_1\"]/title"
-msgstr ""
+msgstr "Золотая плазменная пушка мод. I"
 
 #: src-en/data/blueprints.xml.append:439
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_1\"]/short"
-msgstr ""
+msgstr "Зол. плаз. I"
 
 #: src-en/data/blueprints.xml.append:441
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_1\"]/desc"
 msgstr ""
+"Начальная версия Золотой ионной серии пушек, не очень яркое в данный момент, "
+"но просто накормите его ломом, и оно может уничтожить щиты с легкостью. "
+"Может быть улучшена, если у вас есть Щит роскоши."
 
 #: src-en/data/blueprints.xml.append:442
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_1\"]/tooltip"
 msgstr ""
+"Производит 1 выстрел, нанося 1 ионный и системный урон, который всегда "
+"оглушает. Цепное, наносит больше урона."
 
 #: src-en/data/blueprints.xml.append:486
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_2\"]/title"
-msgstr ""
+msgstr "Золотая плазменная пушка мод. II"
 
 #: src-en/data/blueprints.xml.append:487
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_2\"]/short"
-msgstr ""
+msgstr "Зол. плаз. II"
 
 #: src-en/data/blueprints.xml.append:489
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_2\"]/desc"
 msgstr ""
+"Средняя версия Золотой ионной пушки, теперь она может пробивать любые щиты и "
+"в целом стала сильнее. Может быть улучшена, если у вас есть Щит роскоши."
 
 #: src-en/data/blueprints.xml.append:490
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_2\"]/tooltip"
 msgstr ""
+"Производит 1 выстрел, нанося 1 ионный и системный урон, всегда оглушает и "
+"пробивает все щиты. Цепное, наносит больше урона, чем раньше."
 
 #: src-en/data/blueprints.xml.append:534
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_3\"]/title"
-msgstr ""
+msgstr "Золотая плазменная пушка мод. III"
 
 #: src-en/data/blueprints.xml.append:535
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_3\"]/short"
-msgstr ""
+msgstr "Зол. плаз. III"
 
 #: src-en/data/blueprints.xml.append:537
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_3\"]/desc"
 msgstr ""
+"Последняя версия Золотой ионной пушки, теперь она наносит урон экипажу, а "
+"также заканчивается еще более мощной цепью."
 
 #: src-en/data/blueprints.xml.append:538
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_3\"]/tooltip"
 msgstr ""
+"Производит 1 выстрел, наносящий 1 ионный и системный урон, который всегда "
+"оглушает и пробивает все щиты. 30 единиц урона экипажу. Теперь цепочка "
+"заканчивается, нанося больше урона, чем раньше."
 
 #: src-en/data/blueprints.xml.append:583
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_1\"]/title"
-msgstr ""
+msgstr "Золотая пусковая установка бомб мод. I"
 
 #: src-en/data/blueprints.xml.append:584
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_1\"]/short"
-msgstr ""
+msgstr "Зол. бомба I"
 
 #: src-en/data/blueprints.xml.append:586
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_1\"]/desc"
 msgstr ""
+"Начальная версия серии Золотых пусковых установок бомб, в данный момент не "
+"очень впечатляет, но просто накормите ее ломом, и она начнет выпускать "
+"больше выстрелов и наносить больше урона. Может быть улучшена, если у вас "
+"есть Щит роскоши."
 
 #: src-en/data/blueprints.xml.append:587
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_1\"]/tooltip"
 msgstr ""
+"Бомбовое орудие; требует наличия боеголовки; наносит 2 повреждения системам "
+"и 30 - экипажу, а также всегда оглушает. Можно зарядить до 2 бомб. Может "
+"быть нацелено на собственный корабль."
 
 #: src-en/data/blueprints.xml.append:618
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_2\"]/title"
-msgstr ""
+msgstr "Золотая пусковая установка бомб мод. II"
 
 #: src-en/data/blueprints.xml.append:619
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_2\"]/short"
-msgstr ""
+msgstr "Зол. бомба II"
 
 #: src-en/data/blueprints.xml.append:621
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_2\"]/desc"
 msgstr ""
+"Средняя версия серии Золотых пусковых установок бомб, теперь она может "
+"зарядить на один заряд больше, нанося при этом больше урона системам и "
+"экипажу. Может быть улучшена, если у вас есть Щит роскоши."
 
 #: src-en/data/blueprints.xml.append:622
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_2\"]/tooltip"
 msgstr ""
+"Бомбовое орудие; требует наличия боеголовки; наносит 3 повреждения системам "
+"и45 - экипажу, а также всегда оглушает. Можно зарядить до 3 бомбы. Может "
+"быть нацелено на собственный корабль."
 
 #: src-en/data/blueprints.xml.append:653
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_3\"]/title"
-msgstr ""
+msgstr "Золотая пусковая установка бомб мод. III"
 
 #: src-en/data/blueprints.xml.append:654
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_3\"]/short"
-msgstr ""
+msgstr "Зол. бомба III"
 
 #: src-en/data/blueprints.xml.append:656
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_3\"]/desc"
 msgstr ""
+"Последняя версия Золотых пусковых установок бомб, теперь она может заряжать "
+"4 бомбы и наносит больше урона системам и экипажу."
 
 #: src-en/data/blueprints.xml.append:657
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_3\"]/tooltip"
 msgstr ""
+"Бомбовое орудие; требует наличия боеголовки; наносит 4 повреждения системам "
+"и 60 - экипажу, а также всегда оглушает. Можно зарядить до 4 бомб. Может "
+"быть нацелено на собственный корабль."
 
 #: src-en/data/blueprints.xml.append:689
 msgid ""
