@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-10 18:46+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-06-11 20:30+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -144,7 +144,7 @@ msgstr "Благословение операторов"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/description"
 msgstr ""
-"Покажите Сесту экипаж Операторов любого типа. \n"
+"Покажите Сесту экипаж операторов любого типа. \n"
 "\t\t\t\tПока действует: Ваши операторы будут взламывать двери отсеков, в "
 "которых они находятся, находясь на вражеских кораблях."
 
@@ -278,7 +278,7 @@ msgstr "???"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/description"
 msgstr ""
-"Убейте последнего Оператора на разбитом пирамидальном кораблей в глубине "
+"Убейте последнего оператора на разбитом пирамидальном кораблей в глубине "
 "пространства повстанцев."
 
 #: src-en/data/hyperspace.xml.append:2901
@@ -321,7 +321,7 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:2916
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/description"
-msgstr "Примите предложение Оператора."
+msgstr "Примите предложение оператора."
 
 #: src-en/data/hyperspace.xml.append:2917
 msgid ""
@@ -343,7 +343,7 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:2924
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/description"
-msgstr "Откажитесь от сделки с Оператором и убейте его."
+msgstr "Откажитесь от сделки с оператором и убейте его."
 
 #: src-en/data/hyperspace.xml.append:2925
 msgid ""
