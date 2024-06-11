@@ -162,6 +162,11 @@ msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
 
+#: src-en/data/events_sector_lanius.xml.append:111
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/crewMember"
+msgstr ""
+
 #: src-en/data/events_sector_lanius.xml.append:116
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/text"

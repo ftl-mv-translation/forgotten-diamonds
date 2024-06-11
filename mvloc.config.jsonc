@@ -51,14 +51,14 @@
         "//achievement/header",
 
         "//crewMember/@name",
-
+		"//crewMember",
+		
         "//mod:findLike/text",
         "//text",
         "//tooltip",
         "//metadata/title",
         "//metadata/description",
         "//mod:findLike/drone/tooltipName",
-
         "//mod-append:shipIcon/tooltip",
         "//powerEffect/buttonText",
         "//powerEffect/tooltip",
