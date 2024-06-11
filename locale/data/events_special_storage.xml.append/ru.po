@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-11 17:42+0000\n"
+"PO-Revision-Date: 2024-06-11 17:44+0000\n"
 "Last-Translator: Jack CognitiveE <1st4canva@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
@@ -1722,6 +1722,12 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[@req=\"FR_LAB_OPERATOR_BIO_PROTOCOLS\"]/text"
 msgstr ""
+"Сейчас установлено: Анти-Био Протоколы.\n"
+"\t\t[Операторы теряют 50% наносимого урона, однако сильно ослабляют "
+"вражеский экипаж, если находятся с ним в одном отсеке. Ослабленный экипаж "
+"теряет способность лечиться, телепортироваться по борту корабля, наносит на "
+"15% меньше урона в бою, а также он не может быть клонирован, если он был "
+"убит в одном отсеке с Оператором.]"
 
 #: src-en/data/events_special_storage.xml.append:1536
 msgid ""
