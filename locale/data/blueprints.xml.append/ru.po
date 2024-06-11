@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-12 05:20+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -14,7 +14,6 @@ msgstr ""
 "X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/blueprints.xml.append:19
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_blob_diamond\"]/powerList/power[1]"
 msgstr "Имитирует: Все металлические алмазы (при половинной мощности)"
