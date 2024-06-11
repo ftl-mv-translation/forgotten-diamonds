@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-10 18:12+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-06-11 20:30+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_sector_laniusxmlappend/ru/>\n"
 "Language: ru\n"
@@ -335,7 +335,6 @@ msgid ""
 msgstr "Вашего члена экипажа нельзя клонировать, так как он все еще жив."
 
 #: src-en/data/events_sector_lanius.xml.append:182
-#, fuzzy
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[2]/event/choice/text"
 msgstr "Ну"
