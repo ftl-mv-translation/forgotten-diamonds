@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-10 20:04+0000\n"
+"PO-Revision-Date: 2024-06-11 20:30+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/datablueprintsxmlappend/ru/>\n"
@@ -14,9 +14,10 @@ msgstr ""
 "X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/blueprints.xml.append:19
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_blob_diamond\"]/powerList/power[1]"
-msgstr ""
+msgstr "Имитирует: Все металлические алмазы (при половинной мощности)"
 
 #: src-en/data/blueprints.xml.append:25
 msgid ""
@@ -162,7 +163,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/powerList/power[2]"
 msgstr ""
-"Получает 1,2х урон. Невосприимчив к контролю разума, удушью и опасностям "
+"Получает 1.2х урон. Невосприимчив к контролю разума, удушью и опасностям "
 "среды."
 
 #: src-en/data/blueprints.xml.append:82
@@ -270,6 +271,8 @@ msgstr "Невосприимчив к удушью и огню."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_techno_operator\"]/powerList/power[1]"
 msgstr ""
+"Имитирует: Всех металлических операторов, работает при половинной мощности ("
+"Странно, что Техноморф не изменил свой цвет на привычный зеленый)"
 
 #: src-en/data/blueprints.xml.append:135
 msgid ""
@@ -372,36 +375,47 @@ msgstr "Дает 2 энергии текущему отсеку, 2х скоро�
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/desc"
 msgstr ""
+"Улучшенная особь, которая претерпела существенную мутацию, съев уникальный "
+"фрагмент древних обломков из далекого кластера. Эти ланиусы находятся в "
+"симбиотических связях с огнем, исцеляются от него и обладают способностью "
+"разжигать пожары по своему желанию."
 
 #: src-en/data/blueprints.xml.append:174
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/title"
-msgstr ""
+msgstr "Медный ланиус"
 
 #: src-en/data/blueprints.xml.append:175
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/short"
-msgstr ""
+msgstr "Медный ланиус"
 
 #: src-en/data/blueprints.xml.append:180
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Создает пожар в текущем отсеке, 0.8х скорость "
+"передвижения и удваивает производство кислорода на 12 секунд."
 
 #: src-en/data/blueprints.xml.append:181
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/powerList/power[2]"
-msgstr ""
+msgstr "110 здоровья, наносит 0.9x боевого урона и получает 1.1x боевого урона."
 
 #: src-en/data/blueprints.xml.append:182
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/powerList/power[3]"
 msgstr ""
+"Медленно регенерирует находясь в огне, и разрушается, если здоровье не "
+"полностью восстановлено.  Лишает противников иммунитета к огню, пока они "
+"находятся в одном отсеке с ним."
 
 #: src-en/data/blueprints.xml.append:183
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/powerList/power[4]"
 msgstr ""
+"Может задохнуться и получает урон от газов, выделяемых ракушками. Медленно "
+"наполняет отсек кислородом."
 
 #: src-en/data/blueprints.xml.append:187
 msgid ""
