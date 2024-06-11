@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-10 18:46+0000\n"
+"PO-Revision-Date: 2024-06-11 20:30+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_sector_kleptocracyxmlappend/ru/>\n"
@@ -18,14 +18,14 @@ msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"SLUG_DISTRESS_TRICK\"]/mod-"
 "append:choice/text"
 msgstr ""
-"(Член экипажа-Оператор) Отправить своего оператора разобраться с ситуацией."
+"(Член экипажа-оператор) Отправить своего оператора разобраться с ситуацией."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:7
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"SLUG_DISTRESS_TRICK\"]/mod-"
 "append:choice/event/text"
 msgstr ""
-"Оператор легко находит проблему, передает слизням список возможных решений, "
+"оператор легко находит проблему, передает слизням список возможных решений, "
 "а затем вручает им счет за предоставленные услуги. Возмущенные, слизни "
 "включают орудия и готовятся к бою."
 
