@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-13 13:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"forgotten-diamonds/datablueprintsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/blueprints.xml.append:19
 msgid ""
@@ -798,17 +806,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:789
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER\"]/title"
-msgstr ""
+msgstr "Медный дрон терминатор мод. I"
 
 #: src-en/data/blueprints.xml.append:790
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER\"]/short"
-msgstr ""
+msgstr "Термин. I"
 
 #: src-en/data/blueprints.xml.append:791
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER\"]/desc"
 msgstr ""
+"1 урон корпусу, 2 урона системам, 20% шанс пожара, 1 выстрел. Может быть "
+"улучшен с помощью модуля Щит Тинкерера."
 
 #: src-en/data/blueprints.xml.append:807
 msgid ""
@@ -823,27 +833,29 @@ msgstr "Др. лаз. дрона"
 #: src-en/data/blueprints.xml.append:810
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER\"]/desc"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:811
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER\"]/tooltip"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:842
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_2\"]/title"
-msgstr ""
+msgstr "Медный дрон терминатор мод. II"
 
 #: src-en/data/blueprints.xml.append:843
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_2\"]/short"
-msgstr ""
+msgstr "Термин. II"
 
 #: src-en/data/blueprints.xml.append:844
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_2\"]/desc"
 msgstr ""
+"1 урон корпусу, 3 урона системам, 50% шанс пожара, 1 выстрел. Может быть "
+"улучшен с помощью модуля Щит Тинкерера."
 
 #: src-en/data/blueprints.xml.append:860
 msgid ""
@@ -858,27 +870,29 @@ msgstr "Др. лаз. дрона"
 #: src-en/data/blueprints.xml.append:863
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_2\"]/desc"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:864
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_2\"]/tooltip"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:895
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_3\"]/title"
-msgstr ""
+msgstr "Медный дрон терминатор мод. III"
 
 #: src-en/data/blueprints.xml.append:896
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_3\"]/short"
-msgstr ""
+msgstr "Термин. III"
 
 #: src-en/data/blueprints.xml.append:897
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_3\"]/desc"
 msgstr ""
+"1 урон корпусу, 3 урона системам, 60% шанс пожара, 3 выстрела. 60 радиус "
+"поражения. Может быть улучшен с помощью модуля Щит Тинкерера."
 
 #: src-en/data/blueprints.xml.append:913
 msgid ""
@@ -893,27 +907,27 @@ msgstr "Др. лаз. дрона"
 #: src-en/data/blueprints.xml.append:916
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_3\"]/desc"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:917
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_3\"]/tooltip"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:958
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_4\"]/title"
-msgstr ""
+msgstr "Медный дрон терминатор мод. IV"
 
 #: src-en/data/blueprints.xml.append:959
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_4\"]/short"
-msgstr ""
+msgstr "Термин. IV"
 
 #: src-en/data/blueprints.xml.append:960
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_4\"]/desc"
-msgstr ""
+msgstr "2 урона, 70% шанс пожара, 5 выстрелов, 70 радиус поражения."
 
 #: src-en/data/blueprints.xml.append:976
 msgid ""
@@ -928,137 +942,145 @@ msgstr "Др. лаз. дрона"
 #: src-en/data/blueprints.xml.append:979
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_4\"]/desc"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:980
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_4\"]/tooltip"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:1020
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM\"]/title"
-msgstr ""
+msgstr "Медный дрон атомайзер мод. I"
 
 #: src-en/data/blueprints.xml.append:1021
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM\"]/short"
-msgstr ""
+msgstr "Атом. I"
 
 #: src-en/data/blueprints.xml.append:1022
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM\"]/desc"
 msgstr ""
+"1 урон, 10% шанс пожара, длина луча 100, скорость луча 5, может быть улучшен "
+"с помощью модуля Щит Тинкерера."
 
 #: src-en/data/blueprints.xml.append:1038
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM\"]/title"
-msgstr ""
+msgstr "Древний луч"
 
 #: src-en/data/blueprints.xml.append:1039
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM\"]/short"
-msgstr ""
+msgstr "Древ. луч"
 
 #: src-en/data/blueprints.xml.append:1041
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM\"]/desc"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:1042
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM\"]/tooltip"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:1070
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_2\"]/title"
-msgstr ""
+msgstr "Медный дрон атомайзер мод. II"
 
 #: src-en/data/blueprints.xml.append:1071
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_2\"]/short"
-msgstr ""
+msgstr "Атом. II"
 
 #: src-en/data/blueprints.xml.append:1072
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_2\"]/desc"
 msgstr ""
+"1 урон, 2 системного урона, 20% шанс пожара, 100 длина луча, 10 скорость "
+"луча, может быть улучшен с помощью модуля Щит Тинкерера."
 
 #: src-en/data/blueprints.xml.append:1088
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_2\"]/title"
-msgstr ""
+msgstr "Древний луч"
 
 #: src-en/data/blueprints.xml.append:1089
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_2\"]/short"
-msgstr ""
+msgstr "Древ. луч"
 
 #: src-en/data/blueprints.xml.append:1091
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_2\"]/desc"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:1092
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_2\"]/tooltip"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:1121
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_3\"]/title"
-msgstr ""
+msgstr "Медный дрон атомайзер мод. III"
 
 #: src-en/data/blueprints.xml.append:1122
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_3\"]/short"
-msgstr ""
+msgstr "Атом. III"
 
 #: src-en/data/blueprints.xml.append:1123
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_3\"]/desc"
 msgstr ""
+"2 урона, проникает через 2 щита, 30% шанс пожара, 120 длина луча, 10 "
+"скорость луча, может быть улучшен с помощью модуля Щит Тинкерера."
 
 #: src-en/data/blueprints.xml.append:1139
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_3\"]/title"
-msgstr ""
+msgstr "Древний луч"
 
 #: src-en/data/blueprints.xml.append:1140
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_3\"]/short"
-msgstr ""
+msgstr "Древ. луч"
 
 #: src-en/data/blueprints.xml.append:1142
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_3\"]/desc"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:1143
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_3\"]/tooltip"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:1171
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_4\"]/title"
-msgstr ""
+msgstr "Медный дрон атомайзер мод. IV"
 
 #: src-en/data/blueprints.xml.append:1172
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_4\"]/short"
-msgstr ""
+msgstr "Атом. IV"
 
 #: src-en/data/blueprints.xml.append:1173
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_4\"]/desc"
 msgstr ""
+"2 урона корпусу, 4 урона системам, 100% шанс пожара, 150 длина луча, 15 "
+"скорость луча."
 
 #: src-en/data/blueprints.xml.append:1189
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_4\"]/title"
-msgstr ""
+msgstr "Древний луч"
 
 #: src-en/data/blueprints.xml.append:1190
 msgid ""
@@ -1068,42 +1090,48 @@ msgstr "Др. лаз. дрона"
 #: src-en/data/blueprints.xml.append:1192
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_4\"]/desc"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:1193
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_4\"]/tooltip"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:1223
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_PROJECTILE\"]/title"
-msgstr ""
+msgstr "Медный ночной страж [С]"
 
 #: src-en/data/blueprints.xml.append:1224
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_PROJECTILE\"]/short"
-msgstr ""
+msgstr "Ночной страж [С]"
 
 #: src-en/data/blueprints.xml.append:1225
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_PROJECTILE\"]/desc"
 msgstr ""
+"Этот защитный дрон сбивает цели, стреляя очередями снарядов по "
+"приближающимся целям. 8 выстрелов, 100 скорость полета снарядов.\n"
+"\tПерезарядка: 200 МС"
 
 #: src-en/data/blueprints.xml.append:1243
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_DRONE\"]/title"
-msgstr ""
+msgstr "Медный Ночной страж [Д]"
 
 #: src-en/data/blueprints.xml.append:1244
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_DRONE\"]/short"
-msgstr ""
+msgstr "Ночной страж [Д]"
 
 #: src-en/data/blueprints.xml.append:1245
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_DRONE\"]/desc"
 msgstr ""
+"Этот анти-дрон сбивает дронов, выпуская очередями снаряды по приближающимся "
+"целям. 8 выстрелов, 100 скорость снарядов.\n"
+"\tПерезарядка: 200 МС"
 
 #: src-en/data/blueprints.xml.append:1262
 msgid ""
@@ -1118,102 +1146,117 @@ msgstr "Др. лаз. дрона"
 #: src-en/data/blueprints.xml.append:1265
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_DEFENSE\"]/desc"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:1266
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_DEFENSE\"]/tooltip"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:1303
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE\"]/title"
-msgstr ""
+msgstr "Медный дрон облитератор мод. I"
 
 #: src-en/data/blueprints.xml.append:1304
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE\"]/short"
-msgstr ""
+msgstr "Облит. I"
 
 #: src-en/data/blueprints.xml.append:1305
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE\"]/desc"
 msgstr ""
+"1 урон корпусу, 2 урона системам, противокорпусный, 50% шанс пожара, 1 "
+"выстрел, пробивает все щиты, не расходует боеголовки. Не может быть сбит "
+"вражескими защитными дронами. Может быть улучшен с помощью модуля Щит "
+"Тинкерера."
 
 #: src-en/data/blueprints.xml.append:1322
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE\"]/title"
-msgstr ""
+msgstr "Древняя ракетная установка"
 
 #: src-en/data/blueprints.xml.append:1323
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE\"]/short"
-msgstr ""
+msgstr "Древ. ракета"
 
 #: src-en/data/blueprints.xml.append:1324
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE\"]/desc"
 msgstr ""
+"Древняя ракетная установка, намного превосходящая все пусковые установки, "
+"которые вы когда-либо видели."
 
 #: src-en/data/blueprints.xml.append:1325
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE\"]/tooltip"
 msgstr ""
+"Выпускает 1 ракету; наносит 1 урона корпусу и 2 - системам; пробивает все "
+"щиты."
 
 #: src-en/data/blueprints.xml.append:1358
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE_2\"]/title"
-msgstr ""
+msgstr "Медный дрон облитератор мод. II"
 
 #: src-en/data/blueprints.xml.append:1359
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE_2\"]/short"
-msgstr ""
+msgstr "Облит. I"
 
 #: src-en/data/blueprints.xml.append:1360
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE_2\"]/desc"
 msgstr ""
+"3 урона, противокорпусный, 100% шанс пожара, 1 выстрел, пробивает все щиты, "
+"не расходует боеголовки. Не может быть сбит вражескими защитными дронами. "
+"Может быть улучшен с помощью модуля Щит Тинкерера."
 
 #: src-en/data/blueprints.xml.append:1377
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE_2\"]/title"
-msgstr ""
+msgstr "Древняя ракетная установка"
 
 #: src-en/data/blueprints.xml.append:1378
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE_2\"]/short"
-msgstr ""
+msgstr "Древ. ракета"
 
 #: src-en/data/blueprints.xml.append:1379
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE_2\"]/desc"
 msgstr ""
+"Древняя ракетная установка, намного превосходящая все пусковые установки, "
+"которые вы когда-либо видели."
 
 #: src-en/data/blueprints.xml.append:1380
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE_2\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 1 ракету; наносит 3 урона; пробивает все щиты."
 
 #: src-en/data/blueprints.xml.append:1412
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION\"]/title"
-msgstr ""
+msgstr "Медный дрон дезактиватор мод. I"
 
 #: src-en/data/blueprints.xml.append:1413
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION\"]/short"
-msgstr ""
+msgstr "Дизакт. I"
 
 #: src-en/data/blueprints.xml.append:1414
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION\"]/desc"
 msgstr ""
+"1 ионного и системного урона, 10% шанс пожара, 1 выстрел. Может быть улучшен "
+"с помощью модуля Щит Тинкерера."
 
 #: src-en/data/blueprints.xml.append:1430
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION\"]/title"
-msgstr ""
+msgstr "Древний ион"
 
 #: src-en/data/blueprints.xml.append:1431
 msgid ""
@@ -1223,32 +1266,34 @@ msgstr "Др. ион дрона"
 #: src-en/data/blueprints.xml.append:1433
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION\"]/desc"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:1434
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION\"]/tooltip"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:1467
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_2\"]/title"
-msgstr ""
+msgstr "Медный дрон дезактиватор мод. II"
 
 #: src-en/data/blueprints.xml.append:1468
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_2\"]/short"
-msgstr ""
+msgstr "Дизакт. II"
 
 #: src-en/data/blueprints.xml.append:1469
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_2\"]/desc"
 msgstr ""
+"1 ионный и системный урон, 20% шанс пожара, 1 выстрел. 10% точности. Может "
+"быть улучшен с помощью модуля Щит Тинкерера."
 
 #: src-en/data/blueprints.xml.append:1485
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_2\"]/title"
-msgstr ""
+msgstr "Древний ион"
 
 #: src-en/data/blueprints.xml.append:1486
 msgid ""
@@ -1258,32 +1303,34 @@ msgstr "Др. ион дрона"
 #: src-en/data/blueprints.xml.append:1488
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_2\"]/desc"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:1489
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_2\"]/tooltip"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:1523
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_3\"]/title"
-msgstr ""
+msgstr "Медный дрон дезактиватор мод. III"
 
 #: src-en/data/blueprints.xml.append:1524
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_3\"]/short"
-msgstr ""
+msgstr "Дизакт. III"
 
 #: src-en/data/blueprints.xml.append:1525
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_3\"]/desc"
 msgstr ""
+"2 ионного и системного урона, 50% шанс пожара, 1 выстрел. 20% точности. "
+"Может быть улучшен с помощью модуля Щит Тинкерера."
 
 #: src-en/data/blueprints.xml.append:1541
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_3\"]/title"
-msgstr ""
+msgstr "Древний ион"
 
 #: src-en/data/blueprints.xml.append:1542
 msgid ""
@@ -1293,32 +1340,33 @@ msgstr "Др. ион дрона"
 #: src-en/data/blueprints.xml.append:1544
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_3\"]/desc"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:1545
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_3\"]/tooltip"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:1578
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_4\"]/title"
-msgstr ""
+msgstr "Медный дрон дезактиватор мод. IV"
 
 #: src-en/data/blueprints.xml.append:1579
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_4\"]/short"
-msgstr ""
+msgstr "Дизакт. IV"
 
 #: src-en/data/blueprints.xml.append:1580
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_4\"]/desc"
 msgstr ""
+"2 ионного и системного урона, 100% шанс пожара, 1 выстрел. 100% точность."
 
 #: src-en/data/blueprints.xml.append:1596
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_4\"]/title"
-msgstr ""
+msgstr "Древний ион"
 
 #: src-en/data/blueprints.xml.append:1597
 msgid ""
@@ -1328,22 +1376,22 @@ msgstr "Др. ион дрона"
 #: src-en/data/blueprints.xml.append:1599
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_4\"]/desc"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:1600
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_4\"]/tooltip"
-msgstr ""
+msgstr "ДРОНОВОЕ ОРУЖИЕ"
 
 #: src-en/data/blueprints.xml.append:1632
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_1\"]/title"
-msgstr ""
+msgstr "Медный абордажный дрон"
 
 #: src-en/data/blueprints.xml.append:1633
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_1\"]/short"
-msgstr ""
+msgstr "Медный дрон"
 
 #: src-en/data/blueprints.xml.append:1634
 msgid ""
@@ -1358,27 +1406,35 @@ msgstr "ДРОН"
 #: src-en/data/blueprints.xml.append:1645
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE\"]/title"
-msgstr ""
+msgstr "Медный абордажный дрон мод. I"
 
 #: src-en/data/blueprints.xml.append:1646
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE\"]/short"
-msgstr ""
+msgstr "Мед. аборд. др."
 
 #: src-en/data/blueprints.xml.append:1647
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE\"]/desc"
 msgstr ""
+"Хотя сейчас этот дрон не очень мощный, он может превратиться в мощную машину "
+"после покупки достаточного количества деталей для него. Может быть улучшен с "
+"помощью модуля Щит Тинкерера.\n"
+"    \n"
+"-Периодическая способность: Начинает пожар в текущем отсеке.\n"
+"-110 ОЗ, 0.5х скорость передвижения\n"
+"-1.5х урон по экипажу, не получает урона от опасностей и не может быть "
+"оглушен."
 
 #: src-en/data/blueprints.xml.append:1660
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_2\"]/title"
-msgstr ""
+msgstr "Медный абордажный дрон 2"
 
 #: src-en/data/blueprints.xml.append:1661
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_2\"]/short"
-msgstr ""
+msgstr "Медный дрон 2"
 
 #: src-en/data/blueprints.xml.append:1662
 msgid ""
@@ -1393,17 +1449,23 @@ msgstr "ДРОН"
 #: src-en/data/blueprints.xml.append:1673
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE_2\"]/title"
-msgstr ""
+msgstr "Медный абордажный дрон мод. II"
 
 #: src-en/data/blueprints.xml.append:1674
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE_2\"]/short"
-msgstr ""
+msgstr "Мед. дрон II"
 
 #: src-en/data/blueprints.xml.append:1675
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE_2\"]/desc"
 msgstr ""
+"Мощный абордажный дрон, способный разжигать столько пожаров, сколько ему "
+"нужно.\n"
+"    \n"
+"-Периодическая способность: Начинает пожар в текущем отсеке.\n"
+"-200 ОЗ, 0.8х скорость передвижения.\n"
+"-2x урон по экипажу, немного исцеляется в огне."
 
 #: src-en/data/blueprints.xml.append:1694
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_SHIELD\"]/title"
@@ -1412,22 +1474,38 @@ msgstr "Защитный сплав"
 #: src-en/data/blueprints.xml.append:1695
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_SHIELD\"]/desc"
 msgstr ""
+"Доведенное до идеала единство всех основных групп алмазов, настолько "
+"универсальное, что может выполнять ту же функцию, что и другие: Щит роскоши, "
+"Щит Тинкерера или Творца плоти.\n"
+"\t\n"
+"\tИмеет целостность в 5 единиц, дает +10% к добыче лома, возвращает "
+"использованных боевых дронов и удваивает время зарядки ССД противника."
 
 #: src-en/data/blueprints.xml.append:1705
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_WIRES\"]/title"
-msgstr ""
+msgstr "Сплав проводов"
 
 #: src-en/data/blueprints.xml.append:1706
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_WIRES\"]/desc"
 msgstr ""
+"Роботы и дроны экипажа оснащены чрезвычайно продвинутыми проводами из "
+"сплавов всех трех основных групп операторов, что повышает их урон, ремонт, "
+"саботаж, здоровье и скорость исцеления на 15%."
 
 #: src-en/data/blueprints.xml.append:1714
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_BOTS\"]/title"
-msgstr ""
+msgstr "Сплав ботов"
 
 #: src-en/data/blueprints.xml.append:1715
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_BOTS\"]/desc"
 msgstr ""
+"Этот модуль рассылает наноботы, которые атакуют вражеский экипаж, раскаляя "
+"их кожу и разрушая ее на молекулярном уровне, а также снимая с них иммунитет "
+"к удушью и исцеляя ваш экипаж.\n"
+"\t\n"
+"\tНаносит 2 ОЗ/с урона вражеским абордажникам и увеличивает их урон от "
+"удушья на 20%, ваш экипаж также исцеляется на 2 ОЗ/с, причем все эти эффекты "
+"зависят от уровня кислородной установки."
 
 #: src-en/data/blueprints.xml.append:1725
 msgid ""
@@ -1588,50 +1666,80 @@ msgstr "Щит роскоши"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_11\"]/desc"
 msgstr ""
+"[МАКСИМАЛЬНЫЙ УРОВЕНЬ] Этот экзотический щит, похоже, привлекает лом в "
+"больших количествах. Увеличивает добычу лома на 50% и позволяет "
+"перерабатывать ресурсы в лом. В настоящее время максимальное общее "
+"количество единиц целостности щита составляет 13."
 
 #: src-en/data/blueprints.xml.append:1814
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLD_WIRES\"]/title"
-msgstr ""
+msgstr "Золотые провода"
 
 #: src-en/data/blueprints.xml.append:1815
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLD_WIRES\"]/desc"
 msgstr ""
+"Роботизированные экипажи и дроны оснащены золотыми проводами, что повышает "
+"их скорость нанесения урона, ремонта и саботажа на 50%. \n"
+"\t\n"
+"\tОднако это делает их довольно тяжелыми, снижая их скорость передвижения на "
+"50%."
 
 #: src-en/data/blueprints.xml.append:1825
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_TINKERERS_SHIELD\"]/title"
-msgstr ""
+msgstr "Щит Тинкерера"
 
 #: src-en/data/blueprints.xml.append:1826
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_TINKERERS_SHIELD\"]/desc"
 msgstr ""
+"Странный образец эфирной технологии с 7 единицами целостности. Этот щит "
+"может странным образом вдохновлять экипаж и давать им неестественный уровень "
+"креативности при создании дронов. \n"
+"\t\n"
+"\tОн также возвращает всех боевых дронов, использованных в бою, наносит "
+"большой урон абордажным дронам противника и выводит из строя его защитные "
+"дроны.\n"
+"\t\n"
+"\tПозволяет превращать лом, ракеты и топливо в дрон-комплекты."
 
 #: src-en/data/blueprints.xml.append:1838
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_COPPER_WIRES\"]/title"
-msgstr ""
+msgstr "Медные провода"
 
 #: src-en/data/blueprints.xml.append:1839
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_COPPER_WIRES\"]/desc"
 msgstr ""
+"Роботы и дроны экипажа оснащены медными проводами, что снижает их урон в два "
+"раза, но позволяет им лечить экипаж в том же отсеке на 3 ОЗ/с. \n"
+"\t\n"
+"\tТакже дроны могут регенерировать 3 ОЗ/с."
 
 #: src-en/data/blueprints.xml.append:1849
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FIREBOTS\"]/title"
-msgstr ""
+msgstr "Огненные боты"
 
 #: src-en/data/blueprints.xml.append:1850
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FIREBOTS\"]/desc"
 msgstr ""
+"Это дополнение стреляет наноботами, которые атакуют вражеский экипаж, "
+"раскаляя их кожу, а затем разрушая ее на молекулярном уровне, нанося урон "
+"даже самым крепким валунам. \n"
+"\t\n"
+"\tНаносит 3 ОЗ/с урона вражеским членам экипажа и зависит от уровня "
+"кислородной установки, каждый ее уровень добавляет еще 3 урона."
 
 #: src-en/data/blueprints.xml.append:1860
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_WAR_CRIMINALS_SHIELD\"]/title"
-msgstr ""
+msgstr "Щит военного преступника"
 
 #: src-en/data/blueprints.xml.append:1861
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_WAR_CRIMINALS_SHIELD\"]/desc"
 msgstr ""
+"Странный элемент эфирной технологии, он препятствует работе ССД противника, "
+"а также функционирует как обычный энергетический щит."
 
 #: src-en/data/blueprints.xml.append:1869
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FLESH_MAKER\"]/title"
@@ -1664,45 +1772,55 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1895
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ADAMANTINE_WIRES\"]/title"
-msgstr ""
+msgstr "Адамантиновые провода"
 
 #: src-en/data/blueprints.xml.append:1896
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ADAMANTINE_WIRES\"]/desc"
 msgstr ""
+"Роботы и дроны оснащены адамантиновыми проводами, что значительно повышает "
+"их прочность, увеличивая здоровье на 50% и делая их невосприимчивыми к "
+"статусам. \n"
+"\t\n"
+"\tК сожалению, провода довольно токсичны для органических членов экипажа: "
+"находясь в одном отсеке с ними, они получают 5 ОЗ/с урона."
 
 #: src-en/data/blueprints.xml.append:1906
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_TOXIC_ROOMS\"]/title"
-msgstr ""
+msgstr "Токсичные отсеки"
 
 #: src-en/data/blueprints.xml.append:1907
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_TOXIC_ROOMS\"]/desc"
 msgstr ""
+"Внутренние помещения и компоненты корабля заполнены токсичной пылью и "
+"радиацией до такой степени, что лишают врагов иммунитета к удушью, а также "
+"постоянно наносят им урон, пока они находятся на вашем корабле."
 
 #: src-en/data/blueprints.xml.append:1921
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_SUSTAIN_PROTOCOL\"]/title"
-msgstr ""
+msgstr "Протокол поддержки"
 
 #: src-en/data/blueprints.xml.append:1922
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_SUSTAIN_PROTOCOL\"]/desc"
-msgstr ""
+msgstr "Экипаж неуязвим, пока Медотсек работает."
 
 #: src-en/data/blueprints.xml.append:1931
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FORGGOTEN_DIAMOND_WALLACE\"]/title"
-msgstr ""
+msgstr "Магазин Забытого алмаза-Уоллеса"
 
 #: src-en/data/blueprints.xml.append:1932
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FORGGOTEN_DIAMOND_WALLACE\"]/desc"
 msgstr ""
+"Дает доступ к магазину забытых алмазов, где продаются все вещи Забытых рас."
 
 #: src-en/data/blueprints.xml.append:1946
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_SHIP_OPERATOR\"]/title"
-msgstr ""
+msgstr "Металлический оператор"
 
 #: src-en/data/blueprints.xml.append:1947
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_SHIP_OPERATOR\"]/desc"
@@ -1711,7 +1829,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:1955
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_SHIP_METAL_DIAMOND\"]/title"
-msgstr ""
+msgstr "Крейсер металлических алмазов"
 
 #: src-en/data/blueprints.xml.append:1956
 msgid ""
@@ -1721,7 +1839,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:1964
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_SHIP_METALLANIUS\"]/title"
-msgstr ""
+msgstr "Крейсер металлических ланиусов"
 
 #: src-en/data/blueprints.xml.append:1965
 msgid ""
@@ -1737,6 +1855,8 @@ msgstr "Благо сплавов"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_METAL_LANIUS\"]/desc"
 msgstr ""
+"Весь экипаж металлических ланиусов сопротивляется контролю разума и может "
+"видеть соседние отсеки."
 
 #: src-en/data/blueprints.xml.append:1987
 msgid ""
@@ -1746,7 +1866,7 @@ msgstr "Благословение богатства"
 #: src-en/data/blueprints.xml.append:1988
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_GOLDEN\"]/desc"
-msgstr ""
+msgstr "Вы получаете на 10% больше лома."
 
 #: src-en/data/blueprints.xml.append:1995
 msgid ""
@@ -1756,7 +1876,7 @@ msgstr "Благословение ржавчины"
 #: src-en/data/blueprints.xml.append:1996
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_COPPER\"]/desc"
-msgstr ""
+msgstr "Ваши боевые дроны возвращаются после боя, если не уничтожены."
 
 #: src-en/data/blueprints.xml.append:2003
 msgid ""
@@ -1767,6 +1887,8 @@ msgstr "Благословение клонирования"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_ADAMANTINE\"]/desc"
 msgstr ""
+"Ваш экипаж не теряет навыков от клонирования, и все члены экипажа начинают "
+"по крайней мере с 1-м уровнем всех навыков."
 
 #: src-en/data/blueprints.xml.append:2011
 msgid ""
@@ -1777,6 +1899,8 @@ msgstr "Благо алмазов"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_DIAMOND\"]/desc"
 msgstr ""
+"Ваш экипаж металлических алмазов может проходить сквозь двери и получает "
+"дополнительно 20% к скорости передвижения."
 
 #: src-en/data/blueprints.xml.append:2019
 msgid ""
@@ -1787,16 +1911,18 @@ msgstr "Благословение операторов"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_OPERATOR\"]/desc"
 msgstr ""
+"Теперь ваши операторы будут взламывать двери отсеков, в которых они "
+"находятся, находясь на вражеских кораблях."
 
 #: src-en/data/blueprints.xml.append:2033
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_INSTALLED\"]/title"
-msgstr ""
+msgstr "Алмаз"
 
 #: src-en/data/blueprints.xml.append:2034
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_INSTALLED\"]/desc"
-msgstr ""
+msgstr "Добавлено улучшение для алмазов."
 
 #: src-en/data/blueprints.xml.append:2040
 msgid ""
@@ -1807,121 +1933,146 @@ msgstr "Боевой дух"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_FISTITUTE\"]/desc"
 msgstr ""
+"Бриллианты получают двойной боевой урон в обмен на потерю 90% скорости "
+"ремонта и саботажа."
 
 #: src-en/data/blueprints.xml.append:2047
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_SYSTEMIC\"]/title"
-msgstr ""
+msgstr "Систематичность"
 
 #: src-en/data/blueprints.xml.append:2048
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_SYSTEMIC\"]/desc"
 msgstr ""
+"Алмазы получают 50% скорости передвижения и боевого урона, находясь в "
+"системных помещениях на своем корабле. Однако, находясь на вражеском "
+"корабле, они теряют 50% урона и скорости передвижения."
 
 #: src-en/data/blueprints.xml.append:2054
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_NOXIOUS\"]/title"
-msgstr ""
+msgstr "Вредоносность"
 
 #: src-en/data/blueprints.xml.append:2055
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_NOXIOUS\"]/desc"
 msgstr ""
+"Алмазы теряют способность сражаться с экипажем, но получают разрушительную "
+"ауру, которая наносит 3 урона с течением времени всем врагам, не являющимся "
+"алмазами, находящимся на одном с ними корабле."
 
 #: src-en/data/blueprints.xml.append:2062
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_INSTALLED\"]/title"
-msgstr ""
+msgstr "Операторы"
 
 #: src-en/data/blueprints.xml.append:2063
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_INSTALLED\"]/desc"
-msgstr ""
+msgstr "Добавлено улучшение для операторов."
 
 #: src-en/data/blueprints.xml.append:2069
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_PACIFISM_PROTOCOLS\"]/title"
-msgstr ""
+msgstr "Протоколы пацифизма"
 
 #: src-en/data/blueprints.xml.append:2070
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_PACIFISM_PROTOCOLS\"]/desc"
 msgstr ""
+"Операторы теряют способность сражаться или устраивать саботаж, но "
+"предотвращают все сражения и саботаж экипажа, находясь в одном с ним отсеке."
 
 #: src-en/data/blueprints.xml.append:2076
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_BIO_PROTOCOLS\"]/title"
-msgstr ""
+msgstr "Анти-Био протоколы"
 
 #: src-en/data/blueprints.xml.append:2077
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_BIO_PROTOCOLS\"]/desc"
 msgstr ""
+"Операторы теряют 50% наносимого урона, однако сильно ослабляют вражеский "
+"экипаж, если находятся с ним в одном отсеке. Ослабленный экипаж теряет "
+"способность лечиться, телепортироваться по борту корабля, наносит на 15% "
+"меньше урона в бою, а также экипаж убитый в одном с ним отсеке лишается "
+"возможности быть клонированным."
 
 #: src-en/data/blueprints.xml.append:2083
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_BEACON_PROTOCOLS\"]/title"
-msgstr ""
+msgstr "Протоколы маяков"
 
 #: src-en/data/blueprints.xml.append:2084
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_BEACON_PROTOCOLS\"]/desc"
 msgstr ""
+"Операторы теряют 50% здоровья и получают на 25% больше урона в обмен на то, "
+"чтобы работать в качестве мобильного телепортационного маяка, который "
+"позволяет любому дружественному экипажу, находящемуся с ними в одном отсеке, "
+"телепортироваться в любой отсек по своему желанию, даже на вражеские корабли."
 
 #: src-en/data/blueprints.xml.append:2098
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY\"]/class"
-msgstr ""
+msgstr "Сплав пирамидального крейсера"
 
 #: src-en/data/blueprints.xml.append:2099
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY\"]/name"
-msgstr ""
+msgstr "Сплав Радости"
 
 #: src-en/data/blueprints.xml.append:2100
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY\"]/unlock"
-msgstr ""
+msgstr "Разблокируйте все корабли металлических алмазов."
 
 #: src-en/data/blueprints.xml.append:2101
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY\"]/desc"
 msgstr ""
+"Идеальный союз всех основных групп общества металлических алмазов, "
+"оснащенный уникальным модулем, который может имитировать любой из фирменных "
+"модулей кораблей металлических алмазов."
 
 #: src-en/data/blueprints.xml.append:2177
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_2\"]/class"
-msgstr ""
+msgstr "Сплав крейсера алмазов"
 
 #: src-en/data/blueprints.xml.append:2178
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_2\"]/name"
-msgstr ""
+msgstr "Провода Памяти"
 
 #: src-en/data/blueprints.xml.append:2179
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_2\"]/unlock"
-msgstr ""
+msgstr "Разблокируйте все корабли операторов."
 
 #: src-en/data/blueprints.xml.append:2180
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_2\"]/desc"
 msgstr ""
+"Идеальный союз всех основных групп операторов, оснащенный уникальным "
+"модулем, который обладает эффектами других проводов, хотя сила эффектов "
+"снижена."
 
 #: src-en/data/blueprints.xml.append:2256
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_3\"]/class"
-msgstr ""
+msgstr "Сплав крейсера ланиусов"
 
 #: src-en/data/blueprints.xml.append:2257
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_3\"]/name"
-msgstr ""
+msgstr "Тяжелые Боты"
 
 #: src-en/data/blueprints.xml.append:2258
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_3\"]/unlock"
-msgstr ""
+msgstr "Разблокируйте все корабли металлических ланиусов."
 
 #: src-en/data/blueprints.xml.append:2259
 msgid ""
@@ -1934,32 +2085,37 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2336
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND\"]/class"
-msgstr ""
+msgstr "Металлический пирамидальный крейсер"
 
 #: src-en/data/blueprints.xml.append:2337
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND\"]/name"
-msgstr ""
+msgstr "Золотой Дворец"
 
 #: src-en/data/blueprints.xml.append:2338
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND\"]/unlock"
-msgstr ""
+msgstr "Очистите странный золотой сосуд в Оплоте повстанцев."
 
 #: src-en/data/blueprints.xml.append:2339
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND\"]/desc"
 msgstr ""
+"На этом корабле работают золотые алмазы, специализирующиеся на металлоломе. "
+"Их корабль предназначен для сбора металлолома и использования его для "
+"улучшения оружия и щитов.\n"
+"\t\n"
+"\tОднако он не может установить систему дронов."
 
 #: src-en/data/blueprints.xml.append:2414
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_2\"]/class"
-msgstr ""
+msgstr "Металлический пирамидальный крейсер"
 
 #: src-en/data/blueprints.xml.append:2415
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_2\"]/name"
-msgstr ""
+msgstr "Ужасающие Дроны"
 
 #: src-en/data/blueprints.xml.append:2416
 msgid ""
@@ -1970,16 +2126,20 @@ msgstr "Достигните сектора 5 на типе А, чтобы ра�
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_2\"]/desc"
 msgstr ""
+"Этот крейсер - главное произведение искусства группы медных алмазов, "
+"корабль, сфокусированный исключительно на дронах, в основном боевых.\n"
+"\t\n"
+"\tОднако это означает, что на корабль нельзя установить систему вооружения."
 
 #: src-en/data/blueprints.xml.append:2487
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_3\"]/class"
-msgstr ""
+msgstr "Металлический пирамидальный крейсер"
 
 #: src-en/data/blueprints.xml.append:2488
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_3\"]/name"
-msgstr ""
+msgstr "Кровавый Дождь"
 
 #: src-en/data/blueprints.xml.append:2489
 msgid ""
@@ -1992,36 +2152,45 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_3\"]/desc"
 msgstr ""
+"Этот корабль может создавать жизнь только для того, чтобы отправить ее в "
+"бой, как только она будет создана. Может зарегистрировать экипаж в своей "
+"базе данных один раз, получив возможность его последующего выращивания, и "
+"эти регистрации сохраняются даже между забегами.\n"
+"\t\n"
+"\tК сожалению, корабль не может установить ни систему дронов, ни оружия."
 
 #: src-en/data/blueprints.xml.append:2558
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR\"]/class"
-msgstr ""
+msgstr "Металлический алмаз"
 
 #: src-en/data/blueprints.xml.append:2559
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR\"]/name"
-msgstr ""
+msgstr "Золотой алмаз"
 
 #: src-en/data/blueprints.xml.append:2560
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR\"]/unlock"
-msgstr ""
+msgstr "Заключите сделку с таинственным кораблем в родном мире валунов."
 
 #: src-en/data/blueprints.xml.append:2561
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR\"]/desc"
 msgstr ""
+"Это исследовательское судно загадочных операторов специализируется на "
+"совершенствовании дронов и роботизированном экипаже, хотя и не имеет "
+"реальных средств для нанесения урона корпусу."
 
 #: src-en/data/blueprints.xml.append:2633
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_2\"]/class"
-msgstr ""
+msgstr "Металлический алмаз"
 
 #: src-en/data/blueprints.xml.append:2634
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_2\"]/name"
-msgstr ""
+msgstr "Медный Блеск"
 
 #: src-en/data/blueprints.xml.append:2635
 msgid ""
@@ -2032,16 +2201,20 @@ msgstr "Достигните сектора 5 на типе А, чтобы ра�
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_2\"]/desc"
 msgstr ""
+"Самые активные операторы в этом кластере - медные операторы, и они любят "
+"изучать физическую анатомию пришельцев. Хотя этот корабль является очень "
+"мощным абордажным судном, он с трудом справляется с зачисткой абордажников и "
+"вынужден полагаться на исцеляющие эффекты роботизированного экипажа."
 
 #: src-en/data/blueprints.xml.append:2711
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_3\"]/class"
-msgstr ""
+msgstr "Металлический алмаз"
 
 #: src-en/data/blueprints.xml.append:2712
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_3\"]/name"
-msgstr ""
+msgstr "Адамант"
 
 #: src-en/data/blueprints.xml.append:2713
 msgid ""
@@ -2054,36 +2227,46 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_3\"]/desc"
 msgstr ""
+"Часто забытая и игнорируемая группа операторов, чрезвычайно уязвимая и "
+"неспособная выполнять большинство базовых функций, в основном полагается на "
+"уловки, чтобы добиться смерти экипажа.\n"
+"По крайней мере, его оборона хороша, хотя и за счет реактора."
 
 #: src-en/data/blueprints.xml.append:2792
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS\"]/class"
-msgstr ""
+msgstr "Крейсер металлических ланиусов"
 
 #: src-en/data/blueprints.xml.append:2793
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS\"]/name"
-msgstr ""
+msgstr "Запретная Роскошь"
 
 #: src-en/data/blueprints.xml.append:2794
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS\"]/unlock"
 msgstr ""
+"Помогите золотому ланиусу вернуть свой потерянный корабль в скоплении Роя "
+"ланиусов."
 
 #: src-en/data/blueprints.xml.append:2795
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS\"]/desc"
 msgstr ""
+"На этом корабле обитают редкие золотые ланиусы - вид улучшенных существ, "
+"которые питались металлом золотых алмазов и вышли за пределы своего "
+"привычного состояния. Эти ланиусы обрели способность становиться сильнее по "
+"мере поглощения металлолома."
 
 #: src-en/data/blueprints.xml.append:2865
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/class"
-msgstr ""
+msgstr "Крейсер металлических ланиусов"
 
 #: src-en/data/blueprints.xml.append:2866
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/name"
-msgstr ""
+msgstr "Огненное Покаяние"
 
 #: src-en/data/blueprints.xml.append:2867
 msgid ""
@@ -2094,16 +2277,20 @@ msgstr "Достигните сектора 5 на типе А, чтобы ра�
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/desc"
 msgstr ""
+"Этот абордажный корабль горит бесконечным пламенем медных ланиусов - "
+"мастеров огня и всего горящего. Эти свирепые ланиусы могут регенерировать "
+"благодаря собственному пламени, а также лишать врагов иммунитета к огню. К "
+"сожалению, как и огонь, эти ланиусы нуждаются в кислороде, чтобы выжить."
 
 #: src-en/data/blueprints.xml.append:2940
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/class"
-msgstr ""
+msgstr "Крейсер металлических ланиусов"
 
 #: src-en/data/blueprints.xml.append:2941
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/name"
-msgstr ""
+msgstr "Удушающая Красота"
 
 #: src-en/data/blueprints.xml.append:2942
 msgid ""
@@ -2116,3 +2303,6 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/desc"
 msgstr ""
+"Похоже, ланиусы, поглотившие трупы адамантинов, стали такими же "
+"безжалостными, как и те, кого они съели. Их ядовитых испарений достаточно, "
+"чтобы разъесть даже тех, кому не нужен кислород для дыхания."
