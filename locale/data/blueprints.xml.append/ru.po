@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-12 05:20+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-06-12 13:01+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -620,12 +620,11 @@ msgstr ""
 "Может быть улучшена, если у вас есть Щит роскоши."
 
 #: src-en/data/blueprints.xml.append:442
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_1\"]/tooltip"
 msgstr ""
 "Производит 1 выстрел, нанося 1 ионный и системный урон, который всегда "
-"оглушает. Цепное, наносит больше урона."
+"оглушает. Цепное, с каждым выстрелом наносит больше урона."
 
 #: src-en/data/blueprints.xml.append:486
 msgid ""
@@ -645,12 +644,11 @@ msgstr ""
 "в целом стала сильнее. Может быть улучшена, если у вас есть Щит роскоши."
 
 #: src-en/data/blueprints.xml.append:490
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_2\"]/tooltip"
 msgstr ""
 "Производит 1 выстрел, нанося 1 ионный и системный урон, всегда оглушает и "
-"пробивает все щиты. Цепное, наносит больше урона, чем раньше."
+"пробивает все щиты. Цепное, с каждым выстрелом наносит больше урона."
 
 #: src-en/data/blueprints.xml.append:534
 msgid ""
@@ -663,21 +661,19 @@ msgid ""
 msgstr "Зол. плаз. III"
 
 #: src-en/data/blueprints.xml.append:537
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_3\"]/desc"
 msgstr ""
 "Последняя версия Золотой ионной пушки, теперь она наносит урон экипажу, а "
-"также заканчивается еще более мощной цепью."
+"также с каждым уровнем цепи наносит все больше урона."
 
 #: src-en/data/blueprints.xml.append:538
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_3\"]/tooltip"
 msgstr ""
 "Производит 1 выстрел, наносящий 1 ионный и системный урон, который всегда "
-"оглушает и пробивает все щиты. 30 единиц урона экипажу. Теперь цепочка "
-"заканчивается, нанося больше урона, чем раньше."
+"оглушает и пробивает все щиты. 30 единиц урона экипажу. Теперь с каждым "
+"уровнем цепи наносит все больше урона."
 
 #: src-en/data/blueprints.xml.append:583
 msgid ""
@@ -760,42 +756,54 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:689
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK\"]/title"
-msgstr ""
+msgstr "Золотая заряжательная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:691
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK\"]/short"
-msgstr ""
+msgstr "Зол. зар. оск."
 
 #: src-en/data/blueprints.xml.append:692
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK\"]/desc"
 msgstr ""
+"Модифицированная осколочная пушка, осыпающая вражеский корабль снарядами, "
+"которые летят невероятно быстро. Однако из-за огромного радиуса поражения "
+"она вряд ли нанесет урон какой-либо конкретной системе."
 
 #: src-en/data/blueprints.xml.append:693
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK\"]/tooltip"
 msgstr ""
+"Засыпает вражеский корабль снарядами, совершая 20 выстрелов по огромной "
+"площади. Всегда создает пробоину."
 
 #: src-en/data/blueprints.xml.append:735
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK_CHAOS\"]/title"
-msgstr ""
+msgstr "Хаотическая золотая заряжательная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:737
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK_CHAOS\"]/short"
-msgstr ""
+msgstr "Хаот. оск.™"
 
 #: src-en/data/blueprints.xml.append:738
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK_CHAOS\"]/desc"
 msgstr ""
+"Модифицированная осколочная пушка, осыпающая вражеский корабль снарядами, "
+"которые летят невероятно быстро. Однако из-за огромного радиуса поражения "
+"она вряд ли нанесет урон какой-либо конкретной системе. \n"
+"\t\n"
+"\tХаотичная версия стреляет гораздо меньшим количеством снарядов, "
+"разделяющихся на 3 выстрела, однако она гораздо точнее."
 
 #: src-en/data/blueprints.xml.append:741
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK_CHAOS\"]/tooltip"
 msgstr ""
+"Стреляет 3 очередями по 4 снаряда в каждую область. Всегда вызывает пожар."
 
 #: src-en/data/blueprints.xml.append:789
 msgid ""
