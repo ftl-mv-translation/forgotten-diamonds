@@ -64,7 +64,8 @@
         "//powerEffect/tooltip",
         "//spawnCrew/name",
         "//mod-append:customShip/crew/*/@name",
-        "//customShip/crew/*/@name"
+        "//customShip/crew/*/@name",
+        "//crewMember",
     ],
 
     "useDummyRoot": true,

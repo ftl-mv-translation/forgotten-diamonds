@@ -206,6 +206,11 @@ msgstr ""
 "out\", do not disappoint me, renegade\" Sharlan types the coordinates into "
 "navigation system and exists the room."
 
+#: src-en/data/events_sector_lanius.xml.append:111
+msgid ""
+"data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/crewMember"
+msgstr "Sharlan"
+
 #: src-en/data/events_sector_lanius.xml.append:116
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
