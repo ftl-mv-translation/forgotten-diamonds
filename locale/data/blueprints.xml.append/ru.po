@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-13 13:42+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-06-15 12:42+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1105,7 +1105,7 @@ msgstr "Медный ночной страж [С]"
 #: src-en/data/blueprints.xml.append:1224
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_PROJECTILE\"]/short"
-msgstr "Ночной страж [С]"
+msgstr "Ночн. страж [С]"
 
 #: src-en/data/blueprints.xml.append:1225
 msgid ""
@@ -1123,7 +1123,7 @@ msgstr "Медный Ночной страж [Д]"
 #: src-en/data/blueprints.xml.append:1244
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_DRONE\"]/short"
-msgstr "Ночной страж [Д]"
+msgstr "Ночн. страж [Д]"
 
 #: src-en/data/blueprints.xml.append:1245
 msgid ""
@@ -1204,7 +1204,7 @@ msgstr "Медный дрон облитератор мод. II"
 #: src-en/data/blueprints.xml.append:1359
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE_2\"]/short"
-msgstr "Облит. I"
+msgstr "Облит. II"
 
 #: src-en/data/blueprints.xml.append:1360
 msgid ""
@@ -1411,7 +1411,7 @@ msgstr "Медный абордажный дрон мод. I"
 #: src-en/data/blueprints.xml.append:1646
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE\"]/short"
-msgstr "Мед. аборд. др."
+msgstr "Мед. аборд. I"
 
 #: src-en/data/blueprints.xml.append:1647
 msgid ""
@@ -1454,7 +1454,7 @@ msgstr "Медный абордажный дрон мод. II"
 #: src-en/data/blueprints.xml.append:1674
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE_2\"]/short"
-msgstr "Мед. дрон II"
+msgstr "Мед. аборд. II"
 
 #: src-en/data/blueprints.xml.append:1675
 msgid ""
