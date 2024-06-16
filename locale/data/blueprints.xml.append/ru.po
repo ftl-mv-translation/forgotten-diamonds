@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-15 12:42+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-06-17 05:42+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -818,7 +818,7 @@ msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER\"]/desc"
 msgstr ""
 "1 урон корпусу, 2 урона системам, 20% шанс пожара, 1 выстрел. Может быть "
-"улучшен с помощью модуля Щит Тинкерера."
+"улучшен с помощью модуля Щит Жестянщика."
 
 #: src-en/data/blueprints.xml.append:807
 msgid ""
@@ -855,7 +855,7 @@ msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_2\"]/desc"
 msgstr ""
 "1 урон корпусу, 3 урона системам, 50% шанс пожара, 1 выстрел. Может быть "
-"улучшен с помощью модуля Щит Тинкерера."
+"улучшен с помощью модуля Щит Жестянщика."
 
 #: src-en/data/blueprints.xml.append:860
 msgid ""
@@ -892,7 +892,7 @@ msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_3\"]/desc"
 msgstr ""
 "1 урон корпусу, 3 урона системам, 60% шанс пожара, 3 выстрела. 60 радиус "
-"поражения. Может быть улучшен с помощью модуля Щит Тинкерера."
+"поражения. Может быть улучшен с помощью модуля Щит Жестянщика."
 
 #: src-en/data/blueprints.xml.append:913
 msgid ""
@@ -964,7 +964,7 @@ msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM\"]/desc"
 msgstr ""
 "1 урон, 10% шанс пожара, длина луча 100, скорость луча 5, может быть улучшен "
-"с помощью модуля Щит Тинкерера."
+"с помощью модуля Щит Жестянщика."
 
 #: src-en/data/blueprints.xml.append:1038
 msgid ""
@@ -1001,7 +1001,7 @@ msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_2\"]/desc"
 msgstr ""
 "1 урон, 2 системного урона, 20% шанс пожара, 100 длина луча, 10 скорость "
-"луча, может быть улучшен с помощью модуля Щит Тинкерера."
+"луча, может быть улучшен с помощью модуля Щит Жестянщика."
 
 #: src-en/data/blueprints.xml.append:1088
 msgid ""
@@ -1038,7 +1038,7 @@ msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_3\"]/desc"
 msgstr ""
 "2 урона, проникает через 2 щита, 30% шанс пожара, 120 длина луча, 10 "
-"скорость луча, может быть улучшен с помощью модуля Щит Тинкерера."
+"скорость луча, может быть улучшен с помощью модуля Щит Жестянщика."
 
 #: src-en/data/blueprints.xml.append:1139
 msgid ""
@@ -1170,7 +1170,7 @@ msgstr ""
 "1 урон корпусу, 2 урона системам, противокорпусный, 50% шанс пожара, 1 "
 "выстрел, пробивает все щиты, не расходует боеголовки. Не может быть сбит "
 "вражескими защитными дронами. Может быть улучшен с помощью модуля Щит "
-"Тинкерера."
+"Жестянщика."
 
 #: src-en/data/blueprints.xml.append:1322
 msgid ""
@@ -1212,7 +1212,7 @@ msgid ""
 msgstr ""
 "3 урона, противокорпусный, 100% шанс пожара, 1 выстрел, пробивает все щиты, "
 "не расходует боеголовки. Не может быть сбит вражескими защитными дронами. "
-"Может быть улучшен с помощью модуля Щит Тинкерера."
+"Может быть улучшен с помощью модуля Щит Жестянщика."
 
 #: src-en/data/blueprints.xml.append:1377
 msgid ""
@@ -1251,7 +1251,7 @@ msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION\"]/desc"
 msgstr ""
 "1 ионного и системного урона, 10% шанс пожара, 1 выстрел. Может быть улучшен "
-"с помощью модуля Щит Тинкерера."
+"с помощью модуля Щит Жестянщика."
 
 #: src-en/data/blueprints.xml.append:1430
 msgid ""
@@ -1288,7 +1288,7 @@ msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_2\"]/desc"
 msgstr ""
 "1 ионный и системный урон, 20% шанс пожара, 1 выстрел. 10% точности. Может "
-"быть улучшен с помощью модуля Щит Тинкерера."
+"быть улучшен с помощью модуля Щит Жестянщика."
 
 #: src-en/data/blueprints.xml.append:1485
 msgid ""
@@ -1325,7 +1325,7 @@ msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_3\"]/desc"
 msgstr ""
 "2 ионного и системного урона, 50% шанс пожара, 1 выстрел. 20% точности. "
-"Может быть улучшен с помощью модуля Щит Тинкерера."
+"Может быть улучшен с помощью модуля Щит Жестянщика."
 
 #: src-en/data/blueprints.xml.append:1541
 msgid ""
@@ -1419,7 +1419,7 @@ msgid ""
 msgstr ""
 "Хотя сейчас этот дрон не очень мощный, он может превратиться в мощную машину "
 "после покупки достаточного количества деталей для него. Может быть улучшен с "
-"помощью модуля Щит Тинкерера.\n"
+"помощью модуля Щит Жестянщика.\n"
 "    \n"
 "-Периодическая способность: Начинает пожар в текущем отсеке.\n"
 "-110 ОЗ, 0.5х скорость передвижения\n"
@@ -1476,7 +1476,7 @@ msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_SHIELD\"]/desc
 msgstr ""
 "Доведенное до идеала единство всех основных групп алмазов, настолько "
 "универсальное, что может выполнять ту же функцию, что и другие: Щит роскоши, "
-"Щит Тинкерера или Творца плоти.\n"
+"Щит Жестянщика или Творца плоти.\n"
 "\t\n"
 "\tИмеет целостность в 5 единиц, дает +10% к добыче лома, возвращает "
 "использованных боевых дронов и удваивает время зарядки ССД противника."
@@ -1687,7 +1687,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1825
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_TINKERERS_SHIELD\"]/title"
-msgstr "Щит Тинкерера"
+msgstr "Щит Жестянщика"
 
 #: src-en/data/blueprints.xml.append:1826
 msgid ""
