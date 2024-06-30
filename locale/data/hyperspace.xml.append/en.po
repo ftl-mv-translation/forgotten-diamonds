@@ -81,6 +81,12 @@ msgstr ""
 msgid "data/hyperspace.xml.append$//fr_golden_lanius_1[@name=\"Sharlan\"]/@name"
 msgstr "Sharlan"
 
+#: src-en/data/hyperspace.xml.append:2826
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
+"append:page/section[1]/@text"
+msgstr "Forgotten Diamond Boons"
+
 #: src-en/data/hyperspace.xml.append:2828
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/secretName"
@@ -162,6 +168,12 @@ msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/header"
 msgstr "Boon Received"
 
+#: src-en/data/hyperspace.xml.append:2861
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
+"append:page/section[2]/@text"
+msgstr "Forgotten Diamond Blessings"
+
 #: src-en/data/hyperspace.xml.append:2863
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/secretName"
@@ -242,6 +254,12 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/header"
 msgstr "Blessing Received"
+
+#: src-en/data/hyperspace.xml.append:2896
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
+"append:page/section[3]/@text"
+msgstr "Forgotten Diamond Events"
 
 #: src-en/data/hyperspace.xml.append:2898
 msgid ""
@@ -328,6 +346,12 @@ msgid ""
 msgstr ""
 "Meet a strange copper ship deep in the rock Homeworlds and take the "
 "aggressive approach after refusing their deal."
+
+#: src-en/data/hyperspace.xml.append:2930
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
+"append:page/section[4]/@text"
+msgstr "Forgotten Diamond Renegades"
 
 #: src-en/data/hyperspace.xml.append:2932
 msgid ""
