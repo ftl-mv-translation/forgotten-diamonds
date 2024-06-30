@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-30 09:05+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/forgotten-diamonds/"
-"datahyperspace-xml-append/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/hyperspace.xml.append:32
 msgid ""
@@ -75,6 +68,12 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:2684
 msgid "data/hyperspace.xml.append$//fr_golden_lanius_1[@name=\"Sharlan\"]/@name"
 msgstr "Sharlan"
+
+#: src-en/data/hyperspace.xml.append:2826
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
+"append:page/section[1]/@text"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2828
 msgid ""
@@ -151,6 +150,12 @@ msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/header"
 msgstr "선물 입수"
 
+#: src-en/data/hyperspace.xml.append:2861
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
+"append:page/section[2]/@text"
+msgstr ""
+
 #: src-en/data/hyperspace.xml.append:2863
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/secretName"
@@ -225,6 +230,12 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/header"
 msgstr "축복 입수"
+
+#: src-en/data/hyperspace.xml.append:2896
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
+"append:page/section[3]/@text"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2898
 msgid ""
@@ -304,6 +315,12 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:2925
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2930
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
+"append:page/section[4]/@text"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2932

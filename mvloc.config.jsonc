@@ -40,7 +40,7 @@
         "//augBlueprint/title",
         "//augBlueprint/desc",
 
-        "//mod:findLike/page/section/@text",
+        "//mod:findLike/mod-append:page/section/@text",
         "//achievement/name",
         "//achievement/description",
         "//achievement/header",
