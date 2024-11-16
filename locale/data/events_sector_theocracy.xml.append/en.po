@@ -32,13 +32,13 @@ msgstr ""
 "made sense: they require 5 of your crew and in exchange, the ship's "
 "blueprints."
 
-#: src-en/data/events_sector_theocracy.xml.append:20
+#: src-en/data/events_sector_theocracy.xml.append:23
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/text"
 msgstr "Agree to the terms."
 
-#: src-en/data/events_sector_theocracy.xml.append:22
+#: src-en/data/events_sector_theocracy.xml.append:25
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/text"
@@ -46,74 +46,74 @@ msgstr ""
 "The Operators seem happy with your decision as they slowly start beaming out"
 " your crew into their ship."
 
-#: src-en/data/events_sector_theocracy.xml.append:25
+#: src-en/data/events_sector_theocracy.xml.append:28
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/removeCrew/text"
 msgstr "You cannot clone your crew, as they are not dead."
 
-#: src-en/data/events_sector_theocracy.xml.append:28
+#: src-en/data/events_sector_theocracy.xml.append:31
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_theocracy.xml.append:30
+#: src-en/data/events_sector_theocracy.xml.append:33
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr "It continues."
 
-#: src-en/data/events_sector_theocracy.xml.append:33
+#: src-en/data/events_sector_theocracy.xml.append:36
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/removeCrew/text"
 msgstr "You cannot clone your crew, as they are not dead."
 
-#: src-en/data/events_sector_theocracy.xml.append:36
+#: src-en/data/events_sector_theocracy.xml.append:39
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_theocracy.xml.append:38
+#: src-en/data/events_sector_theocracy.xml.append:41
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/text"
 msgstr "It continues."
 
-#: src-en/data/events_sector_theocracy.xml.append:41
+#: src-en/data/events_sector_theocracy.xml.append:44
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/removeCrew/text"
 msgstr "You cannot clone your crew, as they are not dead."
 
-#: src-en/data/events_sector_theocracy.xml.append:44
+#: src-en/data/events_sector_theocracy.xml.append:47
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_theocracy.xml.append:46
+#: src-en/data/events_sector_theocracy.xml.append:49
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/event/text"
 msgstr "It continues."
 
-#: src-en/data/events_sector_theocracy.xml.append:49
+#: src-en/data/events_sector_theocracy.xml.append:52
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and "
 "@lvl=\"1\"]/event/choice/event/choice/event/choice/event/removeCrew/text"
 msgstr "You cannot clone your crew, as they are not dead."
 
-#: src-en/data/events_sector_theocracy.xml.append:52
+#: src-en/data/events_sector_theocracy.xml.append:55
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_theocracy.xml.append:54
+#: src-en/data/events_sector_theocracy.xml.append:57
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and "
@@ -123,25 +123,25 @@ msgstr ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSuddenly, the operator hails you \"Phenomenal! All this data let us skip years of research! However, it may not be enough. To make sure that's the case, I will join you in your mission in hopes of getting some much deeper data about your cluster.\""
 
-#: src-en/data/events_sector_theocracy.xml.append:59
+#: src-en/data/events_sector_theocracy.xml.append:62
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and "
 "@lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/event/removeCrew/text"
 msgstr "You cannot clone your crew, as they are not dead."
 
-#: src-en/data/events_sector_theocracy.xml.append:77
+#: src-en/data/events_sector_theocracy.xml.append:80
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"0\"]/text"
 msgstr "Not enough Crew."
 
-#: src-en/data/events_sector_theocracy.xml.append:81
+#: src-en/data/events_sector_theocracy.xml.append:84
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/text"
 msgstr "We won't ever give our crew away! Let's take the blueprints by force!"
 
-#: src-en/data/events_sector_theocracy.xml.append:83
+#: src-en/data/events_sector_theocracy.xml.append:86
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
@@ -149,46 +149,46 @@ msgstr ""
 "releasing combat drones, perhaps it's possible to still get the blueprints "
 "if you clear out the ship?"
 
-#: src-en/data/events_sector_theocracy.xml.append:86
+#: src-en/data/events_sector_theocracy.xml.append:89
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_theocracy.xml.append:92
+#: src-en/data/events_sector_theocracy.xml.append:95
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[4]/text"
 msgstr "Apologize and say you don't have the crew to spare."
 
-#: src-en/data/events_sector_theocracy.xml.append:94
+#: src-en/data/events_sector_theocracy.xml.append:97
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[4]/event/text"
 msgstr ""
 "The operators, while quite sadden by it, thank you for your cooperation and "
 "give you some scrap to compensate before jumping away."
 
-#: src-en/data/events_sector_theocracy.xml.append:102
+#: src-en/data/events_sector_theocracy.xml.append:105
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/text"
 msgstr "Whatever that is, we don't want to find out."
 
-#: src-en/data/events_sector_theocracy.xml.append:104
+#: src-en/data/events_sector_theocracy.xml.append:107
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/text"
 msgstr ""
 "You have way too much stuff to deal with right now, you ignore the massive "
 "vessel and jump away as soon as possible.."
 
-#: src-en/data/events_sector_theocracy.xml.append:106
+#: src-en/data/events_sector_theocracy.xml.append:109
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/choice[1]/text"
 msgstr "Do something onboard the ship."
 
-#: src-en/data/events_sector_theocracy.xml.append:110
+#: src-en/data/events_sector_theocracy.xml.append:113
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/choice[2]/text"
 msgstr "Do nothing."
 
-#: src-en/data/events_sector_theocracy.xml.append:118
+#: src-en/data/events_sector_theocracy.xml.append:121
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_CREWKILL\"]/text"
 msgstr ""
@@ -196,7 +196,7 @@ msgstr ""
 "to find the blueprints hidden deep in the alien's systems, unfortunately all"
 " their drones seemed to disintegrate once the crew died."
 
-#: src-en/data/events_sector_theocracy.xml.append:122
+#: src-en/data/events_sector_theocracy.xml.append:125
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_CREWKILL\"]/choice/text"
 msgstr "Sweet!"

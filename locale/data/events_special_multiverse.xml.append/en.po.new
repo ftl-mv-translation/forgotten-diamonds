@@ -1,0 +1,424 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_multiverse.xml.append:63
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/text"
+msgstr ""
+"From out of the tunnel comes a massive cruiser vessel, of a design you have "
+"never seen before! This ship is extremely shiny, but at the same time its "
+"format does make it look somewhat threatening. The captain of this peculiar "
+"vessel hails you."
+
+#: src-en/data/events_special_multiverse.xml.append:67
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_multiverse.xml.append:69
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/text"
+msgstr ""
+"\"W-Who's there?! I-I can't see you! T-The light, it's...it's...Everywhere! "
+"Blinding my vision even when my optical sensors are offline! Strange being, "
+"p-please leave, I don't want to...W-wait... I.. I "
+"can...See...Scrap...I...need it...\""
+
+#: src-en/data/events_special_multiverse.xml.append:71
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/choice[1]/text"
+msgstr "Prepare to fight!"
+
+#: src-en/data/events_special_multiverse.xml.append:73
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/choice[1]/event/text"
+msgstr ""
+"\"YOUR SHIP! IT HAS SCRAP! SHINY SHINY SHINY SCRAP! MAKE BLINDING GO AWAY!\""
+
+#: src-en/data/events_special_multiverse.xml.append:76
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_multiverse.xml.append:82
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/choice[2]/text"
+msgstr "Distract the captain with some scrap."
+
+#: src-en/data/events_special_multiverse.xml.append:84
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/choice[2]/event/text"
+msgstr ""
+"You throw a bunch of scrap out of the airlock and set your engines to jump "
+"away as soon as possible."
+
+#: src-en/data/events_special_multiverse.xml.append:91
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
+msgstr "Use your blessing to avoid combat."
+
+#: src-en/data/events_special_multiverse.xml.append:99
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/text"
+msgstr ""
+"From out of the tunnel comes a massive cruiser vessel, of a design you have "
+"never seen before! This ship is extremely shiny, but at the same time its "
+"format does make it look somewhat threatening. The captain of this peculiar "
+"vessel hails you."
+
+#: src-en/data/events_special_multiverse.xml.append:103
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_multiverse.xml.append:105
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/text"
+msgstr ""
+"\"W-Who's there?! I-I can't see you! T-The light, it's...it's...Everywhere! "
+"Blinding my vision even when my optical sensors are offline! Strange being, "
+"p-please leave, I don't want to...W-wait... I.. I "
+"can...See...Scrap...I...need it...\""
+
+#: src-en/data/events_special_multiverse.xml.append:107
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[1]/text"
+msgstr "Prepare to fight!"
+
+#: src-en/data/events_special_multiverse.xml.append:109
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[1]/event/text"
+msgstr ""
+"\"YOUR SHIP! IT HAS SCRAP! SHINY SHINY SHINY SCRAP! MAKE BLINDING GO AWAY!\""
+
+#: src-en/data/events_special_multiverse.xml.append:112
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_multiverse.xml.append:118
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[2]/text"
+msgstr "Distract the captain with some scrap."
+
+#: src-en/data/events_special_multiverse.xml.append:120
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[2]/event/text"
+msgstr ""
+"You throw a bunch of scrap out of the airlock and set your engines to jump "
+"away as soon as possible."
+
+#: src-en/data/events_special_multiverse.xml.append:127
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
+msgstr "Use your blessing to avoid combat."
+
+#: src-en/data/events_special_multiverse.xml.append:135
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/text"
+msgstr ""
+"From out of the tunnel comes a massive cruiser vessel, of a design you have "
+"never seen before! This ship is extremely shiny, but at the same time its "
+"format does make it look somewhat threatening. The captain of this peculiar "
+"vessel hails you."
+
+#: src-en/data/events_special_multiverse.xml.append:139
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_multiverse.xml.append:141
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/text"
+msgstr ""
+"\"W-Who's there?! I-I can't see you! T-The light, it's...it's...Everywhere! "
+"Blinding my vision even when my optical sensors are offline! Strange being, "
+"p-please leave, I don't want to...W-wait... I.. I "
+"can...See...Scrap...I...need it...\""
+
+#: src-en/data/events_special_multiverse.xml.append:143
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/choice[1]/text"
+msgstr "Prepare to fight!"
+
+#: src-en/data/events_special_multiverse.xml.append:145
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/choice[1]/event/text"
+msgstr ""
+"\"YOUR SHIP! IT HAS SCRAP! SHINY SHINY SHINY SCRAP! MAKE BLINDING GO AWAY!\""
+
+#: src-en/data/events_special_multiverse.xml.append:148
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_multiverse.xml.append:154
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
+msgstr "Use your blessing to avoid combat."
+
+#: src-en/data/events_special_multiverse.xml.append:162
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/text"
+msgstr ""
+"From out of the tunnel comes a massive cruiser vessel, of a design you have "
+"never seen before! This ship is extremely shiny, but at the same time its "
+"format does make it look somewhat threatening. The captain of this peculiar "
+"vessel hails you."
+
+#: src-en/data/events_special_multiverse.xml.append:166
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_multiverse.xml.append:168
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/text"
+msgstr ""
+"\"W-Who's there?! I-I can't see you! T-The light, it's...it's...Everywhere! "
+"Blinding my vision even when my optical sensors are offline! Strange being, "
+"p-please leave, I don't want to...W-wait... I.. I "
+"can...See...Scrap...I...need it...\""
+
+#: src-en/data/events_special_multiverse.xml.append:170
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[1]/text"
+msgstr "Prepare to fight!"
+
+#: src-en/data/events_special_multiverse.xml.append:172
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[1]/event/text"
+msgstr ""
+"\"YOUR SHIP! IT HAS SCRAP! SHINY SHINY SHINY SCRAP! MAKE BLINDING GO AWAY!\""
+
+#: src-en/data/events_special_multiverse.xml.append:175
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_multiverse.xml.append:181
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
+msgstr "Use your blessing to avoid combat."
+
+#: src-en/data/events_special_multiverse.xml.append:189
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DESTROYED\"]/text"
+msgstr ""
+"The mighty vessel has been eliminated! Within its wreckage remains plenty of"
+" scrap and supplies for the taking."
+
+#: src-en/data/events_special_multiverse.xml.append:193
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DESTROYED\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_multiverse.xml.append:200
+msgid ""
+"data/events_special_multiverse.xml.append$//eventList[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DROP_CHANCE\"]/event[1]/text"
+msgstr ""
+"You find the remains of a unique weapon model among the ruins of the ship, "
+"but it appears it did not survive the fight. You'll have to be more careful "
+"next time, or get lucky. Fortunately, there's still a bit more supplies to "
+"take with you."
+
+#: src-en/data/events_special_multiverse.xml.append:207
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DEADCREW\"]/text"
+msgstr ""
+"The mighty vessel has been vanquished! Within the now cleared cruiser, "
+"plenty of scrap and supplies remain for the taking."
+
+#: src-en/data/events_special_multiverse.xml.append:211
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DEADCREW\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_multiverse.xml.append:217
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DROP\"]/text"
+msgstr ""
+"You're also surprised to find a special ancient item among the wreckage! "
+"You've never seen anything even remotely to something like this before, so "
+"you assume it's a custom prototype made by whatever strange species the "
+"renegades were."
+
+#: src-en/data/events_special_multiverse.xml.append:224
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DESTROYED_CHAOS\"]/text"
+msgstr ""
+"The mighty vessel has been eliminated! Within its wreckage remains plenty of"
+" scrap and supplies for the taking."
+
+#: src-en/data/events_special_multiverse.xml.append:228
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DESTROYED_CHAOS\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_multiverse.xml.append:235
+msgid ""
+"data/events_special_multiverse.xml.append$//eventList[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DROP_CHANCE_CHAOS\"]/event[1]/text"
+msgstr ""
+"You find the remains of a unique weapon model among the ruins of the ship, "
+"but it appears it did not survive the fight. You'll have to be more careful "
+"next time, or get lucky. Fortunately, there's still a bit more supplies to "
+"take with you."
+
+#: src-en/data/events_special_multiverse.xml.append:242
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DEADCREW_CHAOS\"]/text"
+msgstr ""
+"The mighty vessel has been vanquished! Within the now cleared cruiser, "
+"plenty of scrap and supplies remain for the taking."
+
+#: src-en/data/events_special_multiverse.xml.append:246
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DEADCREW_CHAOS\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_multiverse.xml.append:252
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DROP_CHAOS\"]/text"
+msgstr ""
+"You're also surprised to find a special ancient item among the wreckage! "
+"You've never seen anything even remotely to something like this before, so "
+"you assume it's a custom prototype made by whatever strange species the "
+"renegades were."
+
+#: src-en/data/events_special_multiverse.xml.append:266
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[1]/text"
+msgstr "Present your metal diamond crew."
+
+#: src-en/data/events_special_multiverse.xml.append:268
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+"\"The elusive... metal diamonds... beings that aren't from this... cluster, "
+"enigmatic creatures that you... somehow managed to befriend... You can say I"
+" am... impressed. Well done, traveler. Expect... rewards before your next "
+"journey.\""
+
+#: src-en/data/events_special_multiverse.xml.append:272
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_multiverse.xml.append:278
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[2]/text"
+msgstr "Present your operator crew."
+
+#: src-en/data/events_special_multiverse.xml.append:280
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"\"Ah... the ever intriguing... metal operators... beings made in a far... "
+"far away cluster, a marvel of technology that you... now have as your "
+"crew... You can say I am... impressed. Well done, traveler. Expect... "
+"rewards before your next journey.\""
+
+#: src-en/data/events_special_multiverse.xml.append:284
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_multiverse.xml.append:290
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[3]/text"
+msgstr "Present your Metal Lanius crew."
+
+#: src-en/data/events_special_multiverse.xml.append:292
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[3]/event/text"
+msgstr ""
+"\"This lanius...it's...different from the...others...their body's metal "
+"isn't...present in this clusters...where did you...find them? I can very "
+"much...say that I'm impressed. Well done, traveler. Expect... rewards before"
+" your next journey.\""
+
+#: src-en/data/events_special_multiverse.xml.append:296
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[3]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_multiverse.xml.append:305
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[1]/text"
+msgstr "Present a golden weapon."
+
+#: src-en/data/events_special_multiverse.xml.append:307
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+"\"This... this weapon is... It doesn't make any SENSE to me! It bears the "
+"MARKS of the FOREFATHERS, YET it's BUILT completely DIFFERENTLY from "
+"anything they ever MADE! Very WELL then, I shall BLESS you with the BLESSING"
+" OF OPULENCE. But have PATIENCE. It is not for now, but for LATER!\""
+
+#: src-en/data/events_special_multiverse.xml.append:311
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_multiverse.xml.append:317
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[2]/text"
+msgstr "Present a copper drone."
+
+#: src-en/data/events_special_multiverse.xml.append:319
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"\"A...DRONE?! WHO do you think I AM Renegade?! If Thest hadn't BANNED me "
+"from killing you lot I would have CRUSHED your puny head with my FISTS! "
+"Unfortunately, I am BOUND by the CREED to give you a BOON, even for a "
+"offering as PITIFUL as this RUSTING DRONE, nevertheless I shall BLESS you "
+"with the BLESSING OF RUSTING. But have PATIENCE. It is not for now, but for "
+"LATER!\""
+
+#: src-en/data/events_special_multiverse.xml.append:323
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_multiverse.xml.append:329
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[3]/text"
+msgstr "Present the Flesh Maker."
+
+#: src-en/data/events_special_multiverse.xml.append:331
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[3]/event/text"
+msgstr ""
+"\"AHAHAHAHA! WHAT is THIS?! A AUGMENT that can make CREW out of FUEL?! "
+"AHAHAHA! Renegade, I thank you for the ENTRETAINEMENT you gave me by showing"
+" me THIS! AHAHAH! Yes, this IS tribute! I shall BLESS you with the BLESSING "
+"OF CLONING. But have PATIENCE. It is not for now, but for LATER!\""
+
+#: src-en/data/events_special_multiverse.xml.append:335
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[3]/event/choice/text"
+msgstr "Continue..."

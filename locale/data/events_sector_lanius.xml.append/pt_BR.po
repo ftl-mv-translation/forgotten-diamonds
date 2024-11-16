@@ -190,132 +190,132 @@ msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:153
+#: src-en/data/events_sector_lanius.xml.append:155
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:156
+#: src-en/data/events_sector_lanius.xml.append:158
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:158
+#: src-en/data/events_sector_lanius.xml.append:160
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:160
+#: src-en/data/events_sector_lanius.xml.append:162
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:162
+#: src-en/data/events_sector_lanius.xml.append:164
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:165
+#: src-en/data/events_sector_lanius.xml.append:167
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_lanius.xml.append:173
+#: src-en/data/events_sector_lanius.xml.append:175
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:175
+#: src-en/data/events_sector_lanius.xml.append:177
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:178
+#: src-en/data/events_sector_lanius.xml.append:180
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[2]/event/removeCrew/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:182
+#: src-en/data/events_sector_lanius.xml.append:184
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:190
+#: src-en/data/events_sector_lanius.xml.append:192
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:193
+#: src-en/data/events_sector_lanius.xml.append:195
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:199
+#: src-en/data/events_sector_lanius.xml.append:201
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:202
+#: src-en/data/events_sector_lanius.xml.append:204
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_lanius.xml.append:208
+#: src-en/data/events_sector_lanius.xml.append:210
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY_REWARD\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:212
+#: src-en/data/events_sector_lanius.xml.append:214
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY_REWARD\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:214
+#: src-en/data/events_sector_lanius.xml.append:216
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY_REWARD\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:216
+#: src-en/data/events_sector_lanius.xml.append:218
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY_REWARD\"]/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:218
+#: src-en/data/events_sector_lanius.xml.append:220
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY_REWARD\"]/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:220
+#: src-en/data/events_sector_lanius.xml.append:222
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY_REWARD\"]/choice/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_lanius.xml.append:230
+#: src-en/data/events_sector_lanius.xml.append:232
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL_REWARD\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:236
+#: src-en/data/events_sector_lanius.xml.append:238
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL_REWARD\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:238
+#: src-en/data/events_sector_lanius.xml.append:240
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL_REWARD\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:240
+#: src-en/data/events_sector_lanius.xml.append:242
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL_REWARD\"]/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:242
+#: src-en/data/events_sector_lanius.xml.append:244
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL_REWARD\"]/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_lanius.xml.append:244
+#: src-en/data/events_sector_lanius.xml.append:246
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL_REWARD\"]/choice/event/choice/event/choice/text"
 msgstr "Continuar..."

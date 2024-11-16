@@ -1,0 +1,116 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_rebel.xml.append:13
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/text"
+msgstr ""
+"As you warp near this beacon, looking for whatever sent that weird distress "
+"message, you see a bunch of black and yellow ships with strange markings all"
+" over this area, all broken and destroyed with some kind of golden dust "
+"surrounding the breached hulls. As you start to salvage them you notice "
+"another ship nearby, different from the others, a triangle-shaped ship which"
+" seems to be leaking that same golden dust you found on the wrecks. While "
+"the ship itself seems mostly intact, you can't seem to detect any life signs"
+" on board."
+
+#: src-en/data/events_sector_rebel.xml.append:16
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/text"
+msgstr "Approach the ship."
+
+#: src-en/data/events_sector_rebel.xml.append:18
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/text"
+msgstr ""
+"As you approach the ship in hopes of salvaging whatever is inside of it, the"
+" ship's systems suddenly come online as it sends out a distressing message. "
+"\"Unidentified Vessel! Stay Back Or You Will Join The Other Ship Carcasses "
+"In This Interstellar Graveyard!\" This ship's weapons aren't similar to "
+"anything you have ever seen before, and not only that but there now seems to"
+" be a single life signature onboard, and it isn't from any species in your "
+"database."
+
+#: src-en/data/events_sector_rebel.xml.append:20
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+"Whatever is inside of the ship must be incredibly valuable, power the "
+"weapons and approach!"
+
+#: src-en/data/events_sector_rebel.xml.append:22
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"The ship's systems are now at full power! It seems its medbay is powering "
+"some kind of life support system, rending the sole survivor immortal while "
+"its online! You must take it out first if you want to have a chance at "
+"killing that alien. Luckily it seems the previous fights with those weird "
+"ships has damaged their weapons system, preventing it from charging their "
+"weapons at their normal speed."
+
+#: src-en/data/events_sector_rebel.xml.append:25
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rebel.xml.append:31
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[2]/text"
+msgstr "Heed its warning and stay away."
+
+#: src-en/data/events_sector_rebel.xml.append:33
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+"As soon as you start charging your ftl engines the ship powers down its "
+"weapons and leaves you be."
+
+#: src-en/data/events_sector_rebel.xml.append:35
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_rebel.xml.append:39
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_rebel.xml.append:47
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[2]/text"
+msgstr "Whatever that is, we don't want to find out."
+
+#: src-en/data/events_sector_rebel.xml.append:49
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[2]/event/text"
+msgstr ""
+"You have way too much stuff to deal with right now, you ignore the massive "
+"vessel and jump away as soon as possible."
+
+#: src-en/data/events_sector_rebel.xml.append:51
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_rebel.xml.append:55
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_rebel.xml.append:63
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST_CREWKILL\"]/text"
+msgstr ""
+"After making sure the ship is devoid of life for good, you send a team to see what that alien was guarding, and to your surprise it's not just a pile of scrap! The ship's controls seem to still be functioning, allowing you to redirect it to the federation hangar! And better yet, inside the storage room you find a gun just like the ones the ship used against you as well as a lot of scrap!\n"
+"\n"
+"\t\tAfter exploring a bit more you find the only other survivor of the ship, stuck inside a sealed room. After freeing them they are so grateful that they offer to join your crew!"
+
+#: src-en/data/events_sector_rebel.xml.append:74
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST_CREWKILL\"]/choice/text"
+msgstr "Sweet!"

@@ -1,0 +1,22 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_misc.xml.append:11
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_fr_metallanius\"]"
+msgstr "#SHARLANS SHIP [!]#"
+
+#: src-en/data/text_misc.xml.append:12
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_fr_metaldiamond\"]"
+msgstr "#...Distress? [!]#"
+
+#: src-en/data/text_misc.xml.append:13
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_fr_operator\"]"
+msgstr "#REQUEST [!]#"
+
+#: src-en/data/text_misc.xml.append:14
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_fr_emptyspace\"]"
+msgstr "#Empty Field [!]#"

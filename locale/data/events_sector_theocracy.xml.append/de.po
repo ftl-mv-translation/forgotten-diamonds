@@ -20,156 +20,156 @@ msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:20
+#: src-en/data/events_sector_theocracy.xml.append:23
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:22
+#: src-en/data/events_sector_theocracy.xml.append:25
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:25
+#: src-en/data/events_sector_theocracy.xml.append:28
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/removeCrew/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:28
+#: src-en/data/events_sector_theocracy.xml.append:31
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_theocracy.xml.append:30
+#: src-en/data/events_sector_theocracy.xml.append:33
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:33
+#: src-en/data/events_sector_theocracy.xml.append:36
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/removeCrew/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:36
+#: src-en/data/events_sector_theocracy.xml.append:39
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_theocracy.xml.append:38
+#: src-en/data/events_sector_theocracy.xml.append:41
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:41
+#: src-en/data/events_sector_theocracy.xml.append:44
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/removeCrew/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:44
+#: src-en/data/events_sector_theocracy.xml.append:47
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_theocracy.xml.append:46
+#: src-en/data/events_sector_theocracy.xml.append:49
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:49
+#: src-en/data/events_sector_theocracy.xml.append:52
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and "
 "@lvl=\"1\"]/event/choice/event/choice/event/choice/event/removeCrew/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:52
+#: src-en/data/events_sector_theocracy.xml.append:55
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_theocracy.xml.append:54
+#: src-en/data/events_sector_theocracy.xml.append:57
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and "
 "@lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:59
+#: src-en/data/events_sector_theocracy.xml.append:62
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and "
 "@lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/event/removeCrew/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:77
+#: src-en/data/events_sector_theocracy.xml.append:80
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"0\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:81
+#: src-en/data/events_sector_theocracy.xml.append:84
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:83
+#: src-en/data/events_sector_theocracy.xml.append:86
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:86
+#: src-en/data/events_sector_theocracy.xml.append:89
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/event/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_theocracy.xml.append:92
+#: src-en/data/events_sector_theocracy.xml.append:95
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:94
+#: src-en/data/events_sector_theocracy.xml.append:97
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[4]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:102
+#: src-en/data/events_sector_theocracy.xml.append:105
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:104
+#: src-en/data/events_sector_theocracy.xml.append:107
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:106
+#: src-en/data/events_sector_theocracy.xml.append:109
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/choice[1]/text"
 msgstr "Tue etwas an Bord des Schiffs."
 
-#: src-en/data/events_sector_theocracy.xml.append:110
+#: src-en/data/events_sector_theocracy.xml.append:113
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/choice[2]/text"
 msgstr "Nichts tun."
 
-#: src-en/data/events_sector_theocracy.xml.append:118
+#: src-en/data/events_sector_theocracy.xml.append:121
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_CREWKILL\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:122
+#: src-en/data/events_sector_theocracy.xml.append:125
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_CREWKILL\"]/choice/text"
 msgstr ""

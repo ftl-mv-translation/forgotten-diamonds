@@ -32,13 +32,13 @@ msgstr ""
 "чтобы понять смысл: он требует 5 существ из вашего экипажа, а в обмен - "
 "чертежи корабля."
 
-#: src-en/data/events_sector_theocracy.xml.append:20
+#: src-en/data/events_sector_theocracy.xml.append:23
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/text"
 msgstr "Согласиться на условия."
 
-#: src-en/data/events_sector_theocracy.xml.append:22
+#: src-en/data/events_sector_theocracy.xml.append:25
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/text"
@@ -46,74 +46,74 @@ msgstr ""
 "Операторы, похоже, довольны вашим решением, поскольку медленно начинают "
 "телепортировать вашу экипаж на свой корабль."
 
-#: src-en/data/events_sector_theocracy.xml.append:25
+#: src-en/data/events_sector_theocracy.xml.append:28
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/removeCrew/text"
 msgstr "Вы не можете клонировать члена своего экипажа, поскольку он не умер."
 
-#: src-en/data/events_sector_theocracy.xml.append:28
+#: src-en/data/events_sector_theocracy.xml.append:31
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_sector_theocracy.xml.append:30
+#: src-en/data/events_sector_theocracy.xml.append:33
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr "Продолжение следует."
 
-#: src-en/data/events_sector_theocracy.xml.append:33
+#: src-en/data/events_sector_theocracy.xml.append:36
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/removeCrew/text"
 msgstr "Вы не можете клонировать члена своего экипажа, поскольку он не умер."
 
-#: src-en/data/events_sector_theocracy.xml.append:36
+#: src-en/data/events_sector_theocracy.xml.append:39
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_sector_theocracy.xml.append:38
+#: src-en/data/events_sector_theocracy.xml.append:41
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/text"
 msgstr "Продолжение следует."
 
-#: src-en/data/events_sector_theocracy.xml.append:41
+#: src-en/data/events_sector_theocracy.xml.append:44
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/removeCrew/text"
 msgstr "Вы не можете клонировать члена своего экипажа, поскольку он не умер."
 
-#: src-en/data/events_sector_theocracy.xml.append:44
+#: src-en/data/events_sector_theocracy.xml.append:47
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_sector_theocracy.xml.append:46
+#: src-en/data/events_sector_theocracy.xml.append:49
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/event/text"
 msgstr "Продолжение следует."
 
-#: src-en/data/events_sector_theocracy.xml.append:49
+#: src-en/data/events_sector_theocracy.xml.append:52
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and "
 "@lvl=\"1\"]/event/choice/event/choice/event/choice/event/removeCrew/text"
 msgstr "Вы не можете клонировать члена своего экипажа, поскольку он не умер."
 
-#: src-en/data/events_sector_theocracy.xml.append:52
+#: src-en/data/events_sector_theocracy.xml.append:55
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_sector_theocracy.xml.append:54
+#: src-en/data/events_sector_theocracy.xml.append:57
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and "
@@ -123,25 +123,25 @@ msgstr ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tВнезапно оператор вызывает вас: \"Феноменально! Все эти данные позволят нам обойтись без многолетних исследований! Однако этого может оказаться недостаточно. Чтобы убедиться в этом, я присоединюсь к вам в вашей миссии в надежде получить гораздо более глубокие данные о вашем кластере\"."
 
-#: src-en/data/events_sector_theocracy.xml.append:59
+#: src-en/data/events_sector_theocracy.xml.append:62
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and "
 "@lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/event/removeCrew/text"
 msgstr "Вы не можете клонировать члена своего экипажа, поскольку он не умер."
 
-#: src-en/data/events_sector_theocracy.xml.append:77
+#: src-en/data/events_sector_theocracy.xml.append:80
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"0\"]/text"
 msgstr "Недостаточно экипажа."
 
-#: src-en/data/events_sector_theocracy.xml.append:81
+#: src-en/data/events_sector_theocracy.xml.append:84
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/text"
 msgstr "Мы никогда не отдадим наш экипаж! Возьмем чертежи силой!"
 
-#: src-en/data/events_sector_theocracy.xml.append:83
+#: src-en/data/events_sector_theocracy.xml.append:86
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
@@ -149,46 +149,46 @@ msgstr ""
 "выпускать боевых дронов. Возможно, можно получить чертежи, если захватить "
 "корабль?"
 
-#: src-en/data/events_sector_theocracy.xml.append:86
+#: src-en/data/events_sector_theocracy.xml.append:89
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_sector_theocracy.xml.append:92
+#: src-en/data/events_sector_theocracy.xml.append:95
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[4]/text"
 msgstr "Извиниться и сказать, что у вас нет свободного экипажа."
 
-#: src-en/data/events_sector_theocracy.xml.append:94
+#: src-en/data/events_sector_theocracy.xml.append:97
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[4]/event/text"
 msgstr ""
 "Операторы, хотя и весьма огорченные этим, благодарят вас за сотрудничество и"
 " дают вам немного лома за потраченное время, прежде чем уйти в прыжок."
 
-#: src-en/data/events_sector_theocracy.xml.append:102
+#: src-en/data/events_sector_theocracy.xml.append:105
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/text"
 msgstr "Что бы это ни было, мы не хотим этого знать."
 
-#: src-en/data/events_sector_theocracy.xml.append:104
+#: src-en/data/events_sector_theocracy.xml.append:107
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/text"
 msgstr ""
 "У вас сейчас слишком много дел, вы не обращаете внимания на огромный корабль"
 " и уходите в прыжок как можно скорее."
 
-#: src-en/data/events_sector_theocracy.xml.append:106
+#: src-en/data/events_sector_theocracy.xml.append:109
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/choice[1]/text"
 msgstr "Заняться чем-либо на корабле."
 
-#: src-en/data/events_sector_theocracy.xml.append:110
+#: src-en/data/events_sector_theocracy.xml.append:113
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/choice[2]/text"
 msgstr "Ничего не делать."
 
-#: src-en/data/events_sector_theocracy.xml.append:118
+#: src-en/data/events_sector_theocracy.xml.append:121
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_CREWKILL\"]/text"
 msgstr ""
@@ -196,7 +196,7 @@ msgstr ""
 "спрятанные глубоко в системах пришельцев, но, к сожалению, все их дроны "
 "словно растворились в воздухе после гибели экипажа."
 
-#: src-en/data/events_sector_theocracy.xml.append:122
+#: src-en/data/events_sector_theocracy.xml.append:125
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_CREWKILL\"]/choice/text"
 msgstr "Супер!"

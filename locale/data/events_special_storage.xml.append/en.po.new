@@ -9,1824 +9,1796 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INTERACT\"]/mod-"
 "append:choice[1]/text"
-msgstr "Усилить золотого ланиуса"
+msgstr "Upgrade your Golden Lanius"
 
 #: src-en/data/events_special_storage.xml.append:20
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INTERACT\"]/mod-"
 "append:choice[2]/text"
-msgstr "Усилить Возвышенного золотого ланиуса"
+msgstr "Upgrade your Augmented Golden Lanius"
 
 #: src-en/data/events_special_storage.xml.append:26
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS\"]/text"
 msgstr ""
-"Эта процедура затратит 100 лома и заменит вашего золотого ланиуса на Возвышенного золотого ланиуса.\n"
-"\t[70 здоровья -> 100 здоровья \n"
-"\tНе восстанавливает здоровье -> восстанавливает со скоростью 5 ОЗ/с вне боя\n"
-"\t1.5х скорость ремонта -> 1.8х скорость ремонта\n"
-"\t0.9х получаемый урон -> 0.8х получаемый урон\n"
-"\t1.1х наносимый урон -> 1.5х наносимый урон \n"
-"\t1х скорость передвижения -> 1.2х скорость передвижения]"
+"This action will take 100 Scrap and will replace your golden lanius with a Augmented golden lanius.\n"
+"\t[70 Health -> 100 Health \n"
+"\tdoesn't regenerates hp -> regenerates 5 hp/s after a short delay\n"
+"\tx1.5 repair -> x1.8 repair\n"
+"\tx0.9 damage taken -> x0.8 damage taken\n"
+"\tx1.1 damage -> x1.5 damage \n"
+"\tx1 move speed -> x1.2 move speed]"
 
 #: src-en/data/events_special_storage.xml.append:34
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS\"]/choice[1]/text"
-msgstr "Сделать это."
+msgstr "Do it."
 
 #: src-en/data/events_special_storage.xml.append:36
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS\"]/choice[1]/event/text"
-msgstr "Ваш ланиус подвергается трансформации, поглощая лом..."
+msgstr "Your lanius undergoes the transformation upon consuming the scrap..."
 
 #: src-en/data/events_special_storage.xml.append:42
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS\"]/choice[1]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:48
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно, заняться чем-то еще."
+msgstr "Nevermind, do something else."
 
 #: src-en/data/events_special_storage.xml.append:56
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS_2\"]/text"
 msgstr ""
-"Эта процедура затратит 200 лома и заменит вашего Возвышенного золотого ланиуса на Вознесённого золотого ланиуса.\n"
-"\t[100 здоровья -> 150 здоровья \n"
-"\t1.8х скорость ремонта -> 2х скорость ремонта\n"
-"\tВосстанавливается со скоростью 5 ОЗ/с вне боя -> восстанавливается со скоростью 10 ОЗ/с вне боя\n"
-"\tМожет сгореть -> не может сгореть\n"
-"\t0.8х получаемый урон -> 0.5х получаемый урон\n"
-"\t1.5х наносимый урон -> 2х наносимый урон  \n"
-"\t1х скорость передвижения -> 1.5х скорость передвижения \n"
-"\t+1 энергия текущему отсеку -> +2 энергии текущему отсеку]"
+"This action will take 200 Scrap and will replace your Augmented golden lanius with a Ascended golden lanius.\n"
+"\t[100 Health -> 150 Health \n"
+"\tx1.8 repair -> x2 repair\n"
+"\tregenerates 5 hp/s after a short delay -> regenerates 10 hp/s after a short delay\n"
+"\tcan burn -> can't burn\n"
+"\tx0.8 damage taken -> x0.5 damage taken\n"
+"\tx1.5 damage -> x2 damage \n"
+"\tx1.2 move speed -> x1.5 move speed\n"
+"\t+1 power to the current room -> +2 power to the current room]"
 
 #: src-en/data/events_special_storage.xml.append:66
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS_2\"]/choice[1]/text"
-msgstr "Сделать это."
+msgstr "Do it."
 
 #: src-en/data/events_special_storage.xml.append:68
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS_2\"]/choice[1]/event/text"
-msgstr "Ваш ланиус подвергается трансформации, поглощая лом..."
+msgstr "Your lanius undergoes the transformation upon consuming the scrap..."
 
 #: src-en/data/events_special_storage.xml.append:74
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS_2\"]/choice[1]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:80
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS_2\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно, заняться чем-то еще."
+msgstr "Nevermind, do something else."
 
 #: src-en/data/events_special_storage.xml.append:90
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice/text"
-msgstr "(Торговый маяк забытых алмазов) Вызвать магазин забытых алмазов."
+msgstr ""
+"(Forgotten Diamond Merchant Beacon) Summon the forgotten diamond store."
 
 #: src-en/data/events_special_storage.xml.append:100
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[1]/text"
-msgstr "Трансформировать морфа в алмаз."
+msgstr "Morph your morph into a diamond."
 
 #: src-en/data/events_special_storage.xml.append:104
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[2]/text"
-msgstr "Превратить Технопата в оператора."
+msgstr "Morph your Technomorph into a Operator."
 
 #: src-en/data/events_special_storage.xml.append:108
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[3]/text"
-msgstr "Сбросить морфа алмаза"
+msgstr "Reset your Diamond Morph"
 
 #: src-en/data/events_special_storage.xml.append:112
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[4]/text"
-msgstr "Сбросить Технопата-оператора"
+msgstr "Reset your Operator Technomorph"
 
 #: src-en/data/events_special_storage.xml.append:118
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_DIAMOND\"]/text"
 msgstr ""
-"Вы собираетесь трансформировать вашего морфа в алмаз.\n"
-"\tЭто можно отменить позже, но это может стоить топлива в зависимости от того, в какой форме он сейчас находится."
+"You are about to transform your Morph into a diamond.\n"
+"\tThis can be undone later, but may cost fuel depending on what form it is currently in."
 
 #: src-en/data/events_special_storage.xml.append:121
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_DIAMOND\"]/choice[1]/text"
-msgstr "(Член экипажа-алмаз) Принять форму алмаза."
+msgstr "(Diamond Crew) Take the form of an Diamond."
 
 #: src-en/data/events_special_storage.xml.append:123
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_DIAMOND\"]/choice[1]/event/text"
-msgstr "Ваш морф меняет форму."
+msgstr "Your Morph transforms into a new shape."
 
 #: src-en/data/events_special_storage.xml.append:126
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_DIAMOND\"]/choice[1]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:134
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_DIAMOND\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно, заняться чем-то еще."
+msgstr "Nevermind, do something else."
 
 #: src-en/data/events_special_storage.xml.append:142
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_OPERATOR\"]/text"
 msgstr ""
-"Вы собираетесь трансформировать вашего Технопата в оператора.\n"
-"\tЭто можно отменить позже, но это может стоить топлива в зависимости от того, в какой форме он сейчас находится."
+"You are about to transform your Technomorph into a operator.\n"
+"\tThis can be undone later, but may cost fuel depending on what form it is currently in."
 
 #: src-en/data/events_special_storage.xml.append:145
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_OPERATOR\"]/choice[1]/text"
-msgstr "(Член экипажа-оператор) Принять форму оператора."
+msgstr "(Operator Crew) Take the form of an Operator."
 
 #: src-en/data/events_special_storage.xml.append:147
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_OPERATOR\"]/choice[1]/event/text"
-msgstr "Ваш Технопат принимает новую форму."
+msgstr "Your Technomorph transforms into a new shape."
 
 #: src-en/data/events_special_storage.xml.append:150
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_OPERATOR\"]/choice[1]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:158
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_OPERATOR\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно, заняться чем-то еще."
+msgstr "Nevermind, do something else."
 
 #: src-en/data/events_special_storage.xml.append:166
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_DIAMOND\"]/text"
-msgstr "Вы собираетесь сбросить морфа алмаза."
+msgstr "You are about to reset your diamond morph."
 
 #: src-en/data/events_special_storage.xml.append:168
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_DIAMOND\"]/choice[1]/text"
-msgstr "Сбросить морфа алмаза. [-2{]"
+msgstr "Reset your Diamond Morph. [-2{]"
 
 #: src-en/data/events_special_storage.xml.append:171
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_DIAMOND\"]/choice[1]/event/text"
-msgstr "Ваш морф возвращает свою изначальную форму."
+msgstr "Your Morph transforms back to its original shape."
 
 #: src-en/data/events_special_storage.xml.append:174
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_DIAMOND\"]/choice[1]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:182
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_DIAMOND\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно, заняться чем-то еще."
+msgstr "Nevermind, do something else."
 
 #: src-en/data/events_special_storage.xml.append:190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_OPERATOR\"]/text"
-msgstr "Вы собираетесь сбросить форму вашего Технопата-оператора."
+msgstr "You are about to reset your operator Technomorph."
 
 #: src-en/data/events_special_storage.xml.append:192
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_OPERATOR\"]/choice[1]/text"
-msgstr "Сбросить форму Технопата-оператора. [-2{]"
+msgstr "Reset your Operator Technomorph. [-2{]"
 
 #: src-en/data/events_special_storage.xml.append:195
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_OPERATOR\"]/choice[1]/event/text"
-msgstr "Ваш Технопат возвращает свою изначальную форму."
+msgstr "Your Technomorph transforms back to its original shape."
 
 #: src-en/data/events_special_storage.xml.append:198
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_OPERATOR\"]/choice[1]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:206
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_OPERATOR\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно, заняться чем-то еще."
+msgstr "Nevermind, do something else."
 
 #: src-en/data/events_special_storage.xml.append:225
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[1]/text"
-msgstr "(Щит Жестянщика) Создать и улучшить дронов."
+msgstr "(Tinkerer's Shield) Craft and Improve Drones."
 
 #: src-en/data/events_special_storage.xml.append:231
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[2]/text"
-msgstr "(Творец плоти) Войти в комнату Творца плоти."
+msgstr "(Flesh Maker) Enter the Flesh Maker's chamber."
 
 #: src-en/data/events_special_storage.xml.append:237
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[3]/text"
 msgstr ""
-"(Щит роскоши) Пожертвовать немного лома щиту для получения различных "
-"результатов."
+"(Shields of Opulence) Feed some scrap to the shield, allowing for various "
+"results."
 
 #: src-en/data/events_special_storage.xml.append:243
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[4]/text"
-msgstr ""
-"(Защитный сплав) Выбрать, какой элемент Защитного сплава будет использован."
+msgstr "(Alloy Shielding) Select which mode the shield will replicate."
 
 #: src-en/data/events_special_storage.xml.append:254
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_ALLOY_SHIELD\"]/text"
 msgstr ""
-"Какой алмазно-металлический модуль вы хотите, чтобы имитировал защитный "
-"сплав?"
+"Which metal diamond augment do you wish for the alloy shielding to mimic?"
 
 #: src-en/data/events_special_storage.xml.append:256
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_ALLOY_SHIELD\"]/choice[1]/text"
-msgstr "Щит роскоши"
+msgstr "Shields of Opulence"
 
 #: src-en/data/events_special_storage.xml.append:262
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_ALLOY_SHIELD\"]/choice[2]/text"
-msgstr "Щит Жестянщика"
+msgstr "Tinkerer's Shields"
 
 #: src-en/data/events_special_storage.xml.append:268
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_ALLOY_SHIELD\"]/choice[3]/text"
-msgstr "Творец плоти"
+msgstr "Flesh Maker"
 
 #: src-en/data/events_special_storage.xml.append:274
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_ALLOY_SHIELD\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно, заняться чем-то еще."
+msgstr "Nevermind, do something else."
 
 #: src-en/data/events_special_storage.xml.append:282
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/text"
-msgstr "Вы хотите создать новых дронов или улучшить уже существующих?"
+msgstr "Do you want to craft new drones or improve your existing ones?"
 
 #: src-en/data/events_special_storage.xml.append:284
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[1]/text"
-msgstr "Создать дронов"
+msgstr "Craft Drones"
 
 #: src-en/data/events_special_storage.xml.append:286
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[1]/event/text"
-msgstr ""
-"Вы проверяете свои чертежи на наличие прототипов, которые можно использовать"
+msgstr "You check your blueprints to see if any of the prototypes are usable"
 
 #: src-en/data/events_special_storage.xml.append:288
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[1]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:296
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[@req=\"FR_BLUELIST_COPPER_DRONES_INCOMPLETE\"]/text"
-msgstr "Улучшить дронов"
+msgstr "Improve Drones"
 
 #: src-en/data/events_special_storage.xml.append:298
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[@req=\"FR_BLUELIST_COPPER_DRONES_INCOMPLETE\"]/event/text"
 msgstr ""
-"Вы внимательно осматриваете имеющихся у вас дронов, наверняка их конструкцию"
-" можно улучшить, не так ли?"
+"You take a long look at the drones you have at hand, surely their design can"
+" be improved, right?"
 
 #: src-en/data/events_special_storage.xml.append:300
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[@req=\"FR_BLUELIST_COPPER_DRONES_INCOMPLETE\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:308
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[3]/text"
-msgstr "Перегнать ресурсы в дрон-комплекты"
+msgstr "Turn resources into drone parts"
 
 #: src-en/data/events_special_storage.xml.append:310
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[3]/event/text"
-msgstr "Вы составляете список того, из чего можете сделать дрон-комплекты."
+msgstr ""
+"You make a inventory of what you have available to make into drone parts."
 
 #: src-en/data/events_special_storage.xml.append:312
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[3]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:320
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно, заняться чем-то еще."
+msgstr "Nevermind, do something else."
 
 #: src-en/data/events_special_storage.xml.append:326
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/text"
-msgstr "Что вы хотите сделать?"
+msgstr "What do you want to do?"
 
 #: src-en/data/events_special_storage.xml.append:328
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[1]/text"
-msgstr "Создать золотое оружие."
+msgstr "Craft golden weapons."
 
 #: src-en/data/events_special_storage.xml.append:330
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[1]/event/text"
 msgstr ""
-"Вы собираете весь лом с корабля, размышляя, какое новое блестящее оружие вы "
-"сможете получить."
+"You gather up all the scrap from the ship, wondering which new shiny weapon "
+"you might be able to get."
 
 #: src-en/data/events_special_storage.xml.append:332
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[1]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:340
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[2]/text"
-msgstr "Перегнать ресурсы в лом."
+msgstr "Convert resources into scrap."
 
 #: src-en/data/events_special_storage.xml.append:342
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[2]/event/text"
 msgstr ""
-"Вы составляете список ресурсов на корабле, чтобы понять, на что вы можете "
-"потратить."
+"You make an inventory of all the resources available on your ship to see "
+"what you can spare.."
 
 #: src-en/data/events_special_storage.xml.append:344
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[2]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:352
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"FR_BLUELIST_GOLDEN_WEAPONS_INCOMPLETE\""
 " and not(@lvl)]/text"
-msgstr "Улучшить золотое оружие."
+msgstr "Improve your golden weapons."
 
 #: src-en/data/events_special_storage.xml.append:354
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"FR_BLUELIST_GOLDEN_WEAPONS_INCOMPLETE\""
 " and not(@lvl)]/event/text"
-msgstr "Ваши орудия голодны, какое из них нам стоит накормить?"
+msgstr "Your weapons hunger, which ones shall we feed?"
 
 #: src-en/data/events_special_storage.xml.append:356
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"FR_BLUELIST_GOLDEN_WEAPONS_INCOMPLETE\""
 " and not(@lvl)]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:364
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"FR_BLUELIST_GOLDEN_WEAPONS_INCOMPLETE\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет золотого оружия для его улучшения."
+msgstr "You have no golden weapons to upgrade."
 
 #: src-en/data/events_special_storage.xml.append:368
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"FR_BLUELIST_GOLDEN_SHIELD_INCOMEPLETE\"]/text"
-msgstr "Улучшить Золотой энергетический щит."
+msgstr "Improve your golden energy shield."
 
 #: src-en/data/events_special_storage.xml.append:370
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"FR_BLUELIST_GOLDEN_SHIELD_INCOMEPLETE\"]/event/text"
-msgstr "Ваш щит прожорлив, стоит ли нам накормить его, чтобы он стал сильнее?"
+msgstr "Your shield is ravenous, shall we feed it so it can grow stronger?"
 
 #: src-en/data/events_special_storage.xml.append:372
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"FR_BLUELIST_GOLDEN_SHIELD_INCOMEPLETE\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:380
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"FR_GOLDEN_SHIELD_11\"]/text"
-msgstr "Ваш щит уже наелся."
+msgstr "Your shield is at max level."
 
 #: src-en/data/events_special_storage.xml.append:384
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"FR_BLUELIST_GOLDEN_SHIELD\"]/text"
-msgstr "Защитный сплав не может быть улучшен."
+msgstr "The alloy shield can't be upgraded."
 
 #: src-en/data/events_special_storage.xml.append:388
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно, заняться чем-то еще."
+msgstr "Nevermind, do something else."
 
 #: src-en/data/events_special_storage.xml.append:394
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/text"
-msgstr "После долгих размышлений вы готовы накормить ваш щит"
+msgstr "After much consideration, you are ready to feed your shield"
 
 #: src-en/data/events_special_storage.xml.append:396
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[1]/text"
-msgstr "Создать простой Золотой лазер."
+msgstr "Make a basic golden laser."
 
 #: src-en/data/events_special_storage.xml.append:402
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[1]/event/text"
 msgstr ""
-"После долгих часов ожидания ваше орудие, наконец, сформировано, его "
-"выбрасывает из щита, и вам приходится искать его за пределами корабля."
+"Your weapon finally forms after hours of waiting, its ejected from the "
+"shield, forcing you to go recover it outside the ship."
 
 #: src-en/data/events_special_storage.xml.append:404
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[1]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:410
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[2]/text"
-msgstr "Создать простой Золотой луч."
+msgstr "Make a basic golden beam."
 
 #: src-en/data/events_special_storage.xml.append:416
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[2]/event/text"
 msgstr ""
-"После долгих часов ожидания ваше орудие, наконец, сформировано, его "
-"выбрасывает из щита, и вам приходится искать его за пределами корабля."
+"Your weapon finally forms after hours of waiting, its ejected from the "
+"shield, forcing you to go recover it outside the ship."
 
 #: src-en/data/events_special_storage.xml.append:418
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[2]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[3]/text"
-msgstr "Создать простой золотой ион."
+msgstr "Make a basic golden ion."
 
 #: src-en/data/events_special_storage.xml.append:430
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[3]/event/text"
 msgstr ""
-"После долгих часов ожидания ваше орудие, наконец, сформировано, его "
-"выбрасывает из щита, и вам приходится искать его за пределами корабля."
+"Your weapon finally forms after hours of waiting, its ejected from the "
+"shield, forcing you to go recover it outside the ship."
 
 #: src-en/data/events_special_storage.xml.append:432
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[3]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:438
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[4]/text"
-msgstr "Создать простую Золотую пусковую установку бомб."
+msgstr "Make a basic golden bomb launcher."
 
 #: src-en/data/events_special_storage.xml.append:444
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[4]/event/text"
 msgstr ""
-"После долгих часов ожидания ваше орудие, наконец, сформировано, его "
-"выбрасывает из щита, и вам приходится искать его за пределами корабля."
+"Your weapon finally forms after hours of waiting, its ejected from the "
+"shield, forcing you to go recover it outside the ship."
 
 #: src-en/data/events_special_storage.xml.append:446
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[4]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:452
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно, заняться чем-то еще."
+msgstr "Nevermind, do something else."
 
 #: src-en/data/events_special_storage.xml.append:460
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/text"
-msgstr "Что бы вы хотели сделать?"
+msgstr "What would you like to do?"
 
 #: src-en/data/events_special_storage.xml.append:462
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_BEAM_1\"]/text"
-msgstr "Улучшить Дезинтегратор мод. I -> Дезинтегратор мод. II"
+msgstr "Upgrade Disintegrator Mk I -> Disintegrator Mk II"
 
 #: src-en/data/events_special_storage.xml.append:468
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_BEAM_1\"]/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:471
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_BEAM_1\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:477
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_BEAM_2\"]/text"
-msgstr "Улучшить Дезинтегратор мод. II -> Дезинтегратор мод. III"
+msgstr "Upgrade Disintegrator Mk II -> Disintegrator Mk III"
 
 #: src-en/data/events_special_storage.xml.append:483
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_BEAM_2\"]/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:486
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_BEAM_2\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:492
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_ION_1\"]/text"
-msgstr "Улучшить Золотая плазма мод. I -> Золотая плазма мод. II"
+msgstr "Upgrade Golden Plasma Mk I -> Golden Plasma Mk II"
 
 #: src-en/data/events_special_storage.xml.append:498
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_ION_1\"]/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:501
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_ION_1\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:507
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_ION_2\"]/text"
-msgstr "Улучшить Золотая плазма мод. II -> Золотая плазма мод. III"
+msgstr "Upgrade Golden Plasma Mk II -> Golden Plasma Mk III"
 
 #: src-en/data/events_special_storage.xml.append:513
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_ION_2\"]/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:516
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_ION_2\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:522
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_LASER_1\"]/text"
-msgstr ""
-"Улучшить Золотой импульсный лазер мод. I -> Улучшить Золотой импульсный "
-"лазер мод. II"
+msgstr "Upgrade Golden Burst Laser Mk I -> Golden Burst Laser Mk II"
 
 #: src-en/data/events_special_storage.xml.append:528
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_LASER_1\"]/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:531
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_LASER_1\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:537
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_LASER_2\"]/text"
-msgstr ""
-"Улучшить Золотой импульсный лазер мод. II -> Улучшить Золотой импульсный "
-"лазер мод. III"
+msgstr "Upgrade Golden Burst Laser Mk II -> Golden Burst Laser Mk III"
 
 #: src-en/data/events_special_storage.xml.append:543
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_LASER_2\"]/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:546
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_LASER_2\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:552
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_BOMB_1\"]/text"
-msgstr ""
-"Улучшить Золотую пусковую установку бомб мод. I -> Улучшить Золотую пусковую"
-" установку бомб мод. II"
+msgstr "Upgrade Golden Bomb launcher Mk I -> Golden Bomb launcher Mk II"
 
 #: src-en/data/events_special_storage.xml.append:558
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_BOMB_1\"]/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:561
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_BOMB_1\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:567
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_BOMB_2\"]/text"
-msgstr ""
-"Улучшить Золотую пусковую установку бомб мод. II -> Улучшить Золотую "
-"пусковую установку бомб мод. III"
+msgstr "Upgrade Golden Bomb launcher Mk II -> Golden Bomb launcher Mk III"
 
 #: src-en/data/events_special_storage.xml.append:573
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_BOMB_2\"]/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:576
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_BOMB_2\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:582
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно, заняться чем-то еще."
+msgstr "Nevermind, do something else."
 
 #: src-en/data/events_special_storage.xml.append:590
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/text"
-msgstr "Что бы вы хотели сделать?"
+msgstr "What would you like to do?"
 
 #: src-en/data/events_special_storage.xml.append:592
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_1\"]/text"
-msgstr ""
-"Улучшить: Уровень 1 -> Уровень 2 [Цена: 100~, +1 к целостности "
-"Энергетического щита]"
+msgstr "Upgrade Level 1 -> Level 2 [Costs 100~, +1 Energy Shield HP]"
 
 #: src-en/data/events_special_storage.xml.append:594
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_1\"]/event/text"
-msgstr "Вы начинаете улучшение..."
+msgstr "You begin the upgrade..."
 
 #: src-en/data/events_special_storage.xml.append:600
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_1\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue...."
 
 #: src-en/data/events_special_storage.xml.append:602
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_1\"]/event/choice/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:605
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_1\"]/event/choice/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:613
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_2\"]/text"
-msgstr ""
-"Улучшить: Уровень 2 -> Уровень 3 [Цена: 100~, +1 к целостности "
-"Энергетического щита]"
+msgstr "Upgrade Level 2 -> Level 3 [Costs 100~, +1 Energy Shield HP]"
 
 #: src-en/data/events_special_storage.xml.append:615
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_2\"]/event/text"
-msgstr "Вы начинаете улучшение..."
+msgstr "You begin the upgrade..."
 
 #: src-en/data/events_special_storage.xml.append:621
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_2\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue...."
 
 #: src-en/data/events_special_storage.xml.append:623
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_2\"]/event/choice/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:626
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_2\"]/event/choice/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:634
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_3\"]/text"
-msgstr ""
-"Улучшить: Уровень 3 -> Уровень 4 [Цена: 100~, +1 к целостности "
-"Энергетического щита]"
+msgstr "Upgrade Level 3 -> Level 4 [Costs 100~, +1 Energy Shield HP]"
 
 #: src-en/data/events_special_storage.xml.append:636
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_3\"]/event/text"
-msgstr "Вы начинаете улучшение..."
+msgstr "You begin the upgrade..."
 
 #: src-en/data/events_special_storage.xml.append:642
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_3\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue...."
 
 #: src-en/data/events_special_storage.xml.append:644
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_3\"]/event/choice/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:647
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_3\"]/event/choice/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:655
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_4\"]/text"
-msgstr ""
-"Улучшить: Уровень 4 -> Уровень 5 [Цена: 100~, +1 к целостности "
-"Энергетического щита]"
+msgstr "Upgrade Level 4 -> Level 5 [Costs 100~, +1 Energy Shield HP]"
 
 #: src-en/data/events_special_storage.xml.append:657
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_4\"]/event/text"
-msgstr "Вы начинаете улучшение..."
+msgstr "You begin the upgrade..."
 
 #: src-en/data/events_special_storage.xml.append:663
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_4\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue...."
 
 #: src-en/data/events_special_storage.xml.append:665
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_4\"]/event/choice/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:668
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_4\"]/event/choice/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:676
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_5\"]/text"
-msgstr ""
-"Улучшить: Уровень 5 -> Уровень 6 [Цена: 100~, +1 к целостности "
-"Энергетического щита]"
+msgstr "Upgrade Level 5 -> Level 6 [Costs 100~, +1 Energy Shield HP]"
 
 #: src-en/data/events_special_storage.xml.append:678
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_5\"]/event/text"
-msgstr "Вы начинаете улучшение..."
+msgstr "You begin the upgrade..."
 
 #: src-en/data/events_special_storage.xml.append:684
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_5\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue...."
 
 #: src-en/data/events_special_storage.xml.append:686
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_5\"]/event/choice/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:689
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_5\"]/event/choice/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:697
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_6\"]/text"
-msgstr ""
-"Улучшить: Уровень 6 -> Уровень 7 [Цена: 100~, +1 к целостности "
-"Энергетического щита]"
+msgstr "Upgrade Level 6 -> Level 7 [Costs 100~, +1 Energy Shield HP]"
 
 #: src-en/data/events_special_storage.xml.append:699
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_6\"]/event/text"
-msgstr "Вы начинаете улучшение..."
+msgstr "You begin the upgrade..."
 
 #: src-en/data/events_special_storage.xml.append:705
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_6\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue...."
 
 #: src-en/data/events_special_storage.xml.append:707
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_6\"]/event/choice/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:710
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_6\"]/event/choice/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:718
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_7\"]/text"
-msgstr ""
-"Улучшить: Уровень 7 -> Уровень 8 [Цена: 100~, +1 к целостности "
-"Энергетического щита]"
+msgstr "Upgrade Level 7 -> Level 8 [Costs 100~, +1 Energy Shield HP]"
 
 #: src-en/data/events_special_storage.xml.append:720
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_7\"]/event/text"
-msgstr "Вы начинаете улучшение..."
+msgstr "You begin the upgrade..."
 
 #: src-en/data/events_special_storage.xml.append:726
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_7\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue...."
 
 #: src-en/data/events_special_storage.xml.append:728
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_7\"]/event/choice/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:731
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_7\"]/event/choice/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:739
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_8\"]/text"
-msgstr ""
-"Улучшить: Уровень 8 -> Уровень 9 [Цена: 100~, +1 к целостности "
-"Энергетического щита]"
+msgstr "Upgrade Level 8 -> Level 9 [Costs 100~, +1 Energy Shield HP]"
 
 #: src-en/data/events_special_storage.xml.append:741
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_8\"]/event/text"
-msgstr "Вы начинаете улучшение..."
+msgstr "You begin the upgrade..."
 
 #: src-en/data/events_special_storage.xml.append:747
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_8\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue...."
 
 #: src-en/data/events_special_storage.xml.append:749
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_8\"]/event/choice/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:752
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_8\"]/event/choice/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:760
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_9\"]/text"
-msgstr ""
-"Улучшить: Уровень 9 -> Уровень 10 [Цена: 100~, +1 к целостности "
-"Энергетического щита]"
+msgstr "Upgrade Level 9 -> Level 10 [Costs 100~, +1 Energy Shield HP]"
 
 #: src-en/data/events_special_storage.xml.append:762
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_9\"]/event/text"
-msgstr "Вы начинаете улучшение..."
+msgstr "You begin the upgrade..."
 
 #: src-en/data/events_special_storage.xml.append:768
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_9\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue...."
 
 #: src-en/data/events_special_storage.xml.append:770
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_9\"]/event/choice/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:773
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_9\"]/event/choice/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:781
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_10\"]/text"
-msgstr ""
-"Улучшить: Уровень 10 -> Уровень 11 [Цена: 100~, +1 к целостности "
-"Энергетического щита]"
+msgstr "Upgrade Level 10 -> Level 11 [Costs 100~, +1 Energy Shield HP]"
 
 #: src-en/data/events_special_storage.xml.append:783
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_10\"]/event/text"
-msgstr "Вы начинаете улучшение..."
+msgstr "You begin the upgrade..."
 
 #: src-en/data/events_special_storage.xml.append:789
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_10\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue...."
 
 #: src-en/data/events_special_storage.xml.append:791
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_10\"]/event/choice/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:794
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_10\"]/event/choice/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:802
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно, заняться чем-то еще."
+msgstr "Nevermind, do something else."
 
 #: src-en/data/events_special_storage.xml.append:812
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/text"
-msgstr "Что бы вы хотели сделать?"
+msgstr "What would you like to do?"
 
 #: src-en/data/events_special_storage.xml.append:814
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[1]/text"
-msgstr "Разобрать 5 боеголовок на 15 лома."
+msgstr "Break down 5 missiles into 15 scrap."
 
 #: src-en/data/events_special_storage.xml.append:821
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[1]/event/text"
-msgstr "Вы разобрали боеголовки на лом."
+msgstr "You convert the missiles into scrap."
 
 #: src-en/data/events_special_storage.xml.append:823
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[1]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:829
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[2]/text"
-msgstr "Разобрать 10 боеголовок на 40 лома."
+msgstr "Break down 10 missiles into 40 scrap."
 
 #: src-en/data/events_special_storage.xml.append:836
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[2]/event/text"
-msgstr "Вы разобрали боеголовки на лом."
+msgstr "You convert the missiles into scrap."
 
 #: src-en/data/events_special_storage.xml.append:838
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[2]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:844
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[3]/text"
-msgstr "Разобрать 15 боеголовок на 60 лома."
+msgstr "Break down 15 missiles into 60 scrap."
 
 #: src-en/data/events_special_storage.xml.append:851
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[3]/event/text"
-msgstr "Вы разобрали боеголовки на лом."
+msgstr "You convert the missiles into scrap."
 
 #: src-en/data/events_special_storage.xml.append:853
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[3]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:859
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[4]/text"
-msgstr "Разобрать 5 дрон-комплектов на 20 лома."
+msgstr "Break down 5 droneparts into 20 scrap."
 
 #: src-en/data/events_special_storage.xml.append:866
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[4]/event/text"
-msgstr "Вы разобрали дрон-комплекты на лом."
+msgstr "You convert the drone parts into scrap."
 
 #: src-en/data/events_special_storage.xml.append:868
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[4]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:874
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[5]/text"
-msgstr "Разобрать 10 дрон-комплектов на 50 лома."
+msgstr "Break down 10 droneparts into 50 scrap."
 
 #: src-en/data/events_special_storage.xml.append:881
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[5]/event/text"
-msgstr "Вы разобрали дрон-комплекты на лом."
+msgstr "You convert the drone parts into scrap."
 
 #: src-en/data/events_special_storage.xml.append:883
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[5]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:889
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[6]/text"
-msgstr "Разобрать 15 дрон-комплектов на 80 лома."
+msgstr "Break down 15 droneparts into 80 scrap."
 
 #: src-en/data/events_special_storage.xml.append:896
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[6]/event/text"
-msgstr "Вы разобрали дрон-комплекты на лом."
+msgstr "You convert the drone parts into scrap."
 
 #: src-en/data/events_special_storage.xml.append:898
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[6]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:904
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[7]/text"
-msgstr "Превратить 5 топлива в 10 лома."
+msgstr "Break down 5 fuel into 10 scrap."
 
 #: src-en/data/events_special_storage.xml.append:911
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[7]/event/text"
-msgstr "Вы превратили топливо в лом."
+msgstr "You convert the fuel into scrap."
 
 #: src-en/data/events_special_storage.xml.append:913
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[7]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:919
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[8]/text"
-msgstr "Превратить 10 топлива в 25 лома."
+msgstr "Break down 10 fuel into 25 scrap."
 
 #: src-en/data/events_special_storage.xml.append:926
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[8]/event/text"
-msgstr "Вы превратили топливо в лом."
+msgstr "You convert the fuel into scrap."
 
 #: src-en/data/events_special_storage.xml.append:928
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[8]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:934
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[9]/text"
-msgstr "Превратить 15 топлива в 40 лома."
+msgstr "Break down 15 fuel into 40 scrap."
 
 #: src-en/data/events_special_storage.xml.append:941
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[9]/event/text"
-msgstr "Вы превратили топливо в лом."
+msgstr "You convert the fuel into scrap."
 
 #: src-en/data/events_special_storage.xml.append:943
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[9]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:949
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно, заняться чем-то еще."
+msgstr "Nevermind, do something else."
 
 #: src-en/data/events_special_storage.xml.append:959
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/text"
-msgstr "Какого дрона вы хотите улучшить?"
+msgstr "Which drone would you want to upgrade?"
 
 #: src-en/data/events_special_storage.xml.append:961
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_LASER\"]/text"
-msgstr "Улучшить дрон Терминатор мод. I -> дрон Терминатор мод. II"
+msgstr "Upgrade Terminator Drone Mk. I -> Terminator Drone Mk. II"
 
 #: src-en/data/events_special_storage.xml.append:967
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_LASER\"]/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:970
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_LASER\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:976
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_LASER_2\"]/text"
-msgstr "Улучшить дрон Терминатор мод. II -> дрон Терминатор мод. III"
+msgstr "Upgrade Terminator Drone Mk. II -> Terminator Drone Mk. III"
 
 #: src-en/data/events_special_storage.xml.append:982
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_LASER_2\"]/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:985
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_LASER_2\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:991
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_LASER_3\"]/text"
-msgstr "Улучшить дрон Терминатор мод. III -> дрон Терминатор мод. IV"
+msgstr "Upgrade Terminator Drone Mk. III -> Terminator Drone Mk. IV"
 
 #: src-en/data/events_special_storage.xml.append:997
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_LASER_3\"]/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:1000
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_LASER_3\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1006
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_BEAM\"]/text"
-msgstr "Улучшить дрон Атомизатор мод. I -> дрон Атомизатор мод. II"
+msgstr "Upgrade Atomizer Drone Mk. I -> Atomizer Drone Mk. II"
 
 #: src-en/data/events_special_storage.xml.append:1012
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_BEAM\"]/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:1015
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_BEAM\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1021
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_BEAM_2\"]/text"
-msgstr "Улучшить дрон Атомизатор мод. II -> дрон Атомизатор мод. III"
+msgstr "Upgrade Atomizer Drone Mk. II -> Atomizer Drone Mk. III"
 
 #: src-en/data/events_special_storage.xml.append:1027
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_BEAM_2\"]/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:1030
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_BEAM_2\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1036
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_BEAM_3\"]/text"
-msgstr "Улучшить дрон Атомизатор мод. III -> дрон Атомизатор мод. IV"
+msgstr "Upgrade Atomizer Drone Mk. III -> Atomizer Drone Mk. IV"
 
 #: src-en/data/events_special_storage.xml.append:1042
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_BEAM_3\"]/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:1045
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_BEAM_3\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1051
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_MISSILE\"]/text"
-msgstr "Улучшить дрон Облитератор мод. I -> дрон Облитератор мод. II"
+msgstr "Upgrade Obliterator Drone Mk. I -> Obliterator Drone Mk. II"
 
 #: src-en/data/events_special_storage.xml.append:1057
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_MISSILE\"]/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:1060
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_MISSILE\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1066
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_ION\"]/text"
-msgstr "Улучшить дрон Дезактиватор мод. I -> дрон Дезактиватор мод. II"
+msgstr "Upgrade Disabler Drone Mk. I -> Disabler Drone Mk. II"
 
 #: src-en/data/events_special_storage.xml.append:1072
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_ION\"]/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:1075
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_ION\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1081
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_ION_2\"]/text"
-msgstr "Улучшить дрон Дезактиватор мод. II -> дрон Дезактиватор мод. III"
+msgstr "Upgrade Disabler Drone Mk. II -> Disabler Drone Mk. III"
 
 #: src-en/data/events_special_storage.xml.append:1087
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_ION_2\"]/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:1090
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_ION_2\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1096
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_ION_3\"]/text"
-msgstr "Улучшить дрон Дезактиватор мод. III -> дрон Дезактиватор мод. IV"
+msgstr "Upgrade Disabler Drone Mk. III -> Disabler Drone Mk. IV"
 
 #: src-en/data/events_special_storage.xml.append:1102
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_ION_3\"]/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:1105
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_ION_3\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1111
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_BOARDING_DRONE\"]/text"
 msgstr ""
-"Улучшить Медный абордажный дрон мод. I -> Медный абордажный дрон мод. II"
+"Upgrade The Copper Boarding Drone Mk. I -> Copper Boarding Drone Mk. II"
 
 #: src-en/data/events_special_storage.xml.append:1117
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_BOARDING_DRONE\"]/event/text"
-msgstr "Успех!"
+msgstr "Success!"
 
 #: src-en/data/events_special_storage.xml.append:1120
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_BOARDING_DRONE\"]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1126
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно, заняться чем-то еще."
+msgstr "Nevermind, do something else."
 
 #: src-en/data/events_special_storage.xml.append:1132
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/text"
-msgstr "Чертежи перед вами, какой прототип вы создадите следующим?"
+msgstr ""
+"The blueprints are in front of you, which prototype shall you craft next?"
 
 #: src-en/data/events_special_storage.xml.append:1134
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[1]/text"
-msgstr "Создать Прототип лазерого дрона"
+msgstr "Make the Prototype Laser Drone"
 
 #: src-en/data/events_special_storage.xml.append:1140
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[1]/event/text"
 msgstr ""
-"Ваш новый дрон оживает (метафорически), и все дальнейшие испытания проходят "
-"гладко, Успех!"
+"Your new drone comes to life (metaphorically), and all further testing goes "
+"well, Success!"
 
 #: src-en/data/events_special_storage.xml.append:1142
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[1]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1148
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[2]/text"
-msgstr "Создать Прототип лучевого дрона"
+msgstr "Make the Prototype Beam Drone"
 
 #: src-en/data/events_special_storage.xml.append:1154
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[2]/event/text"
 msgstr ""
-"Ваш новый дрон оживает (метафорически), и все дальнейшие испытания проходят "
-"гладко, Успех!"
+"Your new drone comes to life (metaphorically), and all further testing goes "
+"well, Success!"
 
 #: src-en/data/events_special_storage.xml.append:1156
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[2]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1162
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[3]/text"
-msgstr "Создать Прототип ионного дрона"
+msgstr "Make the Prototype Ion Drone"
 
 #: src-en/data/events_special_storage.xml.append:1168
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[3]/event/text"
 msgstr ""
-"Ваш новый дрон оживает (метафорически), и все дальнейшие испытания проходят "
-"гладко, Успех!"
+"Your new drone comes to life (metaphorically), and all further testing goes "
+"well, Success!"
 
 #: src-en/data/events_special_storage.xml.append:1170
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[3]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1176
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[4]/text"
-msgstr "Создать Прототип ракетного дрона"
+msgstr "Make the Prototype Missile Drone"
 
 #: src-en/data/events_special_storage.xml.append:1182
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[4]/event/text"
 msgstr ""
-"Ваш новый дрон оживает (метафорически), и все дальнейшие испытания проходят "
-"гладко, Успех!"
+"Your new drone comes to life (metaphorically), and all further testing goes "
+"well, Success!"
 
 #: src-en/data/events_special_storage.xml.append:1184
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[4]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[5]/text"
-msgstr "Создать Прототип защитного дрона"
+msgstr "Make the Prototype Defense Drone"
 
 #: src-en/data/events_special_storage.xml.append:1196
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[5]/event/text"
 msgstr ""
-"Ваш новый дрон оживает (метафорически), и все дальнейшие испытания проходят "
-"гладко, Успех!"
+"Your new drone comes to life (metaphorically), and all further testing goes "
+"well, Success!"
 
 #: src-en/data/events_special_storage.xml.append:1198
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[5]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1204
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[6]/text"
-msgstr "Создать Прототип защитного дрона"
+msgstr "Make the Drone Defense Drone"
 
 #: src-en/data/events_special_storage.xml.append:1210
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[6]/event/text"
 msgstr ""
-"Ваш новый дрон оживает (метафорически), и все дальнейшие испытания проходят "
-"гладко, Успех!"
+"Your new drone comes to life (metaphorically), and all further testing goes "
+"well, Success!"
 
 #: src-en/data/events_special_storage.xml.append:1212
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[6]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1218
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[7]/text"
-msgstr "Создать Прототип абордажного дрона"
+msgstr "Make the Boarding Drone Drone"
 
 #: src-en/data/events_special_storage.xml.append:1224
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[7]/event/text"
 msgstr ""
-"Ваш новый дрон оживает (метафорически), и все дальнейшие испытания проходят "
-"гладко, Успех!"
+"Your new drone comes to life (metaphorically), and all further testing goes "
+"well, Success!"
 
 #: src-en/data/events_special_storage.xml.append:1226
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[7]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1232
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно, заняться чем-то еще."
+msgstr "Nevermind, do something else."
 
 #: src-en/data/events_special_storage.xml.append:1238
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/text"
-msgstr "Что бы вы хотели сделать?"
+msgstr "What would you like to do?"
 
 #: src-en/data/events_special_storage.xml.append:1240
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[1]/text"
-msgstr "Переделать 4 боеголовки в 2 дрон-комплекта."
+msgstr "Break down 4 missiles into 2 drone parts."
 
 #: src-en/data/events_special_storage.xml.append:1246
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[1]/event/text"
-msgstr "Вы превращаете боеголовки в дрон-комплекты."
+msgstr "You convert the missiles into drone parts."
 
 #: src-en/data/events_special_storage.xml.append:1248
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[1]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1254
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[2]/text"
-msgstr "Переделать 4 боеголовки в 2 дрон-комплекта."
+msgstr "Break down 8 missiles into 5 drone parts."
 
 #: src-en/data/events_special_storage.xml.append:1260
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[2]/event/text"
-msgstr "Вы превращаете боеголовки в дрон-комплекты."
+msgstr "You convert the missiles into drone parts."
 
 #: src-en/data/events_special_storage.xml.append:1262
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[2]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1268
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[3]/text"
-msgstr "Переделать 12 боеголовок в 10 дрон-комплектов."
+msgstr "Break down 12 missiles into 10 drone parts."
 
 #: src-en/data/events_special_storage.xml.append:1274
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[3]/event/text"
-msgstr "Вы превращаете боеголовки в дрон-комплекты."
+msgstr "You convert the missiles into drone parts."
 
 #: src-en/data/events_special_storage.xml.append:1276
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[3]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1282
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[4]/text"
-msgstr "Переделать 6 топливных элемента в 2 дрон-комплекта."
+msgstr "Break down 6 fuel into 2 drone parts."
 
 #: src-en/data/events_special_storage.xml.append:1288
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[4]/event/text"
-msgstr "Вы превращаете топливные элементы в дрон-комплекты."
+msgstr "You convert the fuel into drone parts."
 
 #: src-en/data/events_special_storage.xml.append:1290
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[4]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1296
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[5]/text"
-msgstr "Переделать 12 топливных элемента в 5 дрон-комплектов."
+msgstr "Break down 12 fuel into 5 drone parts."
 
 #: src-en/data/events_special_storage.xml.append:1302
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[5]/event/text"
-msgstr "Вы превращаете топливные элементы в дрон-комплекты."
+msgstr "You convert the fuel into drone parts."
 
 #: src-en/data/events_special_storage.xml.append:1304
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[5]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1310
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[6]/text"
-msgstr "Переделать 18 топливных элементов в 8 дрон-комплектов."
+msgstr "Break down 18 fuel into 8 drone parts."
 
 #: src-en/data/events_special_storage.xml.append:1316
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[6]/event/text"
-msgstr "Вы превращаете топливные элементы в дрон-комплекты."
+msgstr "You convert the fuel into drone parts."
 
 #: src-en/data/events_special_storage.xml.append:1318
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[6]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1324
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[7]/text"
-msgstr "Собрать 1 дрон-комплект из 10 лома."
+msgstr "Use 10 scrap to make 1 drone part."
 
 #: src-en/data/events_special_storage.xml.append:1330
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[7]/event/text"
-msgstr "Вы собираете дрон-комплект из лома."
+msgstr "You convert the scrap into drone parts."
 
 #: src-en/data/events_special_storage.xml.append:1332
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[7]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1338
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[8]/text"
-msgstr "Собрать 6 дрон-комплектов из 50 лома."
+msgstr "Use 50 scrap to make 6 drone parts."
 
 #: src-en/data/events_special_storage.xml.append:1344
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[8]/event/text"
-msgstr "Вы собираете дрон-комплекты из лома."
+msgstr "You convert the scrap into drone parts."
 
 #: src-en/data/events_special_storage.xml.append:1346
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[8]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1352
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[9]/text"
-msgstr "Собрать 12 дрон-комплектов из 100 лома."
+msgstr "Use 100 scrap to make 12 drone parts."
 
 #: src-en/data/events_special_storage.xml.append:1358
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[9]/event/text"
-msgstr "Вы собираете дрон-комплекты из лома."
+msgstr "You convert the scrap into drone parts."
 
 #: src-en/data/events_special_storage.xml.append:1360
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[9]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1366
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно, заняться чем-то еще."
+msgstr "Nevermind, do something else."
 
 #: src-en/data/events_special_storage.xml.append:1381
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice[1]/text"
-msgstr "Алмаз."
+msgstr "Diamond."
 
 #: src-en/data/events_special_storage.xml.append:1385
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice[2]/text"
-msgstr "Оператор."
+msgstr "Operator."
 
 #: src-en/data/events_special_storage.xml.append:1391
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/text"
-msgstr "Вы открыли лабораторное меню для: [АЛМАЗЫ]"
+msgstr "You are viewing the lab menu for: [DIAMOND]"
 
 #: src-en/data/events_special_storage.xml.append:1393
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[@req=\"FR_LAB_DIAMOND_FISTITUTE\"]/text"
 msgstr ""
-"Добавлено: Боевой дух.\n"
-"\t\t[Алмазы наносят 2х боевого урона, однако теряют 90% скорости ремонта и саботажа]"
+"Currently Installed: Fistitude.\n"
+"\t\t[Diamonds gain double combat damage in exchange of losing 90% of their repair and sabotage speed.]"
 
 #: src-en/data/events_special_storage.xml.append:1398
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[@req=\"FR_LAB_DIAMOND_SYSTEMIC\"]/text"
 msgstr ""
-"Добавлено: Систематичность.\n"
-"\t\t[Алмазы получают дополнительные 50% скорости передвижения и наносимого урона, пока находятся в системных отсеках на своём корабле. Однако, они теряют 50% наносимого урона и скорости передвижения, если находятся на вражеском корабле]"
+"Currently Installed: Systematic.\n"
+"\t\t[Diamonds gain 50% movement speed and combat damage while in system rooms in their own ship. However they lose 50% of damage and movement speed while in the enemy ship.]"
 
 #: src-en/data/events_special_storage.xml.append:1403
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[@req=\"FR_LAB_DIAMOND_NOXIOUS\"]/text"
 msgstr ""
-"Добавлено: Вредоносность.\n"
-"\t\t[Алмазы теряют способность сражаться с экипажем, но получают разрушительную ауру, которая наносит 3 ОЗ/с урона всем врагам, не являющимся алмазами, находящимся на одном с ними корабле]"
+"Currently Installed: Noxious.\n"
+"\t\t[Diamonds lose the ability to fight crew but gain a damaging aura that deals 3 hp/s to all enemy non diamonds in the same ship as them.]"
 
 #: src-en/data/events_special_storage.xml.append:1408
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[4]/text"
-msgstr "Добавлено: Ничего"
+msgstr "Currently Installed: None"
 
 #: src-en/data/events_special_storage.xml.append:1412
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[5]/text"
-msgstr "Осн: Боевой дух. [Улучшение уже добавлено]"
+msgstr "Pri: Fistitude. [An upgrade is already installed]"
 
 #: src-en/data/events_special_storage.xml.append:1416
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[6]/text"
-msgstr "Осн: Боевой дух. [Цена: 100~]"
+msgstr "Pri: Fistitude. [Cost: 100~]"
 
 #: src-en/data/events_special_storage.xml.append:1420
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[7]/text"
-msgstr "Осн: Систематичность. [Улучшение уже добавлено]"
+msgstr "Pri: Systematic. [An upgrade is already installed]"
 
 #: src-en/data/events_special_storage.xml.append:1424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[8]/text"
-msgstr "Осн: Систематичность. [Цена: 50~, 6|]"
+msgstr "Pri: Systematic. [Cost: 50~, 6|]"
 
 #: src-en/data/events_special_storage.xml.append:1428
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[9]/text"
-msgstr "Осн: Вредоносность. [Улучшение уже добавлено]"
+msgstr "Pri: Noxious. [An upgrade is already installed]"
 
 #: src-en/data/events_special_storage.xml.append:1432
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[10]/text"
-msgstr "Осн: Вредоносность. [Цена: 150~]"
+msgstr "Pri: Noxious. [Cost: 150~]"
 
 #: src-en/data/events_special_storage.xml.append:1436
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[11]/text"
-msgstr "Вернуться."
+msgstr "Go back."
 
 #: src-en/data/events_special_storage.xml.append:1442
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_FISTITUDE\"]/text"
 msgstr ""
-"Вы собираетесь добавить модификацию Боевой дух.\n"
-"\t[Эффекты: Алмазы наносят 2х урона, однако теряют 90% скорости ремонта и саботажа]\n"
+"You are about to install the Fistitude modification.\n"
+"\t[Effects: Diamonds gain double combat damage in exchange of losing 90% of their repair and sabotage speed.]\n"
 "\t\n"
-"\t[Предупреждение: После ее добавления вы больше не сможете применять основные модификации к экипажу расы алмазов. Вы также не сможете деактивировать эту модификацию]"
+"\t[Warning: After installing this, you will not be able to install any more primary upgrades for Diamonds crew. You will not be able to deactivate this mod either.]"
 
 #: src-en/data/events_special_storage.xml.append:1447
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_FISTITUDE\"]/choice[1]/text"
-msgstr "Установить модификацию. [Цена: 100~]"
+msgstr "Install the modification. [Cost: 100~]"
 
 #: src-en/data/events_special_storage.xml.append:1449
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_FISTITUDE\"]/choice[1]/event/text"
-msgstr "Вы добавили модификацию."
+msgstr "You install the modification."
 
 #: src-en/data/events_special_storage.xml.append:1454
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_FISTITUDE\"]/choice[1]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1460
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_FISTITUDE\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно."
+msgstr "Nevermind."
 
 #: src-en/data/events_special_storage.xml.append:1469
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_SYSTEMIC\"]/text"
 msgstr ""
-"Вы собираетесь добавить модификацию Систематичность.\n"
-"\t[Эффекты: Алмазы получают дополнительные 50% скорости передвижения и наносимого урона, пока находятся в системные отсеках на своем корабле. Однако, они теряют 50% наносимого урона и скорости передвижения, пока находятся на вражеском корабле]\n"
+"You are about to install the Systematic modification.\n"
+"\t[Effects: Diamonds gain 50% movement speed and combat damage while in system rooms in their own ship. However they lose 50% of damage and movement speed while in the enemy ship.]\n"
 "\t\n"
-"\t[Предупреждение: После ее добавления вы больше не сможете применять основные модификации к экипажу расы алмазов. Вы также не сможете деактивировать эту модификацию]"
+"\t[Warning: After installing this, you will not be able to install any more primary upgrades for Diamonds crew. You will not be able to deactivate this mod either.]"
 
 #: src-en/data/events_special_storage.xml.append:1474
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_SYSTEMIC\"]/choice[1]/text"
-msgstr "Установить модификацию. [Цена: 50~, 6|]"
+msgstr "Install the modification. [Cost: 50~, 6|]"
 
 #: src-en/data/events_special_storage.xml.append:1476
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_SYSTEMIC\"]/choice[1]/event/text"
-msgstr "Вы добавили модификацию."
+msgstr "You install the modification."
 
 #: src-en/data/events_special_storage.xml.append:1482
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_SYSTEMIC\"]/choice[1]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1488
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_SYSTEMIC\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно."
+msgstr "Nevermind."
 
 #: src-en/data/events_special_storage.xml.append:1497
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_NOXIOUS\"]/text"
 msgstr ""
-"Вы собираетесь установить модификацию Вредоносность.\n"
-"\t[Эффект: Алмазы теряют способность сражаться с экипажем, но получают наносящую урон ауру, которая наносит 3 ОЗ/с урона всем врагам, не являющимся алмазами, находящимся на одном с ними корабле]\n"
+"You are about to install the Noxious modification.\n"
+"\t[Effects: Diamonds lose the ability to fight crew but gain a damaging aura that deals 3 hp/s to all enemy non diamonds in the same ship as them.]\n"
 "\t\n"
-"\t[Предупреждение: После ее добавления вы больше не сможете применять основные модификации к экипажу расы алмазов. Вы также не сможете деактивировать эту модификацию]"
+"\t[Warning: After installing this, you will not be able to install any more primary upgrades for Diamonds crew. You will not be able to deactivate this mod either.]"
 
 #: src-en/data/events_special_storage.xml.append:1502
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_NOXIOUS\"]/choice[1]/text"
-msgstr "Установить модификацию. [Цена: 150~]"
+msgstr "Install the modification. [Cost: 150~]"
 
 #: src-en/data/events_special_storage.xml.append:1504
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_NOXIOUS\"]/choice[1]/event/text"
-msgstr "Вы добавили модификацию."
+msgstr "You install the modification."
 
 #: src-en/data/events_special_storage.xml.append:1509
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_NOXIOUS\"]/choice[1]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1515
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_NOXIOUS\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно."
+msgstr "Nevermind."
 
 #: src-en/data/events_special_storage.xml.append:1524
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/text"
-msgstr "Вы открыли лабораторное меню для: [ОПЕРАТОРЫ]"
+msgstr "You are viewing the lab menu for: [OPERATOR]"
 
 #: src-en/data/events_special_storage.xml.append:1526
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[@req=\"FR_LAB_OPERATOR_PACIFISM_PROTOCOLS\"]/text"
 msgstr ""
-"Добавлено: Протоколы пацифизма.\n"
-"\t\t[Операторы теряют способность сражаться или устраивать саботаж, но предотвращают все сражения и саботаж экипажа, находясь в одном с ним отсеке]"
+"Currently Installed: Pacifism Protocols.\n"
+"\t\t[Operators lose the ability to fight or sabotage but will prevent all crew combat and sabotage while in the same room as them.]"
 
 #: src-en/data/events_special_storage.xml.append:1531
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[@req=\"FR_LAB_OPERATOR_BIO_PROTOCOLS\"]/text"
 msgstr ""
-"Добавлено: Анти-Био протоколы.\n"
-"\t\t[Операторы теряют 50% наносимого урона, однако сильно ослабляют вражеский экипаж, если находятся с ним в одном отсеке. Ослабленный экипаж теряет способность лечиться, телепортироваться по борту корабля, наносит на 15% меньше урона в бою, а также экипаж убитый в одном с ним отсеке лишается возможности быть клонированным]"
+"Currently Installed: Anti-Bio Protocols.\n"
+"\t\t[Operators lose 50% of their damage and instead will heavily debuff enemy crew within the same room as them, lowering their damage by 15% and nullifying any onboard teleportation and healing, as well as preventing crew killed in the same room as them from being able to be cloned.]"
 
 #: src-en/data/events_special_storage.xml.append:1536
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[@req=\"FR_LAB_OPERATOR_BEACON_PROTOCOLS\"]/text"
 msgstr ""
-"Добавлено: Протоколы маяка.\n"
-"\t\t[Операторы теряют 50% здоровья и получают на 25% больше урона в обмен на то, чтобы работать в качестве мобильного телепортационного маяка, который позволяет любому дружественному экипажу, находящемуся с ними в одном отсеке, телепортироваться в любой отсек по своему желанию, даже на вражеские корабли]"
+"Currently Installed: Beacon Protocols.\n"
+"\t\t[Operators lose 50% of their health and take 25% more damage in exchange of serving as a mobile teleporting beacon, allowing any friendly crew in the same room as them to teleport to any room they desire, even teleporting directly to enemy ships.]"
 
 #: src-en/data/events_special_storage.xml.append:1541
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[4]/text"
-msgstr "Добавлено: Ничего"
+msgstr "Currently Installed: None"
 
 #: src-en/data/events_special_storage.xml.append:1545
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[5]/text"
-msgstr "Осн: Протоколы пацифизма. [Улучшение уже добавлено]"
+msgstr "Pri: Pacifism Protocols. [An upgrade is already installed]"
 
 #: src-en/data/events_special_storage.xml.append:1549
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[6]/text"
-msgstr "Осн:: Протоколы пацифизма. [Цена: 25~]"
+msgstr "Pri: Pacifism Protocols. [Cost: 25~]"
 
 #: src-en/data/events_special_storage.xml.append:1553
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[7]/text"
-msgstr "Осн: Анти-Био протоколы. [Улучшение уже добавлено]"
+msgstr "Pri: Anti-Bio Protocols. [An upgrade is already installed]"
 
 #: src-en/data/events_special_storage.xml.append:1557
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[8]/text"
-msgstr "Осн:: Анти-Био протоколы. [Цена: 30~, 10|]"
+msgstr "Pri: Anti-Bio Protocols. [Cost: 30~, 10|]"
 
 #: src-en/data/events_special_storage.xml.append:1561
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[9]/text"
-msgstr "Осн: Протоколы маяков. [Улучшение уже добавлено]"
+msgstr "Pri: Beacon Protocols. [An upgrade is already installed]"
 
 #: src-en/data/events_special_storage.xml.append:1565
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[10]/text"
-msgstr "Осн: Протоколы маяка. [Цена: 15{]"
+msgstr "Pri: Beacon Protocols. [Cost: 15{]"
 
 #: src-en/data/events_special_storage.xml.append:1569
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[11]/text"
-msgstr "Вернуться."
+msgstr "Go back."
 
 #: src-en/data/events_special_storage.xml.append:1575
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_PACIFISM_PROTOCOLS\"]/text"
 msgstr ""
-"Вы собираетесь добавить Протоколы пацифизма.\n"
-"\t[Эффекты: Операторы теряют способность сражаться или совершать саботаж, но предотвращают все сражения и саботаж экипажа, находясь с ними в одном отсеке]\n"
+"You are about to install the Pacifism Protocols.\n"
+"\t[Effects: Operators lose the ability to fight or sabotage but will prevent all crew combat and sabotage while in the same room as them.]\n"
 "\t\n"
-"\t[Предупреждение: После ее добавления вы больше не сможете применять основные модификации к экипажу расы операторов. Вы также не сможете деактивировать эту модификацию]"
+"\t[Warning: After installing this, you will not be able to install any more primary upgrades for your Operator crew. You will not be able to deactivate this mod either.]"
 
 #: src-en/data/events_special_storage.xml.append:1580
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_PACIFISM_PROTOCOLS\"]/choice[1]/text"
-msgstr "Добавить модификацию. [Цена: 25~]"
+msgstr "Install the modification. [Cost: 25~]"
 
 #: src-en/data/events_special_storage.xml.append:1582
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_PACIFISM_PROTOCOLS\"]/choice[1]/event/text"
-msgstr "Вы добавили модификацию."
+msgstr "You install the modification."
 
 #: src-en/data/events_special_storage.xml.append:1587
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_PACIFISM_PROTOCOLS\"]/choice[1]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1593
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_PACIFISM_PROTOCOLS\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно."
+msgstr "Nevermind."
 
 #: src-en/data/events_special_storage.xml.append:1602
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BIO_PROTOCOLS\"]/text"
 msgstr ""
-"Вы собираетесь добавить модификацию Анти-Био протоколы.\n"
-"\t[Эффекты: Операторы теряют 50% наносимого урона, однако сильно ослабляют вражеский экипаж, если находятся с ним в одном отсеке. Ослабленный экипаж теряет способность лечиться, телепортироваться по борту корабля, наносит на 15% меньше урона в бою, а также экипаж убитый в одном с ним отсеке лишается возможности быть клонированным]\n"
+"You are about to install the Anti-Bio Protocols modification.\n"
+"\t[Effects: Operators lose 50% of their damage and instead will heavily debuff enemy crew within the same room as them, lowering their damage by 15% and nullifying any onboard teleportation and healing, as well as preventing crew killed in the same room as them from being able to be cloned.]\n"
 "\t\n"
-"\t[Предупреждение: После ее добавления вы больше не сможете применять основные модификации к экипажу расы операторов. Вы также не сможете деактивировать эту модификацию]"
+"\t[Warning: After installing this, you will not be able to install any more primary upgrades for your Operator crew. You will not be able to deactivate this mod either.]"
 
 #: src-en/data/events_special_storage.xml.append:1607
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BIO_PROTOCOLS\"]/choice[1]/text"
-msgstr "Добавить модификацию. [Цена: 30~, 10|]"
+msgstr "Install the modification. [Cost: 30~, 10|]"
 
 #: src-en/data/events_special_storage.xml.append:1609
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BIO_PROTOCOLS\"]/choice[1]/event/text"
-msgstr "Вы добавили модификацию."
+msgstr "You install the modification."
 
 #: src-en/data/events_special_storage.xml.append:1615
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BIO_PROTOCOLS\"]/choice[1]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1621
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BIO_PROTOCOLS\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно."
+msgstr "Nevermind."
 
 #: src-en/data/events_special_storage.xml.append:1630
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BEACON_PROTOCOLS\"]/text"
 msgstr ""
-"Вы собираетесь добавить модификацию Протоколы маяков.\n"
-"\t[Эффекты: Операторы теряют 50% здоровья и получают на 25% больше урона в обмен на то, чтобы работать в качестве мобильного телепортационного маяка, который позволяет любому дружественному экипажу, находящемуся с ними в одном отсеке, телепортироваться в любой отсек по своему желанию, даже на вражеские корабли]\n"
+"You are about to install the Beacon Protocols modification.\n"
+"\t[Effects: Operators lose 50% of their health and take 25% more damage in exchange of serving as a mobile teleporting beacon, allowing any friendly crew in the same room as them to teleport to any room they desire, even teleporting directly to enemy ships.]\n"
 "\t\n"
-"\t[Предупреждение: После ее добавления вы больше не сможете применять основные модификации к экипажу расы операторов. Вы также не сможете деактивировать эту модификацию]"
+"\t[Warning: After installing this, you will not be able to install any more primary upgrades for your Operator crew. You will not be able to deactivate this mod either.]"
 
 #: src-en/data/events_special_storage.xml.append:1635
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BEACON_PROTOCOLS\"]/choice[1]/text"
-msgstr "Добавить модификацию. [Цена: 15{]"
+msgstr "Install the modification. [Cost: 15{]"
 
 #: src-en/data/events_special_storage.xml.append:1637
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BEACON_PROTOCOLS\"]/choice[1]/event/text"
-msgstr "Вы добавили модификацию."
+msgstr "You install the modification."
 
 #: src-en/data/events_special_storage.xml.append:1642
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BEACON_PROTOCOLS\"]/choice[1]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_storage.xml.append:1648
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BEACON_PROTOCOLS\"]/choice[@req=\"pilot\"]/text"
-msgstr "Неважно."
+msgstr "Nevermind."
