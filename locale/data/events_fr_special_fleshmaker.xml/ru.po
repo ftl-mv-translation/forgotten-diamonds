@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-16 07:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-11-17 08:20+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_fr_special_fleshmakerxml/ru/>\n"
 "Language: ru\n"
@@ -159,7 +159,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:103
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_NECROMANTIC_COGNITIVE_LIST\"]/text"
-msgstr ""
+msgstr "Зарегистрировать в базе данных Некроманта-когнитива"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:105
 msgid ""
@@ -178,7 +178,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:116
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ABSOLUTE_COGNITIVE_LIST\"]/text"
-msgstr ""
+msgstr "Зарегистрировать в базе данных Абсолютного когнитива"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:118
 msgid ""
@@ -197,7 +197,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:129
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_DEVISER_LIST\"]/text"
-msgstr ""
+msgstr "Зарегистрировать в базе данных Изобретателя"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:131
 msgid ""
@@ -214,10 +214,9 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:142
-#, fuzzy
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CYLVAN_LIST\"]/text"
-msgstr "Зарегистрировать Сильвана в базе данных"
+msgstr "Зарегистрировать Цильвана в базе данных"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:144
 msgid ""
@@ -236,7 +235,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:155
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_COLLECTOR_LIST\"]/text"
-msgstr ""
+msgstr "Зарегистрировать в базе данных Коллекционера"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:157
 msgid ""
@@ -255,7 +254,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:168
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_Y_LIST\"]/text"
-msgstr ""
+msgstr "Зарегистрировать в базе данных королеву У"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:170
 msgid ""
@@ -8242,12 +8241,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:5661
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_collector\"]/text"
-msgstr ""
+msgstr "Создать Коллекционера."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5663
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Collector\"]/@name"
-msgstr ""
+msgstr "Коллекционер."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5667
 msgid ""
@@ -8265,11 +8264,11 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:5675
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_cylvan\"]/text"
-msgstr ""
+msgstr "Создать Цильвана."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5677
 msgid "data/events_fr_special_fleshmaker.xml$//crewMember[@name=\"Cylvan\"]/@name"
-msgstr ""
+msgstr "Цильван"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5681
 msgid ""
@@ -8287,7 +8286,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:5689
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_rhyme_slimer\"]/text"
-msgstr ""
+msgstr "Создать Рифмующего Слимера."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5691
 msgid ""
@@ -8310,12 +8309,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:5703
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_y\"]/text"
-msgstr ""
+msgstr "Создать королеву У."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5705
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_y\"]/event/crewMember[@name=\"Y\"]/@name"
-msgstr ""
+msgstr "У"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5709
 msgid ""
@@ -8333,12 +8332,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:5717
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_deviser\"]/text"
-msgstr ""
+msgstr "Создать Изобретателя."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5719
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_deviser\"]/event/crewMember[@name=\"Y\"]/@name"
-msgstr ""
+msgstr "У"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5723
 msgid ""
@@ -8356,7 +8355,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:5731
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_necromantic_cognitive\"]/text"
-msgstr ""
+msgstr "Создать Некроманта-когнитива."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5737
 msgid ""
@@ -8374,7 +8373,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:5745
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_absolute_cognitive\"]/text"
-msgstr ""
+msgstr "Создать Абсолютного когнитива."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5751
 msgid ""
