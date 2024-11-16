@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-16 07:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-11-17 08:20+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_sector_theocracyxmlappend/ru/>\n"
 "Language: ru\n"
@@ -30,7 +30,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_theocracy.xml.append:18
-#, fuzzy
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/text"
 msgstr ""
@@ -39,7 +38,10 @@ msgstr ""
 "поиска, заплатить за корабль, подтверждаете?\" Хотя предложение существа, "
 "назвавшего себя \"оператором\", переведено очень плохо, этого достаточно, "
 "чтобы понять смысл: он требует 5 существ из вашего экипажа, а в обмен - "
-"чертежи корабля."
+"чертежи корабля.\n"
+"\n"
+"\"Крайне\" желательно не вступать в бой с этим врагом, его боевые дроны "
+"чрезвычайно опасны."
 
 #: src-en/data/events_sector_theocracy.xml.append:23
 msgid ""
