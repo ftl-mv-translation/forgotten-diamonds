@@ -1,19 +1,30 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-11-16 07:01+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/forgotten-diamonds/"
+"mod-appendixmetadataxml/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/mod-appendix/metadata.xml:2
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
 msgstr "FTL: MULTIVERSE - FORGOTTEN RACES - DIAMOND ADDON"
 
 #: src-en/mod-appendix/metadata.xml:6
+#, fuzzy
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
 msgstr ""
-"PATCH APRÈS MULTIVERSE, NÉCESSITE INFERNO CORE 1.2+, FORGOTTEN RACES ET THE RENEGADE COLLECTION, PATCHER LES DEUX AVANT FR\n"
+"PATCH APRÈS MULTIVERSE, NÉCESSITE INFERNO CORE 1.2+, FORGOTTEN RACES ET THE "
+"RENEGADE COLLECTION, PATCHER LES DEUX AVANT FR\n"
 "\n"
-"Ce mod est fondamentalement tout le contenu doré, en cuivre et en adamantine qui faisait partie des races oubliées mais ne correspondait tout simplement pas au but du mod, donc maintenant il est ici.\n"
+"Ce mod est fondamentalement tout le contenu doré, en cuivre et en adamantine "
+"qui faisait partie des races oubliées mais ne correspondait tout simplement "
+"pas au but du mod, donc maintenant il est ici.\n"
 "\n"
 "Fonctionne avec Multiverse 5.4.X"
