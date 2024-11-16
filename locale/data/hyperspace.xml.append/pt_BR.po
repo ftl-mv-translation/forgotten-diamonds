@@ -19,436 +19,336 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:994
 msgid ""
-"data/hyperspace.xml.append$//mod-append:race[@name=\"fr_copper_lanius\"]/"
-"powerEffect/buttonText"
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_copper_lanius\"]/powerEffect/buttonText"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:995
 msgid ""
-"data/hyperspace.xml.append$//mod-append:race[@name=\"fr_copper_lanius\"]/"
-"powerEffect/tooltip"
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_copper_lanius\"]/powerEffect/tooltip"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1091
 msgid ""
-"data/hyperspace.xml.append$//mod-append:race[@name=\"fr_adamantine_lanius\"]/"
-"powerEffect/buttonText"
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_adamantine_lanius\"]/powerEffect/buttonText"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1092
 msgid ""
-"data/hyperspace.xml.append$//mod-append:race[@name=\"fr_adamantine_lanius\"]/"
-"powerEffect/tooltip"
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_adamantine_lanius\"]/powerEffect/tooltip"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1149
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"race[@name=\"fr_copper_battledrone_1\"]/powerEffect/buttonText"
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_copper_battledrone_1\"]/powerEffect/buttonText"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1150
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"race[@name=\"fr_copper_battledrone_1\"]/powerEffect/tooltip"
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_copper_battledrone_1\"]/powerEffect/tooltip"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1190
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"race[@name=\"fr_copper_battledrone_2\"]/powerEffect/buttonText"
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_copper_battledrone_2\"]/powerEffect/buttonText"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1191
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"race[@name=\"fr_copper_battledrone_2\"]/powerEffect/tooltip"
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_copper_battledrone_2\"]/powerEffect/tooltip"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2668
-#: src-en/data/hyperspace.xml.append:2684
-msgid ""
-"data/hyperspace.xml.append$//fr_golden_lanius_1[@name=\"Sharlan\"]/@name"
+msgid "data/hyperspace.xml.append$//fr_golden_lanius_1[@name=\"Sharlan\"]/@name"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2810
-#: src-en/data/hyperspace.xml.append:2826
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-append:page/"
-"section[1]/@text"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
+"append:page/section[1]/@text"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2812
-#: src-en/data/hyperspace.xml.append:2828
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/"
-"secretName"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/secretName"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2813
-#: src-en/data/hyperspace.xml.append:2829
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/secretDescription"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2814
-#: src-en/data/hyperspace.xml.append:2830
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/name"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2815
-#: src-en/data/hyperspace.xml.append:2831
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/description"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2817
-#: src-en/data/hyperspace.xml.append:2833
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/header"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2823
-#: src-en/data/hyperspace.xml.append:2839
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/"
-"secretName"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/secretName"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2824
-#: src-en/data/hyperspace.xml.append:2840
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/secretDescription"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2825
-#: src-en/data/hyperspace.xml.append:2841
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/name"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2826
-#: src-en/data/hyperspace.xml.append:2842
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/description"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2828
-#: src-en/data/hyperspace.xml.append:2844
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/header"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2834
-#: src-en/data/hyperspace.xml.append:2850
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/"
-"secretName"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/secretName"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2835
-#: src-en/data/hyperspace.xml.append:2851
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/secretDescription"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2836
-#: src-en/data/hyperspace.xml.append:2852
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/"
-"name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/name"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2837
-#: src-en/data/hyperspace.xml.append:2853
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/description"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2839
-#: src-en/data/hyperspace.xml.append:2855
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/header"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2845
-#: src-en/data/hyperspace.xml.append:2861
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-append:page/"
-"section[2]/@text"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
+"append:page/section[2]/@text"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2847
-#: src-en/data/hyperspace.xml.append:2863
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/"
-"secretName"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/secretName"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2848
-#: src-en/data/hyperspace.xml.append:2864
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/secretDescription"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2849
-#: src-en/data/hyperspace.xml.append:2865
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/name"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2850
-#: src-en/data/hyperspace.xml.append:2866
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/description"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2852
-#: src-en/data/hyperspace.xml.append:2868
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/header"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2858
-#: src-en/data/hyperspace.xml.append:2874
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/"
-"secretName"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/secretName"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2859
-#: src-en/data/hyperspace.xml.append:2875
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/name"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2860
-#: src-en/data/hyperspace.xml.append:2876
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/description"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2862
-#: src-en/data/hyperspace.xml.append:2878
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/secretDescription"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2863
-#: src-en/data/hyperspace.xml.append:2879
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/header"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2869
-#: src-en/data/hyperspace.xml.append:2885
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/"
-"name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/name"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2870
-#: src-en/data/hyperspace.xml.append:2886
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/"
-"secretName"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/secretName"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2871
-#: src-en/data/hyperspace.xml.append:2887
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/secretDescription"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2872
-#: src-en/data/hyperspace.xml.append:2888
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/description"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2874
-#: src-en/data/hyperspace.xml.append:2890
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/header"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2880
-#: src-en/data/hyperspace.xml.append:2896
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-append:page/"
-"section[3]/@text"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
+"append:page/section[3]/@text"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2882
-#: src-en/data/hyperspace.xml.append:2898
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/name"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2883
-#: src-en/data/hyperspace.xml.append:2899
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/"
-"secretName"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/secretName"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2884
-#: src-en/data/hyperspace.xml.append:2900
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/description"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2885
-#: src-en/data/hyperspace.xml.append:2901
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/secretDescription"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2890
-#: src-en/data/hyperspace.xml.append:2906
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/name"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2891
-#: src-en/data/hyperspace.xml.append:2907
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/"
-"secretName"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/secretName"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2892
-#: src-en/data/hyperspace.xml.append:2908
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/description"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2893
-#: src-en/data/hyperspace.xml.append:2909
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/secretDescription"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2898
-#: src-en/data/hyperspace.xml.append:2914
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/name"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2899
-#: src-en/data/hyperspace.xml.append:2915
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/secretName"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/secretName"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2900
-#: src-en/data/hyperspace.xml.append:2916
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/description"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2901
-#: src-en/data/hyperspace.xml.append:2917
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/secretDescription"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2906
-#: src-en/data/hyperspace.xml.append:2922
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/name"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2907
-#: src-en/data/hyperspace.xml.append:2923
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/secretName"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/secretName"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2908
-#: src-en/data/hyperspace.xml.append:2924
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/description"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2909
-#: src-en/data/hyperspace.xml.append:2925
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/secretDescription"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2914
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_FLESHMAKER\"]/"
-"name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_FLESHMAKER\"]/name"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2915
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_FLESHMAKER\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_FLESHMAKER\"]/description"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2920
-#: src-en/data/hyperspace.xml.append:2930
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-append:page/"
-"section[4]/@text"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
+"append:page/section[4]/@text"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2922
-#: src-en/data/hyperspace.xml.append:2932
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/name"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2923
-#: src-en/data/hyperspace.xml.append:2933
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/description"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2924
-#: src-en/data/hyperspace.xml.append:2934
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/secretDescription"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2926
-#: src-en/data/hyperspace.xml.append:2936
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/header"
 msgstr ""

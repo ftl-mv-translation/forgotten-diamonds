@@ -201,7 +201,7 @@ msgstr "continue..."
 #: src-en/data/events_fr_special_fleshmaker.xml:142
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CYLVAN_LIST\"]/text"
-msgstr "Register Sylvan"
+msgstr "Register Cylvan"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:144
 msgid ""
