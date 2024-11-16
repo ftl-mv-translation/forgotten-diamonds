@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-16 07:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-11-17 08:20+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/mod-appendixmetadataxml/ru/>\n"
 "Language: ru\n"
@@ -18,10 +18,9 @@ msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
 msgstr "Forgotten Races - Алмазы"
 
 #: src-en/mod-appendix/metadata.xml:6
-#, fuzzy
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
 msgstr ""
-"Зависимые аддоны: Inferno Core 1.2+, Forgotten Races и Коллекция Ренегата. "
+"Зависимые аддоны: Fusion 0.1.0+, Forgotten Races и Коллекция Ренегата. "
 "Установщик будет автоматически их ставить если выбрали аддон Forgotten Races "
 "- Алмазы.\n"
 "\n"
