@@ -99,6 +99,84 @@
 	            </choice>
 		</event>
 	</choice>
+	<choice hidden="false" req="FR_FLESHMAKER_NECROMANTIC_COGNITIVE_LIST" blue="true">
+		<text>Register a Necromantic Cognitive</text>
+		<event>
+			<text>Your crew steps in front of a giant portal-like machine, it suddenly turns its lights on, engulfing your crew in the bright pink glare, after a few minutes the glare vanishes and the machine shuts off. Your crew is fine, if incredibly exhausted.</text>
+			<metaVariable name="fleshmaker_scan_necromantic_cognitive" op="set" val="1"/>
+	            <choice>
+                   <text>continue...</text>
+                    <event>
+                    <loadEvent>FR_FLESH_MAKER_SCAN</loadEvent>
+                     </event>
+	            </choice>
+		</event>
+	</choice>
+	<choice hidden="false" req="FR_FLESHMAKER_ABSOLUTE_COGNITIVE_LIST" blue="true">
+		<text>Register a Absolute Cognitive</text>
+		<event>
+			<text>Your crew steps in front of a giant portal-like machine, it suddenly turns its lights on, engulfing your crew in the bright pink glare, after a few minutes the glare vanishes and the machine shuts off. Your crew is fine, if incredibly exhausted.</text>
+			<metaVariable name="fleshmaker_scan_absolute_cognitive" op="set" val="1"/>
+	            <choice>
+                   <text>continue...</text>
+                    <event>
+                    <loadEvent>FR_FLESH_MAKER_SCAN</loadEvent>
+                     </event>
+	            </choice>
+		</event>
+	</choice>
+	<choice hidden="false" req="FR_FLESHMAKER_DEVISER_LIST" blue="true">
+		<text>Register a Deviser</text>
+		<event>
+			<text>Your crew steps in front of a giant portal-like machine, it suddenly turns its lights on, engulfing your crew in the bright pink glare, after a few minutes the glare vanishes and the machine shuts off. Your crew is fine, if incredibly exhausted.</text>
+			<metaVariable name="fleshmaker_scan_deviser" op="set" val="1"/>
+	            <choice>
+                   <text>continue...</text>
+                    <event>
+                    <loadEvent>FR_FLESH_MAKER_SCAN</loadEvent>
+                     </event>
+	            </choice>
+		</event>
+	</choice>
+	<choice hidden="false" req="FR_FLESHMAKER_CYLVAN_LIST" blue="true">
+		<text>Register Cylvan</text>
+		<event>
+			<text>Your crew steps in front of a giant portal-like machine, it suddenly turns its lights on, engulfing your crew in the bright pink glare, after a few minutes the glare vanishes and the machine shuts off. Your crew is fine, if incredibly exhausted.</text>
+			<metaVariable name="fleshmaker_scan_cylvan" op="set" val="1"/>
+	            <choice>
+                   <text>continue...</text>
+                    <event>
+                    <loadEvent>FR_FLESH_MAKER_SCAN</loadEvent>
+                     </event>
+	            </choice>
+		</event>
+	</choice>
+	<choice hidden="false" req="FR_FLESHMAKER_COLLECTOR_LIST" blue="true">
+		<text>Register The Collector</text>
+		<event>
+			<text>Your crew steps in front of a giant portal-like machine, it suddenly turns its lights on, engulfing your crew in the bright pink glare, after a few minutes the glare vanishes and the machine shuts off. Your crew is fine, if incredibly exhausted.</text>
+			<metaVariable name="fleshmaker_scan_collector" op="set" val="1"/>
+	            <choice>
+                   <text>continue...</text>
+                    <event>
+                    <loadEvent>FR_FLESH_MAKER_SCAN</loadEvent>
+                     </event>
+	            </choice>
+		</event>
+	</choice>
+	<choice hidden="false" req="FR_FLESHMAKER_Y_LIST" blue="true">
+		<text>Register Queen Y</text>
+		<event>
+			<text>Your crew steps in front of a giant portal-like machine, it suddenly turns its lights on, engulfing your crew in the bright pink glare, after a few minutes the glare vanishes and the machine shuts off. Your crew is fine, if incredibly exhausted.</text>
+			<metaVariable name="fleshmaker_scan_y" op="set" val="1"/>
+	            <choice>
+                   <text>continue...</text>
+                    <event>
+                    <loadEvent>FR_FLESH_MAKER_SCAN</loadEvent>
+                     </event>
+	            </choice>
+		</event>
+	</choice>
 	<choice hidden="false" req="FR_FLESHMAKER_IVAR_LIST" blue="true">
 		<text>Register Mayeb</text>
 		<event>
@@ -2372,11 +2450,11 @@
 	            </choice>
 		</event>
 	</choice>
-	<choice hidden="false" req="FR_FLESHMAKER_HAUNTSLIMER_LIST" blue="true">
+	<choice hidden="false" req="FR_FLESHMAKER_REVENANTSLIMER_LIST" blue="true">
 		<text>Register Slimer</text>
 		<event>
 			<text>Your crew steps in front of a giant portal-like machine, it suddenly turns its lights on, engulfing your crew in the bright pink glare, after a few minutes the glare vanishes and the machine shuts off. Your crew is fine, if incredibly exhausted.</text>
-			<metaVariable name="fleshmaker_scan_hauntslimer" op="set" val="1"/>
+			<metaVariable name="fleshmaker_scan_revenantslimer" op="set" val="1"/>
 	            <choice>
                    <text>continue...</text>
                     <event>
@@ -2385,11 +2463,11 @@
 	            </choice>
 		</event>
 	</choice>
-	<choice hidden="false" req="FR_FLESHMAKER_HAUNTPHYS_LIST" blue="true">
+	<choice hidden="false" req="FR_FLESHMAKER_REVENANTPHYS_LIST" blue="true">
 		<text>Register Phys</text>
 		<event>
 			<text>Your crew steps in front of a giant portal-like machine, it suddenly turns its lights on, engulfing your crew in the bright pink glare, after a few minutes the glare vanishes and the machine shuts off. Your crew is fine, if incredibly exhausted.</text>
-			<metaVariable name="fleshmaker_scan_hauntphys" op="set" val="1"/>
+			<metaVariable name="fleshmaker_scan_revenantphys" op="set" val="1"/>
 	            <choice>
                    <text>continue...</text>
                     <event>
@@ -2398,11 +2476,11 @@
 	            </choice>
 		</event>
 	</choice>
-	<choice hidden="false" req="FR_FLESHMAKER_HAUNTCLEO_LIST" blue="true">
+	<choice hidden="false" req="FR_FLESHMAKER_REVENANTCLEO_LIST" blue="true">
 		<text>Register the Cleo</text>
 		<event>
 			<text>Your crew steps in front of a giant portal-like machine, it suddenly turns its lights on, engulfing your crew in the bright pink glare, after a few minutes the glare vanishes and the machine shuts off. Your crew is fine, if incredibly exhausted.</text>
-			<metaVariable name="fleshmaker_scan_hauntcleo" op="set" val="1"/>
+			<metaVariable name="fleshmaker_scan_revenantcleo" op="set" val="1"/>
 	            <choice>
                    <text>continue...</text>
                     <event>
@@ -2411,11 +2489,11 @@
 	            </choice>
 		</event>
 	</choice>
-	<choice hidden="false" req="FR_FLESHMAKER_HAUNTVIN_LIST" blue="true">
+	<choice hidden="false" req="FR_FLESHMAKER_REVENANTVIN_LIST" blue="true">
 		<text>Register Vin</text>
 		<event>
 			<text>Your crew steps in front of a giant portal-like machine, it suddenly turns its lights on, engulfing your crew in the bright pink glare, after a few minutes the glare vanishes and the machine shuts off. Your crew is fine, if incredibly exhausted.</text>
-			<metaVariable name="fleshmaker_scan_hauntvin" op="set" val="1"/>
+			<metaVariable name="fleshmaker_scan_revenantvin" op="set" val="1"/>
 	            <choice>
                    <text>continue...</text>
                     <event>
@@ -2424,11 +2502,11 @@
 	            </choice>
 		</event>
 	</choice>
-	<choice hidden="false" req="FR_FLESHMAKER_HAUNTZULU_LIST" blue="true">
+	<choice hidden="false" req="FR_FLESHMAKER_REVENANTZULU_LIST" blue="true">
 		<text>Register Zulu</text>
 		<event>
 			<text>Your crew steps in front of a giant portal-like machine, it suddenly turns its lights on, engulfing your crew in the bright pink glare, after a few minutes the glare vanishes and the machine shuts off. Your crew is fine, if incredibly exhausted.</text>
-			<metaVariable name="fleshmaker_scan_hauntzulu" op="set" val="1"/>
+			<metaVariable name="fleshmaker_scan_revenantzulu" op="set" val="1"/>
 	            <choice>
                    <text>continue...</text>
                     <event>
@@ -2437,11 +2515,11 @@
 	            </choice>
 		</event>
 	</choice>
-	<choice hidden="false" req="FR_FLESHMAKER_HAUNTALEENOR_LIST" blue="true">
+	<choice hidden="false" req="FR_FLESHMAKER_REVENANTALEENOR_LIST" blue="true">
 		<text>Register Aleenor</text>
 		<event>
 			<text>Your crew steps in front of a giant portal-like machine, it suddenly turns its lights on, engulfing your crew in the bright pink glare, after a few minutes the glare vanishes and the machine shuts off. Your crew is fine, if incredibly exhausted.</text>
-			<metaVariable name="fleshmaker_scan_hauntaleenor" op="set" val="1"/>
+			<metaVariable name="fleshmaker_scan_revenantaleenor" op="set" val="1"/>
 	            <choice>
                    <text>continue...</text>
                     <event>
@@ -2450,11 +2528,11 @@
 	            </choice>
 		</event>
 	</choice>
-	<choice hidden="false" req="FR_FLESHMAKER_HAUNTG_LIST" blue="true">
+	<choice hidden="false" req="FR_FLESHMAKER_REVENANTG_LIST" blue="true">
 		<text>Register G.</text>
 		<event>
 			<text>Your crew steps in front of a giant portal-like machine, it suddenly turns its lights on, engulfing your crew in the bright pink glare, after a few minutes the glare vanishes and the machine shuts off. Your crew is fine, if incredibly exhausted.</text>
-			<metaVariable name="fleshmaker_scan_hauntg" op="set" val="1"/>
+			<metaVariable name="fleshmaker_scan_revenantg" op="set" val="1"/>
 	            <choice>
                    <text>continue...</text>
                     <event>
@@ -2463,11 +2541,11 @@
 	            </choice>
 		</event>
 	</choice>
-	<choice hidden="false" req="FR_FLESHMAKER_CHAOS_HAUNTSMOKE_LIST" blue="true">
+	<choice hidden="false" req="FR_FLESHMAKER_CHAOS_REVENANTSMOKE_LIST" blue="true">
 		<text>Register Smoke</text>
 		<event>
 			<text>Your crew steps in front of a giant portal-like machine, it suddenly turns its lights on, engulfing your crew in the bright pink glare, after a few minutes the glare vanishes and the machine shuts off. Your crew is fine, if incredibly exhausted.</text>
-			<metaVariable name="fleshmaker_scan_chaos_hauntsmoke" op="set" val="1"/>
+			<metaVariable name="fleshmaker_scan_chaos_revenantsmoke" op="set" val="1"/>
 	            <choice>
                    <text>continue...</text>
                     <event>
@@ -2476,11 +2554,11 @@
 	            </choice>
 		</event>
 	</choice>
-	<choice hidden="false" req="FR_FLESHMAKER_CHAOS_HAUNTCHILLS_LIST" blue="true">
+	<choice hidden="false" req="FR_FLESHMAKER_CHAOS_REVENANTCHILLS_LIST" blue="true">
 		<text>Register Chills</text>
 		<event>
 			<text>Your crew steps in front of a giant portal-like machine, it suddenly turns its lights on, engulfing your crew in the bright pink glare, after a few minutes the glare vanishes and the machine shuts off. Your crew is fine, if incredibly exhausted.</text>
-			<metaVariable name="fleshmaker_scan_chaos_hauntchills" op="set" val="1"/>
+			<metaVariable name="fleshmaker_scan_chaos_revenantchills" op="set" val="1"/>
 	            <choice>
                    <text>continue...</text>
                     <event>
@@ -2515,11 +2593,11 @@
 	            </choice>
 		</event>
 	</choice>
-	<choice hidden="false" req="FR_FLESHMAKER_CHAOS_HAUNTPOK_LIST" blue="true">
+	<choice hidden="false" req="FR_FLESHMAKER_CHAOS_REVENANTPOK_LIST" blue="true">
 		<text>Register Pok</text>
 		<event>
 			<text>Your crew steps in front of a giant portal-like machine, it suddenly turns its lights on, engulfing your crew in the bright pink glare, after a few minutes the glare vanishes and the machine shuts off. Your crew is fine, if incredibly exhausted.</text>
-			<metaVariable name="fleshmaker_scan_chaos_hauntpok" op="set" val="1"/>
+			<metaVariable name="fleshmaker_scan_chaos_revenantpok" op="set" val="1"/>
 	            <choice>
                    <text>continue...</text>
                     <event>
@@ -2528,11 +2606,11 @@
 	            </choice>
 		</event>
 	</choice>
-	<choice hidden="false" req="FR_FLESHMAKER_CHAOS_HAUNTCHARROR_LIST" blue="true">
+	<choice hidden="false" req="FR_FLESHMAKER_CHAOS_REVENANTCHARROR_LIST" blue="true">
 		<text>Register Charror</text>
 		<event>
 			<text>Your crew steps in front of a giant portal-like machine, it suddenly turns its lights on, engulfing your crew in the bright pink glare, after a few minutes the glare vanishes and the machine shuts off. Your crew is fine, if incredibly exhausted.</text>
-			<metaVariable name="fleshmaker_scan_chaos_hauntcharror" op="set" val="1"/>
+			<metaVariable name="fleshmaker_scan_chaos_revenantcharror" op="set" val="1"/>
 	            <choice>
                    <text>continue...</text>
                     <event>
@@ -2541,11 +2619,11 @@
 	            </choice>
 		</event>
 	</choice>
-	<choice hidden="false" req="FR_FLESHMAKER_CHAOS_HAUNTLEO_LIST" blue="true">
+	<choice hidden="false" req="FR_FLESHMAKER_CHAOS_REVENANTLEO_LIST" blue="true">
 		<text>Register Leo</text>
 		<event>
 			<text>Your crew steps in front of a giant portal-like machine, it suddenly turns its lights on, engulfing your crew in the bright pink glare, after a few minutes the glare vanishes and the machine shuts off. Your crew is fine, if incredibly exhausted.</text>
-			<metaVariable name="fleshmaker_scan_chaos_hauntleo" op="set" val="1"/>
+			<metaVariable name="fleshmaker_scan_chaos_revenantleo" op="set" val="1"/>
 	            <choice>
                    <text>continue...</text>
                     <event>
@@ -2554,11 +2632,11 @@
 	            </choice>
 		</event>
 	</choice>
-	<choice hidden="false" req="FR_FLESHMAKER_CHAOS_HAUNTSEARAK_LIST" blue="true">
+	<choice hidden="false" req="FR_FLESHMAKER_CHAOS_REVENANTSEARAK_LIST" blue="true">
 		<text>Register Searak</text>
 		<event>
 			<text>Your crew steps in front of a giant portal-like machine, it suddenly turns its lights on, engulfing your crew in the bright pink glare, after a few minutes the glare vanishes and the machine shuts off. Your crew is fine, if incredibly exhausted.</text>
-			<metaVariable name="fleshmaker_scan_chaos_hauntsearak" op="set" val="1"/>
+			<metaVariable name="fleshmaker_scan_chaos_revenantsearak" op="set" val="1"/>
 	            <choice>
                    <text>continue...</text>
                     <event>
@@ -2689,6 +2767,19 @@
 		<event>
 			<text>Your crew steps in front of a giant portal-like machine, it suddenly turns its lights on, engulfing your crew in the bright pink glare, after a few minutes the glare vanishes and the machine shuts off. Your crew is fine, if incredibly exhausted.</text>
 			<metaVariable name="fleshmaker_scan_bilvan" op="set" val="1"/>
+	            <choice>
+                   <text>continue...</text>
+                    <event>
+                    <loadEvent>FR_FLESH_MAKER_SCAN</loadEvent>
+                     </event>
+	            </choice>
+		</event>
+	</choice>
+	<choice hidden="false" req="FR_FLESHMAKER_RHYME_SLIMER_LIST" blue="true">
+		<text>Register Billvan</text>
+		<event>
+			<text>Your crew steps in front of a giant portal-like machine, it suddenly turns its lights on, engulfing your crew in the bright pink glare, after a few minutes the glare vanishes and the machine shuts off. Your crew is fine, if incredibly exhausted.</text>
+			<metaVariable name="fleshmaker_scan_rhyme_slimer" op="set" val="1"/>
 	            <choice>
                    <text>continue...</text>
                     <event>
@@ -5216,7 +5307,7 @@
             </choice>
 		</event>
 	</choice>
-	<choice req="fleshmaker_scan_hauntslimer" lvl="1" hidden="false" >
+	<choice req="fleshmaker_scan_revenantslimer" lvl="1" hidden="false" >
 		<text>Make Slimer.</text>
 		<event>
 			<crewMember amount="1" class="fr_reborn_slimer" name="Slimer"/>
@@ -5230,7 +5321,7 @@
             </choice>
 		</event>
 	</choice>
-	<choice req="fleshmaker_scan_hauntphys" lvl="1" hidden="false" >
+	<choice req="fleshmaker_scan_revenantphys" lvl="1" hidden="false" >
 		<text>Make Phys.</text>
 		<event>
 			<crewMember amount="1" class="fr_reborn_phys" name="Phys"/>
@@ -5244,7 +5335,7 @@
             </choice>
 		</event>
 	</choice>
-	<choice req="fleshmaker_scan_hauntcleo" lvl="1" hidden="false" >
+	<choice req="fleshmaker_scan_revenantcleo" lvl="1" hidden="false" >
 		<text>Make Cleo.</text>
 		<event>
 			<crewMember amount="1" class="fr_reborn_cleo" name="Cleo"/>
@@ -5258,7 +5349,7 @@
             </choice>
 		</event>
 	</choice>
-	<choice req="fleshmaker_scan_hauntvin" lvl="1" hidden="false" >
+	<choice req="fleshmaker_scan_revenantvin" lvl="1" hidden="false" >
 		<text>Make Vin.</text>
 		<event>
 			<crewMember amount="1" class="fr_reborn_vin" name="Vin"/>
@@ -5272,7 +5363,7 @@
             </choice>
 		</event>
 	</choice>
-	<choice req="fleshmaker_scan_hauntzulu" lvl="1" hidden="false" >
+	<choice req="fleshmaker_scan_revenantzulu" lvl="1" hidden="false" >
 		<text>Make Zulu.</text>
 		<event>
 			<crewMember amount="1" class="fr_reborn_zulu" name="Zulu"/>
@@ -5286,7 +5377,7 @@
             </choice>
 		</event>
 	</choice>
-	<choice req="fleshmaker_scan_hauntaleenor" lvl="1" hidden="false" >
+	<choice req="fleshmaker_scan_revenantaleenor" lvl="1" hidden="false" >
 		<text>Make Aleenor.</text>
 		<event>
 			<crewMember amount="1" class="fr_reborn_aleenor" name="Aleenor"/>
@@ -5300,7 +5391,7 @@
             </choice>
 		</event>
 	</choice>
-	<choice req="fleshmaker_scan_hauntg" lvl="1" hidden="false" >
+	<choice req="fleshmaker_scan_revenantg" lvl="1" hidden="false" >
 		<text>Make G.</text>
 		<event>
 			<crewMember amount="1" class="fr_reborn_g" name="G"/>
@@ -5314,7 +5405,7 @@
             </choice>
 		</event>
 	</choice>
-	<choice req="fleshmaker_scan_chaos_hauntsmoke" lvl="1" hidden="false" >
+	<choice req="fleshmaker_scan_chaos_revenantsmoke" lvl="1" hidden="false" >
 		<text>Make Smoke.</text>
 		<event>
 			<crewMember amount="1" class="fr_reformed_smoke" name="Smoke"/>
@@ -5328,7 +5419,7 @@
             </choice>
 		</event>
 	</choice>
-	<choice req="fleshmaker_scan_chaos_hauntchills" lvl="1" hidden="false" >
+	<choice req="fleshmaker_scan_chaos_revenantchills" lvl="1" hidden="false" >
 		<text>Make Chills.</text>
 		<event>
 			<crewMember amount="1" class="fr_reformed_chills" name="Chills"/>
@@ -5370,7 +5461,7 @@
             </choice>
 		</event>
 	</choice>
-	<choice req="fleshmaker_scan_chaos_hauntpok" lvl="1" hidden="false" >
+	<choice req="fleshmaker_scan_chaos_revenantpok" lvl="1" hidden="false" >
 		<text>Make Pok.</text>
 		<event>
 			<crewMember amount="1" class="fr_reformed_pok" name="Pok"/>
@@ -5384,7 +5475,7 @@
             </choice>
 		</event>
 	</choice>
-	<choice req="fleshmaker_scan_chaos_hauntcharror" lvl="1" hidden="false" >
+	<choice req="fleshmaker_scan_chaos_revenantcharror" lvl="1" hidden="false" >
 		<text>Make Charror.</text>
 		<event>
 			<crewMember amount="1" class="fr_reformed_charror" name="Charror"/>
@@ -5398,7 +5489,7 @@
             </choice>
 		</event>
 	</choice>
-	<choice req="fleshmaker_scan_chaos_hauntleo" lvl="1" hidden="false" >
+	<choice req="fleshmaker_scan_chaos_revenantleo" lvl="1" hidden="false" >
 		<text>Make Leo.</text>
 		<event>
 			<crewMember amount="1" class="fr_reformed_leo" name="Leo"/>
@@ -5412,7 +5503,7 @@
             </choice>
 		</event>
 	</choice>
-	<choice req="fleshmaker_scan_chaos_hauntsearak" lvl="1" hidden="false" >
+	<choice req="fleshmaker_scan_chaos_revenantsearak" lvl="1" hidden="false" >
 		<text>Make Searak.</text>
 		<event>
 			<crewMember amount="1" class="fr_reformed_searak" name="Searak"/>
@@ -5556,6 +5647,104 @@
 		<text>Make Billvan.</text>
 		<event>
 			<crewMember amount="1" class="fr_unique_billvan" name="Billvan"/>
+			<item_modify>
+				<item type="fuel" min="-25" max="-25"/>
+			</item_modify>
+			<text>Your new crew steps out of the machine, you made sure to implant synthetic memories into them so they will serve you without question.</text>
+			<choice hidden="true">
+                <text>Continue...</text>
+				<event load="FR_FLESH_MAKER_CREATE_LOAD"/>
+            </choice>
+		</event>
+	</choice>
+	<choice req="fleshmaker_scan_collector" lvl="1" hidden="false" >
+		<text>Make The Collector.</text>
+		<event>
+			<crewMember amount="1" class="fr_unique_collector" name="Collector"/>
+			<item_modify>
+				<item type="fuel" min="-25" max="-25"/>
+			</item_modify>
+			<text>Your new crew steps out of the machine, you made sure to implant synthetic memories into them so they will serve you without question.</text>
+			<choice hidden="true">
+                <text>Continue...</text>
+				<event load="FR_FLESH_MAKER_CREATE_LOAD"/>
+            </choice>
+		</event>
+	</choice>
+	<choice req="fleshmaker_scan_cylvan" lvl="1" hidden="false" >
+		<text>Make Cylvan.</text>
+		<event>
+			<crewMember amount="1" class="fr_unique_cylvan" name="Cylvan"/>
+			<item_modify>
+				<item type="fuel" min="-25" max="-25"/>
+			</item_modify>
+			<text>Your new crew steps out of the machine, you made sure to implant synthetic memories into them so they will serve you without question.</text>
+			<choice hidden="true">
+                <text>Continue...</text>
+				<event load="FR_FLESH_MAKER_CREATE_LOAD"/>
+            </choice>
+		</event>
+	</choice>
+	<choice req="fleshmaker_scan_rhyme_slimer" lvl="1" hidden="false" >
+		<text>Make Rhyming Slimer.</text>
+		<event>
+			<crewMember amount="1" class="fr_rhyme_slimer" name="Slimer"/>
+			<item_modify>
+				<item type="fuel" min="-25" max="-25"/>
+			</item_modify>
+			<text>Your new crew steps out of the machine, you made sure to implant synthetic memories into them so they will serve you without question.</text>
+			<choice hidden="true">
+                <text>Continue...</text>
+				<event load="FR_FLESH_MAKER_CREATE_LOAD"/>
+            </choice>
+		</event>
+	</choice>
+	<choice req="fleshmaker_scan_y" lvl="1" hidden="false" >
+		<text>Make Queen Y.</text>
+		<event>
+			<crewMember amount="1" class="fr_unique_y" name="Y"/>
+			<item_modify>
+				<item type="fuel" min="-25" max="-25"/>
+			</item_modify>
+			<text>Your new crew steps out of the machine, you made sure to implant synthetic memories into them so they will serve you without question.</text>
+			<choice hidden="true">
+                <text>Continue...</text>
+				<event load="FR_FLESH_MAKER_CREATE_LOAD"/>
+            </choice>
+		</event>
+	</choice>
+	<choice req="fleshmaker_scan_deviser" lvl="1" hidden="false" >
+		<text>Make a Deviser.</text>
+		<event>
+			<crewMember amount="1" class="fr_deviser" name="Y"/>
+			<item_modify>
+				<item type="fuel" min="-25" max="-25"/>
+			</item_modify>
+			<text>Your new crew steps out of the machine, you made sure to implant synthetic memories into them so they will serve you without question.</text>
+			<choice hidden="true">
+                <text>Continue...</text>
+				<event load="FR_FLESH_MAKER_CREATE_LOAD"/>
+            </choice>
+		</event>
+	</choice>
+	<choice req="fleshmaker_scan_necromantic_cognitive" lvl="1" hidden="false" >
+		<text>Make a Necromantic Cognitive.</text>
+		<event>
+			<crewMember amount="1" class="fr_necromantic_cognitive"/>
+			<item_modify>
+				<item type="fuel" min="-25" max="-25"/>
+			</item_modify>
+			<text>Your new crew steps out of the machine, you made sure to implant synthetic memories into them so they will serve you without question.</text>
+			<choice hidden="true">
+                <text>Continue...</text>
+				<event load="FR_FLESH_MAKER_CREATE_LOAD"/>
+            </choice>
+		</event>
+	</choice>
+	<choice req="fleshmaker_scan_absolute_cognitive" lvl="1" hidden="false" >
+		<text>Make a Absolute Cognitive.</text>
+		<event>
+			<crewMember amount="1" class="fr_absolute_cognitive"/>
 			<item_modify>
 				<item type="fuel" min="-25" max="-25"/>
 			</item_modify>

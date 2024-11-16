@@ -15,7 +15,10 @@
 	<choice hidden="true">
 		<text>Continue...</text>
 		<event>
-			<text>"Greetings, fleshed thing, me are operator, arrive from different cluster, wanted a some trade, inquire towards 5 being shaped flesh to search, pay plan towards ship, assert?" While still heavily mistranslated, the offer the being that called itself an "operator" can be understood enough to be made sense: they require 5 of your crew and in exchange, the ship's blueprints.</text>
+			<text>"Greetings, fleshed thing, me are operator, arrive from different cluster, wanted a some trade, inquire towards 5 being shaped flesh to search, pay plan towards ship, assert?" While still heavily mistranslated, the offer the being that called itself an "operator" can be understood enough to be made sense: they require 5 of your crew and in exchange, the ship's blueprints.
+
+				It's *hightly* advisable to not fight this enemy, its combat drones are extreamily dangerous.
+			</text>
 				<choice hidden="true" req="forgorEnoughCrew" lvl="1" max_group="1">
 					<text>Agree to the terms.</text>
 					<event>

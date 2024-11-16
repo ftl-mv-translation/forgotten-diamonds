@@ -1804,7 +1804,7 @@
 <augBlueprint name="FR_GOLDEN_SHIELD_11">
 	<title>Shields of Opulence</title>
 	<desc>[LEVEL MAX] This exotic shield seems to attract scrap in high amounts. Boosts scrap gain by 50% and allows the breaking of resources into scrap, Currently has its max total shield HP of 13.</desc>
-	<cost>190</cost>
+	<cost>255</cost>
 	<bp>8</bp>
 	<rarity>0</rarity>
 	<stackable>true</stackable>

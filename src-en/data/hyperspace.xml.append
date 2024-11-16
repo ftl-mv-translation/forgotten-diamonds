@@ -1315,7 +1315,7 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	<superShield>
 		<value>5</value>
 		<color r="255" g="186" b="165" a="0.8"/>
-		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+		<shieldImage>ship/fr_shield_base_bubble_white.png</shieldImage>
 	</superShield>
 	<locked/>
 </mod-append:aug>
@@ -1495,7 +1495,7 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	<superShield>
 		<value>3</value>
 		<color r="229" g="208" b="119" a="0.8"/>
-		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+		<shieldImage>ship/fr_shield_base_bubble_white.png</shieldImage>
 	</superShield>
 	<locked/>
 </mod-append:aug>
@@ -1505,7 +1505,7 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	<superShield>
 		<value>4</value>
 		<color r="229" g="208" b="119" a="0.8"/>
-		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+		<shieldImage>ship/fr_shield_base_bubble_white.png</shieldImage>
 	</superShield>
 	<locked/>
 </mod-append:aug>
@@ -1515,7 +1515,7 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	<superShield>
 		<value>5</value>
 		<color r="229" g="208" b="119" a="0.8"/>
-		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+		<shieldImage>ship/fr_shield_base_bubble_white.png</shieldImage>
 	</superShield>
 	<locked/>
 </mod-append:aug>
@@ -1525,7 +1525,7 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	<superShield>
 		<value>6</value>
 		<color r="229" g="208" b="119" a="0.8"/>
-		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+		<shieldImage>ship/fr_shield_base_bubble_white.png</shieldImage>
 	</superShield>
 	<locked/>
 </mod-append:aug>
@@ -1535,7 +1535,7 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	<superShield>
 		<value>7</value>
 		<color r="229" g="208" b="119" a="0.8"/>
-		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+		<shieldImage>ship/fr_shield_base_bubble_white.png</shieldImage>
 	</superShield>
 	<locked/>
 </mod-append:aug>
@@ -1545,7 +1545,7 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	<superShield>
 		<value>8</value>
 		<color r="229" g="208" b="119" a="0.8"/>
-		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+		<shieldImage>ship/fr_shield_base_bubble_white.png</shieldImage>
 	</superShield>
 	<locked/>
 </mod-append:aug>
@@ -1555,7 +1555,7 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	<superShield>
 		<value>9</value>
 		<color r="229" g="208" b="119" a="0.8"/>
-		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+		<shieldImage>ship/fr_shield_base_bubble_white.png</shieldImage>
 	</superShield>
 	<locked/>
 </mod-append:aug>
@@ -1565,7 +1565,7 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	<superShield>
 		<value>10</value>
 		<color r="229" g="208" b="119" a="0.8"/>
-		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+		<shieldImage>ship/fr_shield_base_bubble_white.png</shieldImage>
 	</superShield>
 	<locked/>
 </mod-append:aug>
@@ -1575,7 +1575,7 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	<superShield>
 		<value>11</value>
 		<color r="229" g="208" b="119" a="0.8"/>
-		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+		<shieldImage>ship/fr_shield_base_bubble_white.png</shieldImage>
 	</superShield>
 	<locked/>
 </mod-append:aug>
@@ -1585,7 +1585,7 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	<superShield>
 		<value>12</value>
 		<color r="229" g="208" b="119" a="0.8"/>
-		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+		<shieldImage>ship/fr_shield_base_bubble_white.png</shieldImage>
 	</superShield>
 	<locked/>
 </mod-append:aug>
@@ -1595,7 +1595,7 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	<superShield>
 		<value>13</value>
 		<color r="229" g="208" b="119" a="0.8"/>
-		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+		<shieldImage>ship/fr_shield_base_bubble_white.png</shieldImage>
 	</superShield>
 	<locked/>
 </mod-append:aug>
@@ -1691,7 +1691,7 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	<superShield>
 		<value>7</value>
 		<color r="0" g="255" b="242" a="0.8"/>
-		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+		<shieldImage>ship/fr_shield_base_bubble_white.png</shieldImage>
 	</superShield>
 	<locked/>
 </mod-append:aug>
@@ -1776,7 +1776,7 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	<superShield>
 		<value>8</value>
 		<color r="255" g="0" b="0" a="0.8"/>
-		<shieldImage>ship/enemy_shields_white.png</shieldImage>
+		<shieldImage>ship/fr_shield_base_bubble_white.png</shieldImage>
 	</superShield>
 	<icon>icon_fr_warcriminal_shield_boss</icon>
 	<locked/>
@@ -2323,7 +2323,7 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 			<priority>0</priority>
 		</statBoost>
 		<statBoost name="defaultSkillLevel">
-			<boostType>SET</boostType>
+			<boostType>ADD</boostType>
 			<amount>1</amount>
 			<shipTarget>ALL</shipTarget>
 			<crewTarget>ALLIES</crewTarget>
@@ -2572,12 +2572,7 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<crewLimit>6</crewLimit>
         <rooms>
-			<room id="16"> 
-				<roomAnim renderLayer="2">tele_ico</roomAnim>
-			</room>
 			<room id="3"> <!--Weapons-->
-				<roomAnim renderLayer="0">resist_2x2</roomAnim>
-				<roomAnim renderLayer="3">resist_icon</roomAnim>
 				<sysDamageResistChance>100</sysDamageResistChance>
 			</room>
 		</rooms>
@@ -2587,12 +2582,7 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<crewLimit>10</crewLimit>
         <rooms>
-			<room id="7"> 
-				<roomAnim renderLayer="2">tele_ico</roomAnim>
-			</room>
 			<room id="3"> <!--Drones-->
-				<roomAnim renderLayer="0">fr_room_resist_3x2</roomAnim>
-				<roomAnim renderLayer="3">resist_icon</roomAnim>
 				<sysDamageResistChance>100</sysDamageResistChance>
 			</room>
 		</rooms>
@@ -2603,18 +2593,12 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 		<crewLimit>20</crewLimit>
         <rooms>
 			<room id="9"> <!--Shields-->
-				<roomAnim renderLayer="0">resist_2x2</roomAnim>
-				<roomAnim renderLayer="3">resist_icon</roomAnim>
 				<sysDamageResistChance>100</sysDamageResistChance>
 			</room>
 			<room id="1"> <!--clonebay-->
-				<roomAnim renderLayer="0">resist_2x2</roomAnim>
-				<roomAnim renderLayer="3">resist_icon</roomAnim>
 				<sysDamageResistChance>100</sysDamageResistChance>
 			</room>
 			<room id="2"> <!--teleporter-->
-				<roomAnim renderLayer="0">fr_room_resist_3x2</roomAnim>
-				<roomAnim renderLayer="3">resist_icon</roomAnim>
 				<sysDamageResistChance>100</sysDamageResistChance>
 			</room>
 		</rooms>
@@ -2926,6 +2910,12 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 				<icon>fr_ach_event_operator_crewkill</icon>
 				<lockImage>ach_locked</lockImage>
 			</achievement>
+			<achievement name="ACH_FR_EVENT_FLESHMAKER">
+				<name>Certificate of Completion</name>
+				<description>Fill out all of the fleshmaker's scan database.</description>
+				<icon>fr_ach_event_fleshmaker</icon>
+				<lockImage>ach_locked</lockImage>
+			</achievement>
 		</section>
 		<section text="Forgotten Diamond Renegades" hidden="false">
 			<achievement name="ACH_FR_RENEGADE_GOLDEN_DIAMOND">
@@ -2953,6 +2943,8 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 
 <variable name="forgorEnoughCrew" op="set" val="0"/>
 
+<variable name="fr_addon_installed_check_forgotten_diamonds" op="set" val="1"/>
+
 <metaVariable name="prof_r_boon_fr_metal_lanius" op="set" val="0"/>
 <metaVariable name="prof_r_boon_fr_golden" op="set" val="0"/>
 <metaVariable name="prof_r_boon_fr_copper" op="set" val="0"/>
@@ -2963,6 +2955,8 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 <metaVariable name="ach_boss_fr_metaldiamondquest" op="set" val="0"/>
 <metaVariable name="ach_boss_fr_metallaniusquest" op="set" val="0"/>
 
+<metaVariable name="fleshmaker_scan_cylvan" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_collector" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_mayeb" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_tyerel" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_ivar" op="set" val="0"/>
@@ -3141,21 +3135,21 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 <metaVariable name="fleshmaker_scan_copperlanius" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_adamantinelanius" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_mantisqueen" op="set" val="0"/>
-<metaVariable name="fleshmaker_scan_hauntslimer" op="set" val="0"/>
-<metaVariable name="fleshmaker_scan_hauntphys" op="set" val="0"/>
-<metaVariable name="fleshmaker_scan_hauntcleo" op="set" val="0"/>
-<metaVariable name="fleshmaker_scan_hauntvin" op="set" val="0"/>
-<metaVariable name="fleshmaker_scan_hauntzulu" op="set" val="0"/>
-<metaVariable name="fleshmaker_scan_hauntaleenor" op="set" val="0"/>
-<metaVariable name="fleshmaker_scan_hauntg" op="set" val="0"/>
-<metaVariable name="fleshmaker_scan_chaos_hauntsmoke" op="set" val="0"/>
-<metaVariable name="fleshmaker_scan_chaos_hauntchills" op="set" val="0"/>
-<metaVariable name="fleshmaker_scan_chaos_hauntpok" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_revenantslimer" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_revenantphys" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_revenantcleo" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_revenantvin" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_revenantzulu" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_revenantaleenor" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_revenantg" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_chaos_revenantsmoke" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_chaos_revenantchills" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_chaos_revenantpok" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_snowman" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_lavaman" op="set" val="0"/>
-<metaVariable name="fleshmaker_scan_chaos_hauntcharror" op="set" val="0"/>
-<metaVariable name="fleshmaker_scan_chaos_hauntleo" op="set" val="0"/>
-<metaVariable name="fleshmaker_scan_chaos_hauntsearak" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_chaos_revenantcharror" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_chaos_revenantleo" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_chaos_revenantsearak" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_watcher" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_aiavatar" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_errorman" op="set" val="0"/>
@@ -3166,6 +3160,11 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 <metaVariable name="fleshmaker_scan_tririac" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_spherax" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_bilvan" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_rhyme_slimer" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_y" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_deviser" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_necromantic_cognitive" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_absolute_cognitive" op="set" val="0"/>
 
 
  <!--diploma for the fleshmaker is ready-->
@@ -4516,72 +4515,72 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
     </req>
 </req>
 
-<req name="FR_FLESHMAKER_HAUNTSLIMER_LIST" type="all">
+<req name="FR_FLESHMAKER_REVENANTSLIMER_LIST" type="all">
     <name>fr_reborn_slimer</name>
     <req max_lvl="0">
-        <name>fleshmaker_scan_hauntslimer</name>
+        <name>fleshmaker_scan_revenantslimer</name>
     </req>
 </req>
 
-<req name="FR_FLESHMAKER_HAUNTPHYS_LIST" type="all">
+<req name="FR_FLESHMAKER_REVENANTPHYS_LIST" type="all">
     <name>fr_reborn_phys</name>
     <req max_lvl="0">
-        <name>fleshmaker_scan_hauntphys</name>
+        <name>fleshmaker_scan_revenantphys</name>
     </req>
 </req>
 
-<req name="FR_FLESHMAKER_HAUNTCLEO_LIST" type="all">
+<req name="FR_FLESHMAKER_REVENANTCLEO_LIST" type="all">
     <name>fr_reborn_cleo</name>
     <req max_lvl="0">
-        <name>fleshmaker_scan_hauntcleo</name>
+        <name>fleshmaker_scan_revenantcleo</name>
     </req>
 </req>
 
-<req name="FR_FLESHMAKER_HAUNTVIN_LIST" type="all">
+<req name="FR_FLESHMAKER_REVENANTVIN_LIST" type="all">
     <name>fr_reborn_vin</name>
     <req max_lvl="0">
-        <name>fleshmaker_scan_hauntvin</name>
+        <name>fleshmaker_scan_revenantvin</name>
     </req>
 </req>
 
-<req name="FR_FLESHMAKER_HAUNTZULU_LIST" type="all">
+<req name="FR_FLESHMAKER_REVENANTZULU_LIST" type="all">
     <name>fr_reborn_zulu</name>
     <req max_lvl="0">
-        <name>fleshmaker_scan_hauntzulu</name>
+        <name>fleshmaker_scan_revenantzulu</name>
     </req>
 </req>
 
-<req name="FR_FLESHMAKER_HAUNTALEENOR_LIST" type="all">
+<req name="FR_FLESHMAKER_REVENANTALEENOR_LIST" type="all">
     <name>fr_reborn_aleenor</name>
     <req max_lvl="0">
-        <name>fleshmaker_scan_hauntaleenor</name>
+        <name>fleshmaker_scan_revenantaleenor</name>
     </req>
 </req>
 
-<req name="FR_FLESHMAKER_HAUNTG_LIST" type="all">
+<req name="FR_FLESHMAKER_REVENANTG_LIST" type="all">
     <name>fr_reborn_g</name>
     <req max_lvl="0">
-        <name>fleshmaker_scan_hauntg</name>
+        <name>fleshmaker_scan_revenantg</name>
     </req>
 </req>
 
-<req name="FR_FLESHMAKER_CHAOS_HAUNTSMOKE_LIST" type="all">
+<req name="FR_FLESHMAKER_CHAOS_REVENANTSMOKE_LIST" type="all">
     <name>fr_reformed_smoke</name>
     <req max_lvl="0">
-        <name>fleshmaker_scan_chaos_hauntsmoke</name>
+        <name>fleshmaker_scan_chaos_revenantsmoke</name>
     </req>
 </req>
-<req name="FR_FLESHMAKER_CHAOS_HAUNTCHILLS_LIST" type="all">
+<req name="FR_FLESHMAKER_CHAOS_REVENANTCHILLS_LIST" type="all">
     <name>fr_reformed_chills</name>
     <req max_lvl="0">
-        <name>fleshmaker_scan_chaos_hauntchills</name>
+        <name>fleshmaker_scan_chaos_revenantchills</name>
     </req>
 </req>
 
-<req name="FR_FLESHMAKER_CHAOS_HAUNTPOK_LIST" type="all">
-    <name>FR_MORPH_HAUNT_ALL</name>
+<req name="FR_FLESHMAKER_CHAOS_REVENANTPOK_LIST" type="all">
+    <name>FR_MORPH_REVENANT_ALL</name>
     <req max_lvl="0">
-        <name>fleshmaker_scan_chaos_hauntpok</name>
+        <name>fleshmaker_scan_chaos_revenantpok</name>
     </req>
 </req>
 
@@ -4599,24 +4598,24 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
     </req>
 </req>
 
-<req name="FR_FLESHMAKER_CHAOS_HAUNTCHARROR_LIST" type="all">
+<req name="FR_FLESHMAKER_CHAOS_REVENANTCHARROR_LIST" type="all">
     <name>fr_reformed_charror</name>
     <req max_lvl="0">
-        <name>fleshmaker_scan_chaos_hauntcharror</name>
+        <name>fleshmaker_scan_chaos_revenantcharror</name>
     </req>
 </req>
 
-<req name="FR_FLESHMAKER_CHAOS_HAUNTLEO_LIST" type="all">
+<req name="FR_FLESHMAKER_CHAOS_REVENANTLEO_LIST" type="all">
     <name>fr_reformed_leo</name>
     <req max_lvl="0">
-        <name>fleshmaker_scan_chaos_hauntleo</name>
+        <name>fleshmaker_scan_chaos_revenantleo</name>
     </req>
 </req>
 
-<req name="FR_FLESHMAKER_CHAOS_HAUNTSEARAK_LIST" type="all">
+<req name="FR_FLESHMAKER_CHAOS_REVENANTSEARAK_LIST" type="all">
     <name>fr_reformed_searak</name>
     <req max_lvl="0">
-        <name>fleshmaker_scan_chaos_hauntsearak</name>
+        <name>fleshmaker_scan_chaos_revenantsearak</name>
     </req>
 </req>
 
@@ -4689,11 +4688,74 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
         <name>fleshmaker_scan_bilvan</name>
     </req>
 </req>
+
+<req name="FR_FLESHMAKER_RHYME_SLIMER_LIST" type="all">
+    <name>fr_rhyme_slimer</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_rhyme_slimer</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_CYLVAN_LIST" type="all">
+    <name>fr_unique_cylvan</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_cylvan</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_COLLECTOR_LIST" type="all">
+    <name>fr_unique_collector</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_collector</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_Y_LIST" type="all">
+    <name>fr_unique_y</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_y</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_NECROMANTIC_COGNITIVE_LIST" type="all">
+	<req type="any">
+		<name>fr_necromantic_cognitive</name>
+		<name>fr_necromantic_cognitive_beacon</name>
+	</req>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_necromantic_cognitive</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_DEVISER_LIST" type="all">
+    <name>fr_deviser</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_deviser</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ABSOLUTE_COGNITIVE_LIST" type="all">
+	<req type="any">
+		<name>fr_absolute_cognitive</name>
+		<name>fr_absolute_cognitive_auto</name>
+		<name>fr_absolute_cognitive_boarding</name>	
+	</req>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_absolute_cognitive</name>
+    </req>
+</req>
  
 
  <!--Fleshmaker Acheevo-->
  
 <req name="FR_FLESHMAKER_ALL_UNLOCKS" type="all">
+	<name>fleshmaker_scan_absolute_cognitive</name>
+	<name>fleshmaker_scan_necromantic_cognitive</name>
+	<name>fleshmaker_scan_deviser</name>
+	<name>fleshmaker_scan_y</name>
+	<name>fleshmaker_scan_collector</name>
+	<name>fleshmaker_scan_cylvan</name>
+	<name>fleshmaker_scan_rhyme_slimer</name>
 	<name>fleshmaker_scan_bilvan</name>
 	<name>fleshmaker_scan_spherax</name>
 	<name>fleshmaker_scan_tririac</name>
@@ -4877,21 +4939,21 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	<name>fleshmaker_scan_copperlanius</name>
 	<name>fleshmaker_scan_adamantinelanius</name>
 	<name>fleshmaker_scan_mantisqueen</name>
-	<name>fleshmaker_scan_hauntslimer</name>
-	<name>fleshmaker_scan_hauntphys</name>
-	<name>fleshmaker_scan_hauntcleo</name>
-	<name>fleshmaker_scan_hauntvin</name>
-	<name>fleshmaker_scan_hauntzulu</name>
-	<name>fleshmaker_scan_hauntaleenor</name>
-	<name>fleshmaker_scan_hauntg</name>
-	<name>fleshmaker_scan_chaos_hauntsmoke</name>
-	<name>fleshmaker_scan_chaos_hauntchills</name>
-	<name>fleshmaker_scan_chaos_hauntpok</name>
+	<name>fleshmaker_scan_revenantslimer</name>
+	<name>fleshmaker_scan_revenantphys</name>
+	<name>fleshmaker_scan_revenantcleo</name>
+	<name>fleshmaker_scan_revenantvin</name>
+	<name>fleshmaker_scan_revenantzulu</name>
+	<name>fleshmaker_scan_revenantaleenor</name>
+	<name>fleshmaker_scan_revenantg</name>
+	<name>fleshmaker_scan_chaos_revenantsmoke</name>
+	<name>fleshmaker_scan_chaos_revenantchills</name>
+	<name>fleshmaker_scan_chaos_revenantpok</name>
 	<name>fleshmaker_scan_snowman</name>
 	<name>fleshmaker_scan_lavaman</name>
-	<name>fleshmaker_scan_chaos_hauntcharror</name>
-	<name>fleshmaker_scan_chaos_hauntleo</name>
-	<name>fleshmaker_scan_chaos_hauntsearak</name>
+	<name>fleshmaker_scan_chaos_revenantcharror</name>
+	<name>fleshmaker_scan_chaos_revenantleo</name>
+	<name>fleshmaker_scan_chaos_revenantsearak</name>
 	<name>fleshmaker_scan_watcher</name>
 	<name>fleshmaker_scan_aiavatar</name>
 	<name>fleshmaker_scan_errorman</name>

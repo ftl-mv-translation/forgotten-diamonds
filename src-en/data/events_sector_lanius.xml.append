@@ -144,8 +144,10 @@
 	<preventQuest/>
 	<preventFleet/>
 	<quest>
-		<nebulaBeacon>false</nebulaBeacon>
+		<nebulaBeacon>true</nebulaBeacon>
 		<aggressive>2</aggressive>
+		<lastStand>true</lastStand>
+		<sectorEight>true</sectorEight>
 	</quest>
 	<beaconType id="map_icon_fr_metallanius" global="true">
 		<color r="250" g="255" b="98" a="1.0"/>
