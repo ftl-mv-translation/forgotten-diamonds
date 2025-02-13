@@ -216,6 +216,7 @@
 	<name>FR_COPPER_COMBAT_ION</name>
 	<name>FR_COPPER_COMBAT_ION_2</name>
 	<name>FR_COPPER_COMBAT_ION_3</name>
+	<name>FR_COPPER_BOARDING_DRONE</name>
 </blueprintList>
 
 <blueprintList name="FR_BLUELIST_GOLDEN_WEAPONS_INCOMPLETE">

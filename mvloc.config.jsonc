@@ -92,9 +92,9 @@
 
     "packaging": {
         "fullOriginal": [
-            "https://github.com/ftl-mv-translation/forgotten-diamonds/raw/forgotten-diamonds-english/Forgotten_Diamonds_1.6.3.zip",
+            "https://github.com/ftl-mv-translation/forgotten-diamonds/raw/forgotten-diamonds-english/Forgotten_Diamonds_1.6.4.zip",
         ],
         "prefix": "Forgotten-Diamonds",
-        "version": "1.6.3"
+        "version": "1.6.4"
     }
 }
