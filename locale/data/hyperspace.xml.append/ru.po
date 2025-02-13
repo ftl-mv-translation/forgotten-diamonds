@@ -1,17 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-13 19:33+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"forgotten-diamonds/datahyperspace-xml-append/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/hyperspace.xml.append:32
 msgid ""
@@ -19,10 +11,7 @@ msgid ""
 "append:shipIcon[1]/tooltip"
 msgstr ""
 "ЭНЕРГЕТИЧЕСКИЙ ЩИТ ВОЕННОГО ПРЕСТУПНИКА:\n"
-"Этот враг защищен усовершенствованным энергетическим щитом. Взломщик, "
-"контроль разума, абордажные дроны, телепортация и все повреждающее корпус и/"
-"или ионные орудия будут блокированы пока щит не будет отключен. Щит также "
-"удваивает время зарядки вашего ССД."
+"Этот враг защищен усовершенствованным энергетическим щитом. Взломщик, контроль разума, абордажные дроны, телепортация и все повреждающее корпус и/или ионные орудия будут блокированы пока щит не будет отключен. Щит также удваивает время зарядки вашего ССД."
 
 #: src-en/data/hyperspace.xml.append:37
 msgid ""
@@ -30,477 +19,370 @@ msgid ""
 "append:shipIcon[2]/tooltip"
 msgstr ""
 "ПРОТОКОЛ ПОДДЕРЖКИ:\n"
-"Медотсек этого противника делает его экипаж невосприимчивым к урону, пока он "
-"включен. Истощите всю энергию в нем или сломайте систему, чтобы отключить "
-"этот эффект."
+"Медотсек этого противника делает его экипаж невосприимчивым к урону, пока он включен. Истощите всю энергию в нем или сломайте систему, чтобы отключить этот эффект."
 
 #: src-en/data/hyperspace.xml.append:994
 msgid ""
-"data/hyperspace.xml.append$//mod-append:race[@name=\"fr_copper_lanius\"]/"
-"powerEffect/buttonText"
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_copper_lanius\"]/powerEffect/buttonText"
 msgstr "ОГОНЬ"
 
 #: src-en/data/hyperspace.xml.append:995
 msgid ""
-"data/hyperspace.xml.append$//mod-append:race[@name=\"fr_copper_lanius\"]/"
-"powerEffect/tooltip"
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_copper_lanius\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:40с ДЛИТЕЛЬНОСТЬ:12с]\n"
-"\t\t\tРазжигает пожар в текущем отсеке. Временно передвигается со скоростью "
-"0.8х, но удваивает производство кислорода."
+"\t\t\tРазжигает пожар в текущем отсеке. Временно передвигается со скоростью 0.8х, но удваивает производство кислорода."
 
 #: src-en/data/hyperspace.xml.append:1091
 msgid ""
-"data/hyperspace.xml.append$//mod-append:race[@name=\"fr_adamantine_lanius\"]/"
-"powerEffect/buttonText"
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_adamantine_lanius\"]/powerEffect/buttonText"
 msgstr "КОРРОЗИЯ"
 
 #: src-en/data/hyperspace.xml.append:1092
 msgid ""
-"data/hyperspace.xml.append$//mod-append:race[@name=\"fr_adamantine_lanius\"]/"
-"powerEffect/tooltip"
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_adamantine_lanius\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:5с]\n"
-"\t\t\tПолностью исцеляет ланиуса, создает пробоину и наносит 1 системный "
-"урон в текущем отсеке."
+"\t\t\tПолностью исцеляет ланиуса, создает пробоину и наносит 1 системный урон в текущем отсеке."
 
 #: src-en/data/hyperspace.xml.append:1149
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"race[@name=\"fr_copper_battledrone_1\"]/powerEffect/buttonText"
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_copper_battledrone_1\"]/powerEffect/buttonText"
 msgstr "ОГОНЬ"
 
 #: src-en/data/hyperspace.xml.append:1150
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"race[@name=\"fr_copper_battledrone_1\"]/powerEffect/tooltip"
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_copper_battledrone_1\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:15с]\n"
 "\t\t\tРазжигает пожар в занятом отсеке."
 
 #: src-en/data/hyperspace.xml.append:1190
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"race[@name=\"fr_copper_battledrone_2\"]/powerEffect/buttonText"
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_copper_battledrone_2\"]/powerEffect/buttonText"
 msgstr "ОГОНЬ"
 
 #: src-en/data/hyperspace.xml.append:1191
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"race[@name=\"fr_copper_battledrone_2\"]/powerEffect/tooltip"
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_copper_battledrone_2\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:10с]\n"
 "\t\t\tРазжигает пожар в занятом отсеке."
 
 #: src-en/data/hyperspace.xml.append:2668
-#: src-en/data/hyperspace.xml.append:2684
-msgid ""
-"data/hyperspace.xml.append$//fr_golden_lanius_1[@name=\"Sharlan\"]/@name"
+msgid "data/hyperspace.xml.append$//fr_golden_lanius_1[@name=\"Sharlan\"]/@name"
 msgstr "Шарлан"
 
 #: src-en/data/hyperspace.xml.append:2810
-#: src-en/data/hyperspace.xml.append:2826
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-append:page/"
-"section[1]/@text"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
+"append:page/section[1]/@text"
 msgstr "Блага забытых алмазов"
 
 #: src-en/data/hyperspace.xml.append:2812
-#: src-en/data/hyperspace.xml.append:2828
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/"
-"secretName"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/secretName"
 msgstr "Благо ???"
 
 #: src-en/data/hyperspace.xml.append:2813
-#: src-en/data/hyperspace.xml.append:2829
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/secretDescription"
 msgstr "Получите благо ??? от Сеста."
 
 #: src-en/data/hyperspace.xml.append:2814
-#: src-en/data/hyperspace.xml.append:2830
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/name"
 msgstr "Благо алмазов"
 
 #: src-en/data/hyperspace.xml.append:2815
-#: src-en/data/hyperspace.xml.append:2831
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/description"
 msgstr ""
 "Покажите алмазный экипаж любого типа Сесту. \n"
-"\t\t\t\tПока действует: Ваш металлический алмазный экипаж может проходить "
-"сквозь двери и увеличивает на 20% скорость передвижения."
+"\t\t\t\tПока действует: Ваш металлический алмазный экипаж может проходить сквозь двери и увеличивает на 20% скорость передвижения."
 
 #: src-en/data/hyperspace.xml.append:2817
-#: src-en/data/hyperspace.xml.append:2833
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/header"
 msgstr "Благо получено"
 
 #: src-en/data/hyperspace.xml.append:2823
-#: src-en/data/hyperspace.xml.append:2839
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/"
-"secretName"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/secretName"
 msgstr "Благо ???"
 
 #: src-en/data/hyperspace.xml.append:2824
-#: src-en/data/hyperspace.xml.append:2840
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/secretDescription"
 msgstr "Получите благо ??? от Сеста."
 
 #: src-en/data/hyperspace.xml.append:2825
-#: src-en/data/hyperspace.xml.append:2841
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/name"
 msgstr "Благословение операторов"
 
 #: src-en/data/hyperspace.xml.append:2826
-#: src-en/data/hyperspace.xml.append:2842
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/description"
 msgstr ""
 "Покажите Сесту экипаж операторов любого типа. \n"
-"\t\t\t\tПока действует: Ваши операторы будут взламывать двери отсеков, в "
-"которых они находятся, находясь на вражеских кораблях."
+"\t\t\t\tПока действует: Ваши операторы будут взламывать двери отсеков, в которых они находятся, находясь на вражеских кораблях."
 
 #: src-en/data/hyperspace.xml.append:2828
-#: src-en/data/hyperspace.xml.append:2844
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/header"
 msgstr "Благо получено"
 
 #: src-en/data/hyperspace.xml.append:2834
-#: src-en/data/hyperspace.xml.append:2850
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/"
-"secretName"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/secretName"
 msgstr "Благо ???"
 
 #: src-en/data/hyperspace.xml.append:2835
-#: src-en/data/hyperspace.xml.append:2851
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/secretDescription"
 msgstr "Получите благо ??? от Сеста."
 
 #: src-en/data/hyperspace.xml.append:2836
-#: src-en/data/hyperspace.xml.append:2852
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/"
-"name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/name"
 msgstr "Благо сплавов"
 
 #: src-en/data/hyperspace.xml.append:2837
-#: src-en/data/hyperspace.xml.append:2853
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/description"
 msgstr ""
 "Покажите экипаж металлических ланиусов Сесту. \n"
-"\t\t\t\tПока действует: Весь экипаж металлических ланиусов сопротивляется "
-"контролю разума и может видеть соседние отсеки."
+"\t\t\t\tПока действует: Весь экипаж металлических ланиусов сопротивляется контролю разума и может видеть соседние отсеки."
 
 #: src-en/data/hyperspace.xml.append:2839
-#: src-en/data/hyperspace.xml.append:2855
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/header"
 msgstr "Благо получено"
 
 #: src-en/data/hyperspace.xml.append:2845
-#: src-en/data/hyperspace.xml.append:2861
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-append:page/"
-"section[2]/@text"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
+"append:page/section[2]/@text"
 msgstr "Благословения забытых алмазов"
 
 #: src-en/data/hyperspace.xml.append:2847
-#: src-en/data/hyperspace.xml.append:2863
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/"
-"secretName"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/secretName"
 msgstr "Благословение ???"
 
 #: src-en/data/hyperspace.xml.append:2848
-#: src-en/data/hyperspace.xml.append:2864
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/secretDescription"
 msgstr "Получите благословение ??? от Уэйксона."
 
 #: src-en/data/hyperspace.xml.append:2849
-#: src-en/data/hyperspace.xml.append:2865
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/name"
 msgstr "Благословение богатства"
 
 #: src-en/data/hyperspace.xml.append:2850
-#: src-en/data/hyperspace.xml.append:2866
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/description"
 msgstr ""
 "Покажите Уэйксону золотое орудие. \n"
 "\t\t\t\tПока действует: Вы получаете на 10% больше лома."
 
 #: src-en/data/hyperspace.xml.append:2852
-#: src-en/data/hyperspace.xml.append:2868
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/header"
 msgstr "Благословение получено"
 
 #: src-en/data/hyperspace.xml.append:2858
-#: src-en/data/hyperspace.xml.append:2874
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/"
-"secretName"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/secretName"
 msgstr "Благословение ???"
 
 #: src-en/data/hyperspace.xml.append:2859
-#: src-en/data/hyperspace.xml.append:2875
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/name"
 msgstr "Благословение ржавчины"
 
 #: src-en/data/hyperspace.xml.append:2860
-#: src-en/data/hyperspace.xml.append:2876
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/description"
 msgstr ""
 "Покажите медный дрон Уэйксону. \n"
-"\t\t\t\tПока действует: Ваши боевые дроны возвращаются после боев, если не "
-"уничтожены."
+"\t\t\t\tПока действует: Ваши боевые дроны возвращаются после боев, если не уничтожены."
 
 #: src-en/data/hyperspace.xml.append:2862
-#: src-en/data/hyperspace.xml.append:2878
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/secretDescription"
 msgstr "Получите благословение ??? от Уэйксона."
 
 #: src-en/data/hyperspace.xml.append:2863
-#: src-en/data/hyperspace.xml.append:2879
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/header"
 msgstr "Благословение получено"
 
 #: src-en/data/hyperspace.xml.append:2869
-#: src-en/data/hyperspace.xml.append:2885
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/"
-"name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/name"
 msgstr "Благословение клонирования"
 
 #: src-en/data/hyperspace.xml.append:2870
-#: src-en/data/hyperspace.xml.append:2886
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/"
-"secretName"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/secretName"
 msgstr "Благословение ???"
 
 #: src-en/data/hyperspace.xml.append:2871
-#: src-en/data/hyperspace.xml.append:2887
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/secretDescription"
 msgstr "Получите благословение ??? от Уэйксона."
 
 #: src-en/data/hyperspace.xml.append:2872
-#: src-en/data/hyperspace.xml.append:2888
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/description"
 msgstr ""
 "Покажите Творец плоти Уэйксону. \n"
-"\t\t\t\tПока действует: Ваш экипаж не теряет навыков при клонировании, и "
-"начинает с 1-го уровня всех навыков."
+"\t\t\t\tПока действует: Ваш экипаж не теряет навыков при клонировании, и начинает с 1-го уровня всех навыков."
 
 #: src-en/data/hyperspace.xml.append:2874
-#: src-en/data/hyperspace.xml.append:2890
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/header"
 msgstr "Благословение получено"
 
 #: src-en/data/hyperspace.xml.append:2880
-#: src-en/data/hyperspace.xml.append:2896
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-append:page/"
-"section[3]/@text"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
+"append:page/section[3]/@text"
 msgstr "События забытых алмазов"
 
 #: src-en/data/hyperspace.xml.append:2882
-#: src-en/data/hyperspace.xml.append:2898
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/name"
 msgstr "Разбитое око"
 
 #: src-en/data/hyperspace.xml.append:2883
-#: src-en/data/hyperspace.xml.append:2899
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/"
-"secretName"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/secretName"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:2884
-#: src-en/data/hyperspace.xml.append:2900
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/description"
 msgstr ""
 "Убейте последнего оператора на разбитом пирамидальном кораблей в глубине "
 "пространства повстанцев."
 
 #: src-en/data/hyperspace.xml.append:2885
-#: src-en/data/hyperspace.xml.append:2901
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/"
-"secretDescription"
-msgstr "Уничтожьте последний оставшийся экипаж странного треугольного корабля."
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/secretDescription"
+msgstr ""
+"Уничтожьте последний оставшийся экипаж странного треугольного корабля."
 
 #: src-en/data/hyperspace.xml.append:2890
-#: src-en/data/hyperspace.xml.append:2906
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/name"
 msgstr "Могущественный союзник"
 
 #: src-en/data/hyperspace.xml.append:2891
-#: src-en/data/hyperspace.xml.append:2907
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/"
-"secretName"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/secretName"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:2892
-#: src-en/data/hyperspace.xml.append:2908
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/description"
 msgstr ""
 "Спасите Шарлана и помогите ему убить всех мутировавших ланиусов на его "
 "корабле."
 
 #: src-en/data/hyperspace.xml.append:2893
-#: src-en/data/hyperspace.xml.append:2909
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/secretDescription"
 msgstr "Спасите и помогите странному ланиусу вернуть свой корабль."
 
 #: src-en/data/hyperspace.xml.append:2898
-#: src-en/data/hyperspace.xml.append:2914
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/name"
 msgstr "Во имя великого блага"
 
 #: src-en/data/hyperspace.xml.append:2899
-#: src-en/data/hyperspace.xml.append:2915
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/secretName"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/secretName"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:2900
-#: src-en/data/hyperspace.xml.append:2916
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/description"
 msgstr "Примите предложение оператора."
 
 #: src-en/data/hyperspace.xml.append:2901
-#: src-en/data/hyperspace.xml.append:2917
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/secretDescription"
 msgstr ""
 "Встретьте странный медный корабль в глубине родных миров валунов и "
 "согласитесь на предлагаемую сделку."
 
 #: src-en/data/hyperspace.xml.append:2906
-#: src-en/data/hyperspace.xml.append:2922
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/name"
 msgstr "Проблема привязанности"
 
 #: src-en/data/hyperspace.xml.append:2907
-#: src-en/data/hyperspace.xml.append:2923
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/secretName"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/secretName"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:2908
-#: src-en/data/hyperspace.xml.append:2924
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/description"
 msgstr "Откажитесь от сделки с оператором и убейте его."
 
 #: src-en/data/hyperspace.xml.append:2909
-#: src-en/data/hyperspace.xml.append:2925
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/secretDescription"
 msgstr ""
 "Встретьте странный медный корабль в глубине родных миров валунов и, "
 "отказавшись от сделки, примите агрессивное решение."
 
 #: src-en/data/hyperspace.xml.append:2914
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_FLESHMAKER\"]/"
-"name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_FLESHMAKER\"]/name"
 msgstr "Сертификат об окончании"
 
 #: src-en/data/hyperspace.xml.append:2915
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_FLESHMAKER\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_FLESHMAKER\"]/description"
 msgstr "Заполните всю базу данных Творца плоти."
 
 #: src-en/data/hyperspace.xml.append:2920
-#: src-en/data/hyperspace.xml.append:2930
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-append:page/"
-"section[4]/@text"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
+"append:page/section[4]/@text"
 msgstr "Ренегаты забытых алмазов"
 
 #: src-en/data/hyperspace.xml.append:2922
-#: src-en/data/hyperspace.xml.append:2932
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/name"
 msgstr "Золотое сияние"
 
 #: src-en/data/hyperspace.xml.append:2923
-#: src-en/data/hyperspace.xml.append:2933
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/description"
-msgstr "Победите золото-алмазного Ренегата и получите золотую осколочную пушку."
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/description"
+msgstr ""
+"Победите золото-алмазного Ренегата и получите золотую осколочную пушку."
 
 #: src-en/data/hyperspace.xml.append:2924
-#: src-en/data/hyperspace.xml.append:2934
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/secretDescription"
 msgstr "Победите Ренегата ??? и получите прототип."
 
 #: src-en/data/hyperspace.xml.append:2926
-#: src-en/data/hyperspace.xml.append:2936
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/header"
 msgstr "Ренегат побежден"

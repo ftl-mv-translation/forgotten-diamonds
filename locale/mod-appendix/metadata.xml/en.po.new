@@ -10,11 +10,10 @@ msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
 msgstr "FTL: MULTIVERSE - FORGOTTEN RACES - DIAMOND ADDON"
 
 #: src-en/mod-appendix/metadata.xml:6
-#, fuzzy
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
 msgstr ""
-"PATCH APRÈS MULTIVERSE, NÉCESSITE INFERNO CORE 1.2+, FORGOTTEN RACES ET THE RENEGADE COLLECTION, PATCHER LES DEUX AVANT FR\n"
+"PATCH AFTER MULTIVERSE, REQUIRES FUSION 0.1.0+, FORGOTTEN RACES AND THE RENEGADE COLLECTION, PATCH BOTH OF THOSE BEFORE FR\n"
 "\n"
-"Ce mod est fondamentalement tout le contenu doré, en cuivre et en adamantine qui faisait partie des races oubliées mais ne correspondait tout simplement pas au but du mod, donc maintenant il est ici.\n"
+"This mod is basically all the golden, copper and adamantine content that used to be part of forgotten races but simply didn't fit the goal of the mod, so now it's here.\n"
 "\n"
-"Fonctionne avec Multiverse 5.4.X"
+"Works with Multiverse 5.4.X"

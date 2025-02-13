@@ -5,37 +5,37 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src-en/data/autoBlueprints.xml.append:530
+#: src-en/data/autoBlueprints.xml.append:531
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_BOSS_QUEST_METAL_LANIUS_CRUISER\"]/class"
 msgstr "Металлический крейсер"
 
-#: src-en/data/autoBlueprints.xml.append:557
+#: src-en/data/autoBlueprints.xml.append:558
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_BOSS_QUEST_METAL_DIAMOND_CRUISER\"]/class"
 msgstr "Металлический пирамидальный крейсер"
 
-#: src-en/data/autoBlueprints.xml.append:584
+#: src-en/data/autoBlueprints.xml.append:585
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_BOSS_QUEST_OPERATOR_CRUISER\"]/class"
 msgstr "Медный корабль?"
 
-#: src-en/data/autoBlueprints.xml.append:628
+#: src-en/data/autoBlueprints.xml.append:629
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_MULTIVERSE_GOLDEN_DIAMOND_NORMAL\"]/class"
 msgstr "Крейсер Ренегатов"
 
-#: src-en/data/autoBlueprints.xml.append:652
+#: src-en/data/autoBlueprints.xml.append:653
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_MULTIVERSE_GOLDEN_DIAMOND_CHALLENGE\"]/class"
 msgstr "Крейсер Ренегатов"
 
-#: src-en/data/autoBlueprints.xml.append:676
+#: src-en/data/autoBlueprints.xml.append:677
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_MULTIVERSE_GOLDEN_DIAMOND_EXTREME\"]/class"
 msgstr "Крейсер Ренегатов"
 
-#: src-en/data/autoBlueprints.xml.append:701
+#: src-en/data/autoBlueprints.xml.append:702
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_MULTIVERSE_GOLDEN_DIAMOND_CHAOS\"]/class"
 msgstr "Крейсер Ренегатов"

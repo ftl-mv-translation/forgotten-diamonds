@@ -1,0 +1,70 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_ships.xml.append:5
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_LANIUS_CRUISER\"]/destroyed/text"
+msgstr ""
+"The ship breaks in half shortly before the volatile fuel explodes, taking "
+"out any of the remaining lanius inside it. You scrap what you can from the "
+"ship and go look for Sharlan."
+
+#: src-en/data/events_ships.xml.append:8
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_LANIUS_CRUISER\"]/destroyed/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_ships.xml.append:13
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_LANIUS_CRUISER\"]/deadCrew/text"
+msgstr ""
+"You've exterminated all the lanius from the ship without destroying it! You "
+"scrap what you can from the debris and look for Sharlan."
+
+#: src-en/data/events_ships.xml.append:16
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_LANIUS_CRUISER\"]/deadCrew/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_ships.xml.append:28
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_DIAMOND_CRUISER\"]/destroyed/text"
+msgstr ""
+"The ship breaks apart and slowly disintegrates into a golden cloud, leaving "
+"barely anything behind to salvage."
+
+#: src-en/data/events_ships.xml.append:32
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_DIAMOND_CRUISER\"]/deadCrew/text"
+msgstr ""
+"You managed to kill the Operator, and with its death the ship's weapons "
+"power down. You are now free to explore the ship and see what that alien was"
+" guarding."
+
+#: src-en/data/events_ships.xml.append:35
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_DIAMOND_CRUISER\"]/deadCrew/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_ships.xml.append:43
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_OPERATOR_CRUISER\"]/destroyed/text"
+msgstr ""
+"The ship breaks apart and slowly disintegrates into a copper cloud, leaving "
+"barely anything behind to salvage."
+
+#: src-en/data/events_ships.xml.append:47
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_OPERATOR_CRUISER\"]/deadCrew/text"
+msgstr ""
+"You managed to kill the Operators, and with its death the ship's drones "
+"power down. You are now free to explore the ship and seize the blueprints."
+
+#: src-en/data/events_ships.xml.append:50
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_OPERATOR_CRUISER\"]/deadCrew/choice/text"
+msgstr "Continue..."
