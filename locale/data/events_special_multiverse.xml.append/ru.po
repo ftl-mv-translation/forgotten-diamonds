@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-14 02:08+0000\n"
+"PO-Revision-Date: 2025-03-30 04:49+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_multiversexmlappend/ru/>\n"
@@ -44,8 +44,8 @@ msgstr "Приготовиться к бою!"
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/choice[1]/event/text"
 msgstr ""
-"\"ТВОЙ КОРАБЛЬ! НА НЕМ ЕСТЬ ЛОМ! БЛЕСТЯЩИЙ БЛЕСТЯЩИЙ БЛЕСТЯЩИЙ БЛЕСТЯЩИЙ "
-"ЛОМ! СДЕЛАЙ ТАК, ЧТОБЫ СЛЕПОТА ИСЧЕЗЛА!\""
+"\"ТВОЙ КОРАБЛЬ! НА НЕМ ЕСТЬ ЛОМ! БЛЕСТЯЩИЙ БЛЕСТЯЩИЙ БЛЕСТЯЩИЙ ЛОМ! СДЕЛАЙ "
+"ТАК, ЧТОБЫ СЛЕПОТА ИСЧЕЗЛА!\""
 
 #: src-en/data/events_special_multiverse.xml.append:76
 msgid ""
@@ -100,8 +100,8 @@ msgstr "Приготовиться к бою!"
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[1]/event/text"
 msgstr ""
-"\"ТВОЙ КОРАБЛЬ! НА НЕМ ЕСТЬ ЛОМ! БЛЕСТЯЩИЙ БЛЕСТЯЩИЙ БЛЕСТЯЩИЙ БЛЕСТЯЩИЙ "
-"ЛОМ! СДЕЛАЙ ТАК, ЧТОБЫ СЛЕПОТА ИСЧЕЗЛА!\""
+"\"ТВОЙ КОРАБЛЬ! НА НЕМ ЕСТЬ ЛОМ! БЛЕСТЯЩИЙ БЛЕСТЯЩИЙ БЛЕСТЯЩИЙ ЛОМ! СДЕЛАЙ "
+"ТАК, ЧТОБЫ СЛЕПОТА ИСЧЕЗЛА!\""
 
 #: src-en/data/events_special_multiverse.xml.append:112
 msgid ""
@@ -156,8 +156,8 @@ msgstr "Приготовиться к бою!"
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/choice[1]/event/text"
 msgstr ""
-"\"ТВОЙ КОРАБЛЬ! НА НЕМ ЕСТЬ ЛОМ! БЛЕСТЯЩИЙ БЛЕСТЯЩИЙ БЛЕСТЯЩИЙ БЛЕСТЯЩИЙ "
-"ЛОМ! СДЕЛАЙ ТАК, ЧТОБЫ СЛЕПОТА ИСЧЕЗЛА!\""
+"\"ТВОЙ КОРАБЛЬ! НА НЕМ ЕСТЬ ЛОМ! БЛЕСТЯЩИЙ БЛЕСТЯЩИЙ БЛЕСТЯЩИЙ ЛОМ! СДЕЛАЙ "
+"ТАК, ЧТОБЫ СЛЕПОТА ИСЧЕЗЛА!\""
 
 #: src-en/data/events_special_multiverse.xml.append:148
 msgid ""
@@ -200,8 +200,8 @@ msgstr "Приготовиться к бою!"
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[1]/event/text"
 msgstr ""
-"\"ТВОЙ КОРАБЛЬ! НА НЕМ ЕСТЬ ЛОМ! БЛЕСТЯЩИЙ БЛЕСТЯЩИЙ БЛЕСТЯЩИЙ БЛЕСТЯЩИЙ "
-"ЛОМ! СДЕЛАЙ ТАК, ЧТОБЫ СЛЕПОТА ИСЧЕЗЛА!\""
+"\"ТВОЙ КОРАБЛЬ! НА НЕМ ЕСТЬ ЛОМ! БЛЕСТЯЩИЙ БЛЕСТЯЩИЙ БЛЕСТЯЩИЙ ЛОМ! СДЕЛАЙ "
+"ТАК, ЧТОБЫ СЛЕПОТА ИСЧЕЗЛА!\""
 
 #: src-en/data/events_special_multiverse.xml.append:175
 msgid ""
