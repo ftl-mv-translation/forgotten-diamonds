@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-18 11:19+0000\n"
+"PO-Revision-Date: 2025-04-04 12:09+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgotten-diamonds/"
 "dataevents_fr_special_fleshmakerxml/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.8.1\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4
 msgid ""
@@ -795,7 +795,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:673
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SYMBIOTE_LIST\"]/text"
-msgstr ""
+msgstr "Enregistrer le Symbiote"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:675
 msgid ""
