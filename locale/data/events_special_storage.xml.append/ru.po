@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-02 10:09+0000\n"
+"PO-Revision-Date: 2025-04-08 17:09+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_special_storagexmlappend/ru/>\n"
@@ -1401,7 +1401,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1254
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[2]/text"
-msgstr "Переделать 8 боеголовки в 5 дрон-комплектов."
+msgstr "Переделать 8 боеголовок в 5 дрон-комплектов."
 
 #: src-en/data/events_special_storage.xml.append:1260
 msgid ""
