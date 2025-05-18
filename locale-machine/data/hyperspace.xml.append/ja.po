@@ -1,0 +1,378 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/hyperspace.xml.append:32
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[2]/mod:findLike/mod-"
+"append:shipIcon[1]/tooltip"
+msgstr ""
+"戦争犯罪エネルギーシールド：\n"
+"この敵は、高度なエネルギーシールドによって保護されています。ハッキング、マインドコントロール、搭乗ドローン、テレポート、およびすべての船体損傷および/またはイオン武器はすべて、無効になるまでブロックされます。シールドは、FTLが充電するのにかかる時間も2倍になります。"
+
+#: src-en/data/hyperspace.xml.append:37
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[2]/mod:findLike/mod-"
+"append:shipIcon[2]/tooltip"
+msgstr ""
+"Sustain Protocol：\n"
+"この敵のメドベイは、乗組員が電源を入れているときにダメージを受けないようにしています。"
+
+#: src-en/data/hyperspace.xml.append:994
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_copper_lanius\"]/powerEffect/buttonText"
+msgstr "炎"
+
+#: src-en/data/hyperspace.xml.append:995
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_copper_lanius\"]/powerEffect/tooltip"
+msgstr ""
+"[CD：40秒の期間：12秒]\n"
+"現在の部屋で火災を起こします。一時的に0.8速度で移動しますが、O2生産は2倍になります。"
+
+#: src-en/data/hyperspace.xml.append:1091
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_adamantine_lanius\"]/powerEffect/buttonText"
+msgstr "腐食"
+
+#: src-en/data/hyperspace.xml.append:1092
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_adamantine_lanius\"]/powerEffect/tooltip"
+msgstr ""
+"[CD：5s]\n"
+"ラニウスを完全に癒し、違反を作成し、現在の部屋に1つのシステムの損傷を扱います。"
+
+#: src-en/data/hyperspace.xml.append:1149
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_copper_battledrone_1\"]/powerEffect/buttonText"
+msgstr "炎"
+
+#: src-en/data/hyperspace.xml.append:1150
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_copper_battledrone_1\"]/powerEffect/tooltip"
+msgstr ""
+"[クールダウン：15秒]\n"
+"占有された部屋で火を開始します。"
+
+#: src-en/data/hyperspace.xml.append:1190
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_copper_battledrone_2\"]/powerEffect/buttonText"
+msgstr "炎"
+
+#: src-en/data/hyperspace.xml.append:1191
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"fr_copper_battledrone_2\"]/powerEffect/tooltip"
+msgstr ""
+"[クールダウン：10秒]\n"
+"占有された部屋で火を開始します。"
+
+#: src-en/data/hyperspace.xml.append:2668
+msgid "data/hyperspace.xml.append$//fr_golden_lanius_1[@name=\"Sharlan\"]/@name"
+msgstr "シャーラン"
+
+#: src-en/data/hyperspace.xml.append:2810
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
+"append:page/section[1]/@text"
+msgstr "忘れられたダイヤモンドブーン"
+
+#: src-en/data/hyperspace.xml.append:2812
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/secretName"
+msgstr "の恩恵？"
+
+#: src-en/data/hyperspace.xml.append:2813
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/secretDescription"
+msgstr "の恩恵を受け取りますか？最大から。"
+
+#: src-en/data/hyperspace.xml.append:2814
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/name"
+msgstr "ダイヤモンドの恩恵"
+
+#: src-en/data/hyperspace.xml.append:2815
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/description"
+msgstr ""
+"あらゆるタイプのダイヤモンドクルーを最も表示します。\n"
+"事実上;メタルダイヤモンドの乗組員は、ドアを介して段階的に段階的になり、20％の移動速度を獲得できます。"
+
+#: src-en/data/hyperspace.xml.append:2817
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/header"
+msgstr "ブーンが受け取った"
+
+#: src-en/data/hyperspace.xml.append:2823
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/secretName"
+msgstr "の恩恵？"
+
+#: src-en/data/hyperspace.xml.append:2824
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/secretDescription"
+msgstr "の恩恵を受け取りますか？最大から。"
+
+#: src-en/data/hyperspace.xml.append:2825
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/name"
+msgstr "オペレーターの恩恵"
+
+#: src-en/data/hyperspace.xml.append:2826
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/description"
+msgstr ""
+"あらゆるタイプのオペレーターの乗組員を最も表示します。\n"
+"事実上;オペレーターは、敵の船にいる間に立っている部屋のドアをハッキングします。"
+
+#: src-en/data/hyperspace.xml.append:2828
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/header"
+msgstr "ブーンが受け取った"
+
+#: src-en/data/hyperspace.xml.append:2834
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/secretName"
+msgstr "の恩恵？"
+
+#: src-en/data/hyperspace.xml.append:2835
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/secretDescription"
+msgstr "の恩恵を受け取りますか？最大から。"
+
+#: src-en/data/hyperspace.xml.append:2836
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/name"
+msgstr "合金の恩恵"
+
+#: src-en/data/hyperspace.xml.append:2837
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/description"
+msgstr ""
+"金属のラニウスの乗組員を最も見せてください。\n"
+"事実上;すべての金属のラニウスの乗組員は、マインドコントロールに抵抗する隣接する部屋を見ることができます。"
+
+#: src-en/data/hyperspace.xml.append:2839
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/header"
+msgstr "ブーンが受け取った"
+
+#: src-en/data/hyperspace.xml.append:2845
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
+"append:page/section[2]/@text"
+msgstr "忘れられたダイヤモンドの祝福"
+
+#: src-en/data/hyperspace.xml.append:2847
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/secretName"
+msgstr "の祝福？"
+
+#: src-en/data/hyperspace.xml.append:2848
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/secretDescription"
+msgstr "の祝福を受け取りますか？ウェイクソンから。"
+
+#: src-en/data/hyperspace.xml.append:2849
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/name"
+msgstr "豪華さの祝福"
+
+#: src-en/data/hyperspace.xml.append:2850
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/description"
+msgstr ""
+"ウェイクソンに黄金の武器を見せてください。\n"
+"事実上;スクラップが10％増加します。"
+
+#: src-en/data/hyperspace.xml.append:2852
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/header"
+msgstr "祝福を受けた"
+
+#: src-en/data/hyperspace.xml.append:2858
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/secretName"
+msgstr "の祝福？"
+
+#: src-en/data/hyperspace.xml.append:2859
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/name"
+msgstr "錆びの祝福"
+
+#: src-en/data/hyperspace.xml.append:2860
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/description"
+msgstr ""
+"銅ドローンをウェイクソンに見せます。\n"
+"事実上;戦闘ドローンは、破壊されなければ、戦いの後に回収されます。"
+
+#: src-en/data/hyperspace.xml.append:2862
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/secretDescription"
+msgstr "の祝福を受け取りますか？ウェイクソンから。"
+
+#: src-en/data/hyperspace.xml.append:2863
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/header"
+msgstr "祝福を受けた"
+
+#: src-en/data/hyperspace.xml.append:2869
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/name"
+msgstr "クローニングの祝福"
+
+#: src-en/data/hyperspace.xml.append:2870
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/secretName"
+msgstr "の祝福？"
+
+#: src-en/data/hyperspace.xml.append:2871
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/secretDescription"
+msgstr "の祝福を受け取りますか？ウェイクソンから。"
+
+#: src-en/data/hyperspace.xml.append:2872
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/description"
+msgstr ""
+"肉体をウェイクソンに見せてください。\n"
+"事実上;クルーはクローン化されることからスキルを失うことはなく、すべてのスキルにおける少なくともレベル1から始まります。"
+
+#: src-en/data/hyperspace.xml.append:2874
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/header"
+msgstr "祝福を受けた"
+
+#: src-en/data/hyperspace.xml.append:2880
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
+"append:page/section[3]/@text"
+msgstr "忘れられたダイヤモンドイベント"
+
+#: src-en/data/hyperspace.xml.append:2882
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/name"
+msgstr "壊れた目"
+
+#: src-en/data/hyperspace.xml.append:2883
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/secretName"
+msgstr "???"
+
+#: src-en/data/hyperspace.xml.append:2884
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/description"
+msgstr "壊れたピラミッド船内の最後のオペレーターを反乱軍の奥深くで殺します。"
+
+#: src-en/data/hyperspace.xml.append:2885
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/secretDescription"
+msgstr "奇妙な三角形の船内に残っている最後の乗組員を取り除きます。"
+
+#: src-en/data/hyperspace.xml.append:2890
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/name"
+msgstr "恐ろしい同盟国"
+
+#: src-en/data/hyperspace.xml.append:2891
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/secretName"
+msgstr "???"
+
+#: src-en/data/hyperspace.xml.append:2892
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/description"
+msgstr "シャルランを救助し、彼が彼の船からすべての変異したラニウスを取り除くのを手伝ってください。"
+
+#: src-en/data/hyperspace.xml.append:2893
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/secretDescription"
+msgstr "奇妙なラニウスが船を取り戻すのを助けてください。"
+
+#: src-en/data/hyperspace.xml.append:2898
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/name"
+msgstr "より良いことのために"
+
+#: src-en/data/hyperspace.xml.append:2899
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/secretName"
+msgstr "???"
+
+#: src-en/data/hyperspace.xml.append:2900
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/description"
+msgstr "オペレーターの取引をしてください。"
+
+#: src-en/data/hyperspace.xml.append:2901
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/secretDescription"
+msgstr "岩の故郷の奥深くで奇妙な銅の船に会い、提供される取引をしてください。"
+
+#: src-en/data/hyperspace.xml.append:2906
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/name"
+msgstr "添付ファイルの問題"
+
+#: src-en/data/hyperspace.xml.append:2907
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/secretName"
+msgstr "???"
+
+#: src-en/data/hyperspace.xml.append:2908
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/description"
+msgstr "代わりにオペレーターの取引を拒否し、それらを殺してください。"
+
+#: src-en/data/hyperspace.xml.append:2909
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/secretDescription"
+msgstr "岩の故郷の奥深くで奇妙な銅の船に会い、彼らの取引を拒否した後、攻撃的なアプローチを取ってください。"
+
+#: src-en/data/hyperspace.xml.append:2914
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_FLESHMAKER\"]/name"
+msgstr "修了証明書"
+
+#: src-en/data/hyperspace.xml.append:2915
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_FLESHMAKER\"]/description"
+msgstr "すべての肉体メーカーのスキャンデータベースに記入します。"
+
+#: src-en/data/hyperspace.xml.append:2920
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
+"append:page/section[4]/@text"
+msgstr "忘れられたダイヤモンドの反逆者"
+
+#: src-en/data/hyperspace.xml.append:2922
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/name"
+msgstr "ゴールデングロー"
+
+#: src-en/data/hyperspace.xml.append:2923
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/description"
+msgstr "ゴールデンダイヤモンドの反逆者を倒して、ゴールデンフラックガンを手に入れましょう。"
+
+#: src-en/data/hyperspace.xml.append:2924
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/secretDescription"
+msgstr "敗北しますか？反逆者とその略奪品を手に入れます。"
+
+#: src-en/data/hyperspace.xml.append:2926
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/header"
+msgstr "レネゲイドは敗北した"

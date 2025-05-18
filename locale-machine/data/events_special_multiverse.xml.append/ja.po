@@ -1,0 +1,346 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_multiverse.xml.append:63
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/text"
+msgstr ""
+"トンネルの外から、あなたが今まで見たことのないデザインの大規模な巡洋艦船があります！この船は非常に光沢がありますが、同時にその形式はやや脅迫的に見えます。この独特の船の船長はあなたを呼び起こします。"
+
+#: src-en/data/events_special_multiverse.xml.append:67
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:69
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/text"
+msgstr "「Wはそこにいますか？！私はあなたが見えません！"
+
+#: src-en/data/events_special_multiverse.xml.append:71
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:73
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/choice[1]/event/text"
+msgstr "「あなたの船！それはスクラップを持っています！光沢のある光沢のある光沢のあるスクラップ！"
+
+#: src-en/data/events_special_multiverse.xml.append:76
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:82
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/choice[2]/text"
+msgstr "キャプテンをスクラップでそらします。"
+
+#: src-en/data/events_special_multiverse.xml.append:84
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/choice[2]/event/text"
+msgstr "エアロックから大量のスクラップを捨てて、エンジンをできるだけ早く飛び去るように設定します。"
+
+#: src-en/data/events_special_multiverse.xml.append:91
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
+msgstr "戦闘を避けるためにあなたの祝福を使用してください。"
+
+#: src-en/data/events_special_multiverse.xml.append:99
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/text"
+msgstr ""
+"トンネルの外から、あなたが今まで見たことのないデザインの大規模な巡洋艦船があります！この船は非常に光沢がありますが、同時にその形式はやや脅迫的に見えます。この独特の船の船長はあなたを呼び起こします。"
+
+#: src-en/data/events_special_multiverse.xml.append:103
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:105
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/text"
+msgstr "「Wはそこにいますか？！私はあなたが見えません！"
+
+#: src-en/data/events_special_multiverse.xml.append:107
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:109
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[1]/event/text"
+msgstr "「あなたの船！それはスクラップを持っています！光沢のある光沢のある光沢のあるスクラップ！"
+
+#: src-en/data/events_special_multiverse.xml.append:112
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:118
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[2]/text"
+msgstr "キャプテンをスクラップでそらします。"
+
+#: src-en/data/events_special_multiverse.xml.append:120
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[2]/event/text"
+msgstr "エアロックから大量のスクラップを捨てて、エンジンをできるだけ早く飛び去るように設定します。"
+
+#: src-en/data/events_special_multiverse.xml.append:127
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
+msgstr "戦闘を避けるためにあなたの祝福を使用してください。"
+
+#: src-en/data/events_special_multiverse.xml.append:135
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/text"
+msgstr ""
+"トンネルの外から、あなたが今まで見たことのないデザインの大規模な巡洋艦船があります！この船は非常に光沢がありますが、同時にその形式はやや脅迫的に見えます。この独特の船の船長はあなたを呼び起こします。"
+
+#: src-en/data/events_special_multiverse.xml.append:139
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:141
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/text"
+msgstr "「Wはそこにいますか？！私はあなたが見えません！"
+
+#: src-en/data/events_special_multiverse.xml.append:143
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:145
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/choice[1]/event/text"
+msgstr "「あなたの船！それはスクラップを持っています！光沢のある光沢のある光沢のあるスクラップ！"
+
+#: src-en/data/events_special_multiverse.xml.append:148
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:154
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
+msgstr "戦闘を避けるためにあなたの祝福を使用してください。"
+
+#: src-en/data/events_special_multiverse.xml.append:162
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/text"
+msgstr ""
+"トンネルの外から、あなたが今まで見たことのないデザインの大規模な巡洋艦船があります！この船は非常に光沢がありますが、同時にその形式はやや脅迫的に見えます。この独特の船の船長はあなたを呼び起こします。"
+
+#: src-en/data/events_special_multiverse.xml.append:166
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:168
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/text"
+msgstr "「Wはそこにいますか？！私はあなたが見えません！"
+
+#: src-en/data/events_special_multiverse.xml.append:170
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:172
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[1]/event/text"
+msgstr "「あなたの船！それはスクラップを持っています！光沢のある光沢のある光沢のあるスクラップ！"
+
+#: src-en/data/events_special_multiverse.xml.append:175
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:181
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
+msgstr "戦闘を避けるためにあなたの祝福を使用してください。"
+
+#: src-en/data/events_special_multiverse.xml.append:189
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DESTROYED\"]/text"
+msgstr "強大な船は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。"
+
+#: src-en/data/events_special_multiverse.xml.append:193
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DESTROYED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:200
+msgid ""
+"data/events_special_multiverse.xml.append$//eventList[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DROP_CHANCE\"]/event[1]/text"
+msgstr ""
+"あなたは船の遺跡の中にユニークな武器モデルの遺跡を見つけますが、それは戦いを生き残らなかったようです。次回はもっと注意する必要があります。幸いなことに、あなたと一緒に持っていくためのもう少し物資はまだあります。"
+
+#: src-en/data/events_special_multiverse.xml.append:207
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DEADCREW\"]/text"
+msgstr "強大な船が倒されました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。"
+
+#: src-en/data/events_special_multiverse.xml.append:211
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DEADCREW\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:217
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DROP\"]/text"
+msgstr ""
+"また、残骸の中で特別な古代のアイテムを見つけて驚いています！あなたはこれまでこのようなものにリモートでさえ見たことがないので、それはレネゲイドがどんな奇妙な種であったものによって作られたカスタムプロトタイプだと思います。"
+
+#: src-en/data/events_special_multiverse.xml.append:224
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DESTROYED_CHAOS\"]/text"
+msgstr "強大な船は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。"
+
+#: src-en/data/events_special_multiverse.xml.append:228
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DESTROYED_CHAOS\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:235
+msgid ""
+"data/events_special_multiverse.xml.append$//eventList[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DROP_CHANCE_CHAOS\"]/event[1]/text"
+msgstr ""
+"あなたは船の遺跡の中にユニークな武器モデルの遺跡を見つけますが、それは戦いを生き残らなかったようです。次回はもっと注意する必要があります。幸いなことに、あなたと一緒に持っていくためのもう少し物資はまだあります。"
+
+#: src-en/data/events_special_multiverse.xml.append:242
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DEADCREW_CHAOS\"]/text"
+msgstr "強大な船が倒されました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。"
+
+#: src-en/data/events_special_multiverse.xml.append:246
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DEADCREW_CHAOS\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:252
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DROP_CHAOS\"]/text"
+msgstr ""
+"また、残骸の中で特別な古代のアイテムを見つけて驚いています！あなたはこれまでこのようなものにリモートでさえ見たことがないので、それはレネゲイドがどんな奇妙な種であったものによって作られたカスタムプロトタイプだと思います。"
+
+#: src-en/data/events_special_multiverse.xml.append:266
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[1]/text"
+msgstr "メタルダイヤモンドの乗組員を提示します。"
+
+#: src-en/data/events_special_multiverse.xml.append:268
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+"「とらえどころのない...メタルダイヤモンド...これからではない存在...クラスター、あなたの謎めいた生き物...どうにかして友達になることができました...あなたは私が...感動していると言うことができます。よくやった、旅行者。"
+
+#: src-en/data/events_special_multiverse.xml.append:272
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:278
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[2]/text"
+msgstr "オペレーターの乗組員を提示します。"
+
+#: src-en/data/events_special_multiverse.xml.append:280
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"「ああ...興味をそそる...金属オペレーター...遠く離れたクラスターで作られた存在、あなたが...今あなたの乗組員として...私は...感動していると言うことができます。よくやった、旅行者。"
+
+#: src-en/data/events_special_multiverse.xml.append:284
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:290
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[3]/text"
+msgstr "あなたの金属のラニウスの乗組員を提示します。"
+
+#: src-en/data/events_special_multiverse.xml.append:292
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[3]/event/text"
+msgstr ""
+"「このラニウス...それは...他の...他の...彼らの体の金属は...このクラスターに存在するものではありません...あなたはどこにいましたか...私は彼らを見つけましたか？"
+
+#: src-en/data/events_special_multiverse.xml.append:296
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:305
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[1]/text"
+msgstr "黄金の武器を提示します。"
+
+#: src-en/data/events_special_multiverse.xml.append:307
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[1]/event/text"
+msgstr "「これ..."
+
+#: src-en/data/events_special_multiverse.xml.append:311
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:317
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[2]/text"
+msgstr "銅ドローンを提示します。"
+
+#: src-en/data/events_special_multiverse.xml.append:319
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"「...ドローン？！私は反逆者だと思いますか？！もし私があなたのたくさんを殺すことを禁止していなかったら、私はあなたの拳であなたのちっぽけな頭を押しつぶしていたでしょう！残念ながら、私はあなたに恩恵を与えるために信条に縛られています。"
+
+#: src-en/data/events_special_multiverse.xml.append:323
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:329
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[3]/text"
+msgstr "肉メーカーを提示します。"
+
+#: src-en/data/events_special_multiverse.xml.append:331
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[3]/event/text"
+msgstr "「アハハハハ！これは何ですか？！乗組員を燃料から追い出すことができる拡張？"
+
+#: src-en/data/events_special_multiverse.xml.append:335
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[3]/event/choice/text"
+msgstr ""

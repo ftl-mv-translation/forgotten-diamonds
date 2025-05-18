@@ -1,0 +1,2044 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/blueprints.xml.append:19
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_blob_diamond\"]/powerList/power[1]"
+msgstr "現在模倣：すべての金属ダイヤモンドを組み合わせた（電力の半分）"
+
+#: src-en/data/blueprints.xml.append:25
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_diamond\"]/title"
+msgstr "ゴールデンダイヤモンド"
+
+#: src-en/data/blueprints.xml.append:26
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_diamond\"]/short"
+msgstr "ゴールデン"
+
+#: src-en/data/blueprints.xml.append:27
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_diamond\"]/desc"
+msgstr ""
+"ダイヤモンドは、有機金属で作られた3種のグループであり、そのうちの1つは金色のダイヤモンドであり、スクラップとそれを取得し、それを利用して武器を極端なレベルに改善する方法に完全に焦点を合わせた種です。\n"
+"\n"
+"ゴールデンダイヤモンドは、遠隔戦闘で戦うことができず、代わりに彼らを保護するために彼らの近接スキルに頼っています。"
+
+#: src-en/data/blueprints.xml.append:35
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_diamond\"]/powerList/power[1]"
+msgstr "150健康、戦闘で1.2倍のダメージを受けます。"
+
+#: src-en/data/blueprints.xml.append:36
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_diamond\"]/powerList/power[2]"
+msgstr "3倍の近接損傷、20％遅い攻撃、範囲のダメージはありません。"
+
+#: src-en/data/blueprints.xml.append:37
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_diamond\"]/powerList/power[3]"
+msgstr "燃やしたり、窒息したり、心をコントロールしたりすることはできません。"
+
+#: src-en/data/blueprints.xml.append:41
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/title"
+msgstr "アダマンティンダイヤモンド"
+
+#: src-en/data/blueprints.xml.append:42
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/short"
+msgstr "アダマンティン"
+
+#: src-en/data/blueprints.xml.append:43
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/desc"
+msgstr ""
+"ダイヤモンドは有機金属で作られた3種のグループであり、そのうちの1つはアダマンティンダイヤモンド、唯一の価値のある力で知られている武将種であり、これは彼らの科学にも拡張されました。"
+
+#: src-en/data/blueprints.xml.append:48
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/powerList/power[1]"
+msgstr "300の健康、治癒に50％長くかかります。"
+
+#: src-en/data/blueprints.xml.append:49
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/powerList/power[2]"
+msgstr "0.25倍の戦闘ダメージを与えます。半速で妨害しますが、2倍の速度で修理します。"
+
+#: src-en/data/blueprints.xml.append:50
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/powerList/power[3]"
+msgstr "0.5倍の移動速度は、燃やしたり窒息したりすることはできません。"
+
+#: src-en/data/blueprints.xml.append:51
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/powerList/power[4]"
+msgstr "有毒な排出量は、敵が0.5倍低下しているのと同じ部屋に敵を作ります。スタックしません。"
+
+#: src-en/data/blueprints.xml.append:55
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/title"
+msgstr "銅ダイヤモンド"
+
+#: src-en/data/blueprints.xml.append:56
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/short"
+msgstr "銅"
+
+#: src-en/data/blueprints.xml.append:57
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/desc"
+msgstr ""
+"ダイヤモンドは有機金属で作られた3種のグループであり、そのうちの1つは銅のダイヤモンドであり、ドローンベイに癒される必要があるまで、すべてのドローンに完全に依存するように進化した種です。"
+
+#: src-en/data/blueprints.xml.append:62
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/powerList/power[1]"
+msgstr "0.2倍の戦闘ダメージ、2倍の妨害による損傷。"
+
+#: src-en/data/blueprints.xml.append:63
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/powerList/power[2]"
+msgstr "1.5倍の移動速度は、燃やしたり窒息したりすることはできません。"
+
+#: src-en/data/blueprints.xml.append:64
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/powerList/power[3]"
+msgstr "代わりに、通常の手段で治癒することはできません。"
+
+#: src-en/data/blueprints.xml.append:71
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/title"
+msgstr "ゴールデンオペレーター"
+
+#: src-en/data/blueprints.xml.append:72
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/short"
+msgstr "G.オペレーター"
+
+#: src-en/data/blueprints.xml.append:73
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/desc"
+msgstr ""
+"ダイヤモンドが死ぬと、彼らの体は死を回避する方法として機械式シェルに移されますが、これはダイヤモンドの古い個性を失うという不幸な副作用を持っています。\n"
+"\n"
+"ゴールデンオペレーターは、ダイヤモンドの弱点を補おうとすることに焦点を当てており、最先端のブラスターを持つが、近接範囲で戦うことはできません。射程攻撃は遅いかもしれませんが、大きなダメージを与えます。"
+
+#: src-en/data/blueprints.xml.append:80
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/powerList/power[1]"
+msgstr "110 Max Healthは、シールド、武器、パイロット、エンジンの内側で速度を2倍に癒します。"
+
+#: src-en/data/blueprints.xml.append:81
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/powerList/power[2]"
+msgstr "1.2倍のダメージがかかります。心に免疫、コントロール、窒息、危険。"
+
+#: src-en/data/blueprints.xml.append:82
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/powerList/power[3]"
+msgstr "近接範囲で戦うことはできません。3.5倍の範囲のダメージ、20％遅い射撃。"
+
+#: src-en/data/blueprints.xml.append:83
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/powerList/power[4]"
+msgstr "2倍の修理速度は、速度の2倍のスキルを学びます。"
+
+#: src-en/data/blueprints.xml.append:87
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/title"
+msgstr "Adamantineオペレーター"
+
+#: src-en/data/blueprints.xml.append:88
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/short"
+msgstr "A.オペレーター"
+
+#: src-en/data/blueprints.xml.append:89
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/desc"
+msgstr ""
+"ダイヤモンドが死ぬと、彼らの体は死を回避する方法として機械式シェルに移されますが、これはダイヤモンドの古い個性を失うという不幸な副作用を持っています。\n"
+"\n"
+"Adamantineオペレーターは歩行知識センターであり、すぐに最大容量であらゆるシステムを操作することができますが、ストレスの多い状況では無力になります。"
+
+#: src-en/data/blueprints.xml.append:96
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/powerList/power[1]"
+msgstr "150 Max Healthは、0.5倍のダメージを受けます。同じ部屋の同盟国は危険の影響を受けません。"
+
+#: src-en/data/blueprints.xml.append:97
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/powerList/power[2]"
+msgstr "戦うこと、妨害、修理はできません。100倍速くクローニングされます。"
+
+#: src-en/data/blueprints.xml.append:98
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/powerList/power[3]"
+msgstr "心の免疫コントロールは、占有システムに4つの力を提供します。"
+
+#: src-en/data/blueprints.xml.append:99
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/powerList/power[4]"
+msgstr "窒息や火災の損傷の免疫。"
+
+#: src-en/data/blueprints.xml.append:100
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/powerList/power[5]"
+msgstr "LVL2スキルでプログラムされています。クローニングされた後、スキルを失うことはできません。"
+
+#: src-en/data/blueprints.xml.append:104
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/title"
+msgstr "銅オペレーター"
+
+#: src-en/data/blueprints.xml.append:105
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/short"
+msgstr "C.オペレーター"
+
+#: src-en/data/blueprints.xml.append:106
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/desc"
+msgstr ""
+"ダイヤモンドが死ぬと、彼らの体は死を回避する方法として機械式シェルに移されますが、これはダイヤモンドの古い個性を失うという不幸な副作用を持っています。\n"
+"\n"
+"銅のオペレーターは、船に乗っているヒーラーとメンテナンスクルーになるように作られており、ロボットの乗組員にパッチを当てながら、システムを非常に迅速に修理することができます。"
+
+#: src-en/data/blueprints.xml.append:113
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/powerList/power[1]"
+msgstr "70マックスヘルス。1.5倍の速度で移動します。"
+
+#: src-en/data/blueprints.xml.append:114
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/powerList/power[2]"
+msgstr "0.1倍の戦闘損傷、5倍の修理速度。"
+
+#: src-en/data/blueprints.xml.append:115
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/powerList/power[3]"
+msgstr "コントロールの免疫。近くのフレンドリーなドローンとロボットクルーを5 hp/sで癒します。"
+
+#: src-en/data/blueprints.xml.append:116
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/powerList/power[4]"
+msgstr "窒息や火災の損傷の免疫。"
+
+#: src-en/data/blueprints.xml.append:126
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_techno_operator\"]/powerList/power[1]"
+msgstr ""
+"現在、模倣：すべての金属演算子が半分の電力で組み合わされています（奇妙なことに、Technomorphはその色を通常の緑に変えませんでした）"
+
+#: src-en/data/blueprints.xml.append:135
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_1\"]/desc"
+msgstr ""
+"遠くのクラスターから古代の残骸の明確な部分を消費することにより、著しく異なる突然変異を受けた増強された個人。空のビーコンでアップグレードできます。"
+
+#: src-en/data/blueprints.xml.append:136
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_1\"]/title"
+msgstr "黄金のもの"
+
+#: src-en/data/blueprints.xml.append:137
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_1\"]/short"
+msgstr "黄金のもの"
+
+#: src-en/data/blueprints.xml.append:142
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_1\"]/powerList/power[1]"
+msgstr "70健康。戦闘損傷は1.1倍、戦闘中は0.9倍のダメージを受けます。"
+
+#: src-en/data/blueprints.xml.append:143
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_1\"]/powerList/power[2]"
+msgstr "現在の部屋に電力を提供し、システムを1.5倍速く修理します。"
+
+#: src-en/data/blueprints.xml.append:147
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_2\"]/desc"
+msgstr ""
+"遠くのクラスターから古代の残骸のユニークな断片を消費することにより、著しく異なる突然変異を受けた増強された個人。現在、ボーナス戦闘損害を抱えており、戦闘以外では健康を再生できます。"
+
+#: src-en/data/blueprints.xml.append:148
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_2\"]/title"
+msgstr "拡張された金色のもの"
+
+#: src-en/data/blueprints.xml.append:149
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_2\"]/short"
+msgstr "黄金のもの"
+
+#: src-en/data/blueprints.xml.append:154
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_2\"]/powerList/power[1]"
+msgstr "短い遅延の後、1秒あたり5馬力で再生します。"
+
+#: src-en/data/blueprints.xml.append:155
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_2\"]/powerList/power[2]"
+msgstr "100の健康。戦闘ダメージ1.5倍は、戦闘中に0.8倍のダメージを受けます。"
+
+#: src-en/data/blueprints.xml.append:156
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_2\"]/powerList/power[3]"
+msgstr "現在の部屋に電力を提供し、システム1.8倍をより速く修理します。"
+
+#: src-en/data/blueprints.xml.append:160
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_3\"]/desc"
+msgstr ""
+"遠くのクラスターから古代の残骸のユニークな断片を消費することにより、著しく異なる突然変異を受けた増強された個人。現在、完全にアップグレードされ、火災の免疫になりながら、ピークの損傷と移動速度に達しました。"
+
+#: src-en/data/blueprints.xml.append:161
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_3\"]/title"
+msgstr "昇天した黄金のもの"
+
+#: src-en/data/blueprints.xml.append:162
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_3\"]/short"
+msgstr "黄金のもの"
+
+#: src-en/data/blueprints.xml.append:167
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_3\"]/powerList/power[1]"
+msgstr "短い遅延の後、1秒あたり10 hpで再生します。"
+
+#: src-en/data/blueprints.xml.append:168
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_3\"]/powerList/power[2]"
+msgstr "150健康。2倍の戦闘ダメージは、戦闘中に0.5倍のダメージを受けます。火災の免疫。"
+
+#: src-en/data/blueprints.xml.append:169
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_3\"]/powerList/power[3]"
+msgstr "現在の部屋に2つの電源を提供し、システムを2倍速く修理します。"
+
+#: src-en/data/blueprints.xml.append:173
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/desc"
+msgstr ""
+"遠くのクラスターから古代の残骸のユニークな断片を消費することにより、著しく異なる突然変異を受けた増強された個人。これらのラニウスは、火と共生的な関係を持ち、それによって癒され、自由に火を産む能力を持っています。"
+
+#: src-en/data/blueprints.xml.append:174
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/title"
+msgstr "銅のもの"
+
+#: src-en/data/blueprints.xml.append:175
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/short"
+msgstr "銅"
+
+#: src-en/data/blueprints.xml.append:180
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/powerList/power[1]"
+msgstr "アクティブな能力：現在の部屋で火を召喚します。0.8速度で移動し、O2生産を12秒間2倍にします。"
+
+#: src-en/data/blueprints.xml.append:181
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/powerList/power[2]"
+msgstr "110の健康、0.9倍の戦闘損傷を扱い、1.1倍の戦闘損害を受けます。"
+
+#: src-en/data/blueprints.xml.append:182
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/powerList/power[3]"
+msgstr "完全な健康状態ではないときは、火の中でゆっくりと再生します。敵と同じ部屋にいる間、敵の免責を火から取り除きます。"
+
+#: src-en/data/blueprints.xml.append:183
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/powerList/power[4]"
+msgstr "窒息することができ、シェルガスから損傷を受けます。ゆっくりと部屋をO2で満たします。"
+
+#: src-en/data/blueprints.xml.append:187
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/desc"
+msgstr ""
+"遠くのクラスターから古代の残骸のユニークな断片を消費することにより、著しく異なる突然変異を受けた増強された個人。これらのラニウスは、敵の船に乗っている間に違反を作り出し、近くの敵の乗組員に弱い苦しみを与えることもできます。"
+
+#: src-en/data/blueprints.xml.append:188
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/title"
+msgstr "アダマンティンのもの"
+
+#: src-en/data/blueprints.xml.append:189
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/short"
+msgstr "アダマンティン"
+
+#: src-en/data/blueprints.xml.append:194
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/powerList/power[1]"
+msgstr "アクティブな能力：ラニウスを完全に癒し、違反を作成し、現在の部屋に1つのシステムダメージを与えます。"
+
+#: src-en/data/blueprints.xml.append:195
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/powerList/power[2]"
+msgstr "80の健康、戦闘で0.5倍のダメージを与えます。2倍の妨害ダメージ。1.5倍の速度で移動します。"
+
+#: src-en/data/blueprints.xml.append:196
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/powerList/power[3]"
+msgstr "近くの敵に一定の単一スタックの苦痛を適用します。近くの敵からの窒息から免疫を取り除きます。"
+
+#: src-en/data/blueprints.xml.append:197
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/powerList/power[4]"
+msgstr "0.5倍の速度でシステムを修理します。火から10倍のダメージを受けます。"
+
+#: src-en/data/blueprints.xml.append:217
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_1\"]/title"
+msgstr "Disintegrator Mk i"
+
+#: src-en/data/blueprints.xml.append:218
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_1\"]/short"
+msgstr "ディサント。私"
+
+#: src-en/data/blueprints.xml.append:219
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_1\"]/desc"
+msgstr "珍しいダイヤモンド種によって作られたかなり強力な黄金の武器。豪華なシールドがある場合は、アップグレードできます。"
+
+#: src-en/data/blueprints.xml.append:220
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_1\"]/tooltip"
+msgstr "1頭の損傷、2つのシステム損傷、常に気が遠くなります。"
+
+#: src-en/data/blueprints.xml.append:251
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_2\"]/title"
+msgstr "Disintegrator MK II"
+
+#: src-en/data/blueprints.xml.append:252
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_2\"]/short"
+msgstr "ディサント。ii"
+
+#: src-en/data/blueprints.xml.append:253
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_2\"]/desc"
+msgstr "珍しいダイヤモンド種によって作られた強力な黄金の武器。豪華なシールドがある場合は、アップグレードできます。"
+
+#: src-en/data/blueprints.xml.append:254
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_2\"]/tooltip"
+msgstr "3船体の損傷、5つのシステム損傷、常に気が遠くなります。"
+
+#: src-en/data/blueprints.xml.append:285
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_3\"]/title"
+msgstr "Disintegrator MK III"
+
+#: src-en/data/blueprints.xml.append:286
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_3\"]/short"
+msgstr "ディサント。iii"
+
+#: src-en/data/blueprints.xml.append:287
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_3\"]/desc"
+msgstr "王室が提供する最高のものよりも強い異常に強力な黄金の武器。"
+
+#: src-en/data/blueprints.xml.append:288
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_3\"]/tooltip"
+msgstr "5ハルの損傷、7つのシステム損傷、常に気が遠くなります。"
+
+#: src-en/data/blueprints.xml.append:314
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_1\"]/title"
+msgstr "ゴールデンバーストレーザーMK.I"
+
+#: src-en/data/blueprints.xml.append:315
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_1\"]/short"
+msgstr "ゴールデンL i"
+
+#: src-en/data/blueprints.xml.append:317
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_1\"]/desc"
+msgstr "ゴールデンダイヤモンドによって概念化された最初のバーストレーザー。豪華なシールドがある場合は、アップグレードできます。"
+
+#: src-en/data/blueprints.xml.append:318
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_1\"]/tooltip"
+msgstr "古代のバーストレーザー;1つの損傷、常にスタン、2つの発射体、半径が小さく、10％の精度。"
+
+#: src-en/data/blueprints.xml.append:355
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_2\"]/title"
+msgstr "ゴールデンバーストレーザーmk.ii"
+
+#: src-en/data/blueprints.xml.append:356
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_2\"]/short"
+msgstr "ゴールデンL II"
+
+#: src-en/data/blueprints.xml.append:358
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_2\"]/desc"
+msgstr ""
+"最初のモデルに対する大幅な改善により、銃に供給されたスクラップは、バーストレーザーマーク3の現在のバージョンよりも強くなりました。豪華なシールドがある場合はアップグレードできます。"
+
+#: src-en/data/blueprints.xml.append:359
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_2\"]/tooltip"
+msgstr "古代のバーストレーザー;1つの損傷、常にスタン、7つの発射体、半径が小さく、20％の精度。"
+
+#: src-en/data/blueprints.xml.append:396
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_3\"]/title"
+msgstr "ゴールデンバーストレーザーmk.iii"
+
+#: src-en/data/blueprints.xml.append:397
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_3\"]/short"
+msgstr "ゴールデンL III"
+
+#: src-en/data/blueprints.xml.append:399
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_3\"]/desc"
+msgstr "ゴールデンバーストレーザーの最後の形式で、現在は最大量のショットが可能であり、見逃すこともありません。"
+
+#: src-en/data/blueprints.xml.append:400
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_3\"]/tooltip"
+msgstr "古代のバーストレーザー;1ダメージ、常にスタン、10個の発射体、小さな半径、そして決して見逃せない。"
+
+#: src-en/data/blueprints.xml.append:438
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_1\"]/title"
+msgstr "ゴールデンプラズマキャノンMk i"
+
+#: src-en/data/blueprints.xml.append:439
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_1\"]/short"
+msgstr "G.プラズマi"
+
+#: src-en/data/blueprints.xml.append:441
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_1\"]/desc"
+msgstr ""
+"ゴールデンイオンラインの始まり、現在はあまり派手ではありませんが、スクラップを供給するだけで、シールドを簡単に抹消することができます。豪華なシールドがある場合は、アップグレードできます。"
+
+#: src-en/data/blueprints.xml.append:442
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_1\"]/tooltip"
+msgstr "1つのイオンとシステムの損傷を与える1つのショットは、常に気をつけます。一度チェーンし、より多くのダメージを与えます。"
+
+#: src-en/data/blueprints.xml.append:486
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_2\"]/title"
+msgstr "ゴールデンプラズマキャノンMK II"
+
+#: src-en/data/blueprints.xml.append:487
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_2\"]/short"
+msgstr "G.プラズマII"
+
+#: src-en/data/blueprints.xml.append:489
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_2\"]/desc"
+msgstr ""
+"ゴールデンイオン銃の中間段階では、一般的に強くなりながら、あらゆるシールドを突き刺すことができます。豪華なシールドがある場合は、アップグレードできます。"
+
+#: src-en/data/blueprints.xml.append:490
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_2\"]/tooltip"
+msgstr ""
+"1つのイオンとシステムの損傷を扱う1つのショットは、常にすべてのシールドを驚かせ、貫通します。現在、チェーンは以前よりも多くのダメージを与えることで終わります。"
+
+#: src-en/data/blueprints.xml.append:534
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_3\"]/title"
+msgstr "ゴールデンプラズマキャノンMK III"
+
+#: src-en/data/blueprints.xml.append:535
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_3\"]/short"
+msgstr "G.プラズマIII"
+
+#: src-en/data/blueprints.xml.append:537
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_3\"]/desc"
+msgstr "ゴールデンイオンガンの最終段階では、現在、乗組員の損傷も扱い、さらに強力なチェーンで終わります。"
+
+#: src-en/data/blueprints.xml.append:538
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_3\"]/tooltip"
+msgstr ""
+"1つのイオンとシステムの損傷を扱う1つのショットは、常にすべてのシールドを驚かせ、貫通します。30乗組員の損傷。現在、チェーンは以前よりも多くのダメージを与えることで終わります。"
+
+#: src-en/data/blueprints.xml.append:583
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_1\"]/title"
+msgstr "ゴールデン爆弾ランチャーMk i"
+
+#: src-en/data/blueprints.xml.append:584
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_1\"]/short"
+msgstr "G.爆弾i"
+
+#: src-en/data/blueprints.xml.append:586
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_1\"]/desc"
+msgstr ""
+"ゴールデン爆弾ラインの開始、現在はあまり派手ではありませんが、スクラップを供給するだけで、料金と損害が増え始めます。豪華なシールドがある場合は、アップグレードできます。"
+
+#: src-en/data/blueprints.xml.append:587
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_1\"]/tooltip"
+msgstr ""
+"爆弾武器;ミサイルが必要です。システムに2つのダメージを与え、30人に乗組員にダメージを与え、常に気が遠くなります。最大2つの爆弾を充電できます。あなた自身の船をターゲットにすることができます。"
+
+#: src-en/data/blueprints.xml.append:618
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_2\"]/title"
+msgstr "ゴールデンボムランチャーMK II"
+
+#: src-en/data/blueprints.xml.append:619
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_2\"]/short"
+msgstr "G.爆弾II"
+
+#: src-en/data/blueprints.xml.append:621
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_2\"]/desc"
+msgstr ""
+"ゴールデン爆弾ランチャーの中間段階では、さらに1つの充電を保存しながら、より多くのシステムや乗組員の損傷を扱うことができます。豪華なシールドがある場合は、アップグレードできます。"
+
+#: src-en/data/blueprints.xml.append:622
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_2\"]/tooltip"
+msgstr ""
+"爆弾武器;ミサイルが必要です。システムに3つのダメージと45の乗組員の損傷を行い、常に気が遠くなります。最大3つの爆弾を充電できます。あなた自身の船をターゲットにすることができます。"
+
+#: src-en/data/blueprints.xml.append:653
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_3\"]/title"
+msgstr "ゴールデンボムランチャーMK III"
+
+#: src-en/data/blueprints.xml.append:654
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_3\"]/short"
+msgstr "G.爆弾III"
+
+#: src-en/data/blueprints.xml.append:656
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_3\"]/desc"
+msgstr "ゴールデン爆弾ランチャーの最終段階で、4つの料金を保持し、より多くのシステムと乗組員の損傷を扱うことができます。"
+
+#: src-en/data/blueprints.xml.append:657
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_3\"]/tooltip"
+msgstr ""
+"爆弾武器;ミサイルが必要です。システムに4つのダメージと60の乗組員の損傷を行い、常に気が遠くなります。最大4つの爆弾を充電できます。あなた自身の船をターゲットにすることができます。"
+
+#: src-en/data/blueprints.xml.append:689
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK\"]/title"
+msgstr "過充電された黄金色の銃"
+
+#: src-en/data/blueprints.xml.append:691
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK\"]/short"
+msgstr "O.ゴールドフレーク"
+
+#: src-en/data/blueprints.xml.append:692
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK\"]/desc"
+msgstr ""
+"信じられないほど速く移動する発射体で敵の船を覆う修正されたFlak "
+"Cannon。ただし、その膨大な半径のため、特定のシステムにダメージを与える可能性は低いです。"
+
+#: src-en/data/blueprints.xml.append:693
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK\"]/tooltip"
+msgstr "敵の船を発射体で覆い、巨大なエリアで20発のショットを撃ちます。常に違反します。"
+
+#: src-en/data/blueprints.xml.append:735
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK_CHAOS\"]/title"
+msgstr "混oticとした過充電された黄金色の銃"
+
+#: src-en/data/blueprints.xml.append:737
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK_CHAOS\"]/short"
+msgstr "Chaos Flak™"
+
+#: src-en/data/blueprints.xml.append:738
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK_CHAOS\"]/desc"
+msgstr ""
+"信じられないほど速く移動する発射体で敵の船を覆う修正されたFlak Cannon。ただし、その膨大な半径のため、特定のシステムにダメージを与える可能性は低いです。\n"
+"\n"
+"カオスバージョンは、3ショットで分割された発射体がはるかに少なくなりますが、はるかに正確です。"
+
+#: src-en/data/blueprints.xml.append:741
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK_CHAOS\"]/tooltip"
+msgstr "それぞれにそれぞれ4つの発射体で3つのバーストを撃ちます。常に火を開始します。"
+
+#: src-en/data/blueprints.xml.append:789
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER\"]/title"
+msgstr "銅ターミネータードローンMK。私"
+
+#: src-en/data/blueprints.xml.append:790
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER\"]/short"
+msgstr "学期。私"
+
+#: src-en/data/blueprints.xml.append:791
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER\"]/desc"
+msgstr ""
+"船体の損傷、2つのシステム損傷、20％の火災の可能性、1発の発射体。Tinkerer's Shield Augmentでアップグレードできます。"
+
+#: src-en/data/blueprints.xml.append:807
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER\"]/title"
+msgstr "古代レーザー"
+
+#: src-en/data/blueprints.xml.append:808
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER\"]/short"
+msgstr "A.レーザー"
+
+#: src-en/data/blueprints.xml.append:810
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER\"]/desc"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:811
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER\"]/tooltip"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:842
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_2\"]/title"
+msgstr "銅ターミネータードローンMK。ii"
+
+#: src-en/data/blueprints.xml.append:843
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_2\"]/short"
+msgstr "学期。ii"
+
+#: src-en/data/blueprints.xml.append:844
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_2\"]/desc"
+msgstr "船体の損傷、3つのシステム損傷、50％の火の可能性、1発射体。Tinkerer's Shield Augmentでアップグレードできます。"
+
+#: src-en/data/blueprints.xml.append:860
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_2\"]/title"
+msgstr "古代レーザー"
+
+#: src-en/data/blueprints.xml.append:861
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_2\"]/short"
+msgstr "A.レーザー"
+
+#: src-en/data/blueprints.xml.append:863
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_2\"]/desc"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:864
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_2\"]/tooltip"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:895
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_3\"]/title"
+msgstr "銅ターミネータードローンMK。iii"
+
+#: src-en/data/blueprints.xml.append:896
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_3\"]/short"
+msgstr "学期。iii"
+
+#: src-en/data/blueprints.xml.append:897
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_3\"]/desc"
+msgstr ""
+"1頭の船体損傷、3つのシステム損傷、60％の火災の可能性、3つの発射体、半径60。Tinkerer's Shield "
+"Augmentでアップグレードできます。"
+
+#: src-en/data/blueprints.xml.append:913
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_3\"]/title"
+msgstr "古代レーザー"
+
+#: src-en/data/blueprints.xml.append:914
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_3\"]/short"
+msgstr "A.レーザー"
+
+#: src-en/data/blueprints.xml.append:916
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_3\"]/desc"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:917
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_3\"]/tooltip"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:958
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_4\"]/title"
+msgstr "銅ターミネータードローンMK。IV"
+
+#: src-en/data/blueprints.xml.append:959
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_4\"]/short"
+msgstr "学期。IV"
+
+#: src-en/data/blueprints.xml.append:960
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_4\"]/desc"
+msgstr "2ダメージ、70％の火の機会、5つの発射体、70半径。"
+
+#: src-en/data/blueprints.xml.append:976
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_4\"]/title"
+msgstr "古代レーザー"
+
+#: src-en/data/blueprints.xml.append:977
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_4\"]/short"
+msgstr "A.レーザー"
+
+#: src-en/data/blueprints.xml.append:979
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_4\"]/desc"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:980
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_LASER_4\"]/tooltip"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:1020
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM\"]/title"
+msgstr "銅アトマイザードローンMK。私"
+
+#: src-en/data/blueprints.xml.append:1021
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM\"]/short"
+msgstr "原子。私"
+
+#: src-en/data/blueprints.xml.append:1022
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM\"]/desc"
+msgstr "1ダメージ、10％の火の可能性、100ビームの長さ、5ビーム速度は、ティンカーのシールド増強でアップグレードできます。"
+
+#: src-en/data/blueprints.xml.append:1038
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM\"]/title"
+msgstr "古代のビーム"
+
+#: src-en/data/blueprints.xml.append:1039
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM\"]/short"
+msgstr "A.ビーム"
+
+#: src-en/data/blueprints.xml.append:1041
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM\"]/desc"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:1042
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM\"]/tooltip"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:1070
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_2\"]/title"
+msgstr "銅アトマイザードローンMK。ii"
+
+#: src-en/data/blueprints.xml.append:1071
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_2\"]/short"
+msgstr "原子。ii"
+
+#: src-en/data/blueprints.xml.append:1072
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_2\"]/desc"
+msgstr ""
+"1頭の船体損傷、2つのシステム損傷、20％の火の機会、100ビームの長さ、10ビーム速度は、ティンカーズシールドの増強でアップグレードできます。"
+
+#: src-en/data/blueprints.xml.append:1088
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_2\"]/title"
+msgstr "古代のビーム"
+
+#: src-en/data/blueprints.xml.append:1089
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_2\"]/short"
+msgstr "A.ビーム"
+
+#: src-en/data/blueprints.xml.append:1091
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_2\"]/desc"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:1092
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_2\"]/tooltip"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:1121
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_3\"]/title"
+msgstr "銅アトマイザードローンMK。iii"
+
+#: src-en/data/blueprints.xml.append:1122
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_3\"]/short"
+msgstr "原子。iii"
+
+#: src-en/data/blueprints.xml.append:1123
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_3\"]/desc"
+msgstr "2ダメージ、-2シールドピアス、30％の火の可能性、120ビーム長、10ビーム速度は、ティンカーズシールドの増強でアップグレードできます。"
+
+#: src-en/data/blueprints.xml.append:1139
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_3\"]/title"
+msgstr "古代のビーム"
+
+#: src-en/data/blueprints.xml.append:1140
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_3\"]/short"
+msgstr "A.ビーム"
+
+#: src-en/data/blueprints.xml.append:1142
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_3\"]/desc"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:1143
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_3\"]/tooltip"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:1171
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_4\"]/title"
+msgstr "銅アトマイザードローンMK。IV"
+
+#: src-en/data/blueprints.xml.append:1172
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_4\"]/short"
+msgstr "原子。IV"
+
+#: src-en/data/blueprints.xml.append:1173
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_4\"]/desc"
+msgstr "2船体損傷、4つのシステム損傷、100％の火の可能性、150ビーム長、15ビーム速度。"
+
+#: src-en/data/blueprints.xml.append:1189
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_4\"]/title"
+msgstr "古代のビーム"
+
+#: src-en/data/blueprints.xml.append:1190
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_4\"]/short"
+msgstr "A.レーザー"
+
+#: src-en/data/blueprints.xml.append:1192
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_4\"]/desc"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:1193
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_BEAM_4\"]/tooltip"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:1223
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_PROJECTILE\"]/title"
+msgstr "銅ナイトウォッチ[P]"
+
+#: src-en/data/blueprints.xml.append:1224
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_PROJECTILE\"]/short"
+msgstr "ナイトウォッチ[P]"
+
+#: src-en/data/blueprints.xml.append:1225
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_PROJECTILE\"]/desc"
+msgstr ""
+"この防御ドローンは、着信ターゲットに対して発射体のバーストを撃つことで発射体を撃ち落とします。8個の発射体、100発射体速度。\n"
+"リロード：200ミリ秒"
+
+#: src-en/data/blueprints.xml.append:1243
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_DRONE\"]/title"
+msgstr "銅ナイトウォッチ[D]"
+
+#: src-en/data/blueprints.xml.append:1244
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_DRONE\"]/short"
+msgstr "ナイトウォッチ[D]"
+
+#: src-en/data/blueprints.xml.append:1245
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_DRONE\"]/desc"
+msgstr ""
+"この防御ドローンは、着信ターゲットに対して発射体のバーストを撃つことでドローンを撃ちます。8個の発射体、100発射体速度。\n"
+"リロード：200ミリ秒"
+
+#: src-en/data/blueprints.xml.append:1262
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_DEFENSE\"]/title"
+msgstr "古代レーザー"
+
+#: src-en/data/blueprints.xml.append:1263
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_DEFENSE\"]/short"
+msgstr "A.レーザー"
+
+#: src-en/data/blueprints.xml.append:1265
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_DEFENSE\"]/desc"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:1266
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_DEFENSE\"]/tooltip"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:1303
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE\"]/title"
+msgstr "銅変色ドローンMK。私"
+
+#: src-en/data/blueprints.xml.append:1304
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE\"]/short"
+msgstr "オブリット。私"
+
+#: src-en/data/blueprints.xml.append:1305
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE\"]/desc"
+msgstr ""
+"船体の損傷、2つのシステム損傷、ハルバスター、50％の火の可能性、1つの発射体、すべてのシールド、ミサイルは消費されません。敵の防衛ドローンで撃downすることはできません。Tinkerer's"
+" Shield Augmentでアップグレードできます。"
+
+#: src-en/data/blueprints.xml.append:1322
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE\"]/title"
+msgstr "古代のミサイル"
+
+#: src-en/data/blueprints.xml.append:1323
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE\"]/short"
+msgstr "A.ミサイル"
+
+#: src-en/data/blueprints.xml.append:1324
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE\"]/desc"
+msgstr "あなたが今まで見たランチャーをはるかに上回っている古代のミサイルランチャー。"
+
+#: src-en/data/blueprints.xml.append:1325
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE\"]/tooltip"
+msgstr "1つのミサイルを発射します。Hullに1つのダメージ、2つのシステムがシステムにダメージを与えます。すべてのシールドを貫通します。"
+
+#: src-en/data/blueprints.xml.append:1358
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE_2\"]/title"
+msgstr "銅変色ドローンMK。ii"
+
+#: src-en/data/blueprints.xml.append:1359
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE_2\"]/short"
+msgstr "オブリット。ii"
+
+#: src-en/data/blueprints.xml.append:1360
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE_2\"]/desc"
+msgstr ""
+"3ダメージ、ハルバスター、100％の火の可能性、1つの発射体、すべてのシールドが穴を開け、敵の防衛ドローンで撃downできません。ミサイルを消費しません。"
+
+#: src-en/data/blueprints.xml.append:1377
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE_2\"]/title"
+msgstr "古代のミサイル"
+
+#: src-en/data/blueprints.xml.append:1378
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE_2\"]/short"
+msgstr "A.ミサイル"
+
+#: src-en/data/blueprints.xml.append:1379
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE_2\"]/desc"
+msgstr "あなたが今まで見たランチャーをはるかに上回っている古代のミサイルランチャー。"
+
+#: src-en/data/blueprints.xml.append:1380
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE_2\"]/tooltip"
+msgstr "1つのミサイルを発射します。3ダメージを与えます。すべてのシールドを貫通します。"
+
+#: src-en/data/blueprints.xml.append:1412
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION\"]/title"
+msgstr "銅障害者ドローンMK。私"
+
+#: src-en/data/blueprints.xml.append:1413
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION\"]/short"
+msgstr "dis。私"
+
+#: src-en/data/blueprints.xml.append:1414
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION\"]/desc"
+msgstr "1つのイオンとシステムの損傷、10％の火の機会、1発射体。Tinkerer's Shield Augmentでアップグレードできます。"
+
+#: src-en/data/blueprints.xml.append:1430
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION\"]/title"
+msgstr "古代イオン"
+
+#: src-en/data/blueprints.xml.append:1431
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION\"]/short"
+msgstr "A.イオン"
+
+#: src-en/data/blueprints.xml.append:1433
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION\"]/desc"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:1434
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION\"]/tooltip"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:1467
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_2\"]/title"
+msgstr "銅障害者ドローンMK。ii"
+
+#: src-en/data/blueprints.xml.append:1468
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_2\"]/short"
+msgstr "dis。ii"
+
+#: src-en/data/blueprints.xml.append:1469
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_2\"]/desc"
+msgstr ""
+"1イオンとシステムの損傷、20％の火災の可能性、1つの発射体、10％の精度。Tinkerer's Shield Augmentでアップグレードできます。"
+
+#: src-en/data/blueprints.xml.append:1485
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_2\"]/title"
+msgstr "古代イオン"
+
+#: src-en/data/blueprints.xml.append:1486
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_2\"]/short"
+msgstr "A.イオン"
+
+#: src-en/data/blueprints.xml.append:1488
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_2\"]/desc"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:1489
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_2\"]/tooltip"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:1523
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_3\"]/title"
+msgstr "銅障害者ドローンMK。iii"
+
+#: src-en/data/blueprints.xml.append:1524
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_3\"]/short"
+msgstr "dis。iii"
+
+#: src-en/data/blueprints.xml.append:1525
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_3\"]/desc"
+msgstr ""
+"2システムとイオンの損傷、50％の火災の可能性、1つの発射体、20％の精度。Tinkerer's Shield Augmentでアップグレードできます。"
+
+#: src-en/data/blueprints.xml.append:1541
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_3\"]/title"
+msgstr "古代イオン"
+
+#: src-en/data/blueprints.xml.append:1542
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_3\"]/short"
+msgstr "A.イオン"
+
+#: src-en/data/blueprints.xml.append:1544
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_3\"]/desc"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:1545
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_3\"]/tooltip"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:1578
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_4\"]/title"
+msgstr "銅障害者ドローンMK。IV"
+
+#: src-en/data/blueprints.xml.append:1579
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_4\"]/short"
+msgstr "dis。IV"
+
+#: src-en/data/blueprints.xml.append:1580
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_4\"]/desc"
+msgstr "2イオンとシステムの損傷、100％の火災の可能性、1つの発射体、100％の精度。"
+
+#: src-en/data/blueprints.xml.append:1596
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_4\"]/title"
+msgstr "古代イオン"
+
+#: src-en/data/blueprints.xml.append:1597
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_4\"]/short"
+msgstr "A.イオン"
+
+#: src-en/data/blueprints.xml.append:1599
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_4\"]/desc"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:1600
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_ION_4\"]/tooltip"
+msgstr "ドローン武器"
+
+#: src-en/data/blueprints.xml.append:1632
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_1\"]/title"
+msgstr "銅搭乗ドローン"
+
+#: src-en/data/blueprints.xml.append:1633
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_1\"]/short"
+msgstr "銅ドローン"
+
+#: src-en/data/blueprints.xml.append:1634
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_1\"]/desc"
+msgstr "あなたはこれを決して見るべきではありません。"
+
+#: src-en/data/blueprints.xml.append:1638
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_1\"]/powerList/power"
+msgstr "ドローン"
+
+#: src-en/data/blueprints.xml.append:1645
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE\"]/title"
+msgstr "銅搭乗ドローンMk.I"
+
+#: src-en/data/blueprints.xml.append:1646
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE\"]/short"
+msgstr "C. B.ドローン"
+
+#: src-en/data/blueprints.xml.append:1647
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE\"]/desc"
+msgstr ""
+"現在はあまり強力ではありませんが、このドローンは十分なドローンパーツの後に大国になる可能性があります。Tinkerer's Shield Augmentでアップグレードできます。\n"
+"\n"
+"- 周期能力：現在の部屋で火災を起こします\n"
+"-110 HP、X0.5移動速度\n"
+"-1.5倍の乗組員の損傷は、危険から損傷を受けず、un然とすることはできません。"
+
+#: src-en/data/blueprints.xml.append:1660
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_2\"]/title"
+msgstr "銅搭乗ドローン2"
+
+#: src-en/data/blueprints.xml.append:1661
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_2\"]/short"
+msgstr "銅ドローン2"
+
+#: src-en/data/blueprints.xml.append:1662
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_2\"]/desc"
+msgstr "あなたはこれを決して見るべきではありません。"
+
+#: src-en/data/blueprints.xml.append:1666
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_2\"]/powerList/power"
+msgstr "ドローン"
+
+#: src-en/data/blueprints.xml.append:1673
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE_2\"]/title"
+msgstr "銅搭乗ドローンmk.ii"
+
+#: src-en/data/blueprints.xml.append:1674
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE_2\"]/short"
+msgstr "C.ドローンMK II"
+
+#: src-en/data/blueprints.xml.append:1675
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE_2\"]/desc"
+msgstr ""
+"非常に強力な搭乗ドローンは、必要な数の火災を発生させることができます。\n"
+"\n"
+"- 周期能力：現在の部屋で火災を起こします。\n"
+"-200 hp、x0.8移動速度\n"
+"-2倍の乗組員の損傷、火でわずかに癒されます。"
+
+#: src-en/data/blueprints.xml.append:1694
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_SHIELD\"]/title"
+msgstr "合金シールド"
+
+#: src-en/data/blueprints.xml.append:1695
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_SHIELD\"]/desc"
+msgstr ""
+"すべての主要なダイヤモンドグループの完璧な統一性は非常に多用途であるため、豪華なシールド、ティンカーズシールド、または肉メーカーと同じ機能を行うことができます。\n"
+"\n"
+"5つのヒットポイントの整合性、グラント +10％のスクラップゲイン、使用済みの戦闘ドローンを返す、敵のFTL充電時間を2倍にします。"
+
+#: src-en/data/blueprints.xml.append:1705
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_WIRES\"]/title"
+msgstr "合金ワイヤ"
+
+#: src-en/data/blueprints.xml.append:1706
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_WIRES\"]/desc"
+msgstr ""
+"ロボットクルーとクルードローンは、3つの主要なオペレーターグループすべての合金を備えた非常に高度なワイヤを備えたレトロフィットであり、損傷、修理、妨害行為、健康、治癒速度を15％上げます。"
+
+#: src-en/data/blueprints.xml.append:1714
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_BOTS\"]/title"
+msgstr "合金ボット"
+
+#: src-en/data/blueprints.xml.append:1715
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_BOTS\"]/desc"
+msgstr ""
+"この増強は、皮膚を分子レベルで壊す前に皮膚を加熱することによって敵の乗組員を攻撃するナノボットを分配し、窒息の免疫を取り除き、乗組員を癒します。\n"
+"\n"
+"敵のボーダーに1秒あたり2ダメージを与え、窒息ダメージを20％増加させます。乗組員は2 hp/sで治癒し、酸素レベルですべての効果がスケーリングされます。"
+
+#: src-en/data/blueprints.xml.append:1725
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_1\"]/title"
+msgstr "豪華なシールド"
+
+#: src-en/data/blueprints.xml.append:1726
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_1\"]/desc"
+msgstr ""
+"[レベル1]このエキゾチックなシールドは、スクラップを大量に引き付けているように見えます。それは、何らかの形でそれがより強くなるほど強くするためのお金に飢えています。スクラップゲインを50％ブーストし、リソースをスクラップに破壊することを可能にします。現在、合計3つのシールドHPを持ち、シールドHPを大量のスクラップでアップグレードします。合計13"
+" HPの最大値まで増やすことができます。"
+
+#: src-en/data/blueprints.xml.append:1733
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_2\"]/title"
+msgstr "豪華なシールド"
+
+#: src-en/data/blueprints.xml.append:1734
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_2\"]/desc"
+msgstr ""
+"[レベル2]このエキゾチックなシールドは、スクラップを大量に引き付けるように見えます。スクラップゲインを50％ブーストし、リソースをスクラップに破壊することを可能にします。現在、合計4つのシールドHPがあり、シールドHPを大量のスクラップでアップグレードできます。合計13"
+" HPの最大値まで増やすことができます。"
+
+#: src-en/data/blueprints.xml.append:1741
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_3\"]/title"
+msgstr "豪華なシールド"
+
+#: src-en/data/blueprints.xml.append:1742
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_3\"]/desc"
+msgstr ""
+"[レベル3]このエキゾチックなシールドは、スクラップを大量に引き付けているように見えます。それは、何らかの形でそれがより強くなるほど強くするためのお金に飢えています。スクラップゲインを50％増やし、リソースをスクラップに削除することを可能にします。現在、合計5シールドHPを持ち、シールドHPを大量のスクラップでアップグレードできます。合計13"
+" HPの最大値まで増やすことができます。"
+
+#: src-en/data/blueprints.xml.append:1749
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_4\"]/title"
+msgstr "豪華なシールド"
+
+#: src-en/data/blueprints.xml.append:1750
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_4\"]/desc"
+msgstr ""
+"[レベル4]このエキゾチックなシールドは、スクラップを大量に引き付けているように見えます。それは、それが何とかしてより強くなるほど強くするためにお金に飢えています。スクラップゲインを50％ブーストし、リソースをスクラップに破壊することを可能にします。現在、合計6シールドHPがあり、シールドHPを大量のスクラップでアップグレードできます。合計13"
+" HPの最大値まで増やすことができます。"
+
+#: src-en/data/blueprints.xml.append:1757
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_5\"]/title"
+msgstr "豪華なシールド"
+
+#: src-en/data/blueprints.xml.append:1758
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_5\"]/desc"
+msgstr ""
+"[レベル5]このエキゾチックなシールドは、スクラップを大量に引き付けているように見えます。それは、何らかの形でそれを強くすることを強くするためにお金に飢えています。スクラップゲインを50％ブーストし、リソースをスクラップに破壊することを可能にします。現在、合計7シールドHPを持っていますが、シールドHPを大量のスクラップでアップグレードできます。合計13"
+" HPの最大値まで増やすことができます。"
+
+#: src-en/data/blueprints.xml.append:1765
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_6\"]/title"
+msgstr "豪華なシールド"
+
+#: src-en/data/blueprints.xml.append:1766
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_6\"]/desc"
+msgstr ""
+"[レベル6]このエキゾチックなシールドは、スクラップを大量に引き付けているように見えます。それは、何らかの形でそれを強くすることを強くするためにお金に飢えています。スクラップゲインを50％ブーストし、リソースをスクラップに破壊することを可能にします。現在、合計8シールドHPを持ち、シールドHPを大量のスクラップでアップグレードできます。合計13"
+" HPの最大値まで増やすことができます。"
+
+#: src-en/data/blueprints.xml.append:1773
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_7\"]/title"
+msgstr "豪華なシールド"
+
+#: src-en/data/blueprints.xml.append:1774
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_7\"]/desc"
+msgstr ""
+"[レベル7]このエキゾチックなシールドは、スクラップを大量に引き付けるように見えます。それは、何らかの形でそれを強くすることを強くするためにお金に飢えています。スクラップゲインを50％ブーストし、リソースをスクラップに破壊することを可能にします。現在、合計9シールドHPがあり、シールドHPを大量のスクラップでアップグレードできます。合計13"
+" HPの最大値まで増やすことができます。"
+
+#: src-en/data/blueprints.xml.append:1781
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_8\"]/title"
+msgstr "豪華なシールド"
+
+#: src-en/data/blueprints.xml.append:1782
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_8\"]/desc"
+msgstr ""
+"[レベル8]このエキゾチックなシールドは、スクラップを大量に引き付けているように見えます。それは、何らかの形でそれを強くすることを強くするためにお金に飢えています。スクラップゲインを50％ブーストし、リソースをスクラップに破壊することを可能にします。現在、合計10のシールドHPがあり、シールドHPを大量のスクラップでアップグレードできます。合計13"
+" HPの最大値まで増やすことができます。"
+
+#: src-en/data/blueprints.xml.append:1789
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_9\"]/title"
+msgstr "豪華なシールド"
+
+#: src-en/data/blueprints.xml.append:1790
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_9\"]/desc"
+msgstr ""
+"[レベル9]このエキゾチックなシールドは、スクラップを大量に引き付けるように見えます。スクラップゲインを50％ブーストし、リソースをスクラップに破壊することを可能にします。現在、合計11のシールドHPがあり、シールドHPを大量のスクラップでアップグレードできます。合計13"
+" HPの最大値まで増やすことができます。"
+
+#: src-en/data/blueprints.xml.append:1797
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_10\"]/title"
+msgstr "豪華なシールド"
+
+#: src-en/data/blueprints.xml.append:1798
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_10\"]/desc"
+msgstr ""
+"[レベル10]このエキゾチックなシールドは、スクラップを大量に引き付けているように見えます。それは、何らかの形でそれがより強くなるほど強くするためのお金に飢えています。スクラップゲインを50％ブーストし、リソースをスクラップに削除することを可能にします。現在、合計12シールドHPを持っていますが、シールドHPを大量のスクラップでアップグレードできます。合計13"
+" HPの最大値まで増やすことができます。"
+
+#: src-en/data/blueprints.xml.append:1805
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_11\"]/title"
+msgstr "豪華なシールド"
+
+#: src-en/data/blueprints.xml.append:1806
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_11\"]/desc"
+msgstr ""
+"[レベルマックス]このエキゾチックなシールドは、大量にスクラップを引き付けるようです。スクラップゲインを50％ブーストし、リソースをスクラップに破壊することを可能にします。現在、最大シールドHPは13です。"
+
+#: src-en/data/blueprints.xml.append:1814
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLD_WIRES\"]/title"
+msgstr "ゴールドワイヤ"
+
+#: src-en/data/blueprints.xml.append:1815
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLD_WIRES\"]/desc"
+msgstr ""
+"ロボットの乗組員と乗組員のドローンは、金のワイヤで改造されており、損傷、修理、妨害速度が50％改善されています。\n"
+"\n"
+"ただし、これにより、非常に重くなり、速度を50％下げます。"
+
+#: src-en/data/blueprints.xml.append:1825
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_TINKERERS_SHIELD\"]/title"
+msgstr "ティンカーの盾"
+
+#: src-en/data/blueprints.xml.append:1826
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_TINKERERS_SHIELD\"]/desc"
+msgstr ""
+"7つのヒットポイントを備えた奇妙なエーテルテクノロジー。このシールドは、その乗組員を奇妙に刺激し、ドローンを設計するときに不自然なレベルの創造性を与えることができます。\n"
+"\n"
+"また、戦闘で使用されるすべての戦闘ドローンを返し、敵のドローンに搭乗することに大きなダメージを与え、敵の防衛ドローンを無効にします。\n"
+"\n"
+"スクラップ、ミサイル、燃料をドローンパーツに変換できます。"
+
+#: src-en/data/blueprints.xml.append:1838
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_COPPER_WIRES\"]/title"
+msgstr "銅線"
+
+#: src-en/data/blueprints.xml.append:1839
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_COPPER_WIRES\"]/desc"
+msgstr ""
+"ロボットの乗組員と乗組員のドローンは銅線で改造されており、損傷を半分に引き下げますが、同じ部屋の乗組員を3 hp/sで癒すことができます。\n"
+"\n"
+"また、ドローンが3 hp/sを再生することもできます。"
+
+#: src-en/data/blueprints.xml.append:1849
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FIREBOTS\"]/title"
+msgstr "ファイアボット"
+
+#: src-en/data/blueprints.xml.append:1850
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FIREBOTS\"]/desc"
+msgstr ""
+"これにより、皮膚が分子レベルで壊れてから皮膚を加熱することで敵の乗組員を攻撃するナノボットを撃ちます。\n"
+"\n"
+"敵レベルで敵のボーダーとスケールに3秒あたり3ダメージを与え、各パワーレベルは3回のダメージを追加します。"
+
+#: src-en/data/blueprints.xml.append:1860
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_WAR_CRIMINALS_SHIELD\"]/title"
+msgstr "戦争犯罪者の盾"
+
+#: src-en/data/blueprints.xml.append:1861
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_WAR_CRIMINALS_SHIELD\"]/desc"
+msgstr "奇妙なエーテルテクノロジーであるため、敵のFTLが適切に動作したり、通常のエネルギーシールドのように機能したりするのを防ぎます。"
+
+#: src-en/data/blueprints.xml.append:1869
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FLESH_MAKER\"]/title"
+msgstr "肉メーカー"
+
+#: src-en/data/blueprints.xml.append:1870
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FLESH_MAKER\"]/desc"
+msgstr ""
+"この奇妙なテクノロジーは、非常に隠れているアダマンティンダイヤモンドを排他的にすることで、以前にデータベースにスキャンされていた乗組員が際限なく複製できるようになります。\n"
+"\n"
+"また、システムがオフ、ハッキング、または壊れている場合でも、リソースを燃料に変換し、クローンストレージで乗組員を安全にすることができます。\n"
+"\n"
+"登録された乗組員は、ラン全体にわたって永遠に残ります。"
+
+#: src-en/data/blueprints.xml.append:1882
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_FLESH_MAKER_UNLOCKED\"]/title"
+msgstr "肉メーカー"
+
+#: src-en/data/blueprints.xml.append:1883
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_FLESH_MAKER_UNLOCKED\"]/desc"
+msgstr ""
+"この奇妙なテクノロジーは、非常に隠れているアダマンティンダイヤモンドを排他的にすることで、以前にデータベースにスキャンされていた乗組員が際限なく複製できるようになります。\n"
+"\n"
+"また、空のビーコンでリソースを燃料に変換し、システムがオフ、ハッキング、または壊れている場合でも、クローンストレージで乗組員を安全にすることができます。\n"
+"\n"
+"登録された乗組員は、ラン全体にわたって永遠に残ります。"
+
+#: src-en/data/blueprints.xml.append:1895
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_ADAMANTINE_WIRES\"]/title"
+msgstr "アダマン酸ワイヤ"
+
+#: src-en/data/blueprints.xml.append:1896
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_ADAMANTINE_WIRES\"]/desc"
+msgstr ""
+"ロボットの乗組員と乗組員のドローンは、アダマンティンワイヤの改造であり、健康を50％上げ、状態に免疫を持たせることで耐久性を大幅に高めます。\n"
+"\n"
+"残念ながら、ワイヤーはオーガニッククルーにとって非常に有毒であり、それらと同じ部屋にいる間に毎秒5ダメージを与えます。"
+
+#: src-en/data/blueprints.xml.append:1906
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_TOXIC_ROOMS\"]/title"
+msgstr "有毒な部屋"
+
+#: src-en/data/blueprints.xml.append:1907
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_TOXIC_ROOMS\"]/desc"
+msgstr ""
+"この船の内部の部屋とコンポーネントは、有毒なほこりと放射線でいっぱいに満たされており、敵の窒息の免疫を取り除き、船にいる間に一定の苦痛を適用します。"
+
+#: src-en/data/blueprints.xml.append:1921
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_SUSTAIN_PROTOCOL\"]/title"
+msgstr "Sustain Protocol"
+
+#: src-en/data/blueprints.xml.append:1922
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_SUSTAIN_PROTOCOL\"]/desc"
+msgstr "乗組員は免疫があり、メドベイは動力を供給されています。"
+
+#: src-en/data/blueprints.xml.append:1931
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_FORGGOTEN_DIAMOND_WALLACE\"]/title"
+msgstr "忘れられたダイヤモンドウォレスの店"
+
+#: src-en/data/blueprints.xml.append:1932
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_FORGGOTEN_DIAMOND_WALLACE\"]/desc"
+msgstr "忘れられたすべての人種を販売する忘れられたダイヤモンドストアへのアクセスを付与します。"
+
+#: src-en/data/blueprints.xml.append:1946
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_SHIP_OPERATOR\"]/title"
+msgstr "金属オペレーター"
+
+#: src-en/data/blueprints.xml.append:1947
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_SHIP_OPERATOR\"]/desc"
+msgstr "あなたはこれを決して見るべきではありません"
+
+#: src-en/data/blueprints.xml.append:1955
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_SHIP_METAL_DIAMOND\"]/title"
+msgstr "メタルダイヤモンドクルーザー"
+
+#: src-en/data/blueprints.xml.append:1956
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_SHIP_METAL_DIAMOND\"]/desc"
+msgstr "あなたはこれを決して見るべきではありません"
+
+#: src-en/data/blueprints.xml.append:1964
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_SHIP_METALLANIUS\"]/title"
+msgstr "メタルラニウスクルーザー"
+
+#: src-en/data/blueprints.xml.append:1965
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_SHIP_METALLANIUS\"]/desc"
+msgstr "あなたはこれを決して見るべきではありません"
+
+#: src-en/data/blueprints.xml.append:1979
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_METAL_LANIUS\"]/title"
+msgstr "合金の恩恵"
+
+#: src-en/data/blueprints.xml.append:1980
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_METAL_LANIUS\"]/desc"
+msgstr "すべての金属のラニウスの乗組員は、マインドコントロールに抵抗する隣接する部屋を見ることができます。"
+
+#: src-en/data/blueprints.xml.append:1987
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_GOLDEN\"]/title"
+msgstr "豪華さの祝福"
+
+#: src-en/data/blueprints.xml.append:1988
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_GOLDEN\"]/desc"
+msgstr "スクラップが10％増加します。"
+
+#: src-en/data/blueprints.xml.append:1995
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_COPPER\"]/title"
+msgstr "錆びの祝福"
+
+#: src-en/data/blueprints.xml.append:1996
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_COPPER\"]/desc"
+msgstr "戦闘ドローンは、破壊されなければ、戦いの後に回収されます。"
+
+#: src-en/data/blueprints.xml.append:2003
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_ADAMANTINE\"]/title"
+msgstr "クローニングの祝福"
+
+#: src-en/data/blueprints.xml.append:2004
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_ADAMANTINE\"]/desc"
+msgstr "クルーはクローン化されることからスキルを失うことはなく、すべてのスキルにおける少なくともレベル1から始まります。"
+
+#: src-en/data/blueprints.xml.append:2011
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_DIAMOND\"]/title"
+msgstr "ダイヤモンドの恩恵"
+
+#: src-en/data/blueprints.xml.append:2012
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_DIAMOND\"]/desc"
+msgstr "メタルダイヤモンドの乗組員は、ドアを介して段階的に段階的になり、20％の移動速度を獲得できます。"
+
+#: src-en/data/blueprints.xml.append:2019
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_OPERATOR\"]/title"
+msgstr "オペレーターの恩恵"
+
+#: src-en/data/blueprints.xml.append:2020
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_OPERATOR\"]/desc"
+msgstr "オペレーターは、敵の船にいる間に立っている部屋のドアをハッキングします。"
+
+#: src-en/data/blueprints.xml.append:2033
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_INSTALLED\"]/title"
+msgstr "ダイヤモンド"
+
+#: src-en/data/blueprints.xml.append:2034
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_INSTALLED\"]/desc"
+msgstr "ダイヤモンドアップグレードがインストールされています。"
+
+#: src-en/data/blueprints.xml.append:2040
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_FISTITUTE\"]/title"
+msgstr "拳"
+
+#: src-en/data/blueprints.xml.append:2041
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_FISTITUTE\"]/desc"
+msgstr "ダイヤモンドは、修理と妨害速度の90％を失ったことと引き換えに、2倍の戦闘損傷を獲得します。"
+
+#: src-en/data/blueprints.xml.append:2047
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_SYSTEMIC\"]/title"
+msgstr "系統的"
+
+#: src-en/data/blueprints.xml.append:2048
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_SYSTEMIC\"]/desc"
+msgstr ""
+"ダイヤモンドは、自分の船のシステムルームにいる間、50％の移動速度と戦闘ダメージを得ます。しかし、敵の船では、損傷と移動速度の50％を失います。"
+
+#: src-en/data/blueprints.xml.append:2054
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_NOXIOUS\"]/title"
+msgstr "有害"
+
+#: src-en/data/blueprints.xml.append:2055
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_NOXIOUS\"]/desc"
+msgstr ""
+"ダイヤモンドは乗組員と戦う能力を失いますが、彼らと同じ船のすべての敵の非ダイヤモンドに時間の経過とともに3つのダメージを与える有害なオーラを獲得します。"
+
+#: src-en/data/blueprints.xml.append:2062
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_INSTALLED\"]/title"
+msgstr "オペレーター"
+
+#: src-en/data/blueprints.xml.append:2063
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_INSTALLED\"]/desc"
+msgstr "オペレーターのアップグレードインストール。"
+
+#: src-en/data/blueprints.xml.append:2069
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_PACIFISM_PROTOCOLS\"]/title"
+msgstr "平和主義プロトコル"
+
+#: src-en/data/blueprints.xml.append:2070
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_PACIFISM_PROTOCOLS\"]/desc"
+msgstr "オペレーターは、戦うか妨害する能力を失いますが、彼らと同じ部屋にいる間、すべての乗組員の戦闘と妨害行為を防ぎます。"
+
+#: src-en/data/blueprints.xml.append:2076
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_BIO_PROTOCOLS\"]/title"
+msgstr "アンチバイオプロトコル"
+
+#: src-en/data/blueprints.xml.append:2077
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_BIO_PROTOCOLS\"]/desc"
+msgstr ""
+"オペレーターは被害の50％を失い、代わりに彼らと同じ部屋で敵の乗組員をひどく吹き飛ばし、被害を15％減らし、オンボードのテレポーテーションと癒しを無効にし、同じ部屋で殺された乗組員をクローニングできないようにします。"
+
+#: src-en/data/blueprints.xml.append:2083
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_BEACON_PROTOCOLS\"]/title"
+msgstr "ビーコンプロトコル"
+
+#: src-en/data/blueprints.xml.append:2084
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_BEACON_PROTOCOLS\"]/desc"
+msgstr ""
+"オペレーターは健康の50％を失い、モバイルテレポートビーコンとしてのサービスと引き換えに25％多くのダメージを与え、彼らと同じ部屋のフレンドリーな乗組員が、敵の船に直接テレポートすることさえ、望む部屋にテレポートすることができます。"
+
+#: src-en/data/blueprints.xml.append:2098
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY\"]/class"
+msgstr "合金ピラミッドクルーザー"
+
+#: src-en/data/blueprints.xml.append:2099
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY\"]/name"
+msgstr "合金の喜び"
+
+#: src-en/data/blueprints.xml.append:2100
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY\"]/unlock"
+msgstr "すべての金属ダイヤモンド船のロックを解除します。"
+
+#: src-en/data/blueprints.xml.append:2101
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY\"]/desc"
+msgstr "金属ダイヤモンド協会のすべての主要なグループの完全な結合は、金属ダイヤモンド船の署名の増強を模倣できるユニークな増強を備えています。"
+
+#: src-en/data/blueprints.xml.append:2177
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_2\"]/class"
+msgstr "合金ダイヤモンドクルーザー"
+
+#: src-en/data/blueprints.xml.append:2178
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_2\"]/name"
+msgstr "有線メモリ"
+
+#: src-en/data/blueprints.xml.append:2179
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_2\"]/unlock"
+msgstr "すべてのオペレーター船のロックを解除します。"
+
+#: src-en/data/blueprints.xml.append:2180
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_2\"]/desc"
+msgstr "効果の効力は低下しますが、他のワイヤの効果を持つユニークな増強を備えた、オペレーターのすべての主要なグループの完全な結合です。"
+
+#: src-en/data/blueprints.xml.append:2256
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_3\"]/class"
+msgstr "合金ラニウスクルーザー"
+
+#: src-en/data/blueprints.xml.append:2257
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_3\"]/name"
+msgstr "重いボット"
+
+#: src-en/data/blueprints.xml.append:2258
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_3\"]/unlock"
+msgstr "すべての金属ラニウス船のロックを解除します。"
+
+#: src-en/data/blueprints.xml.append:2259
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_3\"]/desc"
+msgstr ""
+"金属ラニウスのすべての主要なグループの完璧な結合。あなたがあなたの生命維持システムを平準化する場合、大きな利益を与えるユニークな増強を装備してください。"
+
+#: src-en/data/blueprints.xml.append:2336
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND\"]/class"
+msgstr "メタルピラミッドクルーザー"
+
+#: src-en/data/blueprints.xml.append:2337
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND\"]/name"
+msgstr "ゴールデンパレス"
+
+#: src-en/data/blueprints.xml.append:2338
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND\"]/unlock"
+msgstr "反乱軍の拠点の奇妙な黄金の船を片付けます。"
+
+#: src-en/data/blueprints.xml.append:2339
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND\"]/desc"
+msgstr ""
+"この船には、スクラップ中心のゴールデンダイヤモンドが配置されています。彼らの船は、スクラップを取得し、それを使用して武器や盾を進化させることに焦点を当てています。\n"
+"\n"
+"ただし、ドローンシステムをインストールすることはできません。"
+
+#: src-en/data/blueprints.xml.append:2414
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_2\"]/class"
+msgstr "メタルピラミッドクルーザー"
+
+#: src-en/data/blueprints.xml.append:2415
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_2\"]/name"
+msgstr "恐ろしいドローン"
+
+#: src-en/data/blueprints.xml.append:2416
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_2\"]/unlock"
+msgstr "この船のロックを解除するために、タイプAでセクター5にアクセスしてください。"
+
+#: src-en/data/blueprints.xml.append:2417
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_2\"]/desc"
+msgstr ""
+"この巡洋艦は、ドローンのみに焦点を当てた船である銅ダイヤモンドグループの芸術の主要な作品であり、主に戦闘品種です。\n"
+"\n"
+"しかし、それは船が武器システムを設置できないことを意味していました。"
+
+#: src-en/data/blueprints.xml.append:2487
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_3\"]/class"
+msgstr "メタルピラミッドクルーザー"
+
+#: src-en/data/blueprints.xml.append:2488
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_3\"]/name"
+msgstr "血液雨"
+
+#: src-en/data/blueprints.xml.append:2489
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_3\"]/unlock"
+msgstr "タイプBでセクター5にアクセスするか、この船のロックを解除するためにタイプAでゲームを破ります。"
+
+#: src-en/data/blueprints.xml.append:2490
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_3\"]/desc"
+msgstr ""
+"この船は、それが作られたらすぐに戦闘に送るためだけに生命を作り出すことができます。将来の生産のために一度取得すると、乗組員をデータベースに登録できます。これらの登録は、実行の合間にも続きます。\n"
+"\n"
+"残念ながら、船はドローンや武器のいずれかを手に入れることができません。"
+
+#: src-en/data/blueprints.xml.append:2558
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR\"]/class"
+msgstr "メタルダイヤモンドクラス"
+
+#: src-en/data/blueprints.xml.append:2559
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR\"]/name"
+msgstr "ゴールデンダイヤモンド"
+
+#: src-en/data/blueprints.xml.append:2560
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR\"]/unlock"
+msgstr "ロックホームワールドで神秘的な船の取引をしてください。"
+
+#: src-en/data/blueprints.xml.append:2561
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR\"]/desc"
+msgstr ""
+"謎めいたオペレーターの研究容器であるこの船は、ドローンとそのロボット乗組員の改善に焦点を当てています。船体の損傷を処理する本当の手段はありませんが。"
+
+#: src-en/data/blueprints.xml.append:2633
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_2\"]/class"
+msgstr "メタルダイヤモンドクラス"
+
+#: src-en/data/blueprints.xml.append:2634
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_2\"]/name"
+msgstr "銅の輝き"
+
+#: src-en/data/blueprints.xml.append:2635
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_2\"]/unlock"
+msgstr "この船のロックを解除するために、タイプAでセクター5にアクセスしてください。"
+
+#: src-en/data/blueprints.xml.append:2636
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_2\"]/desc"
+msgstr ""
+"このクラスターで最もアクティブな演算子である銅オペレーターは、エイリアンの物理的な解剖学を研究するのが大好きです。非常に強力なドローン搭乗船であるが、この船はボーダーを片付けるのに苦労しており、癒しのためにロボットの乗組員の癒し効果に頼らなければならない。"
+
+#: src-en/data/blueprints.xml.append:2711
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_3\"]/class"
+msgstr "メタルダイヤモンドクラス"
+
+#: src-en/data/blueprints.xml.append:2712
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_3\"]/name"
+msgstr "アダマンアダマンティン"
+
+#: src-en/data/blueprints.xml.append:2713
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_3\"]/unlock"
+msgstr "タイプBでセクター5にアクセスするか、この船のロックを解除するためにタイプAでゲームを破ります。"
+
+#: src-en/data/blueprints.xml.append:2714
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_3\"]/desc"
+msgstr ""
+"しばしば忘れられ、無視されているオペレーターのサブセットは、非常に脆弱で、ほとんどの基本的な機能を行うことができません。\n"
+"少なくともその防御は十分に維持されていますが、原子炉の犠牲を払っていました。"
+
+#: src-en/data/blueprints.xml.append:2792
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS\"]/class"
+msgstr "メタルラニウスクルーザー"
+
+#: src-en/data/blueprints.xml.append:2793
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS\"]/name"
+msgstr "禁じられた豪華さ"
+
+#: src-en/data/blueprints.xml.append:2794
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS\"]/unlock"
+msgstr "ゴールデンラニウスがラニウススウォームランド内の以前の船を救助するのを手伝ってください。"
+
+#: src-en/data/blueprints.xml.append:2795
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS\"]/desc"
+msgstr ""
+"この搭乗船は、ゴールデンダイヤモンドの金属をごちそうし、古い存在を超越した拡張の種である珍しいゴールデンラニウスの本拠地です。これらのラニウスは、スクラップを消費するにつれて強くなる能力を獲得しました。"
+
+#: src-en/data/blueprints.xml.append:2865
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/class"
+msgstr "メタルラニウスクルーザー"
+
+#: src-en/data/blueprints.xml.append:2866
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/name"
+msgstr "火の悔い改め"
+
+#: src-en/data/blueprints.xml.append:2867
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/unlock"
+msgstr "この船のロックを解除するために、タイプAでセクター5にアクセスしてください。"
+
+#: src-en/data/blueprints.xml.append:2868
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/desc"
+msgstr ""
+"この搭乗船は、銅のラニウスの無限の火、火のマスター、そして燃えているすべてのもので燃え、これらの激しいラニウスは自分の炎で自分自身を再生し、敵の火の免疫を剥奪することもできます。残念ながら、火のように、これらのラニウスは生き残るために酸素を必要とします。"
+
+#: src-en/data/blueprints.xml.append:2940
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/class"
+msgstr "メタルラニウスクルーザー"
+
+#: src-en/data/blueprints.xml.append:2941
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/name"
+msgstr "窒息する美しさ"
+
+#: src-en/data/blueprints.xml.append:2942
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/unlock"
+msgstr "タイプBでセクター5にアクセスするか、この船のロックを解除するためにタイプAでゲームを破ります。"
+
+#: src-en/data/blueprints.xml.append:2943
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/desc"
+msgstr ""
+"アダマンティンの死体を消費したラニウスは、彼らが消費したものと同じくらい冷酷になったようです。彼らの有毒な煙は、呼吸するために酸素を必要としない人でさえも腐食するのに十分です。"

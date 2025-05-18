@@ -1,0 +1,92 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_rebel.xml.append:13
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/text"
+msgstr ""
+"このビーコンの近くでワープして、奇妙な苦痛メッセージを送ったものを探していると、このエリア全体に奇妙なマークが付いた黒と黄色の船の束が見えます。あなたが彼らを救い始めると、あなたは他のものとは異なる近くの別の船に気づきます。これは、あなたが難破船で見つけたのと同じ金色のほこりを漏らしているように見える三角形の船です。船自体はほとんど無傷のように見えますが、乗船したライフサインを検出することはできません。"
+
+#: src-en/data/events_sector_rebel.xml.append:16
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/text"
+msgstr "船に近づきます。"
+
+#: src-en/data/events_sector_rebel.xml.append:18
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/text"
+msgstr ""
+"あなたがその内部にあるものを救うことを期待して船に近づくと、船のシステムは悲惨なメッセージを送るときに突然オンラインになります。「身元不明の船！戻ってくるか、この星間墓地で他の船の死体に参加します！」この船の武器は、これまでに見たことがあるものとは似ていませんが、それだけでなく、現在は単一の生命署名が搭載されているようであり、データベース内のどの種でもありません。"
+
+#: src-en/data/events_sector_rebel.xml.append:20
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[1]/text"
+msgstr "船の内側にあるものは、非常に貴重であり、武器とアプローチを動かしてください！"
+
+#: src-en/data/events_sector_rebel.xml.append:22
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"船のシステムは現在フルパワーになっています！Medbayはある種の生命維持システムに動力を供給しており、オンラインで唯一の生存者を不滅にしているようです！あなたがそのエイリアンを殺す機会を持ちたいなら、あなたはそれを最初に取り出す必要があります。幸いなことに、これらの奇妙な船との以前の戦いは、武器システムを破損しており、通常の速度で武器を充電するのを妨げているようです。"
+
+#: src-en/data/events_sector_rebel.xml.append:25
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_rebel.xml.append:31
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[2]/text"
+msgstr "警告に耳を傾け、離れてください。"
+
+#: src-en/data/events_sector_rebel.xml.append:33
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[2]/event/text"
+msgstr "FTLエンジンの充電を開始するとすぐに、船は武器を駆け抜け、あなたを去ります。"
+
+#: src-en/data/events_sector_rebel.xml.append:35
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_rebel.xml.append:39
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_rebel.xml.append:47
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[2]/text"
+msgstr "それが何であれ、私たちは知りたくありません。"
+
+#: src-en/data/events_sector_rebel.xml.append:49
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[2]/event/text"
+msgstr "あなたは今、あまりにも多くのものを持っています。あなたは巨大な船を無視し、できるだけ早く飛び去ります。"
+
+#: src-en/data/events_sector_rebel.xml.append:51
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_rebel.xml.append:55
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_rebel.xml.append:63
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST_CREWKILL\"]/text"
+msgstr ""
+"船が永遠に生活を欠いていることを確認した後、あなたはそのエイリアンが守っているものを見るためにチームを送ります、そしてあなたの驚いたことに、それは単なるスクラップの山ではありません！船のコントロールはまだ機能しているようで、連邦の格納庫にリダイレクトすることができます！さらに良いことに、貯蔵室の中には、船があなたに対して使用したものと同じように、銃がたくさんあります。\n"
+"\n"
+"もう少し探索した後、船の他の唯一の生存者を見つけ、密封された部屋の中に立ち往生しています。彼らを解放した後、彼らはあなたの乗組員に加わることを申し出ることにとても感謝しています！"
+
+#: src-en/data/events_sector_rebel.xml.append:74
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST_CREWKILL\"]/choice/text"
+msgstr "甘い！"

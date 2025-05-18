@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:5
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"SLUG_DISTRESS_TRICK\"]/mod-"
+"append:choice/text"
+msgstr "（オペレーターの乗組員）オペレーターに状況に対処するために送ってください。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:7
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"SLUG_DISTRESS_TRICK\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"ウォーキングデータバンクを手に入れることがありますが、オペレーターは問題を簡単に見つけることができ、スラッグに可能な修正のリストを渡してから、サービスのために請求書を渡します。激怒して、スラッグは銃をつけて戦闘の準備をします。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:10
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"SLUG_DISTRESS_TRICK\"]/mod-"
+"append:choice/event/choice/text"
+msgstr ""

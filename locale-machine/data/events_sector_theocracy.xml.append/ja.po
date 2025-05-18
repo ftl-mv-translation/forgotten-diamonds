@@ -1,0 +1,183 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_theocracy.xml.append:13
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/text"
+msgstr ""
+"あなたはその奇妙な「リクエスト」信号を放出していたビーコンに到達します。驚いたことに、それは岩船ではありません。それはあなたが今まで見たことのないクラスの船です。彼らはあなたを歓迎します。最初は、彼らが言っていることは何でも純粋な気味が悪いですが、数分後、翻訳者が理解できる言語でゆっくりと話し始めます。"
+
+#: src-en/data/events_sector_theocracy.xml.append:16
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:18
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/text"
+msgstr ""
+"「挨拶、肉のもの、私はオペレーターであり、異なるクラスターから到着し、いくつかの取引を望んでいました。それでも重く誤訳されていますが、「オペレーター」と呼ばれる存在は、理にかなっているほど十分に理解できます。彼らは5人の乗組員を必要とし、その代わりに船の青写真を必要とします。\n"
+"\n"
+"この敵と戦わないことをお勧めします。その戦闘ドローンは非常に危険です。"
+
+#: src-en/data/events_sector_theocracy.xml.append:23
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/text"
+msgstr "条件に同意します。"
+
+#: src-en/data/events_sector_theocracy.xml.append:25
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/text"
+msgstr "オペレーターは、乗組員をゆっくりと船に照らし始めるので、あなたの決定に満足しているようです。"
+
+#: src-en/data/events_sector_theocracy.xml.append:28
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/removeCrew/text"
+msgstr "乗組員は死んでいないため、クローンを作成することはできません。"
+
+#: src-en/data/events_sector_theocracy.xml.append:31
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:33
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/text"
+msgstr "それは続きます。"
+
+#: src-en/data/events_sector_theocracy.xml.append:36
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/removeCrew/text"
+msgstr "乗組員は死んでいないため、クローンを作成することはできません。"
+
+#: src-en/data/events_sector_theocracy.xml.append:39
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:41
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/choice/event/text"
+msgstr "それは続きます。"
+
+#: src-en/data/events_sector_theocracy.xml.append:44
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/choice/event/removeCrew/text"
+msgstr "乗組員は死んでいないため、クローンを作成することはできません。"
+
+#: src-en/data/events_sector_theocracy.xml.append:47
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:49
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/choice/event/choice/event/text"
+msgstr "それは続きます。"
+
+#: src-en/data/events_sector_theocracy.xml.append:52
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and "
+"@lvl=\"1\"]/event/choice/event/choice/event/choice/event/removeCrew/text"
+msgstr "乗組員は死んでいないため、クローンを作成することはできません。"
+
+#: src-en/data/events_sector_theocracy.xml.append:55
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:57
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and "
+"@lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"しばらくして、最後の乗組員は輝き、その後すぐに「オペレーター」が使用していた巡洋艦の青写真を受け取ります。それだけでなく、奇妙な銅ドローンと大量のスクラップも与えます。\n"
+"\n"
+"突然、オペレーターはあなたを「驚異的です！このデータはすべて、長年の調査をスキップできます！しかし、それだけでは十分ではないかもしれません。そうであることを確認するために、あなたのクラスターに関するより深いデータを得ることを期待してあなたの使命に参加します」"
+
+#: src-en/data/events_sector_theocracy.xml.append:62
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and "
+"@lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/event/removeCrew/text"
+msgstr "乗組員は死んでいないため、クローンを作成することはできません。"
+
+#: src-en/data/events_sector_theocracy.xml.append:80
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"0\"]/text"
+msgstr "十分な乗組員がいません。"
+
+#: src-en/data/events_sector_theocracy.xml.append:84
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/text"
+msgstr "乗組員を渡すことはありません！強制的に青写真を取りましょう！"
+
+#: src-en/data/events_sector_theocracy.xml.append:86
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/event/text"
+msgstr ""
+"「オペレーター」はこれをうまく服用しなかったようで、彼らの船は戦闘ドローンをリリースし始めます。おそらく、船を片付けると青写真を取得することが可能ですか？"
+
+#: src-en/data/events_sector_theocracy.xml.append:89
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:95
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[4]/text"
+msgstr "お詫び申し上げます。"
+
+#: src-en/data/events_sector_theocracy.xml.append:97
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[4]/event/text"
+msgstr "オペレーターは、それによって非常に悲しんでいますが、あなたの協力に感謝し、飛び去る前に補償するためのスクラップを与えてください。"
+
+#: src-en/data/events_sector_theocracy.xml.append:105
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/text"
+msgstr "それが何であれ、私たちは知りたくありません。"
+
+#: src-en/data/events_sector_theocracy.xml.append:107
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/text"
+msgstr "あなたは今、多くのものが多くのものを持っています、あなたは巨大な船を無視し、できるだけ早く飛び去ります。"
+
+#: src-en/data/events_sector_theocracy.xml.append:109
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:113
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:121
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_CREWKILL\"]/text"
+msgstr "無限のファイアウォールやトラップのように感じた後、乗組員はついにエイリアンのシステムの奥深くに隠された青写真を見つけることができました。"
+
+#: src-en/data/events_sector_theocracy.xml.append:125
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_CREWKILL\"]/choice/text"
+msgstr "甘い！"
