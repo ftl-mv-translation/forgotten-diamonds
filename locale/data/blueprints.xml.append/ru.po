@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-30 04:49+0000\n"
+"PO-Revision-Date: 2025-05-20 18:49+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/datablueprintsxmlappend/ru/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.8.1\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/blueprints.xml.append:19
 msgid ""
@@ -2124,9 +2124,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_3\"]/desc"
 msgstr ""
-"Этот корабль может создавать жизнь только для того, чтобы отправить ее в бой, как только она будет создана. Может зарегистрировать экипаж в своей базе данных один раз, получив возможность его последующего выращивания, и эти регистрации сохраняются даже между забегами.\n"
-"\t\n"
-"\tК сожалению, корабль не может установить ни систему дронов, ни оружия."
+"Этот корабль может создавать жизнь только для того, чтобы отправить ее в "
+"бой, как только она будет создана. Может зарегистрировать экипаж в своей "
+"базе данных один раз, получив возможность его последующего выращивания, и "
+"эти регистрации сохраняются даже между забегами.\n"
+"К сожалению, корабль не может установить ни систему дронов, ни оружия."
 
 #: src-en/data/blueprints.xml.append:2558
 msgid ""
