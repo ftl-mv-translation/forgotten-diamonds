@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-06-03 15:50+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"forgotten-diamonds/dataevents_fr_special_fleshmakerxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4
 msgid ""
@@ -132,7 +140,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:90
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MAYEB_LIST\"]/text"
-msgstr "Зарегистрировать Майев в базе данных"
+msgstr "Зарегистрировать в базе данных Майев"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:92
 msgid ""
@@ -208,7 +216,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:142
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CYLVAN_LIST\"]/text"
-msgstr "Зарегистрировать Цильвана в базе данных"
+msgstr "Зарегистрировать в базе данных Цильвана"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:144
 msgid ""
@@ -265,7 +273,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:181
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_IVAR_LIST\"]/text"
-msgstr "Зарегистрировать Майев в базе данных"
+msgstr "Зарегистрировать в базе данных Майев"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:183
 msgid ""
@@ -284,7 +292,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:194
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TYEREL_LIST\"]/text"
-msgstr "Зарегистрировать Тай Э'Рела в базе данных"
+msgstr "Зарегистрировать в базе данных Тай Э'Рела"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:196
 msgid ""
@@ -303,7 +311,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:207
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MANTISQUEEN_LIST\"]/text"
-msgstr "Зарегистрировать Королеву богомолов в базе данных"
+msgstr "Зарегистрировать в базе данных Королеву богомолов"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:209
 msgid ""
@@ -322,7 +330,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:220
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_KAZAAAK_LIST\"]/text"
-msgstr "Зарегистрировать Казааакплеткилика в базе данных"
+msgstr "Зарегистрировать в базе данных Казааакплеткилика"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:222
 msgid ""
@@ -341,7 +349,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:233
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HAYNES_LIST\"]/text"
-msgstr "Зарегистрировать Хэйнса в базе данных"
+msgstr "Зарегистрировать в базе данных Хэйнса"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:235
 msgid ""
@@ -360,7 +368,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:246
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_JERRY_LIST\"]/text"
-msgstr "Зарегистрировать Джерри в базе данных"
+msgstr "Зарегистрировать в базе данных Джерри"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:248
 msgid ""
@@ -379,7 +387,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:259
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GUNJERRY_LIST\"]/text"
-msgstr "Зарегистрировать Вооруженного Джерри в базе данных"
+msgstr "Зарегистрировать в базе данных Вооруженного Джерри"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:261
 msgid ""
@@ -398,7 +406,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:270
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PONYJERRY_LIST\"]/text"
-msgstr "Зарегистрировать Джерри на пони в базе данных"
+msgstr "Зарегистрировать в базе данных Джерри на пони"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:272
 msgid ""
@@ -417,7 +425,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:283
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CRYSTALJERRY_LIST\"]/text"
-msgstr "Зарегистрировать кристаллического пони Джерри в базе данных"
+msgstr "Зарегистрировать в базе данных кристаллического пони Джерри"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:285
 msgid ""
@@ -436,7 +444,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:296
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TULLY_LIST\"]/text"
-msgstr "Зарегистрировать Талли в базе данных"
+msgstr "Зарегистрировать в базе данных Талли"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:298
 msgid ""
@@ -455,7 +463,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:309
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_DEVORAK_LIST\"]/text"
-msgstr "Зарегистрировать Деворака в базе данных"
+msgstr "Зарегистрировать в базе данных Деворака"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:311
 msgid ""
@@ -474,7 +482,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:322
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TURZIL_LIST\"]/text"
-msgstr "Зарегистрировать Турзила в базе данных"
+msgstr "Зарегистрировать в базе данных Турзила"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:324
 msgid ""
@@ -493,7 +501,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:335
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SHELLALKALI_LIST\"]/text"
-msgstr "Зарегистрировать Шеллкали в базе данных"
+msgstr "Зарегистрировать в базе данных Шеллкали"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:337
 msgid ""
@@ -512,7 +520,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:348
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_OOJ_LIST\"]/text"
-msgstr "Зарегистрировать УДЖа в базе данных"
+msgstr "Зарегистрировать в базе данных УДЖа"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:350
 msgid ""
@@ -531,7 +539,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:361
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_NIGHTS_LIST\"]/text"
-msgstr "Зарегистрировать Тумана в базе данных"
+msgstr "Зарегистрировать в базе данных Тумана"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:363
 msgid ""
@@ -550,7 +558,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:374
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SLOCKNOG_LIST\"]/text"
-msgstr "Зарегистрировать Слокнога в базе данных"
+msgstr "Зарегистрировать в базе данных Слокнога"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:376
 msgid ""
@@ -569,7 +577,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:387
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_IRWIN_LIST\"]/text"
-msgstr "Зарегистрировать Ирвина в базе данных"
+msgstr "Зарегистрировать в базе данных Ирвина"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:389
 msgid ""
@@ -588,7 +596,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:400
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ALKRAM_LIST\"]/text"
-msgstr "Зарегистрировать Алькрама в базе данных"
+msgstr "Зарегистрировать в базе данных Алькрама"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:402
 msgid ""
@@ -607,7 +615,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:413
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ORCHID_CARETAKER_LIST\"]/text"
-msgstr "Зарегистрировать орхидею-Смотрителя в базе данных"
+msgstr "Зарегистрировать в базе данных орхидею-Смотрителя"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:415
 msgid ""
@@ -626,7 +634,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:426
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TYRDEO_LIST\"]/text"
-msgstr "Зарегистрировать Тирдео в базе данных"
+msgstr "Зарегистрировать в базе данных Тирдео"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:428
 msgid ""
@@ -645,7 +653,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:439
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_FREDDY_LIST\"]/text"
-msgstr "Зарегистрировать Фредди в базе данных"
+msgstr "Зарегистрировать в базе данных Фредди"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:441
 msgid ""
@@ -664,7 +672,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:452
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_DIANESH_LIST\"]/text"
-msgstr "Зарегистрировать Дианеш в базе данных"
+msgstr "Зарегистрировать в базе данных Дианеш"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:454
 msgid ""
@@ -683,7 +691,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:465
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ARIADNE_LIST\"]/text"
-msgstr "Зарегистрировать Ариадны в базе данных"
+msgstr "Зарегистрировать в базе данных Ариадну"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:467
 msgid ""
@@ -702,7 +710,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:478
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_RUWEN_LIST\"]/text"
-msgstr "Зарегистрировать Рувена в базе данных"
+msgstr "Зарегистрировать в базе данных Рувена"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:480
 msgid ""
@@ -721,7 +729,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:491
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TUCO_LIST\"]/text"
-msgstr "Зарегистрировать Туко в базе данных"
+msgstr "Зарегистрировать в базе данных Туко"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:493
 msgid ""
@@ -740,7 +748,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:504
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ROCKELDER_LIST\"]/text"
-msgstr "Зарегистрировать Камнестена в базе данных"
+msgstr "Зарегистрировать в базе данных Камнестена"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:506
 msgid ""
@@ -759,7 +767,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:517
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_BEACONEATER_LIST\"]/text"
-msgstr "Зарегистрировать Пожирателя маяков в базе данных"
+msgstr "Зарегистрировать в базе данных Пожирателя маяков"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:519
 msgid ""
@@ -778,7 +786,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:530
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ANOINTED_LIST\"]/text"
-msgstr "Зарегистрировать Помазанницы в базе данных"
+msgstr "Зарегистрировать в базе данных Помазанницу"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:532
 msgid ""
@@ -797,7 +805,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:543
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_DESSIUS_LIST\"]/text"
-msgstr "Зарегистрировать Дессиуса в базе данных"
+msgstr "Зарегистрировать в базе данных Дессиуса"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:545
 msgid ""
@@ -816,7 +824,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:556
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_VORTIGON_LIST\"]/text"
-msgstr "Зарегистрировать Вортигона в базе данных"
+msgstr "Зарегистрировать в базе данных Вортигона"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:558
 msgid ""
@@ -835,7 +843,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:569
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SPIDERQUEEN_LIST\"]/text"
-msgstr "Зарегистрировать Королевы пауков в базе данных"
+msgstr "Зарегистрировать в базе данных Королеву пауков"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:571
 msgid ""
@@ -854,7 +862,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:582
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SYLVAN_LIST\"]/text"
-msgstr "Зарегистрировать Сильвана в базе данных"
+msgstr "Зарегистрировать в базе данных Сильвана"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:584
 msgid ""
@@ -873,7 +881,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:595
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_VENOMOUSSPIDER_LIST\"]/text"
-msgstr "Зарегистрировать ядовитую королеву пауков в базе данных"
+msgstr "Зарегистрировать в базе данных ядовитую королеву пауков"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:597
 msgid ""
@@ -892,7 +900,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:608
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CYBERPONY_LIST\"]/text"
-msgstr "Зарегистрировать Киберпони в базе данных"
+msgstr "Зарегистрировать в базе данных Киберпони"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:610
 msgid ""
@@ -911,7 +919,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:621
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_OBYN_LIST\"]/text"
-msgstr "Зарегистрировать Обина в базе данных"
+msgstr "Зарегистрировать в базе данных Обина"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:623
 msgid ""
@@ -930,7 +938,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:634
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_BILLY_LIST\"]/text"
-msgstr "Зарегистрировать Билли в базе данных"
+msgstr "Зарегистрировать в базе данных Билли"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:636
 msgid ""
@@ -949,7 +957,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:647
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GUNTPUT_LIST\"]/text"
-msgstr "Зарегистрировать Гантпута в базе данных"
+msgstr "Зарегистрировать в базе данных Гантпута"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:649
 msgid ""
@@ -968,7 +976,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:660
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_METYUNT_LIST\"]/text"
-msgstr "Зарегистрировать Метьюнта в базе данных"
+msgstr "Зарегистрировать в базе данных Метьюнта"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:662
 msgid ""
@@ -987,7 +995,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:673
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SYMBIOTE_LIST\"]/text"
-msgstr "Зарегистрировать Симбионта в базе данных"
+msgstr "Зарегистрировать в базе данных Симбионта"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:675
 msgid ""
@@ -1006,7 +1014,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:686
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TONYSR_LIST\"]/text"
-msgstr "Зарегистрировать Тони Ст. в базе данных"
+msgstr "Зарегистрировать в базе данных Тони Ст."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:688
 msgid ""
@@ -1025,7 +1033,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:699
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WITHER_LIST\"]/text"
-msgstr "Зарегистрировать Витэра в базе данных"
+msgstr "Зарегистрировать в базе данных Витэра"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:701
 msgid ""
@@ -1044,7 +1052,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:712
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CRYSTALPONY_LIST\"]/text"
-msgstr "Зарегистрировать кристаллического эквиноида в базе данных"
+msgstr "Зарегистрировать в базе данных кристаллического эквиноида"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:714
 msgid ""
@@ -1063,7 +1071,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:725
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_VANCE_LIST\"]/text"
-msgstr "Зарегистрировать Вэнса в базе данных"
+msgstr "Зарегистрировать в базе данных Вэнса"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:727
 msgid ""
@@ -1082,7 +1090,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:738
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LEAH_LIST\"]/text"
-msgstr "Зарегистрировать Лию в базе данных"
+msgstr "Зарегистрировать в базе данных Лию"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:740
 msgid ""
@@ -1101,7 +1109,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:751
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GMANSYLVAN_LIST\"]/text"
-msgstr "Зарегистрировать Джи-Вана в базе данных"
+msgstr "Зарегистрировать в базе данных Джи-Вана"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:753
 msgid ""
@@ -1120,7 +1128,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:764
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MFKLEAH_LIST\"]/text"
-msgstr "Зарегистрировать МФК Лию в базе данных"
+msgstr "Зарегистрировать в базе данных МФК Лию"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:766
 msgid ""
@@ -1139,7 +1147,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:777
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CYRA_LIST\"]/text"
-msgstr "Зарегистрировать Сайру в базе данных"
+msgstr "Зарегистрировать в базе данных Сайру"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:779
 msgid ""
@@ -1158,7 +1166,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:790
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_THEST_LIST\"]/text"
-msgstr "Зарегистрировать Сеста в базе данных"
+msgstr "Зарегистрировать в базе данных Сеста"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:792
 msgid ""
@@ -1177,7 +1185,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:803
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CORBY_LIST\"]/text"
-msgstr "Зарегистрировать Корби в базе данных"
+msgstr "Зарегистрировать в базе данных Корби"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:805
 msgid ""
@@ -1196,7 +1204,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:816
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WAKESON_LIST\"]/text"
-msgstr "Зарегистрировать Уэйксона в базе данных"
+msgstr "Зарегистрировать в базе данных Уэйксона"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:818
 msgid ""
@@ -1215,7 +1223,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:829
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_DYLAN_LIST\"]/text"
-msgstr "Зарегистрировать Дилана в базе данных"
+msgstr "Зарегистрировать в базе данных Дилана"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:831
 msgid ""
@@ -1234,7 +1242,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:842
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CLANSYLVAN_LIST\"]/text"
-msgstr "Зарегистрировать Сильвана-Клановца в базе данных"
+msgstr "Зарегистрировать в базе данных Сильвана-Клановца"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:844
 msgid ""
@@ -1253,7 +1261,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:855
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_1DSYLVAN_LIST\"]/text"
-msgstr "Зарегистрировать 1D Сильвана в базе данных"
+msgstr "Зарегистрировать в базе данных 1D Сильвана"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:857
 msgid ""
@@ -1272,7 +1280,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:868
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_REBELSYLVAN_LIST\"]/text"
-msgstr "Зарегистрировать Сильвана-повстанца в базе данных"
+msgstr "Зарегистрировать в базе данных Сильвана-повстанца"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:870
 msgid ""
@@ -1291,7 +1299,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:881
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SANSSYLVAN_LIST\"]/text"
-msgstr "Зарегистрировать Санса-Сильвана в базе данных"
+msgstr "Зарегистрировать в базе данных Санса-Сильвана"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:883
 msgid ""
@@ -1310,7 +1318,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:894
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MAIDSYLVAN_LIST\"]/text"
-msgstr "Зарегистрировать Сильвана-горничную в базе данных"
+msgstr "Зарегистрировать в базе данных Сильвана-горничную"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:896
 msgid ""
@@ -1329,7 +1337,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:907
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LEAHSYLVAN_LIST\"]/text"
-msgstr "Зарегистрировать Силию в базе данных"
+msgstr "Зарегистрировать в базе данных Силию"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:909
 msgid ""
@@ -1348,7 +1356,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:920
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_RICKSYLVAN_LIST\"]/text"
-msgstr "Зарегистрировать Сильврика в базе данных"
+msgstr "Зарегистрировать в базе данных Сильврика"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:922
 msgid ""
@@ -1367,7 +1375,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:933
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_BEANSSYLVAN_LIST\"]/text"
-msgstr "Зарегистрировать бобового Сильвана в базе данных"
+msgstr "Зарегистрировать в базе данных бобового Сильвана"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:935
 msgid ""
@@ -1386,7 +1394,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:946
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PRIMESYLVAN_LIST\"]/text"
-msgstr "Зарегистрировать Сильвана Первого в базе данных"
+msgstr "Зарегистрировать в базе данных Сильвана Первого"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:948
 msgid ""
@@ -1405,7 +1413,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:959
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PAPYRUSOBYN_LIST\"]/text"
-msgstr "Зарегистрировать Папобина в базе данных"
+msgstr "Зарегистрировать в базе данных Папобина"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:961
 msgid ""
@@ -1424,7 +1432,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:972
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GOZER_LIST\"]/text"
-msgstr "Зарегистрировать Гозиодеона в базе данных"
+msgstr "Зарегистрировать в базе данных Гозиодеона"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:974
 msgid ""
@@ -1443,7 +1451,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:985
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELEANOR_LIST\"]/text"
-msgstr "Зарегистрировать Элеонору в базе данных"
+msgstr "Зарегистрировать в базе данных Элеонору"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:987
 msgid ""
@@ -1462,7 +1470,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:998
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PSYCH_LIST\"]/text"
-msgstr "Зарегистрировать Психа в базе данных"
+msgstr "Зарегистрировать в базе данных Психа"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1000
 msgid ""
@@ -1481,7 +1489,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1011
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SCOLERI_LIST\"]/text"
-msgstr "Зарегистрировать Соколарея в базе данных"
+msgstr "Зарегистрировать в базе данных Соколарея"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1013
 msgid ""
@@ -1500,7 +1508,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1024
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SLIMER_LIST\"]/text"
-msgstr "Зарегистрировать Слимера в базе данных"
+msgstr "Зарегистрировать в базе данных Слимера"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1026
 msgid ""
@@ -1519,7 +1527,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1037
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_VINZ_LIST\"]/text"
-msgstr "Зарегистрировать Винезалеона в базе данных"
+msgstr "Зарегистрировать в базе данных Винезалеона"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1039
 msgid ""
@@ -1538,7 +1546,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1050
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ZUUL_LIST\"]/text"
-msgstr "Зарегистрировать Зуула в базе данных"
+msgstr "Зарегистрировать в базе данных Зуула"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1052
 msgid ""
@@ -1557,7 +1565,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1063
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ORKID_LIST\"]/text"
-msgstr "Зарегистрировать морфа детей в базе данных"
+msgstr "Зарегистрировать в базе данных морфа детей-орхидей"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1065
 msgid ""
@@ -1576,7 +1584,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1076
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELLIE_LIST\"]/text"
-msgstr "Зарегистрировать Элли в базе данных"
+msgstr "Зарегистрировать в базе данных Элли"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1078
 msgid ""
@@ -1595,7 +1603,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1089
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TOWR_LIST\"]/text"
-msgstr "Зарегистрировать Того, Кто Рифмует в базе данных"
+msgstr "Зарегистрировать в базе данных Того, Кто Рифмует"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1091
 msgid ""
@@ -1614,7 +1622,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1102
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_THING_LIST\"]/text"
-msgstr "Зарегистрировать Нечто в базе данных"
+msgstr "Зарегистрировать в базе данных Нечто"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1104
 msgid ""
@@ -1633,7 +1641,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1115
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WEAKTHING_LIST\"]/text"
-msgstr "Зарегистрировать малое Нечто в базе данных"
+msgstr "Зарегистрировать в базе данныхмалое Нечто"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1117
 msgid ""
@@ -1652,7 +1660,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1128
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GNOME_LIST\"]/text"
-msgstr "Зарегистрировать гнома хаоса в базе данных"
+msgstr "Зарегистрировать в базе данных гнома хаоса"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1130
 msgid ""
@@ -1671,7 +1679,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1141
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_BUCKET_LIST\"]/text"
-msgstr "Зарегистрировать ведро в базе данных"
+msgstr "Зарегистрировать в базе данных ведро"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1143
 msgid ""
@@ -1690,7 +1698,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1154
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CELSYLVAN_LIST\"]/text"
-msgstr "Зарегистрировать Сильвана ЛБП в базе данных"
+msgstr "Зарегистрировать в базе данных Сильвана ЛБП"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1156
 msgid ""
@@ -1709,7 +1717,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1167
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CELOBYN_LIST\"]/text"
-msgstr "Зарегистрировать Обина ЛБП в базе данных"
+msgstr "Зарегистрировать в базе данных Обина ЛБП"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1169
 msgid ""
@@ -1728,7 +1736,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1180
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PANTS_LIST\"]/text"
-msgstr "Зарегистрировать Брюки в базе данных"
+msgstr "Зарегистрировать в базе данных Брюки"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1182
 msgid ""
@@ -1747,7 +1755,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1193
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELLIE_LV1_LIST\"]/text"
-msgstr "Зарегистрировать Элли 1 уровня в базе данных"
+msgstr "Зарегистрировать в базе данных Элли 1 уровня"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1195
 msgid ""
@@ -1766,7 +1774,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1206
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELLIE_LV2_LIST\"]/text"
-msgstr "Зарегистрировать Элли 2 уровня в базе данных"
+msgstr "Зарегистрировать в базе данных Элли 2 уровня"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1208
 msgid ""
@@ -1785,7 +1793,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1219
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELLIE_LV3_LIST\"]/text"
-msgstr "Зарегистрировать Элли 3 уровня в базе данных"
+msgstr "Зарегистрировать в базе данных Элли 3 уровня"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1221
 msgid ""
@@ -1804,7 +1812,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1232
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELLIE_LV4_LIST\"]/text"
-msgstr "Зарегистрировать Элли 4 уровня в базе данных"
+msgstr "Зарегистрировать в базе данных Элли 4 уровня"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1234
 msgid ""
@@ -1823,7 +1831,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1245
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELLIE_LV5_LIST\"]/text"
-msgstr "Зарегистрировать Элли 5 уровня в базе данных"
+msgstr "Зарегистрировать в базе данных Элли 5 уровня"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1247
 msgid ""
@@ -1842,7 +1850,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1258
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ELLIE_LV6_LIST\"]/text"
-msgstr "Зарегистрировать Элли 6 уровня в базе данных"
+msgstr "Зарегистрировать в базе данных Элли 6 уровня"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1260
 msgid ""
@@ -1861,7 +1869,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1271
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_STEPHAN_LIST\"]/text"
-msgstr "Зарегистрировать Стефана в базе данных"
+msgstr "Зарегистрировать в базе данных Стефана"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1273
 msgid ""
@@ -1880,7 +1888,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1284
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ANURAK_LIST\"]/text"
-msgstr "Зарегистрировать Анурака в базе данных"
+msgstr "Зарегистрировать в базе данных Анурака"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1286
 msgid ""
@@ -1899,7 +1907,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1297
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HUMANOID_LIST\"]/text"
-msgstr "Зарегистрировать гуманоида в базе данных"
+msgstr "Зарегистрировать в базе данных гуманоида"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1299
 msgid ""
@@ -1918,7 +1926,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1310
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SOLDIER_LIST\"]/text"
-msgstr "Зарегистрировать Солдата в базе данных"
+msgstr "Зарегистрировать в базе данных Солдата"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1312
 msgid ""
@@ -1937,7 +1945,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1323
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MFK_LIST\"]/text"
-msgstr "Зарегистрировать МФК в базе данных"
+msgstr "Зарегистрировать в базе данных МФК"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1325
 msgid ""
@@ -1956,7 +1964,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1336
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LEGION_LIST\"]/text"
-msgstr "Зарегистрировать Легионера-оперативника в базе данных"
+msgstr "Зарегистрировать в базе данных Легионера-оперативника"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1338
 msgid ""
@@ -1975,7 +1983,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1349
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PYROLEGION_LIST\"]/text"
-msgstr "Зарегистрировать Легионера-Пиротехника в базе данных"
+msgstr "Зарегистрировать в базе данных Легионера-Пиротехника"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1351
 msgid ""
@@ -1994,7 +2002,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1362
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TECHNICIAN_LIST\"]/text"
-msgstr "Зарегистрировать Техника в базе данных"
+msgstr "Зарегистрировать в базе данных Техника"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1364
 msgid ""
@@ -2013,7 +2021,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1375
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ANGEL_LIST\"]/text"
-msgstr "Зарегистрировать Ангела в базе данных"
+msgstr "Зарегистрировать в базе данных Ангела"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1377
 msgid ""
@@ -2032,7 +2040,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1388
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_DEFENDER_LIST\"]/text"
-msgstr "Зарегистрировать Защитника энджи в базе данных"
+msgstr "Зарегистрировать в базе данных Защитника энджи"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1390
 msgid ""
@@ -2051,7 +2059,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1401
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PEACEKEEPER_LIST\"]/text"
-msgstr "Зарегистрировать Миротворца в базе данных"
+msgstr "Зарегистрировать в базе данных Миротворца"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1403
 msgid ""
@@ -2070,7 +2078,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1414
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MARTYR_LIST\"]/text"
-msgstr "Зарегистрировать Мученика в базе данных"
+msgstr "Зарегистрировать в базе данных Мученика"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1416
 msgid ""
@@ -2089,7 +2097,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1427
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PRAETOR_LIST\"]/text"
-msgstr "Зарегистрировать Претора в базе данных"
+msgstr "Зарегистрировать в базе данных Претора"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1429
 msgid ""
@@ -2108,7 +2116,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1440
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CULTIVATOR_LIST\"]/text"
-msgstr "Зарегистрировать Культиватора в базе данных"
+msgstr "Зарегистрировать в базе данных Культиватора"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1442
 msgid ""
@@ -2127,7 +2135,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1453
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SUZERAIN_LIST\"]/text"
-msgstr "Зарегистрировать Сюзерена в базе данных"
+msgstr "Зарегистрировать в базе данных Сюзерена"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1455
 msgid ""
@@ -2146,7 +2154,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1466
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WARLORD_LIST\"]/text"
-msgstr "Зарегистрировать Полководца в базе данных"
+msgstr "Зарегистрировать в базе данных Полководца"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1468
 msgid ""
@@ -2165,7 +2173,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1479
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_BISHOP_LIST\"]/text"
-msgstr "Зарегистрировать Епископа в базе данных"
+msgstr "Зарегистрировать в базе данных Епископа"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1481
 msgid ""
@@ -2184,7 +2192,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1492
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CRUSADER_LIST\"]/text"
-msgstr "Зарегистрировать Крестоносца в базе данных"
+msgstr "Зарегистрировать в базе данных Крестоносца"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1494
 msgid ""
@@ -2203,7 +2211,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1505
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PALADIN_LIST\"]/text"
-msgstr "Зарегистрировать Паладина в базе данных"
+msgstr "Зарегистрировать в базе данных Паладина"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1507
 msgid ""
@@ -2222,7 +2230,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1518
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SENTINEL_LIST\"]/text"
-msgstr "Зарегистрировать кристаллина-Часового в базе данных"
+msgstr "Зарегистрировать в базе данных кристаллина-Часового"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1520
 msgid ""
@@ -2241,7 +2249,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1531
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_RADIANT_LIST\"]/text"
-msgstr "Зарегистрировать Лучезарную ракушку в базе данных"
+msgstr "Зарегистрировать в базе данных Лучезарную ракушку"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1533
 msgid ""
@@ -2260,7 +2268,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1544
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_AMPERE_LIST\"]/text"
-msgstr "Зарегистрировать Ампера в базе данных"
+msgstr "Зарегистрировать в базе данных Ампера"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1546
 msgid ""
@@ -2279,7 +2287,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1557
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SABOTEUR_LIST\"]/text"
-msgstr "Зарегистрировать Диверсанта-слизня в базе данных"
+msgstr "Зарегистрировать в базе данных Диверсанта-слизня"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1559
 msgid ""
@@ -2298,7 +2306,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1570
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_KNIGHT_LIST\"]/text"
-msgstr "Зарегистрировать Атамана Тумана в базе данных"
+msgstr "Зарегистрировать в базе данных Атамана Тумана"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1572
 msgid ""
@@ -2317,7 +2325,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1583
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ALPHAPHANTOM_LIST\"]/text"
-msgstr "Зарегистрировать Альфа-фантома в базе данных"
+msgstr "Зарегистрировать в базе данных Альфа-фантома"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1585
 msgid ""
@@ -2336,7 +2344,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1596
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ALPHAGOUL_LIST\"]/text"
-msgstr "Зарегистрировать Альфа-гуля в базе данных"
+msgstr "Зарегистрировать в базе данных Альфа-гуля"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1598
 msgid ""
@@ -2355,7 +2363,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1609
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ALPHAMARE_LIST\"]/text"
-msgstr "Зарегистрировать Альфа-мару в базе данных"
+msgstr "Зарегистрировать в базе данных Альфа-мару"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1611
 msgid ""
@@ -2374,7 +2382,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1622
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ALPHAWRAITH_LIST\"]/text"
-msgstr "Зарегистрировать Альфа-видение в базе данных"
+msgstr "Зарегистрировать в базе данных Альфа-видение"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1624
 msgid ""
@@ -2393,7 +2401,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1635
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TAMEDPONY_LIST\"]/text"
-msgstr "Зарегистрировать прирученного эквиноида в базе данных"
+msgstr "Зарегистрировать в базе данных прирученного эквиноида"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1637
 msgid ""
@@ -2412,7 +2420,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1648
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WELDER_LIST\"]/text"
-msgstr "Зарегистрировать Сварщика в базе данных"
+msgstr "Зарегистрировать в базе данных Сварщика"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1650
 msgid ""
@@ -2431,7 +2439,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1661
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ROYALCOGNITIVE_LIST\"]/text"
-msgstr "Зарегистрировать Королевского когнитива в базе данных"
+msgstr "Зарегистрировать в базе данных Дворянского когнитива"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1663
 msgid ""
@@ -2450,7 +2458,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1674
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HARPYSIREN_LIST\"]/text"
-msgstr "Зарегистрировать Гарпию в базе данных"
+msgstr "Зарегистрировать в базе данных Гарпию"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1676
 msgid ""
@@ -2469,7 +2477,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1687
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ROYALOBELISK_LIST\"]/text"
-msgstr "Зарегистрировать обелиска-Дворянина в базе данных"
+msgstr "Зарегистрировать в базе данных обелиска-Дворянина"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1689
 msgid ""
@@ -2488,7 +2496,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1700
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HUMAN_LIST\"]/text"
-msgstr "Зарегистрировать человека в базе данных"
+msgstr "Зарегистрировать в базе данных человека"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1702
 msgid ""
@@ -2507,7 +2515,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1713
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MEDIC_LIST\"]/text"
-msgstr "Зарегистрировать человека-Медика в базе данных"
+msgstr "Зарегистрировать в базе данных человека-Медика"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1715
 msgid ""
@@ -2526,7 +2534,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1726
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ENGINEER_LIST\"]/text"
-msgstr "Зарегистрировать человека-Инженера в базе данных"
+msgstr "Зарегистрировать в базе данных человека-Инженера"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1728
 msgid ""
@@ -2545,7 +2553,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1739
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_REBEL_LIST\"]/text"
-msgstr "Зарегистрировать повстанца в базе данных"
+msgstr "Зарегистрировать в базе данных повстанца"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1741
 msgid ""
@@ -2564,7 +2572,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1752
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MEDICREBEL_LIST\"]/text"
-msgstr "Зарегистрировать повстанца-Медика в базе данных"
+msgstr "Зарегистрировать в базе данных повстанца-Медика"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1754
 msgid ""
@@ -2583,7 +2591,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1765
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ENGI_LIST\"]/text"
-msgstr "Зарегистрировать энджи в базе данных"
+msgstr "Зарегистрировать в базе данных энджи"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1767
 msgid ""
@@ -2602,7 +2610,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1778
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SEPARATIST_LIST\"]/text"
-msgstr "Зарегистрировать энджи-Сепаратиста в базе данных"
+msgstr "Зарегистрировать в базе данных энджи-Сепаратиста"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1780
 msgid ""
@@ -2621,7 +2629,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1791
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ZOLTAN_LIST\"]/text"
-msgstr "Зарегистрировать золтана в базе данных"
+msgstr "Зарегистрировать в базе данных золтана"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1793
 msgid ""
@@ -2640,7 +2648,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1804
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MONK_LIST\"]/text"
-msgstr "Зарегистрировать Монаха в базе данных"
+msgstr "Зарегистрировать в базе данных Монаха"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1806
 msgid ""
@@ -2659,7 +2667,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1817
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_DEVOTEE_LIST\"]/text"
-msgstr "Зарегистрировать Приверженца Вестников Заката в базе данных"
+msgstr "Зарегистрировать в базе данных Приверженца Вестников Заката"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1819
 msgid ""
@@ -2678,7 +2686,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1830
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_OSMIAN_LIST\"]/text"
-msgstr "Зарегистрировать осмианца в базе данных"
+msgstr "Зарегистрировать в базе данных осмианца"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1832
 msgid ""
@@ -2697,7 +2705,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1843
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ORCHID_LIST\"]/text"
-msgstr "Зарегистрировать орхидею в базе данных"
+msgstr "Зарегистрировать в базе данных орхидею"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1845
 msgid ""
@@ -2716,7 +2724,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1856
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_VAMPWEED_LIST\"]/text"
-msgstr "Зарегистрировать Вампсорняка в базе данных"
+msgstr "Зарегистрировать в базе данных Вампсорняка"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1858
 msgid ""
@@ -2735,7 +2743,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1869
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SHELL_LIST\"]/text"
-msgstr "Зарегистрировать ракушку в базе данных"
+msgstr "Зарегистрировать в базе данных ракушку"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1871
 msgid ""
@@ -2754,7 +2762,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1882
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SCIENTIST_LIST\"]/text"
-msgstr "Зарегистрировать ракушку-Ученого в базе данных"
+msgstr "Зарегистрировать в базе данных ракушку-Ученого"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1884
 msgid ""
@@ -2773,7 +2781,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1895
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MECHANIC_LIST\"]/text"
-msgstr "Зарегистрировать ракушку-Механика в базе данных"
+msgstr "Зарегистрировать в базе данных ракушку-Механика"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1897
 msgid ""
@@ -2792,7 +2800,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1908
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GUARDIAN_LIST\"]/text"
-msgstr "Зарегистрировать ракушку-Стража в базе данных"
+msgstr "Зарегистрировать в базе данных ракушку-Стража"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1910
 msgid ""
@@ -2811,7 +2819,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1921
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MANTIS_LIST\"]/text"
-msgstr "Зарегистрировать богомола в базе данных"
+msgstr "Зарегистрировать в базе данных богомола"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1923
 msgid ""
@@ -2830,7 +2838,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1934
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_FREEMANTIS_LIST\"]/text"
-msgstr "Зарегистрировать свободного богомола в базе данных"
+msgstr "Зарегистрировать в базе данных свободного богомола"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1936
 msgid ""
@@ -2849,7 +2857,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1947
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ROCKMAN_LIST\"]/text"
-msgstr "Зарегистрировать валуна в базе данных"
+msgstr "Зарегистрировать в базе данных валуна"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1949
 msgid ""
@@ -2868,7 +2876,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1960
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_OUTCAST_LIST\"]/text"
-msgstr "Зарегистрировать валуна-Изгоя в базе данных"
+msgstr "Зарегистрировать в базе данных валуна-Изгоя"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1962
 msgid ""
@@ -2887,7 +2895,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1973
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_COMMANDO_LIST\"]/text"
-msgstr "Зарегистрировать валуна-Коммандоса в базе данных"
+msgstr "Зарегистрировать в базе данных валуна-Коммандоса"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1975
 msgid ""
@@ -2906,7 +2914,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1986
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CULTIST_LIST\"]/text"
-msgstr "Зарегистрировать валуна-Культиста в базе данных"
+msgstr "Зарегистрировать в базе данных валуна-Культиста"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:1988
 msgid ""
@@ -2925,7 +2933,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:1999
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CRYSTAL_LIST\"]/text"
-msgstr "Зарегистрировать кристаллина в базе данных"
+msgstr "Зарегистрировать в базе данных кристаллина"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2001
 msgid ""
@@ -2944,7 +2952,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2012
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LIBERATOR_LIST\"]/text"
-msgstr "Зарегистрировать кристаллина-Освободителя в базе данных"
+msgstr "Зарегистрировать в базе данных кристаллина-Освободителя"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2014
 msgid ""
@@ -2963,7 +2971,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2025
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SLUG_LIST\"]/text"
-msgstr "Зарегистрировать слизня в базе данных"
+msgstr "Зарегистрировать в базе данных слизня"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2027
 msgid ""
@@ -2982,7 +2990,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2038
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_HEKTAR_LIST\"]/text"
-msgstr "Зарегистрировать слизня-Сотрудника в базе данных"
+msgstr "Зарегистрировать в базе данных слизня-Сотрудника"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2040
 msgid ""
@@ -3001,7 +3009,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2051
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CLANSMAN_LIST\"]/text"
-msgstr "Зарегистрировать слизня-Клановца в базе данных"
+msgstr "Зарегистрировать в базе данных слизня-Клановца"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2053
 msgid ""
@@ -3020,7 +3028,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2064
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LEECH_LIST\"]/text"
-msgstr "Зарегистрировать пиявку в базе данных"
+msgstr "Зарегистрировать в базе данных пиявку"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2066
 msgid ""
@@ -3039,7 +3047,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2077
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SIREN_LIST\"]/text"
-msgstr "Зарегистрировать сирену в базе данных"
+msgstr "Зарегистрировать в базе данных сирену"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2079
 msgid ""
@@ -3058,7 +3066,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2090
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PHANTOM_LIST\"]/text"
-msgstr "Зарегистрировать фантома в базе данных"
+msgstr "Зарегистрировать в базе данных фантома"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2092
 msgid ""
@@ -3077,7 +3085,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2103
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GOUL_LIST\"]/text"
-msgstr "Зарегистрировать гуля в базе данных"
+msgstr "Зарегистрировать в базе данных гуля"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2105
 msgid ""
@@ -3096,7 +3104,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2116
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MARE_LIST\"]/text"
-msgstr "Зарегистрировать мару в базе данных"
+msgstr "Зарегистрировать в базе данных мару"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2118
 msgid ""
@@ -3115,7 +3123,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2129
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WRAITH_LIST\"]/text"
-msgstr "Зарегистрировать видение в базе данных"
+msgstr "Зарегистрировать в базе данных видение"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2131
 msgid ""
@@ -3134,7 +3142,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2142
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LANIUS_LIST\"]/text"
-msgstr "Зарегистрировать ланиуса в базе данных"
+msgstr "Зарегистрировать в базе данных ланиуса"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2144
 msgid ""
@@ -3153,7 +3161,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2155
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_AUGMENTED_LIST\"]/text"
-msgstr "Зарегистрировать Возвышенного в базе данных"
+msgstr "Зарегистрировать в базе данных Возвышенного"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2157
 msgid ""
@@ -3172,7 +3180,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2168
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SPIDER_LIST\"]/text"
-msgstr "Зарегистрировать Г.И.П. в базе данных"
+msgstr "Зарегистрировать в базе данных Г.И.П."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2170
 msgid ""
@@ -3191,7 +3199,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2181
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PONY_LIST\"]/text"
-msgstr "Зарегистрировать эквиноида в базе данных"
+msgstr "Зарегистрировать в базе данных эквиноида"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2183
 msgid ""
@@ -3210,7 +3218,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2194
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LIZARD_LIST\"]/text"
-msgstr "Зарегистрировать ящера в базе данных"
+msgstr "Зарегистрировать в базе данных ящера"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2196
 msgid ""
@@ -3229,7 +3237,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2207
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MORPH_LIST\"]/text"
-msgstr "Зарегистрировать морфа в базе данных"
+msgstr "Зарегистрировать в базе данных морфа"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2209
 msgid ""
@@ -3248,7 +3256,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2220
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TECHNOPATH_LIST\"]/text"
-msgstr "Зарегистрировать Технопата в базе данных"
+msgstr "Зарегистрировать в базе данных Технопата"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2222
 msgid ""
@@ -3267,7 +3275,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2233
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MALFORMED_LIST\"]/text"
-msgstr "Зарегистрировать Деформу в базе данных"
+msgstr "Зарегистрировать в базе данных Деформу"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2235
 msgid ""
@@ -3286,7 +3294,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2246
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_COGNITIVE_LIST\"]/text"
-msgstr "Зарегистрировать когнитива в базе данных"
+msgstr "Зарегистрировать в базе данных когнитива"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2248
 msgid ""
@@ -3305,7 +3313,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2259
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_OBELISK_LIST\"]/text"
-msgstr "Зарегистрировать обелиска в базе данных"
+msgstr "Зарегистрировать в базе данных обелиска"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2261
 msgid ""
@@ -3324,7 +3332,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2272
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_COMMONWEALTH_LIST\"]/text"
-msgstr "Зарегистрировать обелиска-Простолюдина в базе данных"
+msgstr "Зарегистрировать в базе данных обелиска-Простолюдина"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2274
 msgid ""
@@ -3343,7 +3351,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2285
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GOLDENDIAMOND_LIST\"]/text"
-msgstr "Зарегистрировать золотого алмаза в базе данных"
+msgstr "Зарегистрировать в базе данных золотого алмаза"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2287
 msgid ""
@@ -3362,7 +3370,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2298
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ADAMANTINEDIAMOND_LIST\"]/text"
-msgstr "Зарегистрировать адамантинового алмаза в базе данных"
+msgstr "Зарегистрировать в базе данных адамантинового алмаза"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2300
 msgid ""
@@ -3381,7 +3389,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2311
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_COPPERDIAMOND_LIST\"]/text"
-msgstr "Зарегистрировать медного алмаза в базе данных"
+msgstr "Зарегистрировать в базе данных медного алмаза"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2313
 msgid ""
@@ -3400,7 +3408,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2324
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GOLDENOPERATOR_LIST\"]/text"
-msgstr "Зарегистрировать золотого оператора в базе данных"
+msgstr "Зарегистрировать в базе данных золотого оператора"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2326
 msgid ""
@@ -3419,7 +3427,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2337
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ADAMANTINEOPERATOR_LIST\"]/text"
-msgstr "Зарегистрировать адамантинового оператора в базе данных."
+msgstr "Зарегистрировать в базе данных адамантинового оператора"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2339
 msgid ""
@@ -3438,7 +3446,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2350
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_COPPEROPERATOR_LIST\"]/text"
-msgstr "Зарегистрировать медного оператора в базе данных"
+msgstr "Зарегистрировать в базе данных медного оператора"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2352
 msgid ""
@@ -3457,7 +3465,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2363
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_AVATARPROTO_LIST\"]/text"
-msgstr "Зарегистрировать Прото-аватара в базе данных"
+msgstr "Зарегистрировать в базе данных Прото-аватара"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2365
 msgid ""
@@ -3476,7 +3484,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2376
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_EXPERIMENTALCOGNITIVE_LIST\"]/text"
-msgstr "Зарегистрировать Экспериментального когнитива в базе данных"
+msgstr "Зарегистрировать в базе данных Экспериментального когнитива"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2378
 msgid ""
@@ -3495,7 +3503,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2389
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ENHANCED_LIST\"]/text"
-msgstr "Зарегистрировать Повышенного в базе данных"
+msgstr "Зарегистрировать в базе данных Повышенного"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2391
 msgid ""
@@ -3514,7 +3522,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2402
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WITHERED_LIST\"]/text"
-msgstr "Зарегистрировать увядшего в базе данных"
+msgstr "Зарегистрировать в базе данных увядшего"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2404
 msgid ""
@@ -3533,7 +3541,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2415
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_GOLDENLANIUS_LIST\"]/text"
-msgstr "Зарегистрировать золотого ланиуса в базе данных"
+msgstr "Зарегистрировать в базе данных золотого ланиуса"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2417
 msgid ""
@@ -3552,7 +3560,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2428
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_COPPERLANIUS_LIST\"]/text"
-msgstr "Зарегистрировать медного ланиуса в базе данных"
+msgstr "Зарегистрировать в базе данных медного ланиуса"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2430
 msgid ""
@@ -3571,7 +3579,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2441
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ADAMANTINELANIUS_LIST\"]/text"
-msgstr "Зарегистрировать адамантинового ланиуса в базе данных"
+msgstr "Зарегистрировать в базе данных адамантинового ланиуса"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2443
 msgid ""
@@ -3590,7 +3598,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2454
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_REVENANTSLIMER_LIST\"]/text"
-msgstr "Зарегистрировать Слимера в базе данных"
+msgstr "Зарегистрировать в базе данных Слимера"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2456
 msgid ""
@@ -3609,7 +3617,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2467
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_REVENANTPHYS_LIST\"]/text"
-msgstr "Зарегистрировать Физа в базе данных"
+msgstr "Зарегистрировать в базе данных Физа"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2469
 msgid ""
@@ -3628,7 +3636,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2480
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_REVENANTCLEO_LIST\"]/text"
-msgstr "Зарегистрировать Клео в базе данных"
+msgstr "Зарегистрировать в базе данных Клео"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2482
 msgid ""
@@ -3647,7 +3655,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2493
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_REVENANTVIN_LIST\"]/text"
-msgstr "Зарегистрировать Вина в базе данных"
+msgstr "Зарегистрировать в базе данных Вина"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2495
 msgid ""
@@ -3666,7 +3674,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2506
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_REVENANTZULU_LIST\"]/text"
-msgstr "Зарегистрировать Зулу в базе данных"
+msgstr "Зарегистрировать в базе данных Зулу"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2508
 msgid ""
@@ -3685,7 +3693,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2519
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_REVENANTALEENOR_LIST\"]/text"
-msgstr "Зарегистрировать Алиенора в базе данных"
+msgstr "Зарегистрировать в базе данных Алиенора"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2521
 msgid ""
@@ -3704,7 +3712,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2532
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_REVENANTG_LIST\"]/text"
-msgstr "Зарегистрировать Ж в базе данных."
+msgstr "Зарегистрировать в базе данных Ж"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2534
 msgid ""
@@ -3723,7 +3731,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2545
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CHAOS_REVENANTSMOKE_LIST\"]/text"
-msgstr "Зарегистрировать Смоука в базе данных"
+msgstr "Зарегистрировать в базе данных Смоука"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2547
 msgid ""
@@ -3742,7 +3750,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2558
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CHAOS_REVENANTCHILLS_LIST\"]/text"
-msgstr "Зарегистрировать Чилса в базе данных"
+msgstr "Зарегистрировать в базе данных Чилса"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2560
 msgid ""
@@ -3761,7 +3769,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2571
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SNOWMAN_LIST\"]/text"
-msgstr "Зарегистрировать умного снеговика в базе данных"
+msgstr "Зарегистрировать в базе данных умного снеговика"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2573
 msgid ""
@@ -3780,7 +3788,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2584
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LAVAMAN_LIST\"]/text"
-msgstr "Зарегистрировать лавамена в базе данных"
+msgstr "Зарегистрировать в базе данных лавамена"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2586
 msgid ""
@@ -3799,7 +3807,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2597
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CHAOS_REVENANTPOK_LIST\"]/text"
-msgstr "Зарегистрировать Пока в базе данных"
+msgstr "Зарегистрировать в базе данных Пока"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2599
 msgid ""
@@ -3818,7 +3826,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2610
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CHAOS_REVENANTCHARROR_LIST\"]/text"
-msgstr "Зарегистрировать Чарро в базе данных"
+msgstr "Зарегистрировать в базе данных Чарро"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2612
 msgid ""
@@ -3837,7 +3845,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2623
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CHAOS_REVENANTLEO_LIST\"]/text"
-msgstr "Зарегистрировать Лео в базе данных"
+msgstr "Зарегистрировать в базе данных Лео"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2625
 msgid ""
@@ -3856,7 +3864,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2636
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CHAOS_REVENANTSEARAK_LIST\"]/text"
-msgstr "Зарегистрировать Сирака в базе данных"
+msgstr "Зарегистрировать в базе данных Сирака"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2638
 msgid ""
@@ -3875,7 +3883,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2649
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_WATCHER_LIST\"]/text"
-msgstr "Зарегистрировать Наблюдателя в базе данных"
+msgstr "Зарегистрировать в базе данных Наблюдателя"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2651
 msgid ""
@@ -3894,7 +3902,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2662
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_AUGUSTUS_LIST\"]/text"
-msgstr "Зарегистрировать Августуса в базе данных"
+msgstr "Зарегистрировать в базе данных Августуса"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2664
 msgid ""
@@ -3913,7 +3921,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2675
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SALLY_LIST\"]/text"
-msgstr "Зарегистрировать Салли в базе данных"
+msgstr "Зарегистрировать в базе данных Салли"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2677
 msgid ""
@@ -3932,7 +3940,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2688
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PRINCE_LIST\"]/text"
-msgstr "Зарегистрировать князя тьмы в базе данных"
+msgstr "Зарегистрировать в базе данных князя тьмы"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2690
 msgid ""
@@ -3951,7 +3959,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2701
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TRIRIAC_LIST\"]/text"
-msgstr "Зарегистрировать Триряка в базе данных"
+msgstr "Зарегистрировать в базе данных Тририак"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2703
 msgid ""
@@ -3970,7 +3978,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2714
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_AIAVATAR_LIST\"]/text"
-msgstr "Зарегистрировать ИИ аватара в базе данных"
+msgstr "Зарегистрировать в базе данных ИИ аватара"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2716
 msgid ""
@@ -3989,7 +3997,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2727
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ERRORMAN_LIST\"]/text"
-msgstr "Зарегистрировать Ошибочника в базе данных"
+msgstr "Зарегистрировать в базе данных Ошибочника"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2729
 msgid ""
@@ -4008,7 +4016,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2740
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_LEGIONLEAH_LIST\"]/text"
-msgstr "Зарегистрировать легионера Лию в базе данных"
+msgstr "Зарегистрировать в базе данных легионера Лию"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2742
 msgid ""
@@ -4027,7 +4035,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2753
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_SPHERAX_LIST\"]/text"
-msgstr "Зарегистрировать сферакса в базе данных"
+msgstr "Зарегистрировать в базе данных сферакса"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2755
 msgid ""
@@ -4046,7 +4054,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2766
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_BILLVAN_LIST\"]/text"
-msgstr "Зарегистрировать Биллвана в базе данных"
+msgstr "Зарегистрировать в базе данных Биллвана"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2768
 msgid ""
@@ -4065,7 +4073,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:2779
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_RHYME_SLIMER_LIST\"]/text"
-msgstr "Зарегистрировать Биллвана в базе данных"
+msgstr "Зарегистрировать в базе данных Биллвана"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2781
 msgid ""
@@ -8423,7 +8431,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:5803
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_FUEL\"]/choice[3]/text"
-msgstr "Разобрать 25 боеголовок на 22 топлива."
+msgstr "Разобрать 24 боеголовки на 22 топлива."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5809
 msgid ""
