@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-18 11:19+0000\n"
+"PO-Revision-Date: 2025-06-07 21:50+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgotten-diamonds/"
 "datahyperspace-xml-append/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.8.1\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/hyperspace.xml.append:32
 msgid ""
@@ -103,10 +103,9 @@ msgid ""
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2817
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/header"
-msgstr "Faveur reçues"
+msgstr "Faveur reçue"
 
 #: src-en/data/hyperspace.xml.append:2823
 msgid ""
@@ -129,10 +128,9 @@ msgid ""
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2828
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/header"
-msgstr "Faveur reçues"
+msgstr "Faveur reçue"
 
 #: src-en/data/hyperspace.xml.append:2834
 msgid ""
@@ -155,10 +153,9 @@ msgid ""
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2839
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/header"
-msgstr "Faveur reçues"
+msgstr "Faveur reçue"
 
 #: src-en/data/hyperspace.xml.append:2845
 msgid ""
