@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-13 16:46+0000\n"
+"PO-Revision-Date: 2025-07-27 07:56+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "forgotten-diamonds/dataevents_sector_theocracyxmlappend/ru/>\n"
@@ -67,7 +67,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/text"
-msgstr "Продолжение следует."
+msgstr "Это продолжается."
 
 #: src-en/data/events_sector_theocracy.xml.append:36
 msgid ""
@@ -85,7 +85,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/text"
-msgstr "Продолжение следует."
+msgstr "Это продолжается."
 
 #: src-en/data/events_sector_theocracy.xml.append:44
 msgid ""
@@ -103,7 +103,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/event/text"
-msgstr "Продолжение следует."
+msgstr "Это продолжается."
 
 #: src-en/data/events_sector_theocracy.xml.append:52
 msgid ""
