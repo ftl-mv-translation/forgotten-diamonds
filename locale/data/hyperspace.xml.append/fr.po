@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-07 21:50+0000\n"
+"PO-Revision-Date: 2025-10-28 13:20+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgotten-diamonds/"
 "datahyperspace-xml-append/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/hyperspace.xml.append:32
 msgid ""
@@ -90,7 +90,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:2813
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/secretDescription"
-msgstr ""
+msgstr "Recevez la Faveur de ??? de Thest."
 
 #: src-en/data/hyperspace.xml.append:2814
 msgid ""
@@ -115,7 +115,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:2824
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/secretDescription"
-msgstr ""
+msgstr "Recevez la Faveur de ??? de Thest."
 
 #: src-en/data/hyperspace.xml.append:2825
 msgid ""
@@ -140,7 +140,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:2835
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/secretDescription"
-msgstr ""
+msgstr "Recevez la Faveur de ??? de Thest."
 
 #: src-en/data/hyperspace.xml.append:2836
 msgid ""
