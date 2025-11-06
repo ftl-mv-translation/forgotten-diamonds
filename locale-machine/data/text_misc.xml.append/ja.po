@@ -7,16 +7,16 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:11
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_fr_metallanius\"]"
-msgstr "#sharlans Ship [！]＃"
+msgstr "#シャーランの船 [!]#"
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_fr_metaldiamond\"]"
-msgstr "＃...苦痛？[！]＃"
+msgstr "#...遭難信号？ [!]#"
 
 #: src-en/data/text_misc.xml.append:13
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_fr_operator\"]"
-msgstr "＃リクエスト [！]＃"
+msgstr "#リクエスト [!]#"
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_fr_emptyspace\"]"
-msgstr "#Emptyフィールド[！]＃"
+msgstr "#空のフィールド [!]#"

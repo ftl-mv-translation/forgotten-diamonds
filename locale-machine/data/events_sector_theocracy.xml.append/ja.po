@@ -9,7 +9,7 @@ msgstr ""
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/text"
 msgstr ""
-"あなたはその奇妙な「リクエスト」信号を放出していたビーコンに到達します。驚いたことに、それは岩船ではありません。それはあなたが今まで見たことのないクラスの船です。彼らはあなたを歓迎します。最初は、彼らが言っていることは何でも純粋な気味が悪いですが、数分後、翻訳者が理解できる言語でゆっくりと話し始めます。"
+"奇妙な「リクエスト」信号を発していたビーコンに到達すると、驚いたことにそこにあったのはロックの船ではなかった。これまで見たことのないクラスの船で、非常に滑らかな外装にダイヤモンド型のデザイン、色は銅色をしている。彼らは通信を送ってくるが、最初は何を言っているのか全くのちんぷんかんぷんだ。しかし、数分後、彼らはゆっくりと翻訳機が理解できる言語で話し始めた。"
 
 #: src-en/data/events_sector_theocracy.xml.append:16
 msgid ""
@@ -20,27 +20,27 @@ msgstr ""
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/text"
 msgstr ""
-"「挨拶、肉のもの、私はオペレーターであり、異なるクラスターから到着し、いくつかの取引を望んでいました。それでも重く誤訳されていますが、「オペレーター」と呼ばれる存在は、理にかなっているほど十分に理解できます。彼らは5人の乗組員を必要とし、その代わりに船の青写真を必要とします。\n"
+"「挨拶、肉あるもの、我はオペレーター、別クラスターから到着、いくつか取引したい、5つの肉体を調査のため要求、船の設計図を報酬に、同意か？」まだかなり誤訳されているが、「オペレーター」と名乗る存在の申し出は十分に理解できる。彼らはあなたのクルー5人を要求し、その代わりに船の設計図を渡すというものだ。\n"
 "\n"
-"この敵と戦わないことをお勧めします。その戦闘ドローンは非常に危険です。"
+"\t\t\t\tこの敵と戦うことは*強く*お勧めしない。その戦闘ドローンは非常に危険だ。"
 
 #: src-en/data/events_sector_theocracy.xml.append:23
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/text"
-msgstr "条件に同意します。"
+msgstr "条件に同意する。"
 
 #: src-en/data/events_sector_theocracy.xml.append:25
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/text"
-msgstr "オペレーターは、乗組員をゆっくりと船に照らし始めるので、あなたの決定に満足しているようです。"
+msgstr "オペレーターはあなたの決定に満足しているようで、ゆっくりとあなたのクルーを彼らの船に転送し始める。"
 
 #: src-en/data/events_sector_theocracy.xml.append:28
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/removeCrew/text"
-msgstr "乗組員は死んでいないため、クローンを作成することはできません。"
+msgstr "あなたのクルーは死んでいないので、クローン生成できません。"
 
 #: src-en/data/events_sector_theocracy.xml.append:31
 msgid ""
@@ -52,13 +52,13 @@ msgstr ""
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/text"
-msgstr "それは続きます。"
+msgstr "続く。"
 
 #: src-en/data/events_sector_theocracy.xml.append:36
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/removeCrew/text"
-msgstr "乗組員は死んでいないため、クローンを作成することはできません。"
+msgstr "あなたのクルーは死んでいないので、クローン生成できません。"
 
 #: src-en/data/events_sector_theocracy.xml.append:39
 msgid ""
@@ -70,13 +70,13 @@ msgstr ""
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/text"
-msgstr "それは続きます。"
+msgstr "続く。"
 
 #: src-en/data/events_sector_theocracy.xml.append:44
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/removeCrew/text"
-msgstr "乗組員は死んでいないため、クローンを作成することはできません。"
+msgstr "あなたのクルーは死んでいないので、クローン生成できません。"
 
 #: src-en/data/events_sector_theocracy.xml.append:47
 msgid ""
@@ -88,14 +88,14 @@ msgstr ""
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/event/text"
-msgstr "それは続きます。"
+msgstr "続く。"
 
 #: src-en/data/events_sector_theocracy.xml.append:52
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and "
 "@lvl=\"1\"]/event/choice/event/choice/event/choice/event/removeCrew/text"
-msgstr "乗組員は死んでいないため、クローンを作成することはできません。"
+msgstr "あなたのクルーは死んでいないので、クローン生成できません。"
 
 #: src-en/data/events_sector_theocracy.xml.append:55
 msgid ""
@@ -109,33 +109,33 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"しばらくして、最後の乗組員は輝き、その後すぐに「オペレーター」が使用していた巡洋艦の青写真を受け取ります。それだけでなく、奇妙な銅ドローンと大量のスクラップも与えます。\n"
-"\n"
-"突然、オペレーターはあなたを「驚異的です！このデータはすべて、長年の調査をスキップできます！しかし、それだけでは十分ではないかもしれません。そうであることを確認するために、あなたのクラスターに関するより深いデータを得ることを期待してあなたの使命に参加します」"
+"しばらくして、最後のクルーが転送され、その後すぐに、あの「オペレーター」が使っていたクルーザーの設計図を受け取る。それだけでなく、奇妙なカッパードローンと大量のスクラップもくれる。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t突然、オペレーターが通信してくる。「素晴らしい！このデータで数年分の研究をスキップできた！しかし、まだ十分ではないかもしれない。それを確かめるため、あなたのクラスターについてもっと深いデータを得るために、あなたのミッションに加わろう。」"
 
 #: src-en/data/events_sector_theocracy.xml.append:62
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and "
 "@lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/event/removeCrew/text"
-msgstr "乗組員は死んでいないため、クローンを作成することはできません。"
+msgstr "あなたのクルーは死んでいないので、クローン生成できません。"
 
 #: src-en/data/events_sector_theocracy.xml.append:80
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"0\"]/text"
-msgstr "十分な乗組員がいません。"
+msgstr "クルーが足りません。"
 
 #: src-en/data/events_sector_theocracy.xml.append:84
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/text"
-msgstr "乗組員を渡すことはありません！強制的に青写真を取りましょう！"
+msgstr "クルーを渡すわけにはいかない！力ずくで設計図を奪うぞ！"
 
 #: src-en/data/events_sector_theocracy.xml.append:86
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
-"「オペレーター」はこれをうまく服用しなかったようで、彼らの船は戦闘ドローンをリリースし始めます。おそらく、船を片付けると青写真を取得することが可能ですか？"
+"「オペレーター」はこれを良く思わなかったようだ。彼らの船は戦闘ドローンを放出し始める。船を一掃すれば、まだ設計図を手に入れることができるかもしれない。"
 
 #: src-en/data/events_sector_theocracy.xml.append:89
 msgid ""
@@ -145,22 +145,22 @@ msgstr ""
 #: src-en/data/events_sector_theocracy.xml.append:95
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[4]/text"
-msgstr "お詫び申し上げます。"
+msgstr "謝罪し、余分なクルーはいないと伝える。"
 
 #: src-en/data/events_sector_theocracy.xml.append:97
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[4]/event/text"
-msgstr "オペレーターは、それによって非常に悲しんでいますが、あなたの協力に感謝し、飛び去る前に補償するためのスクラップを与えてください。"
+msgstr "オペレーターはかなり悲しんでいるが、協力に感謝し、ジャンプする前に補償としてスクラップをくれる。"
 
 #: src-en/data/events_sector_theocracy.xml.append:105
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/text"
-msgstr "それが何であれ、私たちは知りたくありません。"
+msgstr "それが何であれ、知りたくない。"
 
 #: src-en/data/events_sector_theocracy.xml.append:107
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/text"
-msgstr "あなたは今、多くのものが多くのものを持っています、あなたは巨大な船を無視し、できるだけ早く飛び去ります。"
+msgstr "今やるべきことが多すぎる。巨大な船は無視し、できるだけ早くジャンプする。"
 
 #: src-en/data/events_sector_theocracy.xml.append:109
 msgid ""
@@ -175,9 +175,10 @@ msgstr ""
 #: src-en/data/events_sector_theocracy.xml.append:121
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_CREWKILL\"]/text"
-msgstr "無限のファイアウォールやトラップのように感じた後、乗組員はついにエイリアンのシステムの奥深くに隠された青写真を見つけることができました。"
+msgstr ""
+"無限のファイアウォールと罠のように感じられた後、クルーはついにエイリアンのシステムの奥深くに隠された設計図を見つけることができた。残念ながら、彼らのドローンはクルーが死ぬとすべて崩壊したようだ。"
 
 #: src-en/data/events_sector_theocracy.xml.append:125
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_CREWKILL\"]/choice/text"
-msgstr "甘い！"
+msgstr "やった！"

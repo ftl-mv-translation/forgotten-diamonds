@@ -9,30 +9,31 @@ msgstr ""
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/text"
 msgstr ""
-"このビーコンは、一見完全に空っぽに見え、群れのすべての狂気から人里離れた空間に隠されているように見えます。FTLの運転中に船と乗組員をチェックするために小さな休憩を取ることにします。突然、あなたのメタル・レーダー（主に救いに使用される）は大声で盛り始め、エキゾチックな金属の高濃度でポイントを示し、信じられないほど貴重なものを示します。\n"
-"\n"
-"しかし、綿密な検査では、ドットはあなたが望んでいたように、ある種のボールトまたは高価値の船コンポーネントではなく、あなたが前に遭遇した他のラニウスのように見えない腐敗したラニウスであり、その体に明るい黄色のライトが付いた黄色に色付けされていることが起こります。彼らはその速度ではるかに長く生きていないようです。"
+"このビーコンは一見すると完全に空っぽに見える。群生地の狂気から離れた secluded spaceに隠れており、FTLドライブがチャージされる間、船とクルーの点検のために少し休憩することにする。突然、あなたのメタルレーダー（主にサルベージ用）が大きな音で鳴り始め、エキゾチックな金属が非常に高濃度で存在する地点を示している。非常に価値のあるものだ。\n"
+"\t\n"
+"\tしかし、よく調べてみると、その点は期待していたような金庫や高価値の船の部品ではなく、これまで出会ったどのラニアスとも違う、黄色い体に明るい黄色の光を放つ、腐敗しかけたラニアスだった。このままでは長くは生きられないようだ。"
 
 #: src-en/data/events_sector_lanius.xml.append:13
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/text"
-msgstr "ラニウスを乗せてください！多分私たちは彼を救うことができます。"
+msgstr "ラニアスを船に乗せろ！助けられるかもしれない。"
 
 #: src-en/data/events_sector_lanius.xml.append:15
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/text"
 msgstr ""
-"あなたはすぐに船の外側に救助隊を送り、船の中にラニウスを運びます。あなたが予想したように、奇妙な存在は危機的な状態にあり、彼らの体は毎秒ますます分解するので、あなたはそれらを安定させるために数分以上はないと思うでしょう。"
+"あなたはすぐに救助隊を船外に送り、ラニアスを船内に運び込む。予想通り、奇妙な存在は危機的な状態で、その体は毎秒どんどん分解しており、安定させるのに数分もないだろうとあなたは疑う。"
 
 #: src-en/data/events_sector_lanius.xml.append:17
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[@req=\"medbay\"]/text"
-msgstr "（Upg。Medbay）あなたのMedBayを使用してそれらを安定させてください！"
+msgstr "（アップグレードされた医療ベイ）医療ベイで彼らを安定させろ！"
 
 #: src-en/data/events_sector_lanius.xml.append:19
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[@req=\"medbay\"]/event/text"
-msgstr "あなたはすぐにラニウスを両端で持ち上げ、彼の滴りと腐敗した体をメドベイに持ってきます。"
+msgstr ""
+"あなたはすぐにラニアスの両端を持ち上げ、滴り落ち、腐敗していく体を医療ベイに運ぶ。到着するやいなや、それを最大限にパワーアップし、最善を願う。"
 
 #: src-en/data/events_sector_lanius.xml.append:21
 msgid ""
@@ -42,13 +43,13 @@ msgstr ""
 #: src-en/data/events_sector_lanius.xml.append:27
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[@req=\"clonebay\"]/text"
-msgstr "（クローンベイ）手遅れになる前にラニウスを登録してください！"
+msgstr "（クローンベイ）手遅れになる前にラニアスを登録しろ！"
 
 #: src-en/data/events_sector_lanius.xml.append:29
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[@req=\"clonebay\"]/event/text"
 msgstr ""
-"あなたはすぐにラニウスを両端で持ち上げ、彼の滴りと腐敗した体をクローンベイに持ってきます。スキャンが完了するとすぐに、あなたの目の前で奇妙なラニウスが死んだので、あなたが彼をスキャンしてデータベースに加えてデータベースに加える時間を無駄にしないでください。システムには彼や彼の種についての情報はないようですが、幸運なことに、彼がクローン化されることを妨げません。"
+"あなたはすぐにラニアスの両端を持ち上げ、滴り落ち、腐敗していく体をクローンベイに運ぶ。時間を無駄にせず、彼をスキャンしてデータベースに追加する。スキャンが完了すると同時に、奇妙なラニアスは目の前で死んだので、まさにぎりぎりだった。システムには彼や彼の種族についての情報はないようだが、幸いなことにそれはクローン生成の妨げにはならない。"
 
 #: src-en/data/events_sector_lanius.xml.append:31
 msgid ""
@@ -58,13 +59,13 @@ msgstr ""
 #: src-en/data/events_sector_lanius.xml.append:37
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[3]/text"
-msgstr "ラニウスは金属を食べますか？たぶん私たちは彼らにいくつかのスクラップを与えることができます！"
+msgstr "ラニアスは金属を食べるんだろ？スクラップを与えてみよう！"
 
 #: src-en/data/events_sector_lanius.xml.append:39
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
-"他に利用できるオプションは見られないので、ラニウスに大量のスクラップを捨てるだけで、それが衰退するプロセスを逆転させるのに十分な栄養を与えることを望んでいます。"
+"他に選択肢がないため、あなたはラニアスに大量のスクラップを投げかけることに決める。それが彼の体に腐敗プロセスを逆転させるのに十分な栄養を与えることを願って。"
 
 #: src-en/data/events_sector_lanius.xml.append:44
 msgid ""
@@ -74,13 +75,13 @@ msgstr ""
 #: src-en/data/events_sector_lanius.xml.append:50
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[4]/text"
-msgstr "私たちにできることは何もありません。"
+msgstr "我々にできることは何もない。"
 
 #: src-en/data/events_sector_lanius.xml.append:52
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[1]/event/choice[4]/event/text"
 msgstr ""
-"重い心で、この奇妙な存在を救うことはできないことに気づき、ラニウスが床に金属製の水たまりに過ぎないまでゆっくりと崩壊するのを見ます。あなたはあなたの使命を継続する準備をします。"
+"重い心で、この奇妙な存在を救うことはできないと悟る。あなたはラニアスがゆっくりと腐敗し、床の金属の水たまりになるまで見守る。ミッションを続ける準備をする。"
 
 #: src-en/data/events_sector_lanius.xml.append:54
 msgid ""
@@ -95,13 +96,13 @@ msgstr ""
 #: src-en/data/events_sector_lanius.xml.append:66
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[2]/text"
-msgstr "ラニウスをその運命に任せてください。"
+msgstr "ラニアスを運命に任せる。"
 
 #: src-en/data/events_sector_lanius.xml.append:68
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_START\"]/choice[2]/event/text"
 msgstr ""
-"あなたがあなたの船に腐敗していない未知のラニウスをもたらす可能性はありません。FTLドライブが完全に充電し、このすべてを心から置くのを待つことにしました。"
+"腐敗し、未知のラニアスを船に乗せるわけにはいかない。目覚めたら何をするかわからない。FTLドライブが完全にチャージされるのを待ち、このことはすべて忘れることにする。"
 
 #: src-en/data/events_sector_lanius.xml.append:70
 msgid ""
@@ -117,70 +118,69 @@ msgstr ""
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/text"
 msgstr ""
-"しばらく時間がかかりますが、最終的にラニウスは目を覚まします。彼らが意識を取り戻すとすぐにパニックに陥り、馴染みのない船と彼らの周りの未知の乗組員に苦しみながら見回し、部屋の隅に退却する際に未知の言葉を叫びます。"
+"しばらく時間がかかるが、ついにラニアスが目を覚ます。意識を取り戻すとすぐにパニックに陥り、見慣れない船と周りの未知のクルーを苦しそうに見回し、未知の言語を叫びながら部屋の隅に後ずさりする。"
 
 #: src-en/data/events_sector_lanius.xml.append:84
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/text"
-msgstr "腕をゆっくりと持ち上げて、あなたが害を及ぼさないことを保証してください。"
+msgstr "ゆっくりと両腕を上げ、危害を加えるつもりはないと保証する。"
 
 #: src-en/data/events_sector_lanius.xml.append:86
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/text"
 msgstr ""
-"最初は奇妙な存在はあなたが今言ったことに気づき、理解し、気にしなかったようですが、しばらくして、彼らはゆっくりと落ち着くように見えます。最後に、永遠のように感じた後、彼らは驚くほどあなたの言語で話し始めます。\n"
-"\n"
-"「あなたは私の死刑執行人ではなく、私の仲間のようには見えません。あなたは誰ですか、奇妙な存在？」"
+"最初は、奇妙な存在はあなたが言ったことに気づかなかったか、理解しなかったか、気にしなかったように見える。しかし、数秒後、彼らはゆっくりと落ち着き始め、パニックに陥っていた目がゆっくりとあなたに定まり、まるで視線であなたを調べているかのようだ。ついに、永遠のように感じられた後、驚くべきことに彼らはあなたの言語で話し始める。\n"
+"\t\t\t\n"
+"\t\t\t「お前は私の処刑人ではないし、私の同輩のようにも見えない。お前は何者だ、奇妙な存在よ？」"
 
 #: src-en/data/events_sector_lanius.xml.append:90
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/text"
-msgstr "私はこの船を担当する反逆者であり、この現実に侵入する反乱軍の旗艦を破壊するために連邦に雇われました。"
+msgstr "私はこの船を担当するレネゲイドだ。我々は連邦に雇われ、この現実に侵攻してくる反乱軍の旗艦を破壊することになっている。"
 
 #: src-en/data/events_sector_lanius.xml.append:92
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/text"
 msgstr ""
-"存在は部屋の周りを見回し、それからあなたに戻って、興味をそそられました。「私の名前はゴールデンフィールズのシャーラン、禁じられた豪華な巡洋艦のキャプテンであり、私の空き時間にエーテル技術の研究者です」\n"
-"\n"
-"「あなたが言う反逆者、私は過去にあなたの何人かに会いました、私はあなたに詳細をspareしみませんが、私がよりシンプルな男であれば、私はあなたをここに断ち切るだろうとあなたはそれが快適ではなかったと保証します。」ラニウスの腕はしばらくの間刃に変わり、その前に通常の形に戻ります。「しかし、あなたは私を特定の死から救いました。そのために、私はあなたの命を救うことに十分に感謝しています。」この存在は、最寄りのエアロックに向かう前に、もう一度あなたを見つめます。"
+"その存在は部屋を見回し、興味深そうにあなたを見返す。「我が名はゴールデン・フィールドのシャーラン、禁断の富クルーザーの船長であり、暇なときはエーテル技術の研究者だ」\n"
+"\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t「レネゲイドだと？過去にお前たちに会ったことがある。詳細は省くが、 pleasantなものではなかったと保証する。もし私がもっと単純な男なら、今ここで切り捨てていただろう。」ラニアスの腕は一瞬刃に変わり、すぐに元の形に戻る。「しかし、お前は私を確実な死から救った。そのことには感謝しており、お前たちの命は見逃してやる。」その存在はあなたをもう一度見下ろし、最寄りのエアロックに向かう。"
 
 #: src-en/data/events_sector_lanius.xml.append:96
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/text"
-msgstr "待って、どこに行くの？"
+msgstr "待て、どこへ行くんだ？"
 
 #: src-en/data/events_sector_lanius.xml.append:98
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
-"「私のフォームが安定したので、私は去らなければならないのではないかと心配しています。船を回収することは、ブルートとチャットする時間を無駄にするにはあまりにも重要です」ラニウスは止まってゆっくりと振り向く前にエアロックに入り始めます。\n"
-"\n"
-"「しかし、うーん、おそらくブルートはまさに私が船を取り戻すために必要なものです。」存在は周囲の船をゆっくりと調べ、乗組員を見てゆっくりとうなずきます。「はい、はい、これはまさに私が必要とするかもしれません。ブルート、あなたは何らかのmerc兵の仕事をすることについてどう思いますか？私はあなたの価値があると思いますか？」"
+"「我が体が安定したので、残念ながら行かねばならない。船を取り戻すことは、野蛮人との雑談に時間を浪費するには重要すぎる任務だ」ラニアスはエアロックに入り始めるが、立ち止まり、ゆっくりと振り返る。\n"
+"\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t「うーん、しかし、あるいは野蛮人こそが我が船を取り戻すために必要なものなのかもしれない。」その存在は周りの船をゆっくりと調べ、あなたのクルーを見てゆっくりと頷く。「そうだ、そうだ、これこそが必要なものかもしれない。おい、野蛮人よ、傭兵の仕事をするのはどうだ？お前にとって価値のあるものにしてやろう」その存在は誘うように言う。"
 
 #: src-en/data/events_sector_lanius.xml.append:102
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr "私は聞いています、あなたは何が欲しいですか？"
+msgstr "聞こう、何が望みだ？"
 
 #: src-en/data/events_sector_lanius.xml.append:104
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"「ご存知のように、私と私の乗組員はエーテルテクノロジーで満たされた輸送船を護衛していました。私が操縦していた船は、船の戦闘で船のために装備されたAUクラスの巡洋艦でした。残念ながら、搭乗能力を備えたものではありませんでした。\n"
-"\n"
-"私の船に私を連れて行き、私の船を破壊することなく、その中のすべての海賊を殺す必要があります。この簡単なタスクを完了することができれば、巡洋艦と一緒に途中で輸送船で自宅のクラスターに戻りますが、それはあなたにどのように聞こえますか？」"
+"「我々とクルーはエーテル技術を満載した輸送船を護衛していた。私が操縦していた船は対艦戦闘用に装備されたAU級クルーザーだった。残念ながら、対搭乗能力は備えておらず、我が船は凶悪な海賊の群れに占領された。正確にはラニアスの海賊だ。同族がそこまで堕ちるとは心が痛むが、まあ、そういうことだ。\n"
+"\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\tお前には私を船まで連れて行き、船を破壊せずに中の海賊を皆殺しにしてほしい。この簡単な任務を完了できれば、私はクルーザーを譲り、輸送船で故郷のクラスターに帰る。どうだ？」"
 
 #: src-en/data/events_sector_lanius.xml.append:108
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
-msgstr "実行可能に聞こえます、どこに向かうべきですか？"
+msgstr "できそうだ。どこへ向かえばいい？"
 
 #: src-en/data/events_sector_lanius.xml.append:110
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
-msgstr ""
-"「これは、私が「連れ去られた」前にオンになっていたことを思い出すことができる最後の座標であり、私を失望させないでください、レネゲイド」シャーランは座標をナビゲーションシステムにタイプし、部屋に存在します。"
+msgstr "「これが私が『やられる』前にいた最後の座標だ。私を失望させるな、レネゲイド」シャーランは航法システムに座標を入力し、部屋を出る。"
 
 #: src-en/data/events_sector_lanius.xml.append:111
 msgid ""
@@ -190,18 +190,17 @@ msgstr "シャーラン"
 #: src-en/data/events_sector_lanius.xml.append:116
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
-msgstr "衰退。"
+msgstr "断る。"
 
 #: src-en/data/events_sector_lanius.xml.append:118
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
-msgstr ""
-"「私はあなたが単なる獣ではなく、あなたもco病者でもあると思います。」別の言葉を話すことなく、ラニウスはエアロックを通して船を出ます。ジャンプする準備をします。"
+msgstr "「お前はただの野蛮人ではなく、臆病者でもあるようだな。」ラニアスは一言も発さずにエアロックから船を出る。あなたはジャンプの準備をする。"
 
 #: src-en/data/events_sector_lanius.xml.append:121
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_SAVED\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/removeCrew/text"
-msgstr "彼らはまだ生きているので、あなたの乗組員はクローン化することはできません。"
+msgstr "あなたのクルーはまだ生きているので、クローン生成できません。"
 
 #: src-en/data/events_sector_lanius.xml.append:124
 msgid ""
@@ -217,28 +216,28 @@ msgstr ""
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/text"
 msgstr ""
-"ビーコンに到着するとすぐに、あなたは恐ろしい光景で迎えられます。巡洋艦の中のラニウスは変異し、今ではシャルランのように見えます。さらに、彼らは信じられないほど攻撃的に見えます。"
+"ビーコンに到着するとすぐに、ぞっとするような光景が広がる。クルーザー内のラニアスは変異し、今やシャーランそっくりになっている。さらに、彼らは信じられないほど攻撃的で、あなたに気づくとすぐに武器をパワーアップし始める！"
 
 #: src-en/data/events_sector_lanius.xml.append:158
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[1]/text"
-msgstr "アプローチ。"
+msgstr "接近する。"
 
 #: src-en/data/events_sector_lanius.xml.append:160
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[1]/event/text"
 msgstr ""
-"シャーランは彼の船を恐ろしく見て、「それらのネズミ！彼らはマイト・シャーランの道を横断したことを後悔するだろう！」今では、巡洋艦は武器を完全に供給し、関与するために動きます。"
+"シャーランは恐怖で自分の船を見つめ、唸る。「あのネズミどもめ！偉大なシャーランの道に立ちふさがったことを後悔させてやる！」今やクルーザーは武器を完全にパワーアップし、交戦に移る。"
 
 #: src-en/data/events_sector_lanius.xml.append:162
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[1]/event/choice/text"
-msgstr "巡洋艦を婚約させてください！"
+msgstr "クルーザーと交戦せよ！"
 
 #: src-en/data/events_sector_lanius.xml.append:164
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[1]/event/choice/event/text"
-msgstr "私たちが取引の一部を望むなら、あなたは私たちの乗組員を多くの船体のダメージを与えることなく連れて行く必要があります。"
+msgstr "取引の我々の分が欲しければ、船体に大したダメージを与えずに彼らのクルーを倒す必要がある。"
 
 #: src-en/data/events_sector_lanius.xml.append:167
 msgid ""
@@ -248,39 +247,39 @@ msgstr ""
 #: src-en/data/events_sector_lanius.xml.append:175
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[2]/text"
-msgstr "私たちがこの多くの狂ったラニウスと戦う方法はありません、逃げます！"
+msgstr "こんなに多くの狂ったラニアスと戦うわけにはいかない、逃げろ！"
 
 #: src-en/data/events_sector_lanius.xml.append:177
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[2]/event/text"
-msgstr "「あなたは何をしているの？！私はあなたの種類が信頼できないことを知っていた！」シャーランは腕を刃に変え、乗組員を攻撃します！"
+msgstr "「何をしている、この汚物め！お前たちの種族は信用できないとわかっていた！」シャーランは腕を刃に変え、あなたのクルーに襲いかかる！"
 
 #: src-en/data/events_sector_lanius.xml.append:180
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[2]/event/removeCrew/text"
-msgstr "彼らはまだ生きているので、あなたの乗組員はクローン化することはできません。"
+msgstr "あなたのクルーはまだ生きているので、クローン生成できません。"
 
 #: src-en/data/events_sector_lanius.xml.append:184
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_QUEST_METAL_LANIUS_UNLOCK\"]/choice[2]/event/choice/text"
-msgstr "welp"
+msgstr "やれやれ"
 
 #: src-en/data/events_sector_lanius.xml.append:192
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY\"]/text"
 msgstr ""
-"シャーランは輸送船にたどり着くことができた数少ないラニウスを連れ出すのに忙しく、幸いなことに、彼らのどれも戦いに恵まれたラニウスに問題を引き起こすことはありません。彼はあなたに向きを変え、手を叩きます。「それでは！あなたは私が望んだことをしたと思います。ああ、あなたがその巡洋艦を見逃したのは残念です。"
+"シャーランは輸送船にたどり着いた数少ないラニアスを片付けるのに忙しい。幸い、戦闘経験豊富なラニアスにとって彼らは何の問題も起こさない。彼はあなたの方を向き、手を叩く。「さて！君は私の望んだことをしてくれたようだね。ただ、あのクルーザーを逃したのは残念だ。まあ、補償として、我々が輸送していたエーテル兵器の一つを君にあげよう。君の失敗の痛みが少しでも和らぐといいんだがね」彼は得意げに話す。"
 
 #: src-en/data/events_sector_lanius.xml.append:195
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY\"]/choice/text"
-msgstr "それは何もないよりはましだと思います。"
+msgstr "何もないよりはマシだろう。"
 
 #: src-en/data/events_sector_lanius.xml.append:201
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL\"]/text"
 msgstr ""
-"シャーランは輸送船にたどり着くことができた数少ないラニウスを連れ出すのに忙しく、幸いなことに、彼らのどれも戦いに恵まれたラニウスに問題を引き起こすことはありません。彼はあなたに向きを変え、手を叩きます。「それでは！私が思っていたほど役に立たないことが判明しました！約束されているように、あなたは古い巡洋艦を持つことができます、それはとにかく私たちにとってその有用性の終わりにありました。"
+"シャーランは輸送船にたどり着いた数少ないラニアスを片付けるのに忙しい。幸い、戦闘経験豊富なラニアスにとって彼らは何の問題も起こさない。彼はあなたの方を向き、手を叩く。「さて！思ったほど役立たずではなかったようだね！約束通り、古いクルーザーは君のものだ。どのみち我々にとってはもう役に立たないものだったからな。ボーナスとして、あの戦闘で素晴らしい仕事をした君に、我々が輸送していたエーテル兵器の一つをあげよう。」"
 
 #: src-en/data/events_sector_lanius.xml.append:204
 msgid ""
@@ -291,29 +290,29 @@ msgstr ""
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY_REWARD\"]/text"
 msgstr ""
-"シャーランは輸送船に入り、あなたが今まで見たことがないものとは異なり、信じられないほどハイテク武器を引き出します。「これだと思います、私を助けてくれてありがとう、反逆、私は私が家に帰るときに私たちの女王があなたの偉業について聞くことを確認します」彼は輸送船を見て、彼の目は内の武器に接着したと言います。"
+"シャーランは輸送船に入り、これまで見たことのないような信じられないほどハイテクな武器を取り出す。彼はそれをあなたに手渡してから、輸送船の方を向く。「これで終わりだな。助けてくれてありがとう、レネゲイド。故郷に帰ったら、我々の女王に君の功績を必ず伝えよう」彼は輸送船を見つめ、中の武器に目を奪われながら言う。"
 
 #: src-en/data/events_sector_lanius.xml.append:214
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY_REWARD\"]/choice/text"
-msgstr "どうしたの？"
+msgstr "どうしたんだ？"
 
 #: src-en/data/events_sector_lanius.xml.append:216
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY_REWARD\"]/choice/event/text"
 msgstr ""
-"シャーランは船を振り返る前に、しばらくあなたを見ています。「ああ、それは...ただ...ただ...このミッション全体は、このクラスターの生き物がどのように機能するかを理解するのに役立つと考えていました。また、ここで見つけたエーテルテクノロジーをさらに勉強のために輸送しました。"
+"シャーランは一瞬あなたを見てから、再び船に目をやる。「ああ、いや…何でもない。ただ…このミッション全体は、このクラスターの生物がどのように機能するかを理解するのに役立つはずだった。そして、ここで見つけたエーテル技術を故郷に持ち帰り、さらなる研究をするためだった。しかし、到着した途端に待ち伏せされ、このクラスターから特筆すべきことをほとんど書き留めることができなかった。」"
 
 #: src-en/data/events_sector_lanius.xml.append:218
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY_REWARD\"]/choice/event/choice/text"
-msgstr "さて、なぜ私たちに加わりませんか？私たちの使命はあなたの研究に対して貴重な洞察を提供できると確信しています。"
+msgstr "では、我々に加わらないか？我々のミッションは君の研究に貴重な知見をもたらすはずだ。"
 
 #: src-en/data/events_sector_lanius.xml.append:220
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_DESTROY_REWARD\"]/choice/event/choice/event/text"
 msgstr ""
-"シャーランはしばらくの間あなたを見つめてから、彼の輸送船を振り返る前に、ついにあなたに振り返り、うなずきます。「しかし、輸送船は研究の責任になると思います。それが海賊を惹きつけたのではないかと思います。私たちのクラスターに戻って、ちょっとで船に戻ってあなたに会います。ありがとうございます。"
+"シャーランはしばらくあなたを見つめ、輸送船に目をやる。ついに彼はあなたに向き直り、頷く。「それもいいだろう。しかし、輸送船は研究の足手まといになる。それが海賊を引き寄せた原因だろう。クラスターにワープバックするように設定し、すぐに君の船で合流しよう。ありがとう」"
 
 #: src-en/data/events_sector_lanius.xml.append:222
 msgid ""
@@ -324,29 +323,29 @@ msgstr ""
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL_REWARD\"]/text"
 msgstr ""
-"あなたは巡洋艦の中に向かい、シャルランが住んでいた場所に戻る前に、最寄りの連邦格納庫のコースを設定します。シャーランは、あなたが今まで見たことがあるものとは異なり、信じられないほどハイテク武器を引き出すのに忙しく、彼は輸送船に戻る前にあなたにそれを渡します。「これだと思います、私を助けてくれてありがとう、反逆、私は私が家に帰るときに私たちの女王があなたの偉業について聞くことを確認します」彼は輸送船を見て、彼の目は内の武器に接着したと言います。"
+"あなたはクルーザーに入り、最寄りの連邦ハンガーへのコースを設定してからシャーランの元へ戻る。シャーランはこれまで見たことのないような信じられないほどハイテクな武器を取り出すのに忙しい。彼はそれをあなたに手渡してから、輸送船の方を向く。「これで終わりだな。助けてくれてありがとう、レネゲイド。故郷に帰ったら、我々の女王に君の功績を必ず伝えよう」彼は輸送船を見つめ、中の武器に目を奪われながら言う。"
 
 #: src-en/data/events_sector_lanius.xml.append:238
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL_REWARD\"]/choice/text"
-msgstr "どうしたの？"
+msgstr "どうしたんだ？"
 
 #: src-en/data/events_sector_lanius.xml.append:240
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL_REWARD\"]/choice/event/text"
 msgstr ""
-"シャーランは船を振り返る前に、しばらくあなたを見ています。「ああ、それは...ただ...ただ...このミッション全体は、このクラスターの生き物がどのように機能するかを理解するのに役立つと考えていました。また、ここで見つけたエーテルテクノロジーをさらに勉強のために輸送しました。"
+"シャーランは一瞬あなたを見てから、再び船に目をやる。「ああ、いや…何でもない。ただ…このミッション全体は、このクラスターの生物がどのように機能するかを理解するのに役立つはずだった。そして、ここで見つけたエーテル技術を故郷に持ち帰り、さらなる研究をするためだった。しかし、到着した途端に待ち伏せされ、このクラスターから特筆すべきことをほとんど書き留めることができなかった。」"
 
 #: src-en/data/events_sector_lanius.xml.append:242
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL_REWARD\"]/choice/event/choice/text"
-msgstr "さて、なぜ私たちに加わりませんか？私たちの使命はあなたの研究に対して貴重な洞察を提供できると確信しています。"
+msgstr "では、我々に加わらないか？我々のミッションは君の研究に貴重な知見をもたらすはずだ。"
 
 #: src-en/data/events_sector_lanius.xml.append:244
 msgid ""
 "data/events_sector_lanius.xml.append$//event[@name=\"FR_METAL_LANIUS_UNLOCK_CREWKILL_REWARD\"]/choice/event/choice/event/text"
 msgstr ""
-"シャーランはしばらくの間あなたを見つめてから、彼の輸送船を振り返る前に、ついにあなたに振り返り、うなずきます。「しかし、輸送船は研究の責任になると思います。それが海賊を惹きつけたのではないかと思います。私たちのクラスターに戻って、ちょっとで船に戻ってあなたに会います。ありがとうございます。"
+"シャーランはしばらくあなたを見つめ、輸送船に目をやる。ついに彼はあなたに向き直り、頷く。「それもいいだろう。しかし、輸送船は研究の足手まといになる。それが海賊を引き寄せた原因だろう。クラスターにワープバックするように設定し、すぐに君の船で合流しよう。ありがとう」"
 
 #: src-en/data/events_sector_lanius.xml.append:246
 msgid ""

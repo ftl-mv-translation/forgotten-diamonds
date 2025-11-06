@@ -9,22 +9,22 @@ msgstr ""
 msgid ""
 "data/events_sector_hive.xml.append$//mod:findName[@name=\"MANTIS_CREW\"]/mod-"
 "append:choice/text"
-msgstr "（ダイヤモンドクルー）ダイヤモンドにポッドを開いてもらいます。"
+msgstr "（ダイヤモンドクルー）ダイヤモンドにポッドを開けさせる。"
 
 #: src-en/data/events_sector_hive.xml.append:12
 msgid ""
 "data/events_sector_hive.xml.append$//eventList[@name=\"FR_MANTIS_CREW_LIST_DIAMOND\"]/event[1]/text"
 msgstr ""
-"ポッドが開くとすぐに、怒ったマンティスが暴行してダイヤモンドを打つことを試みます。ビートを逃さずに、ダイヤモンドは右端のドローンで爪をブロックします。"
+"ポッドが開くとすぐに、怒ったマンティスが飛び出してあなたのダイヤモンドを殴ろうとするが、ダイヤモンドは間髪入れずに、一番右のドローンでその爪を防ぐ。ドローンは一瞬で短い刃に変形したようだ。マンティスは何が起こったのかを理解する間もなく、ダイヤモンドが一刀両断にその首を切り落とし、脅威を無力化した。"
 
 #: src-en/data/events_sector_hive.xml.append:15
 msgid ""
 "data/events_sector_hive.xml.append$//eventList[@name=\"FR_MANTIS_CREW_LIST_DIAMOND\"]/event[2]/text"
 msgstr ""
-"ポッドを開くとすぐに、内側のマンティスが地面に落ち、足元にgroveします。「ああ、最も優雅で高貴な船長、あなたは私を控えています！私の感謝と奉仕を受け入れてください。」"
+"ポッドを開けるとすぐに、中のマンティスが地面に倒れ、あなたの足元にひれ伏す。「おお、最も慈悲深く高貴な船長よ、私をお見逃しくださるのですね！どうか、私の感謝と奉仕をお受け取りください。」"
 
 #: src-en/data/events_sector_hive.xml.append:19
 msgid ""
 "data/events_sector_hive.xml.append$//eventList[@name=\"FR_MANTIS_CREW_LIST_DIAMOND\"]/event[3]/text"
 msgstr ""
-"男が人生のポッドから叫び声を上げて叫び声を上げ、角に向かいます。マンティスの捕虜のまれな生存者。落ち着いて、サバイバーはしばらく乗組員に加わることを申し出ます。"
+"男がライフポッドから叫びながら飛び出し、隅に這っていく。マンティスの捕虜から生還した珍しい生存者だ。落ち着くと、生存者はしばらくの間、あなたのクルーに加わることを申し出る。"

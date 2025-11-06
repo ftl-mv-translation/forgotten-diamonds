@@ -7,13 +7,13 @@ msgstr ""
 
 #: src-en/mod-appendix/metadata.xml:2
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
-msgstr "FTL：マルチバース - 忘れられたレース - ダイヤモンドアドオン"
+msgstr "FTL: MULTIVERSE - FORGOTTEN RACES - DIAMOND ADDON"
 
 #: src-en/mod-appendix/metadata.xml:6
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
 msgstr ""
-"マルチバースの後のパッチでは、融合0.1.0+、忘れられたレース、レネゲイドコレクションが必要です。\n"
+"MULTIVERSEの後にパッチを適用してください。FUSION 0.1.0+、FORGOTTEN RACES、THE RENEGADE COLLECTIONが必要です。FRの前に両方をパッチしてください。\n"
 "\n"
-"このMODは、基本的には、かつて忘れられた人種の一部だったが、単にMODの目標に合わなかったすべての黄金、銅、アダマンティンの内容です。\n"
+"このMODは基本的に、以前は忘れられた種族の一部だったゴールデン、カッパー、アダマンタインのコンテンツですが、MODの目標に合わなかったため、ここにあります。\n"
 "\n"
-"Multiverse 5.4.xで動作します"
+"Multiverse 5.4.Xで動作します。"

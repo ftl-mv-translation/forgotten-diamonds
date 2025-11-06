@@ -9,7 +9,7 @@ msgstr ""
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_LANIUS_CRUISER\"]/destroyed/text"
 msgstr ""
-"船は、揮発性燃料が爆発する直前に半分に壊れ、その中に残っているラニウスのいずれかを取り出します。あなたは船からできることを廃棄し、シャルランを探しに行きます。"
+"揮発性の燃料が爆発する直前に船は真っ二つに折れ、中に残っていたラニアスをすべて道連れにする。船からできる限りのものをスクラップにし、シャーランを探しに行く。"
 
 #: src-en/data/events_ships.xml.append:8
 msgid ""
@@ -19,7 +19,7 @@ msgstr ""
 #: src-en/data/events_ships.xml.append:13
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_LANIUS_CRUISER\"]/deadCrew/text"
-msgstr "あなたはそれを破壊することなく船からすべてのラニウスを根絶しました！デブリからできることを廃棄し、シャルランを探します。"
+msgstr "船を破壊せずに、中のラニアスをすべて駆逐した！瓦礫からできる限りのものをスクラップにし、シャーランを探す。"
 
 #: src-en/data/events_ships.xml.append:16
 msgid ""
@@ -29,13 +29,13 @@ msgstr ""
 #: src-en/data/events_ships.xml.append:28
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_DIAMOND_CRUISER\"]/destroyed/text"
-msgstr "船はバラバラになり、ゆっくりと黄金の雲に崩壊し、救助のためにほとんど何も残しません。"
+msgstr "船はバラバラになり、ゆっくりと黄金の雲に分解され、サルベージできるものはほとんど残らない。"
 
 #: src-en/data/events_ships.xml.append:32
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_DIAMOND_CRUISER\"]/deadCrew/text"
 msgstr ""
-"あなたはなんとかオペレーターを殺すことができ、その死により船の武器が動力を与えました。あなたは今、船を自由に探索し、そのエイリアンが何を守っていたかを見ることができます。"
+"オペレーターを殺すことに成功し、その死とともに船の武器のパワーが落ちる。これで自由に船を探索し、あのエイリアンが何をガードしていたのかを見ることができる。"
 
 #: src-en/data/events_ships.xml.append:35
 msgid ""
@@ -45,12 +45,12 @@ msgstr ""
 #: src-en/data/events_ships.xml.append:43
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_OPERATOR_CRUISER\"]/destroyed/text"
-msgstr "船はバラバラになり、ゆっくりと銅の雲に崩壊し、救助のためにほとんど何も残しません。"
+msgstr "船はバラバラになり、ゆっくりと銅の雲に分解され、サルベージできるものはほとんど残らない。"
 
 #: src-en/data/events_ships.xml.append:47
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_OPERATOR_CRUISER\"]/deadCrew/text"
-msgstr "あなたはなんとかオペレーターを殺すことができ、その死により船のドローンが動力を与えました。これで、船を探索して青写真を奪うことができます。"
+msgstr "オペレーターを殺すことに成功し、その死とともに船のドローンのパワーが落ちる。これで自由に船を探索し、設計図を手に入れることができる。"
 
 #: src-en/data/events_ships.xml.append:50
 msgid ""

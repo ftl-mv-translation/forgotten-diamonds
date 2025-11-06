@@ -18,24 +18,24 @@ msgstr "メタルピラミッドクルーザー"
 #: src-en/data/autoBlueprints.xml.append:585
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_BOSS_QUEST_OPERATOR_CRUISER\"]/class"
-msgstr "銅船？"
+msgstr "カッパーシップ？"
 
 #: src-en/data/autoBlueprints.xml.append:629
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_MULTIVERSE_GOLDEN_DIAMOND_NORMAL\"]/class"
-msgstr "反逆巡洋艦"
+msgstr "レネゲイドクルーザー"
 
 #: src-en/data/autoBlueprints.xml.append:653
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_MULTIVERSE_GOLDEN_DIAMOND_CHALLENGE\"]/class"
-msgstr "反逆巡洋艦"
+msgstr "レネゲイドクルーザー"
 
 #: src-en/data/autoBlueprints.xml.append:677
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_MULTIVERSE_GOLDEN_DIAMOND_EXTREME\"]/class"
-msgstr "反逆巡洋艦"
+msgstr "レネゲイドクルーザー"
 
 #: src-en/data/autoBlueprints.xml.append:702
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_MULTIVERSE_GOLDEN_DIAMOND_CHAOS\"]/class"
-msgstr "反逆巡洋艦"
+msgstr "レネゲイドクルーザー"

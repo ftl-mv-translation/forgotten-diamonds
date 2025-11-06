@@ -9,14 +9,14 @@ msgstr ""
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
-msgstr "連絡先コマンドに連絡してください。"
+msgstr "連邦司令部に連絡する。"
 
 #: src-en/data/events_sector_laststand.xml.append:10
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/text"
 msgstr ""
-"Vidscreenには、いくつかの連邦とENGIの役員と、中央にタリー提督が登場します。「それは...三角形の船ですか？完全にエイリアンのデザインなのか、私は以前にそのようなものを見たことがない...まあ、私たちは得ることができるすべての助けが必要だと思います。そして、あなたの船が保持する技術から判断すると、あなたは私たちが必要とするだけかもしれません。」"
+"ビデオスクリーンに数人の連邦およびエンジの士官、そして中央にタリー提督が現れる。「あれは…三角形の船か？全く異質なデザインだ、これまで見たことがない…まあ、我々にはどんな助けでも必要だろうし、君の船が持つ技術から判断すると、君こそが必要な助けかもしれない。」"
 
 #: src-en/data/events_sector_laststand.xml.append:12
 msgid ""
@@ -28,14 +28,14 @@ msgstr ""
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/text"
-msgstr "連絡先コマンドに連絡してください。"
+msgstr "連邦司令部に連絡する。"
 
 #: src-en/data/events_sector_laststand.xml.append:20
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/text"
 msgstr ""
-"Vidscreenには、いくつかの連邦とENGIの役員と、中央にタリー提督が登場します。「ラニウスの船...私は思う？私たちが言っていることを理解できることを願っています。翻訳者はあなたの言葉を理解できないからです。あなたが誰であれ、私たちを助けてください。"
+"ビデオスクリーンに数人の連邦およびエンジの士官、そして中央にタリー提督が現れる。「ラニアスの船…かな？我々の言っていることが理解できるといいのだが、翻訳機が君の言葉を解読できないんだ。君が誰であれ、どうか助けてくれ。我々の戦力は刻一刻と減っている。」"
 
 #: src-en/data/events_sector_laststand.xml.append:22
 msgid ""
@@ -47,14 +47,14 @@ msgstr ""
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/text"
-msgstr "連絡先コマンドに連絡してください。"
+msgstr "連邦司令部に連絡する。"
 
 #: src-en/data/events_sector_laststand.xml.append:30
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/text"
 msgstr ""
-"Vidscreenには、いくつかの連邦とENGIの役員と、中央にタリー提督が登場します。「なんて奇妙な船のデザイン...私はあなたがどこから来たのかわかりませんが、あなたが真剣なビジネスを意味することを見ることから言うことができます。今、その旗艦を取り出して、私たちを失望させないでください。」"
+"ビデオスクリーンに数人の連邦およびエンジの士官、そして中央にタリー提督が現れる。「奇妙な船のデザインだな…どこから来たのかは知らないが、見ただけで君が本気だとわかる。さあ、あの旗艦を倒してくれ。我々をがっかりさせるな。」"
 
 #: src-en/data/events_sector_laststand.xml.append:32
 msgid ""

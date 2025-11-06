@@ -9,29 +9,29 @@ msgstr ""
 msgid ""
 "data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/text"
 msgstr ""
-"このビーコンの近くでワープして、奇妙な苦痛メッセージを送ったものを探していると、このエリア全体に奇妙なマークが付いた黒と黄色の船の束が見えます。あなたが彼らを救い始めると、あなたは他のものとは異なる近くの別の船に気づきます。これは、あなたが難破船で見つけたのと同じ金色のほこりを漏らしているように見える三角形の船です。船自体はほとんど無傷のように見えますが、乗船したライフサインを検出することはできません。"
+"このビーコンの近くにワープし、奇妙な遭難信号を送ってきたものを探していると、このエリア一面に奇妙な模様の黒と黄色の船が多数見つかる。すべて壊れて破壊されており、破壊された船体の周りには何らかの黄金の塵が漂っている。それらをサルベージし始めると、近くに別の船があることに気づく。他とは違う、三角形の船で、残骸で見つけたのと同じ黄金の塵を漏らしているようだ。船自体はほとんど無傷に見えるが、船内には生命反応は検知できない。"
 
 #: src-en/data/events_sector_rebel.xml.append:16
 msgid ""
 "data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/text"
-msgstr "船に近づきます。"
+msgstr "船に接近する。"
 
 #: src-en/data/events_sector_rebel.xml.append:18
 msgid ""
 "data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/text"
 msgstr ""
-"あなたがその内部にあるものを救うことを期待して船に近づくと、船のシステムは悲惨なメッセージを送るときに突然オンラインになります。「身元不明の船！戻ってくるか、この星間墓地で他の船の死体に参加します！」この船の武器は、これまでに見たことがあるものとは似ていませんが、それだけでなく、現在は単一の生命署名が搭載されているようであり、データベース内のどの種でもありません。"
+"中のものをサルベージしようと船に近づくと、船のシステムが突然オンラインになり、切迫したメッセージを送ってくる。「未確認船！下がれ、さもなくばこの星間墓場の他の船の残骸に加わることになるぞ！」この船の武器はこれまで見たことのないもので、それだけでなく、船内には今や単一の生命反応があり、それはデータベースにあるどの種族のものでもない。"
 
 #: src-en/data/events_sector_rebel.xml.append:20
 msgid ""
 "data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[1]/text"
-msgstr "船の内側にあるものは、非常に貴重であり、武器とアプローチを動かしてください！"
+msgstr "船の中にあるものは非常に価値があるに違いない、武器を起動して接近しろ！"
 
 #: src-en/data/events_sector_rebel.xml.append:22
 msgid ""
 "data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"船のシステムは現在フルパワーになっています！Medbayはある種の生命維持システムに動力を供給しており、オンラインで唯一の生存者を不滅にしているようです！あなたがそのエイリアンを殺す機会を持ちたいなら、あなたはそれを最初に取り出す必要があります。幸いなことに、これらの奇妙な船との以前の戦いは、武器システムを破損しており、通常の速度で武器を充電するのを妨げているようです。"
+"船のシステムは今やフルパワーだ！医療ベイが何らかの生命維持システムを動かしているようで、オンライン中は唯一の生存者を不死にしている！あのエイリアンを殺すチャンスを得たいなら、まずそれを破壊しなければならない。幸いなことに、前の奇妙な船との戦闘で武器システムが損傷し、通常の速度で武器をチャージできないようだ。"
 
 #: src-en/data/events_sector_rebel.xml.append:25
 msgid ""
@@ -41,12 +41,12 @@ msgstr ""
 #: src-en/data/events_sector_rebel.xml.append:31
 msgid ""
 "data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[2]/text"
-msgstr "警告に耳を傾け、離れてください。"
+msgstr "警告に従い、離れる。"
 
 #: src-en/data/events_sector_rebel.xml.append:33
 msgid ""
 "data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[2]/event/text"
-msgstr "FTLエンジンの充電を開始するとすぐに、船は武器を駆け抜け、あなたを去ります。"
+msgstr "FTLエンジンをチャージし始めるとすぐに、船は武器のパワーを落とし、あなたを放っておく。"
 
 #: src-en/data/events_sector_rebel.xml.append:35
 msgid ""
@@ -61,12 +61,12 @@ msgstr ""
 #: src-en/data/events_sector_rebel.xml.append:47
 msgid ""
 "data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[2]/text"
-msgstr "それが何であれ、私たちは知りたくありません。"
+msgstr "それが何であれ、知りたくない。"
 
 #: src-en/data/events_sector_rebel.xml.append:49
 msgid ""
 "data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[2]/event/text"
-msgstr "あなたは今、あまりにも多くのものを持っています。あなたは巨大な船を無視し、できるだけ早く飛び去ります。"
+msgstr "今やるべきことが多すぎる。巨大な船は無視し、できるだけ早くジャンプする。"
 
 #: src-en/data/events_sector_rebel.xml.append:51
 msgid ""
@@ -82,11 +82,11 @@ msgstr ""
 msgid ""
 "data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST_CREWKILL\"]/text"
 msgstr ""
-"船が永遠に生活を欠いていることを確認した後、あなたはそのエイリアンが守っているものを見るためにチームを送ります、そしてあなたの驚いたことに、それは単なるスクラップの山ではありません！船のコントロールはまだ機能しているようで、連邦の格納庫にリダイレクトすることができます！さらに良いことに、貯蔵室の中には、船があなたに対して使用したものと同じように、銃がたくさんあります。\n"
+"船に生命が完全にいなくなったことを確認した後、チームを送り、あのエイリアンが何をガードしていたのかを調べさせる。驚いたことに、それはただのスクラップの山ではなかった！船の操縦はまだ機能しているようで、連邦のハンガーに誘導することができる！さらに良いことに、倉庫には船があなたに対して使ったものと同じ銃と大量のスクラップが見つかった！\n"
 "\n"
-"もう少し探索した後、船の他の唯一の生存者を見つけ、密封された部屋の中に立ち往生しています。彼らを解放した後、彼らはあなたの乗組員に加わることを申し出ることにとても感謝しています！"
+"\t\tもう少し探索すると、船の唯一の生存者を見つける。封鎖された部屋に閉じ込められていた。彼らを解放すると、非常に感謝され、あなたのクルーに加わることを申し出る！"
 
 #: src-en/data/events_sector_rebel.xml.append:74
 msgid ""
 "data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST_CREWKILL\"]/choice/text"
-msgstr "甘い！"
+msgstr "やった！"

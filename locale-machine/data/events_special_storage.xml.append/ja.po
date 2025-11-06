@@ -9,35 +9,35 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INTERACT\"]/mod-"
 "append:choice[1]/text"
-msgstr "ゴールデンラニウスをアップグレードします"
+msgstr "ゴールデン・ラニアスをアップグレードする"
 
 #: src-en/data/events_special_storage.xml.append:20
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INTERACT\"]/mod-"
 "append:choice[2]/text"
-msgstr "増強されたゴールデンラニウスをアップグレードします"
+msgstr "オーグメント・ゴールデン・ラニアスをアップグレードする"
 
 #: src-en/data/events_special_storage.xml.append:26
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS\"]/text"
 msgstr ""
-"このアクションは100のスクラップを取り、ゴールデンラニウスを拡張したゴールデンラニウスに置き換えます。\n"
-"[70健康 - > 100の健康\n"
-"短い遅延の後、HP->再生5 hp/sを再生成しません\n"
-"x1.5修理 - > x1.8修理\n"
-"x0.9ダメージがかかった - > x0.8ダメージが取られます\n"
-"x1.1ダメージ - > x1.5ダメージ\n"
-"x1移動速度 - > x1.2移動速度]"
+"このアクションはスクラップ100を消費し、ゴールデン・ラニアスをオーグメント・ゴールデン・ラニアスに置き換えます。\n"
+"\t[体力70 -> 体力100 \n"
+"\tHP再生なし -> 短い遅延後に毎秒5HP再生\n"
+"\t修理x1.5 -> 修理x1.8\n"
+"\t被ダメージx0.9 -> 被ダメージx0.8\n"
+"\tダメージx1.1 -> ダメージx1.5 \n"
+"\t移動速度x1 -> 移動速度x1.2]"
 
 #: src-en/data/events_special_storage.xml.append:34
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS\"]/choice[1]/text"
-msgstr "それをしてください。"
+msgstr "実行する。"
 
 #: src-en/data/events_special_storage.xml.append:36
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS\"]/choice[1]/event/text"
-msgstr "あなたのラニウスは、スクラップを消費すると変革を受けます..."
+msgstr "あなたのラニアスはスクラップを消費して変身を遂げる…"
 
 #: src-en/data/events_special_storage.xml.append:42
 msgid ""
@@ -47,31 +47,31 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:48
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS\"]/choice[@req=\"pilot\"]/text"
-msgstr "気にしないで、何か他のことをしてください。"
+msgstr "気にしないで、他のことをする。"
 
 #: src-en/data/events_special_storage.xml.append:56
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS_2\"]/text"
 msgstr ""
-"このアクションは200のスクラップを取り、拡張されたゴールデンラニウスを昇天したゴールデンラニウスに置き換えます。\n"
-"[100ヘルス - > 150健康\n"
-"x1.8修理 - > x2修理\n"
-"短い遅延後に5 hp/sを再生します - >短い遅延の後に10 hp/sを再生します\n"
-"燃えることができます - >燃えません\n"
-"x0.8ダメージがかかった - > x0.5ダメージが取られます\n"
-"x1.5ダメージ - > x2ダメージ\n"
-"x1.2移動速度 - > x1.5移動速度\n"
-"現在の部屋への+1パワー - > +2現在の部屋への電力]"
+"このアクションはスクラップ200を消費し、オーグメント・ゴールデン・ラニアスをアセンデッド・ゴールデン・ラニアスに置き換えます。\n"
+"\t[体力100 -> 体力150 \n"
+"\t修理x1.8 -> 修理x2\n"
+"\t短い遅延後に毎秒5HP再生 -> 短い遅延後に毎秒10HP再生\n"
+"\t燃焼する -> 燃焼しない\n"
+"\t被ダメージx0.8 -> 被ダメージx0.5\n"
+"\tダメージx1.5 -> ダメージx2 \n"
+"\t移動速度x1.2 -> 移動速度x1.5\n"
+"\t現在の部屋に+1パワー -> 現在の部屋に+2パワー]"
 
 #: src-en/data/events_special_storage.xml.append:66
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS_2\"]/choice[1]/text"
-msgstr "それをしてください。"
+msgstr "実行する。"
 
 #: src-en/data/events_special_storage.xml.append:68
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS_2\"]/choice[1]/event/text"
-msgstr "あなたのラニウスは、スクラップを消費すると変革を受けます..."
+msgstr "あなたのラニアスはスクラップを消費して変身を遂げる…"
 
 #: src-en/data/events_special_storage.xml.append:74
 msgid ""
@@ -81,54 +81,54 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:80
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS_2\"]/choice[@req=\"pilot\"]/text"
-msgstr "気にしないで、何か他のことをしてください。"
+msgstr "気にしないで、他のことをする。"
 
 #: src-en/data/events_special_storage.xml.append:90
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice/text"
-msgstr "（忘れられたダイヤモンドマーチャントビーコン）忘れられたダイヤモンドストアを召喚します。"
+msgstr "（忘れられたダイヤモンド商人のビーコン）忘れられたダイヤモンドの店を召喚する。"
 
 #: src-en/data/events_special_storage.xml.append:100
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[1]/text"
-msgstr "モーフをダイヤモンドに変換します。"
+msgstr "モーフをダイヤモンドに変身させる。"
 
 #: src-en/data/events_special_storage.xml.append:104
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[2]/text"
-msgstr "テクノモルフをオペレーターに変換します。"
+msgstr "テクノモーフをオペレーターに変身させる。"
 
 #: src-en/data/events_special_storage.xml.append:108
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[3]/text"
-msgstr "ダイヤモンドのモーフをリセットします"
+msgstr "ダイヤモンドモーフをリセットする"
 
 #: src-en/data/events_special_storage.xml.append:112
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[4]/text"
-msgstr "オペレーターテクノモルフをリセットします"
+msgstr "オペレーターテクノモーフをリセットする"
 
 #: src-en/data/events_special_storage.xml.append:118
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_DIAMOND\"]/text"
 msgstr ""
-"モーフをダイヤモンドに変えようとしています。\n"
-"これは後で元に戻すことができますが、現在のフォームに応じて燃料がかかる場合があります。"
+"モーフをダイヤモンドに変身させようとしています。\n"
+"\tこれは後で元に戻せますが、現在の形態によっては燃料がかかる場合があります。"
 
 #: src-en/data/events_special_storage.xml.append:121
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_DIAMOND\"]/choice[1]/text"
-msgstr "（ダイヤモンドの乗組員）ダイヤモンドの形を取ります。"
+msgstr "（ダイヤモンドクルー）ダイヤモンドの形態をとる。"
 
 #: src-en/data/events_special_storage.xml.append:123
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_DIAMOND\"]/choice[1]/event/text"
-msgstr "あなたのモーフは新しい形に変わります。"
+msgstr "あなたのモーフは新しい形に変身します。"
 
 #: src-en/data/events_special_storage.xml.append:126
 msgid ""
@@ -138,24 +138,24 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:134
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_DIAMOND\"]/choice[@req=\"pilot\"]/text"
-msgstr "気にしないで、何か他のことをしてください。"
+msgstr "気にしないで、他のことをする。"
 
 #: src-en/data/events_special_storage.xml.append:142
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_OPERATOR\"]/text"
 msgstr ""
-"テクノモーフをオペレーターに変換しようとしています。\n"
-"これは後で元に戻すことができますが、現在のフォームに応じて燃料がかかる場合があります。"
+"テクノモーフをオペレーターに変身させようとしています。\n"
+"\tこれは後で元に戻せますが、現在の形態によっては燃料がかかる場合があります。"
 
 #: src-en/data/events_special_storage.xml.append:145
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_OPERATOR\"]/choice[1]/text"
-msgstr "（オペレーターの乗組員）オペレーターの形を取得します。"
+msgstr "（オペレータークルー）オペレーターの形態をとる。"
 
 #: src-en/data/events_special_storage.xml.append:147
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_OPERATOR\"]/choice[1]/event/text"
-msgstr "あなたのTechnomorphは新しい形に変わります。"
+msgstr "あなたのテクノモーフは新しい形に変身します。"
 
 #: src-en/data/events_special_storage.xml.append:150
 msgid ""
@@ -165,22 +165,22 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:158
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_OPERATOR\"]/choice[@req=\"pilot\"]/text"
-msgstr "気にしないで、何か他のことをしてください。"
+msgstr "気にしないで、他のことをする。"
 
 #: src-en/data/events_special_storage.xml.append:166
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_DIAMOND\"]/text"
-msgstr "ダイヤモンドのモーフをリセットしようとしています。"
+msgstr "ダイヤモンドモーフをリセットしようとしています。"
 
 #: src-en/data/events_special_storage.xml.append:168
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_DIAMOND\"]/choice[1]/text"
-msgstr "ダイヤモンドのモーフをリセットします。[-2 {]"
+msgstr "ダイヤモンドモーフをリセットする。[-2{]"
 
 #: src-en/data/events_special_storage.xml.append:171
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_DIAMOND\"]/choice[1]/event/text"
-msgstr "モーフは元の形状に戻ります。"
+msgstr "あなたのモーフは元の形に戻ります。"
 
 #: src-en/data/events_special_storage.xml.append:174
 msgid ""
@@ -190,22 +190,22 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:182
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_DIAMOND\"]/choice[@req=\"pilot\"]/text"
-msgstr "気にしないで、何か他のことをしてください。"
+msgstr "気にしないで、他のことをする。"
 
 #: src-en/data/events_special_storage.xml.append:190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_OPERATOR\"]/text"
-msgstr "オペレーターTechnomorphをリセットしようとしています。"
+msgstr "オペレーターテクノモーフをリセットしようとしています。"
 
 #: src-en/data/events_special_storage.xml.append:192
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_OPERATOR\"]/choice[1]/text"
-msgstr "オペレーターテクノモルフをリセットします。[-2 {]"
+msgstr "オペレーターテクノモーフをリセットする。[-2{]"
 
 #: src-en/data/events_special_storage.xml.append:195
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_OPERATOR\"]/choice[1]/event/text"
-msgstr "Technomorphは元の形状に戻ります。"
+msgstr "あなたのテクノモーフは元の形に戻ります。"
 
 #: src-en/data/events_special_storage.xml.append:198
 msgid ""
@@ -215,71 +215,71 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:206
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_OPERATOR\"]/choice[@req=\"pilot\"]/text"
-msgstr "気にしないで、何か他のことをしてください。"
+msgstr "気にしないで、他のことをする。"
 
 #: src-en/data/events_special_storage.xml.append:225
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[1]/text"
-msgstr "（Tinkerer's Shield）ドローンを作成および改善します。"
+msgstr "（ティンカラー・シールド）ドローンを作成・改良する。"
 
 #: src-en/data/events_special_storage.xml.append:231
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[2]/text"
-msgstr "（肉メーカー）肉メーカーの部屋に入ります。"
+msgstr "（フレッシュメーカー）フレッシュメーカーの部屋に入る。"
 
 #: src-en/data/events_special_storage.xml.append:237
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[3]/text"
-msgstr "（豊かさのシールド）シールドにいくつかのスクラップを供給し、さまざまな結果を可能にします。"
+msgstr "（富のシールド）シールドにスクラップを与え、様々な結果を得る。"
 
 #: src-en/data/events_special_storage.xml.append:243
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[4]/text"
-msgstr "（合金シールド）シールドが複製するモードを選択します。"
+msgstr "（アロイ・シールド）シールドが複製するモードを選択する。"
 
 #: src-en/data/events_special_storage.xml.append:254
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_ALLOY_SHIELD\"]/text"
-msgstr "どの金属ダイヤモンドの拡張を合金シールドに模倣したいですか？"
+msgstr "アロイ・シールドにどのメタル・ダイヤモンド・オーグメントを模倣させますか？"
 
 #: src-en/data/events_special_storage.xml.append:256
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_ALLOY_SHIELD\"]/choice[1]/text"
-msgstr "豪華なシールド"
+msgstr "富のシールド"
 
 #: src-en/data/events_special_storage.xml.append:262
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_ALLOY_SHIELD\"]/choice[2]/text"
-msgstr "ティンカーの盾"
+msgstr "ティンカラー・シールド"
 
 #: src-en/data/events_special_storage.xml.append:268
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_ALLOY_SHIELD\"]/choice[3]/text"
-msgstr "肉メーカー"
+msgstr "フレッシュメーカー"
 
 #: src-en/data/events_special_storage.xml.append:274
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_ALLOY_SHIELD\"]/choice[@req=\"pilot\"]/text"
-msgstr "気にしないで、何か他のことをしてください。"
+msgstr "気にしないで、他のことをする。"
 
 #: src-en/data/events_special_storage.xml.append:282
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/text"
-msgstr "新しいドローンを作成したり、既存のドローンを改善したりしますか？"
+msgstr "新しいドローンを作成しますか、それとも既存のものを改良しますか？"
 
 #: src-en/data/events_special_storage.xml.append:284
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[1]/text"
-msgstr "クラフトドローン"
+msgstr "ドローンを作成する"
 
 #: src-en/data/events_special_storage.xml.append:286
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[1]/event/text"
-msgstr "青写真をチェックして、プロトタイプのいずれかが使用可能かどうかを確認します"
+msgstr "プロトタイプのいずれかが使用可能か、設計図を確認します"
 
 #: src-en/data/events_special_storage.xml.append:288
 msgid ""
@@ -289,12 +289,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:296
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[@req=\"FR_BLUELIST_COPPER_DRONES_INCOMPLETE\"]/text"
-msgstr "ドローンを改善します"
+msgstr "ドローンを改良する"
 
 #: src-en/data/events_special_storage.xml.append:298
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[@req=\"FR_BLUELIST_COPPER_DRONES_INCOMPLETE\"]/event/text"
-msgstr "手元にあるドローンを長く見て、確かに彼らのデザインは改善できますよね？"
+msgstr "手持ちのドローンをじっくりと見ます。きっとその設計は改良できるはずですよね？"
 
 #: src-en/data/events_special_storage.xml.append:300
 msgid ""
@@ -304,12 +304,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:308
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[3]/text"
-msgstr "リソースをドローンパーツに変えます"
+msgstr "資源をドローンパーツに変換する"
 
 #: src-en/data/events_special_storage.xml.append:310
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[3]/event/text"
-msgstr "ドローンパーツに入れるために利用できるもののインベントリを作成します。"
+msgstr "ドローンパーツにできるものの在庫を確認します。"
 
 #: src-en/data/events_special_storage.xml.append:312
 msgid ""
@@ -319,22 +319,22 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:320
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[@req=\"pilot\"]/text"
-msgstr "気にしないで、何か他のことをしてください。"
+msgstr "気にしないで、他のことをする。"
 
 #: src-en/data/events_special_storage.xml.append:326
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/text"
-msgstr "あなたは何をしたいですか？"
+msgstr "何をしますか？"
 
 #: src-en/data/events_special_storage.xml.append:328
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[1]/text"
-msgstr "ゴールデン武器をクラフトします。"
+msgstr "ゴールデンウェポンを作成する。"
 
 #: src-en/data/events_special_storage.xml.append:330
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[1]/event/text"
-msgstr "あなたは船からすべてのスクラップを集め、あなたが得ることができる新しい光沢のある武器を疑問に思います。"
+msgstr "船からすべてのスクラップを集め、どんな新しい輝く武器が手に入るかと考えます。"
 
 #: src-en/data/events_special_storage.xml.append:332
 msgid ""
@@ -344,12 +344,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:340
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[2]/text"
-msgstr "リソースをスクラップに変換します。"
+msgstr "資源をスクラップに変換する。"
 
 #: src-en/data/events_special_storage.xml.append:342
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[2]/event/text"
-msgstr "船上で利用可能なすべてのリソースのインベントリを作成して、何をspareしまないかを確認します。"
+msgstr "船で利用可能なすべての資源の在庫を確認し、何が余分にあるかを見ます。"
 
 #: src-en/data/events_special_storage.xml.append:344
 msgid ""
@@ -360,13 +360,13 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"FR_BLUELIST_GOLDEN_WEAPONS_INCOMPLETE\""
 " and not(@lvl)]/text"
-msgstr "あなたの黄金の武器を改善します。"
+msgstr "ゴールデンウェポンを改良する。"
 
 #: src-en/data/events_special_storage.xml.append:354
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"FR_BLUELIST_GOLDEN_WEAPONS_INCOMPLETE\""
 " and not(@lvl)]/event/text"
-msgstr "あなたの武器の飢え、私たちはどちらを養いますか？"
+msgstr "あなたの武器は飢えています。どれに餌を与えますか？"
 
 #: src-en/data/events_special_storage.xml.append:356
 msgid ""
@@ -378,17 +378,17 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"FR_BLUELIST_GOLDEN_WEAPONS_INCOMPLETE\""
 " and @lvl=\"0\"]/text"
-msgstr "アップグレードする黄金の武器はありません。"
+msgstr "アップグレードするゴールデンウェポンがありません。"
 
 #: src-en/data/events_special_storage.xml.append:368
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"FR_BLUELIST_GOLDEN_SHIELD_INCOMEPLETE\"]/text"
-msgstr "黄金のエネルギーシールドを改善します。"
+msgstr "ゴールデンエネルギーシールドを改良する。"
 
 #: src-en/data/events_special_storage.xml.append:370
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"FR_BLUELIST_GOLDEN_SHIELD_INCOMEPLETE\"]/event/text"
-msgstr "あなたの盾は貪欲です、私たちはそれがより強くなるようにそれを養いませんか？"
+msgstr "あなたのシールドは貪欲です。もっと強くなるように餌を与えますか？"
 
 #: src-en/data/events_special_storage.xml.append:372
 msgid ""
@@ -398,32 +398,32 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:380
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"FR_GOLDEN_SHIELD_11\"]/text"
-msgstr "あなたのシールドは最大レベルにあります。"
+msgstr "あなたのシールドは最大レベルです。"
 
 #: src-en/data/events_special_storage.xml.append:384
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"FR_BLUELIST_GOLDEN_SHIELD\"]/text"
-msgstr "合金シールドをアップグレードできません。"
+msgstr "アロイ・シールドはアップグレードできません。"
 
 #: src-en/data/events_special_storage.xml.append:388
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"pilot\"]/text"
-msgstr "気にしないで、何か他のことをしてください。"
+msgstr "気にしないで、他のことをする。"
 
 #: src-en/data/events_special_storage.xml.append:394
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/text"
-msgstr "多くの検討の後、あなたはあなたのシールドを養う準備ができています"
+msgstr "熟考の末、あなたはシールドに餌を与える準備ができました"
 
 #: src-en/data/events_special_storage.xml.append:396
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[1]/text"
-msgstr "基本的なゴールデンレーザーを作ります。"
+msgstr "基本的なゴールデンレーザーを作成する。"
 
 #: src-en/data/events_special_storage.xml.append:402
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[1]/event/text"
-msgstr "あなたの武器は最終的に何時間も待ってから形成され、盾から追い出され、船の外でそれを回収することを余儀なくされました。"
+msgstr "何時間も待った後、ついに武器が形成され、シールドから射出されます。船外に出てそれを回収しなければなりません。"
 
 #: src-en/data/events_special_storage.xml.append:404
 msgid ""
@@ -433,12 +433,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:410
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[2]/text"
-msgstr "基本的な黄金のビームを作ります。"
+msgstr "基本的なゴールデンビームを作成する。"
 
 #: src-en/data/events_special_storage.xml.append:416
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[2]/event/text"
-msgstr "あなたの武器は最終的に何時間も待ってから形成され、盾から追い出され、船の外でそれを回収することを余儀なくされました。"
+msgstr "何時間も待った後、ついに武器が形成され、シールドから射出されます。船外に出てそれを回収しなければなりません。"
 
 #: src-en/data/events_special_storage.xml.append:418
 msgid ""
@@ -448,12 +448,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[3]/text"
-msgstr "基本的な黄金イオンを作ります。"
+msgstr "基本的なゴールデンイオンを作成する。"
 
 #: src-en/data/events_special_storage.xml.append:430
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[3]/event/text"
-msgstr "あなたの武器は最終的に何時間も待ってから形成され、盾から追い出され、船の外でそれを回収することを余儀なくされました。"
+msgstr "何時間も待った後、ついに武器が形成され、シールドから射出されます。船外に出てそれを回収しなければなりません。"
 
 #: src-en/data/events_special_storage.xml.append:432
 msgid ""
@@ -463,12 +463,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:438
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[4]/text"
-msgstr "基本的な黄金の爆弾ランチャーを作ります。"
+msgstr "基本的なゴールデンボムランチャーを作成する。"
 
 #: src-en/data/events_special_storage.xml.append:444
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[4]/event/text"
-msgstr "あなたの武器は最終的に何時間も待ってから形成され、盾から追い出され、船の外でそれを回収することを余儀なくされました。"
+msgstr "何時間も待った後、ついに武器が形成され、シールドから射出されます。船外に出てそれを回収しなければなりません。"
 
 #: src-en/data/events_special_storage.xml.append:446
 msgid ""
@@ -478,17 +478,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:452
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[@req=\"pilot\"]/text"
-msgstr "気にしないで、何か他のことをしてください。"
+msgstr "気にしないで、他のことをする。"
 
 #: src-en/data/events_special_storage.xml.append:460
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/text"
-msgstr "何をしたいですか？"
+msgstr "何をしますか？"
 
 #: src-en/data/events_special_storage.xml.append:462
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_BEAM_1\"]/text"
-msgstr "disintegrator mk i-> Disintegrator Mk IIをアップグレードします"
+msgstr "ディスインテグレーター Mk I -> ディスインテグレーター Mk IIにアップグレード"
 
 #: src-en/data/events_special_storage.xml.append:468
 msgid ""
@@ -503,7 +503,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:477
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_BEAM_2\"]/text"
-msgstr "アップグレードDisintegrator MK II-> Disintegrator MK III"
+msgstr "ディスインテグレーター Mk II -> ディスインテグレーター Mk IIIにアップグレード"
 
 #: src-en/data/events_special_storage.xml.append:483
 msgid ""
@@ -518,7 +518,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:492
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_ION_1\"]/text"
-msgstr "アップグレードゴールデンプラズマMK I->ゴールデンプラズマMK II"
+msgstr "ゴールデン・プラズマ Mk I -> ゴールデン・プラズマ Mk IIにアップグレード"
 
 #: src-en/data/events_special_storage.xml.append:498
 msgid ""
@@ -533,7 +533,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:507
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_ION_2\"]/text"
-msgstr "アップグレードゴールデンプラズマMK II->ゴールデンプラズマMK III"
+msgstr "ゴールデン・プラズマ Mk II -> ゴールデン・プラズマ Mk IIIにアップグレード"
 
 #: src-en/data/events_special_storage.xml.append:513
 msgid ""
@@ -548,7 +548,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:522
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_LASER_1\"]/text"
-msgstr "アップグレードゴールデンバーストレーザーMK I->ゴールデンバーストレーザーMK II"
+msgstr "ゴールデン・バーストレーザー Mk I -> ゴールデン・バーストレーザー Mk IIにアップグレード"
 
 #: src-en/data/events_special_storage.xml.append:528
 msgid ""
@@ -563,7 +563,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:537
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_LASER_2\"]/text"
-msgstr "アップグレードゴールデンバーストレーザーMK II->ゴールデンバーストレーザーMK III"
+msgstr "ゴールデン・バーストレーザー Mk II -> ゴールデン・バーストレーザー Mk IIIにアップグレード"
 
 #: src-en/data/events_special_storage.xml.append:543
 msgid ""
@@ -578,7 +578,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:552
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_BOMB_1\"]/text"
-msgstr "アップグレードゴールデンボムランチャーMK I->ゴールデン爆弾ランチャーMK II"
+msgstr "ゴールデン・ボムランチャー Mk I -> ゴールデン・ボムランチャー Mk IIにアップグレード"
 
 #: src-en/data/events_special_storage.xml.append:558
 msgid ""
@@ -593,7 +593,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:567
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_BOMB_2\"]/text"
-msgstr "アップグレードゴールデンボムランチャーMK II->ゴールデン爆弾ランチャーMK III"
+msgstr "ゴールデン・ボムランチャー Mk II -> ゴールデン・ボムランチャー Mk IIIにアップグレード"
 
 #: src-en/data/events_special_storage.xml.append:573
 msgid ""
@@ -608,27 +608,27 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:582
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"pilot\"]/text"
-msgstr "気にしないで、何か他のことをしてください。"
+msgstr "気にしないで、他のことをする。"
 
 #: src-en/data/events_special_storage.xml.append:590
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/text"
-msgstr "何をしたいですか？"
+msgstr "何をしますか？"
 
 #: src-en/data/events_special_storage.xml.append:592
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_1\"]/text"
-msgstr "アップグレードレベル1->レベル2 [コスト100〜、+1エネルギーシールドHP]"
+msgstr "レベル1 -> レベル2にアップグレード [コスト 100~, +1 エネルギーシールドHP]"
 
 #: src-en/data/events_special_storage.xml.append:594
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_1\"]/event/text"
-msgstr "アップグレードを開始します..."
+msgstr "アップグレードを開始します…"
 
 #: src-en/data/events_special_storage.xml.append:600
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_1\"]/event/choice/text"
-msgstr "続く...."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:602
 msgid ""
@@ -643,17 +643,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:613
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_2\"]/text"
-msgstr "アップグレードレベル2->レベル3 [コスト100〜、+1エネルギーシールドHP]"
+msgstr "レベル2 -> レベル3にアップグレード [コスト 100~, +1 エネルギーシールドHP]"
 
 #: src-en/data/events_special_storage.xml.append:615
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_2\"]/event/text"
-msgstr "アップグレードを開始します..."
+msgstr "アップグレードを開始します…"
 
 #: src-en/data/events_special_storage.xml.append:621
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_2\"]/event/choice/text"
-msgstr "続く...."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:623
 msgid ""
@@ -668,17 +668,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:634
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_3\"]/text"
-msgstr "アップグレードレベル3->レベル4 [コスト100〜、+1エネルギーシールドHP]"
+msgstr "レベル3 -> レベル4にアップグレード [コスト 100~, +1 エネルギーシールドHP]"
 
 #: src-en/data/events_special_storage.xml.append:636
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_3\"]/event/text"
-msgstr "アップグレードを開始します..."
+msgstr "アップグレードを開始します…"
 
 #: src-en/data/events_special_storage.xml.append:642
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_3\"]/event/choice/text"
-msgstr "続く...."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:644
 msgid ""
@@ -693,17 +693,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:655
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_4\"]/text"
-msgstr "アップグレードレベル4->レベル5 [コスト100〜、+1エネルギーシールドHP]"
+msgstr "レベル4 -> レベル5にアップグレード [コスト 100~, +1 エネルギーシールドHP]"
 
 #: src-en/data/events_special_storage.xml.append:657
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_4\"]/event/text"
-msgstr "アップグレードを開始します..."
+msgstr "アップグレードを開始します…"
 
 #: src-en/data/events_special_storage.xml.append:663
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_4\"]/event/choice/text"
-msgstr "続く...."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:665
 msgid ""
@@ -718,17 +718,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:676
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_5\"]/text"
-msgstr "アップグレードレベル5->レベル6 [コスト100〜、+1エネルギーシールドHP]"
+msgstr "レベル5 -> レベル6にアップグレード [コスト 100~, +1 エネルギーシールドHP]"
 
 #: src-en/data/events_special_storage.xml.append:678
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_5\"]/event/text"
-msgstr "アップグレードを開始します..."
+msgstr "アップグレードを開始します…"
 
 #: src-en/data/events_special_storage.xml.append:684
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_5\"]/event/choice/text"
-msgstr "続く...."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:686
 msgid ""
@@ -743,17 +743,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:697
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_6\"]/text"
-msgstr "アップグレードレベル6->レベル7 [コスト100〜、+1エネルギーシールドHP]"
+msgstr "レベル6 -> レベル7にアップグレード [コスト 100~, +1 エネルギーシールドHP]"
 
 #: src-en/data/events_special_storage.xml.append:699
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_6\"]/event/text"
-msgstr "アップグレードを開始します..."
+msgstr "アップグレードを開始します…"
 
 #: src-en/data/events_special_storage.xml.append:705
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_6\"]/event/choice/text"
-msgstr "続く...."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:707
 msgid ""
@@ -768,17 +768,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:718
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_7\"]/text"
-msgstr "アップグレードレベル7->レベル8 [コスト100〜、+1エネルギーシールドHP]"
+msgstr "レベル7 -> レベル8にアップグレード [コスト 100~, +1 エネルギーシールドHP]"
 
 #: src-en/data/events_special_storage.xml.append:720
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_7\"]/event/text"
-msgstr "アップグレードを開始します..."
+msgstr "アップグレードを開始します…"
 
 #: src-en/data/events_special_storage.xml.append:726
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_7\"]/event/choice/text"
-msgstr "続く...."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:728
 msgid ""
@@ -793,17 +793,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:739
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_8\"]/text"
-msgstr "アップグレードレベル8->レベル9 [コスト100〜、+1エネルギーシールドHP]"
+msgstr "レベル8 -> レベル9にアップグレード [コスト 100~, +1 エネルギーシールドHP]"
 
 #: src-en/data/events_special_storage.xml.append:741
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_8\"]/event/text"
-msgstr "アップグレードを開始します..."
+msgstr "アップグレードを開始します…"
 
 #: src-en/data/events_special_storage.xml.append:747
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_8\"]/event/choice/text"
-msgstr "続く...."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:749
 msgid ""
@@ -818,17 +818,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:760
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_9\"]/text"
-msgstr "アップグレードレベル9->レベル10 [コスト100〜、+1エネルギーシールドHP]"
+msgstr "レベル9 -> レベル10にアップグレード [コスト 100~, +1 エネルギーシールドHP]"
 
 #: src-en/data/events_special_storage.xml.append:762
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_9\"]/event/text"
-msgstr "アップグレードを開始します..."
+msgstr "アップグレードを開始します…"
 
 #: src-en/data/events_special_storage.xml.append:768
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_9\"]/event/choice/text"
-msgstr "続く...."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:770
 msgid ""
@@ -843,17 +843,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:781
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_10\"]/text"
-msgstr "アップグレードレベル10->レベル11 [コスト100〜、+1エネルギーシールドHP]"
+msgstr "レベル10 -> レベル11にアップグレード [コスト 100~, +1 エネルギーシールドHP]"
 
 #: src-en/data/events_special_storage.xml.append:783
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_10\"]/event/text"
-msgstr "アップグレードを開始します..."
+msgstr "アップグレードを開始します…"
 
 #: src-en/data/events_special_storage.xml.append:789
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_10\"]/event/choice/text"
-msgstr "続く...."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:791
 msgid ""
@@ -868,22 +868,22 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:802
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"pilot\"]/text"
-msgstr "気にしないで、何か他のことをしてください。"
+msgstr "気にしないで、他のことをする。"
 
 #: src-en/data/events_special_storage.xml.append:812
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/text"
-msgstr "何をしたいですか？"
+msgstr "何をしますか？"
 
 #: src-en/data/events_special_storage.xml.append:814
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[1]/text"
-msgstr "5つのミサイルを15のスクラップに分解します。"
+msgstr "ミサイル5個をスクラップ15個に分解する。"
 
 #: src-en/data/events_special_storage.xml.append:821
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[1]/event/text"
-msgstr "ミサイルをスクラップに変換します。"
+msgstr "ミサイルをスクラップに変換する。"
 
 #: src-en/data/events_special_storage.xml.append:823
 msgid ""
@@ -893,12 +893,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:829
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[2]/text"
-msgstr "10個のミサイルを40個のスクラップに分解します。"
+msgstr "ミサイル10個をスクラップ40個に分解する。"
 
 #: src-en/data/events_special_storage.xml.append:836
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[2]/event/text"
-msgstr "ミサイルをスクラップに変換します。"
+msgstr "ミサイルをスクラップに変換する。"
 
 #: src-en/data/events_special_storage.xml.append:838
 msgid ""
@@ -908,12 +908,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:844
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[3]/text"
-msgstr "15のミサイルを60のスクラップに分解します。"
+msgstr "ミサイル15個をスクラップ60個に分解する。"
 
 #: src-en/data/events_special_storage.xml.append:851
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[3]/event/text"
-msgstr "ミサイルをスクラップに変換します。"
+msgstr "ミサイルをスクラップに変換する。"
 
 #: src-en/data/events_special_storage.xml.append:853
 msgid ""
@@ -923,12 +923,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:859
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[4]/text"
-msgstr "5つのDronePartsを20のスクラップに分解します。"
+msgstr "ドローンパーツ5個をスクラップ20個に分解する。"
 
 #: src-en/data/events_special_storage.xml.append:866
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[4]/event/text"
-msgstr "ドローンパーツをスクラップに変換します。"
+msgstr "ドローンパーツをスクラップに変換する。"
 
 #: src-en/data/events_special_storage.xml.append:868
 msgid ""
@@ -938,12 +938,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:874
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[5]/text"
-msgstr "10個のDronePartsを50スクラップに分解します。"
+msgstr "ドローンパーツ10個をスクラップ50個に分解する。"
 
 #: src-en/data/events_special_storage.xml.append:881
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[5]/event/text"
-msgstr "ドローンパーツをスクラップに変換します。"
+msgstr "ドローンパーツをスクラップに変換する。"
 
 #: src-en/data/events_special_storage.xml.append:883
 msgid ""
@@ -953,12 +953,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:889
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[6]/text"
-msgstr "15のDronePartsを80のスクラップに分解します。"
+msgstr "ドローンパーツ15個をスクラップ80個に分解する。"
 
 #: src-en/data/events_special_storage.xml.append:896
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[6]/event/text"
-msgstr "ドローンパーツをスクラップに変換します。"
+msgstr "ドローンパーツをスクラップに変換する。"
 
 #: src-en/data/events_special_storage.xml.append:898
 msgid ""
@@ -968,12 +968,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:904
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[7]/text"
-msgstr "5つの燃料を10スクラップに分解します。"
+msgstr "燃料5個をスクラップ10個に分解する。"
 
 #: src-en/data/events_special_storage.xml.append:911
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[7]/event/text"
-msgstr "燃料をスクラップに変換します。"
+msgstr "燃料をスクラップに変換する。"
 
 #: src-en/data/events_special_storage.xml.append:913
 msgid ""
@@ -983,12 +983,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:919
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[8]/text"
-msgstr "10個の燃料を25個のスクラップに分解します。"
+msgstr "燃料10個をスクラップ25個に分解する。"
 
 #: src-en/data/events_special_storage.xml.append:926
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[8]/event/text"
-msgstr "燃料をスクラップに変換します。"
+msgstr "燃料をスクラップに変換する。"
 
 #: src-en/data/events_special_storage.xml.append:928
 msgid ""
@@ -998,12 +998,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:934
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[9]/text"
-msgstr "15の燃料を40のスクラップに分解します。"
+msgstr "燃料15個をスクラップ40個に分解する。"
 
 #: src-en/data/events_special_storage.xml.append:941
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[9]/event/text"
-msgstr "燃料をスクラップに変換します。"
+msgstr "燃料をスクラップに変換する。"
 
 #: src-en/data/events_special_storage.xml.append:943
 msgid ""
@@ -1013,7 +1013,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:949
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[@req=\"pilot\"]/text"
-msgstr "気にしないで、何か他のことをしてください。"
+msgstr "気にしないで、他のことをする。"
 
 #: src-en/data/events_special_storage.xml.append:959
 msgid ""
@@ -1023,7 +1023,7 @@ msgstr "どのドローンをアップグレードしますか？"
 #: src-en/data/events_special_storage.xml.append:961
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_LASER\"]/text"
-msgstr "アップグレードターミネータードローンMK。I->ターミネータードローンMK。ii"
+msgstr "ターミネータードローン Mk. I -> ターミネータードローン Mk. IIにアップグレード"
 
 #: src-en/data/events_special_storage.xml.append:967
 msgid ""
@@ -1038,7 +1038,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:976
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_LASER_2\"]/text"
-msgstr "アップグレードターミネータードローンMK。II->ターミネータードローンMK。iii"
+msgstr "ターミネータードローン Mk. II -> ターミネータードローン Mk. IIIにアップグレード"
 
 #: src-en/data/events_special_storage.xml.append:982
 msgid ""
@@ -1053,7 +1053,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:991
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_LASER_3\"]/text"
-msgstr "アップグレードターミネータードローンMK。III->ターミネータードローンMK。IV"
+msgstr "ターミネータードローン Mk. III -> ターミネータードローン Mk. IVにアップグレード"
 
 #: src-en/data/events_special_storage.xml.append:997
 msgid ""
@@ -1068,7 +1068,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1006
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_BEAM\"]/text"
-msgstr "アップグレードアトマイザードローンMK。i->アトマイザードローンMK。ii"
+msgstr "アトマイザードローン Mk. I -> アトマイザードローン Mk. IIにアップグレード"
 
 #: src-en/data/events_special_storage.xml.append:1012
 msgid ""
@@ -1083,7 +1083,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1021
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_BEAM_2\"]/text"
-msgstr "アップグレードアトマイザードローンMK。II->アトマイザードローンMK。iii"
+msgstr "アトマイザードローン Mk. II -> アトマイザードローン Mk. IIIにアップグレード"
 
 #: src-en/data/events_special_storage.xml.append:1027
 msgid ""
@@ -1098,7 +1098,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1036
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_BEAM_3\"]/text"
-msgstr "アップグレードアトマイザードローンMK。III->アトマイザードローンMK。IV"
+msgstr "アトマイザードローン Mk. III -> アトマイザードローン Mk. IVにアップグレード"
 
 #: src-en/data/events_special_storage.xml.append:1042
 msgid ""
@@ -1113,7 +1113,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1051
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_MISSILE\"]/text"
-msgstr "アップグレードオブラタードローンMK。i->オブラタードローンmk。ii"
+msgstr "オブリタレータードローン Mk. I -> オブリタレータードローン Mk. IIにアップグレード"
 
 #: src-en/data/events_special_storage.xml.append:1057
 msgid ""
@@ -1128,7 +1128,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1066
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_ION\"]/text"
-msgstr "アップグレード無効ドローンMK。i->無効ドローンmk。ii"
+msgstr "ディスエイブラードローン Mk. I -> ディスエイブラードローン Mk. IIにアップグレード"
 
 #: src-en/data/events_special_storage.xml.append:1072
 msgid ""
@@ -1143,7 +1143,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1081
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_ION_2\"]/text"
-msgstr "アップグレード無効ドローンMK。II->無効ドローンMK。iii"
+msgstr "ディスエイブラードローン Mk. II -> ディスエイブラードローン Mk. IIIにアップグレード"
 
 #: src-en/data/events_special_storage.xml.append:1087
 msgid ""
@@ -1158,7 +1158,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1096
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_ION_3\"]/text"
-msgstr "アップグレード無効ドローンMK。III->無効ドローンMK。IV"
+msgstr "ディスエイブラードローン Mk. III -> ディスエイブラードローン Mk. IVにアップグレード"
 
 #: src-en/data/events_special_storage.xml.append:1102
 msgid ""
@@ -1173,7 +1173,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1111
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_BOARDING_DRONE\"]/text"
-msgstr "銅搭乗ドローンMKをアップグレードします。I->銅搭乗ドローンMK。ii"
+msgstr "カッパー・ボーディングドローン Mk. I -> カッパー・ボーディングドローン Mk. IIにアップグレード"
 
 #: src-en/data/events_special_storage.xml.append:1117
 msgid ""
@@ -1188,22 +1188,22 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1126
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"pilot\"]/text"
-msgstr "気にしないで、何か他のことをしてください。"
+msgstr "気にしないで、他のことをする。"
 
 #: src-en/data/events_special_storage.xml.append:1132
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/text"
-msgstr "青写真はあなたの前にありますが、次にどのプロトタイプを作成しますか？"
+msgstr "設計図は目の前にあります。次にどのプロトタイプを作成しますか？"
 
 #: src-en/data/events_special_storage.xml.append:1134
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[1]/text"
-msgstr "プロトタイプレーザードローンを作成します"
+msgstr "プロトタイプレーザードローンを作成する"
 
 #: src-en/data/events_special_storage.xml.append:1140
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[1]/event/text"
-msgstr "あなたの新しいドローンが（比phor的に）生き返り、すべてのさらなるテストがうまくいきます、成功！"
+msgstr "あなたの新しいドローンが（比喩的に）生命を得て、その後のテストはすべて順調に進みます。成功です！"
 
 #: src-en/data/events_special_storage.xml.append:1142
 msgid ""
@@ -1213,12 +1213,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1148
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[2]/text"
-msgstr "プロトタイプビームドローンを作成します"
+msgstr "プロトタイプビームドローンを作成する"
 
 #: src-en/data/events_special_storage.xml.append:1154
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[2]/event/text"
-msgstr "あなたの新しいドローンが（比phor的に）生き返り、すべてのさらなるテストがうまくいきます、成功！"
+msgstr "あなたの新しいドローンが（比喩的に）生命を得て、その後のテストはすべて順調に進みます。成功です！"
 
 #: src-en/data/events_special_storage.xml.append:1156
 msgid ""
@@ -1228,12 +1228,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1162
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[3]/text"
-msgstr "プロトタイプイオンドローンを作成します"
+msgstr "プロトタイプイオンドローンを作成する"
 
 #: src-en/data/events_special_storage.xml.append:1168
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[3]/event/text"
-msgstr "あなたの新しいドローンが（比phor的に）生き返り、すべてのさらなるテストがうまくいきます、成功！"
+msgstr "あなたの新しいドローンが（比喩的に）生命を得て、その後のテストはすべて順調に進みます。成功です！"
 
 #: src-en/data/events_special_storage.xml.append:1170
 msgid ""
@@ -1243,12 +1243,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1176
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[4]/text"
-msgstr "プロトタイプミサイルドローンを作成します"
+msgstr "プロトタイプミサイルドローンを作成する"
 
 #: src-en/data/events_special_storage.xml.append:1182
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[4]/event/text"
-msgstr "あなたの新しいドローンが（比phor的に）生き返り、すべてのさらなるテストがうまくいきます、成功！"
+msgstr "あなたの新しいドローンが（比喩的に）生命を得て、その後のテストはすべて順調に進みます。成功です！"
 
 #: src-en/data/events_special_storage.xml.append:1184
 msgid ""
@@ -1258,12 +1258,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[5]/text"
-msgstr "プロトタイプ防御ドローンを作成します"
+msgstr "プロトタイプ防衛ドローンを作成する"
 
 #: src-en/data/events_special_storage.xml.append:1196
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[5]/event/text"
-msgstr "あなたの新しいドローンが（比phor的に）生き返り、すべてのさらなるテストがうまくいきます、成功！"
+msgstr "あなたの新しいドローンが（比喩的に）生命を得て、その後のテストはすべて順調に進みます。成功です！"
 
 #: src-en/data/events_special_storage.xml.append:1198
 msgid ""
@@ -1273,12 +1273,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1204
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[6]/text"
-msgstr "ドローン防御ドローンを作ります"
+msgstr "ドローン防衛ドローンを作成する"
 
 #: src-en/data/events_special_storage.xml.append:1210
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[6]/event/text"
-msgstr "あなたの新しいドローンが（比phor的に）生き返り、すべてのさらなるテストがうまくいきます、成功！"
+msgstr "あなたの新しいドローンが（比喩的に）生命を得て、その後のテストはすべて順調に進みます。成功です！"
 
 #: src-en/data/events_special_storage.xml.append:1212
 msgid ""
@@ -1288,12 +1288,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1218
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[7]/text"
-msgstr "搭乗ドローンドローンを作成します"
+msgstr "ボーディングドローンドローンを作成する"
 
 #: src-en/data/events_special_storage.xml.append:1224
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[7]/event/text"
-msgstr "あなたの新しいドローンが（比phor的に）生き返り、すべてのさらなるテストがうまくいきます、成功！"
+msgstr "あなたの新しいドローンが（比喩的に）生命を得て、その後のテストはすべて順調に進みます。成功です！"
 
 #: src-en/data/events_special_storage.xml.append:1226
 msgid ""
@@ -1303,22 +1303,22 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1232
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[@req=\"pilot\"]/text"
-msgstr "気にしないで、何か他のことをしてください。"
+msgstr "気にしないで、他のことをする。"
 
 #: src-en/data/events_special_storage.xml.append:1238
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/text"
-msgstr "何をしたいですか？"
+msgstr "何をしますか？"
 
 #: src-en/data/events_special_storage.xml.append:1240
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[1]/text"
-msgstr "4つのミサイルを2つのドローンパーツに分解します。"
+msgstr "ミサイル4個をドローンパーツ2個に分解する。"
 
 #: src-en/data/events_special_storage.xml.append:1246
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[1]/event/text"
-msgstr "ミサイルをドローンパーツに変換します。"
+msgstr "ミサイルをドローンパーツに変換する。"
 
 #: src-en/data/events_special_storage.xml.append:1248
 msgid ""
@@ -1328,12 +1328,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1254
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[2]/text"
-msgstr "8つのミサイルを5つのドローンパーツに分解します。"
+msgstr "ミサイル8個をドローンパーツ5個に分解する。"
 
 #: src-en/data/events_special_storage.xml.append:1260
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[2]/event/text"
-msgstr "ミサイルをドローンパーツに変換します。"
+msgstr "ミサイルをドローンパーツに変換する。"
 
 #: src-en/data/events_special_storage.xml.append:1262
 msgid ""
@@ -1343,12 +1343,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1268
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[3]/text"
-msgstr "12個のミサイルを10個のドローンパーツに分解します。"
+msgstr "ミサイル12個をドローンパーツ10個に分解する。"
 
 #: src-en/data/events_special_storage.xml.append:1274
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[3]/event/text"
-msgstr "ミサイルをドローンパーツに変換します。"
+msgstr "ミサイルをドローンパーツに変換する。"
 
 #: src-en/data/events_special_storage.xml.append:1276
 msgid ""
@@ -1358,12 +1358,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1282
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[4]/text"
-msgstr "6つの燃料を2つのドローンパーツに分解します。"
+msgstr "燃料6個をドローンパーツ2個に分解する。"
 
 #: src-en/data/events_special_storage.xml.append:1288
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[4]/event/text"
-msgstr "燃料をドローンパーツに変換します。"
+msgstr "燃料をドローンパーツに変換する。"
 
 #: src-en/data/events_special_storage.xml.append:1290
 msgid ""
@@ -1373,12 +1373,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1296
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[5]/text"
-msgstr "12個の燃料を5つのドローンパーツに分解します。"
+msgstr "燃料12個をドローンパーツ5個に分解する。"
 
 #: src-en/data/events_special_storage.xml.append:1302
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[5]/event/text"
-msgstr "燃料をドローンパーツに変換します。"
+msgstr "燃料をドローンパーツに変換する。"
 
 #: src-en/data/events_special_storage.xml.append:1304
 msgid ""
@@ -1388,12 +1388,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1310
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[6]/text"
-msgstr "18個の燃料を8個のドローンパーツに分解します。"
+msgstr "燃料18個をドローンパーツ8個に分解する。"
 
 #: src-en/data/events_special_storage.xml.append:1316
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[6]/event/text"
-msgstr "燃料をドローンパーツに変換します。"
+msgstr "燃料をドローンパーツに変換する。"
 
 #: src-en/data/events_special_storage.xml.append:1318
 msgid ""
@@ -1403,12 +1403,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1324
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[7]/text"
-msgstr "10個のスクラップを使用して、ドローンパーツを1つ作成します。"
+msgstr "スクラップ10個でドローンパーツ1個を作る。"
 
 #: src-en/data/events_special_storage.xml.append:1330
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[7]/event/text"
-msgstr "スクラップをドローンパーツに変換します。"
+msgstr "スクラップをドローンパーツに変換する。"
 
 #: src-en/data/events_special_storage.xml.append:1332
 msgid ""
@@ -1418,12 +1418,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1338
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[8]/text"
-msgstr "50のスクラップを使用して、6つのドローンパーツを作成します。"
+msgstr "スクラップ50個でドローンパーツ6個を作る。"
 
 #: src-en/data/events_special_storage.xml.append:1344
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[8]/event/text"
-msgstr "スクラップをドローンパーツに変換します。"
+msgstr "スクラップをドローンパーツに変換する。"
 
 #: src-en/data/events_special_storage.xml.append:1346
 msgid ""
@@ -1433,12 +1433,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1352
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[9]/text"
-msgstr "100個のスクラップを使用して、12個のドローンパーツを作成します。"
+msgstr "スクラップ100個でドローンパーツ12個を作る。"
 
 #: src-en/data/events_special_storage.xml.append:1358
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[9]/event/text"
-msgstr "スクラップをドローンパーツに変換します。"
+msgstr "スクラップをドローンパーツに変換する。"
 
 #: src-en/data/events_special_storage.xml.append:1360
 msgid ""
@@ -1448,7 +1448,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1366
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[@req=\"pilot\"]/text"
-msgstr "気にしないで、何か他のことをしてください。"
+msgstr "気にしないで、他のことをする。"
 
 #: src-en/data/events_special_storage.xml.append:1381
 msgid ""
@@ -1465,87 +1465,87 @@ msgstr "オペレーター。"
 #: src-en/data/events_special_storage.xml.append:1391
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/text"
-msgstr "[ダイヤモンド]のラボメニューを表示しています"
+msgstr "研究室メニューを表示しています： [ダイヤモンド]"
 
 #: src-en/data/events_special_storage.xml.append:1393
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[@req=\"FR_LAB_DIAMOND_FISTITUTE\"]/text"
 msgstr ""
-"現在インストール：Fistitude。\n"
-"[ダイヤモンドは、修理と妨害速度の90％を失うことと引き換えに2倍の戦闘ダメージを与えます。]"
+"現在インストール済み：拳術。\n"
+"\t\t[ダイヤモンドは修理と妨害工作の速度を90%失う代わりに、戦闘ダメージが2倍になる。]"
 
 #: src-en/data/events_special_storage.xml.append:1398
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[@req=\"FR_LAB_DIAMOND_SYSTEMIC\"]/text"
 msgstr ""
-"現在インストールされています：体系的。\n"
-"[ダイヤモンドは、自分の船のシステムルームにいる間、50％の移動速度と戦闘ダメージを獲得します。しかし、彼らは敵の船にいる間に損傷と移動速度の50％を失います。]"
+"現在インストール済み：システマティック。\n"
+"\t\t[ダイヤモンドは自船のシステムルームにいる間、移動速度と戦闘ダメージが50%増加する。しかし、敵船内にいる間はダメージと移動速度が50%減少する。]"
 
 #: src-en/data/events_special_storage.xml.append:1403
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[@req=\"FR_LAB_DIAMOND_NOXIOUS\"]/text"
 msgstr ""
-"現在インストール：有害。\n"
-"[ダイヤモンドは乗組員と戦う能力を失いますが、彼らと同じ船のすべての敵の非ダイヤモンドに3 hp/sを扱う有害なオーラを獲得します。]"
+"現在インストール済み：有害。\n"
+"\t\t[ダイヤモンドはクルーと戦う能力を失うが、同じ船にいるすべての敵の非ダイヤモンドに毎秒3HPのダメージを与えるダメージオーラを得る。]"
 
 #: src-en/data/events_special_storage.xml.append:1408
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[4]/text"
-msgstr "現在インストールされています：なし"
+msgstr "現在インストール済み：なし"
 
 #: src-en/data/events_special_storage.xml.append:1412
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[5]/text"
-msgstr "PRI：fistitude。[アップグレードはすでにインストールされています]"
+msgstr "プライマリ：拳術。[アップグレードはすでにインストール済み]"
 
 #: src-en/data/events_special_storage.xml.append:1416
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[6]/text"
-msgstr "PRI：fistitude。[コスト：100〜]"
+msgstr "プライマリ：拳術。[コスト: 100~]"
 
 #: src-en/data/events_special_storage.xml.append:1420
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[7]/text"
-msgstr "PRI：体系的。[アップグレードはすでにインストールされています]"
+msgstr "プライマリ：システマティック。[アップグレードはすでにインストール済み]"
 
 #: src-en/data/events_special_storage.xml.append:1424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[8]/text"
-msgstr "PRI：体系的。[コスト：50〜、6 |]"
+msgstr "プライマリ：システマティック。[コスト: 50~, 6|]"
 
 #: src-en/data/events_special_storage.xml.append:1428
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[9]/text"
-msgstr "PRI：有害。[アップグレードはすでにインストールされています]"
+msgstr "プライマリ：有害。[アップグレードはすでにインストール済み]"
 
 #: src-en/data/events_special_storage.xml.append:1432
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[10]/text"
-msgstr "PRI：有害。[コスト：150〜]"
+msgstr "プライマリ：有害。[コスト: 150~]"
 
 #: src-en/data/events_special_storage.xml.append:1436
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[11]/text"
-msgstr "戻って行きます。"
+msgstr "戻る。"
 
 #: src-en/data/events_special_storage.xml.append:1442
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_FISTITUDE\"]/text"
 msgstr ""
-"Fistitudeの変更をインストールしようとしています。\n"
-"[効果：ダイヤモンドは、修理と妨害速度の90％を失うことと引き換えに2倍の戦闘損傷を受けます。]\n"
-"\n"
-"[警告：これをインストールした後、ダイヤモンドクルーのプライマリアップグレードをインストールすることはできません。このmodも無効にすることはできません。]"
+"拳術の改造をインストールしようとしています。\n"
+"\t[効果：ダイヤモンドは修理と妨害工作の速度を90%失う代わりに、戦闘ダメージが2倍になる。]\n"
+"\t\n"
+"\t[警告：これをインストールすると、ダイヤモンドクルー用のプライマリアップグレードをこれ以上インストールできなくなります。また、この改造を無効化することもできません。]"
 
 #: src-en/data/events_special_storage.xml.append:1447
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_FISTITUDE\"]/choice[1]/text"
-msgstr "変更をインストールします。[コスト：100〜]"
+msgstr "改造をインストールする。[コスト: 100~]"
 
 #: src-en/data/events_special_storage.xml.append:1449
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_FISTITUDE\"]/choice[1]/event/text"
-msgstr "変更をインストールします。"
+msgstr "改造をインストールします。"
 
 #: src-en/data/events_special_storage.xml.append:1454
 msgid ""
@@ -1555,26 +1555,26 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1460
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_FISTITUDE\"]/choice[@req=\"pilot\"]/text"
-msgstr "どうでも。"
+msgstr "やめておく。"
 
 #: src-en/data/events_special_storage.xml.append:1469
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_SYSTEMIC\"]/text"
 msgstr ""
-"体系的な変更をインストールしようとしています。\n"
-"[効果：ダイヤモンドは、自分の船のシステムルームにいる間に、50％の移動速度と戦闘ダメージを獲得します。しかし、彼らは敵の船にいる間に損傷と移動速度の50％を失います。]\n"
-"\n"
-"[警告：これをインストールした後、ダイヤモンドクルーのプライマリアップグレードをインストールすることはできません。このmodも無効にすることはできません。]"
+"システマティックの改造をインストールしようとしています。\n"
+"\t[効果：ダイヤモンドは自船のシステムルームにいる間、移動速度と戦闘ダメージが50%増加する。しかし、敵船内にいる間はダメージと移動速度が50%減少する。]\n"
+"\t\n"
+"\t[警告：これをインストールすると、ダイヤモンドクルー用のプライマリアップグレードをこれ以上インストールできなくなります。また、この改造を無効化することもできません。]"
 
 #: src-en/data/events_special_storage.xml.append:1474
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_SYSTEMIC\"]/choice[1]/text"
-msgstr "変更をインストールします。[コスト：50〜、6 |]"
+msgstr "改造をインストールする。[コスト: 50~, 6|]"
 
 #: src-en/data/events_special_storage.xml.append:1476
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_SYSTEMIC\"]/choice[1]/event/text"
-msgstr "変更をインストールします。"
+msgstr "改造をインストールします。"
 
 #: src-en/data/events_special_storage.xml.append:1482
 msgid ""
@@ -1584,26 +1584,26 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1488
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_SYSTEMIC\"]/choice[@req=\"pilot\"]/text"
-msgstr "どうでも。"
+msgstr "やめておく。"
 
 #: src-en/data/events_special_storage.xml.append:1497
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_NOXIOUS\"]/text"
 msgstr ""
-"あなたは有害な変更をインストールしようとしています。\n"
-"[効果：ダイヤモンドは乗組員と戦う能力を失いますが、同じ船のすべての敵の非ダイヤモンドに3 hp/sを扱う有害なオーラを獲得します。]\n"
-"\n"
-"[警告：これをインストールした後、ダイヤモンドクルーのプライマリアップグレードをインストールすることはできません。このmodも無効にすることはできません。]"
+"有害の改造をインストールしようとしています。\n"
+"\t[効果：ダイヤモンドはクルーと戦う能力を失うが、同じ船にいるすべての敵の非ダイヤモンドに毎秒3HPのダメージを与えるダメージオーラを得る。]\n"
+"\t\n"
+"\t[警告：これをインストールすると、ダイヤモンドクルー用のプライマリアップグレードをこれ以上インストールできなくなります。また、この改造を無効化することもできません。]"
 
 #: src-en/data/events_special_storage.xml.append:1502
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_NOXIOUS\"]/choice[1]/text"
-msgstr "変更をインストールします。[コスト：150〜]"
+msgstr "改造をインストールする。[コスト: 150~]"
 
 #: src-en/data/events_special_storage.xml.append:1504
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_NOXIOUS\"]/choice[1]/event/text"
-msgstr "変更をインストールします。"
+msgstr "改造をインストールします。"
 
 #: src-en/data/events_special_storage.xml.append:1509
 msgid ""
@@ -1613,92 +1613,92 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1515
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_NOXIOUS\"]/choice[@req=\"pilot\"]/text"
-msgstr "どうでも。"
+msgstr "やめておく。"
 
 #: src-en/data/events_special_storage.xml.append:1524
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/text"
-msgstr "[オペレーター]のラボメニューを表示しています"
+msgstr "研究室メニューを表示しています： [オペレーター]"
 
 #: src-en/data/events_special_storage.xml.append:1526
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[@req=\"FR_LAB_OPERATOR_PACIFISM_PROTOCOLS\"]/text"
 msgstr ""
-"現在インストールされています：Pacifism Protocols。\n"
-"[オペレーターは、戦ったり妨害したりする能力を失いますが、彼らと同じ部屋にいる間、すべての乗組員の戦闘と妨害を防ぎます。]"
+"現在インストール済み：平和主義プロトコル。\n"
+"\t\t[オペレーターは戦闘や妨害工作の能力を失うが、同じ部屋にいる間、すべてのクルー戦闘と妨害工作を防ぐ。]"
 
 #: src-en/data/events_special_storage.xml.append:1531
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[@req=\"FR_LAB_OPERATOR_BIO_PROTOCOLS\"]/text"
 msgstr ""
-"現在インストールされています：アンチバイオプロトコル。\n"
-"[オペレーターは被害の50％を失い、代わりに敵の乗組員と同じ部屋で敵の乗組員を15％減らし、オンボードのテレポーテーションと癒しを無効にし、同じ部屋で殺された乗組員がクローニングされないようにします。]"
+"現在インストール済み：対生物プロトコル。\n"
+"\t\t[オペレーターはダメージを50%失う代わりに、同じ部屋にいる敵クルーに強力なデバフを与え、ダメージを15%低下させ、船内テレポートと回復を無効化し、同じ部屋で死亡したクルーがクローン生成されるのを防ぐ。]"
 
 #: src-en/data/events_special_storage.xml.append:1536
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[@req=\"FR_LAB_OPERATOR_BEACON_PROTOCOLS\"]/text"
 msgstr ""
-"現在インストール：ビーコンプロトコル。\n"
-"[オペレーターは健康の50％を失い、モバイルテレポートビーコンとしてのサービスと引き換えに25％多くのダメージを与え、彼らと同じ部屋のフレンドリーな乗組員が、敵の船に直接テレポートすることさえ、彼らが望む部屋にテレポートすることを許可します。]"
+"現在インストール済み：ビーコン・プロトコル。\n"
+"\t\t[オペレーターは体力を50%失い、受けるダメージが25%増加する代わりに、移動式テレポートビーコンとして機能し、同じ部屋にいる味方クルーが望むどの部屋にも、敵船内に直接テレポートすることさえ可能にする。]"
 
 #: src-en/data/events_special_storage.xml.append:1541
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[4]/text"
-msgstr "現在インストールされています：なし"
+msgstr "現在インストール済み：なし"
 
 #: src-en/data/events_special_storage.xml.append:1545
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[5]/text"
-msgstr "PRI：平和主義プロトコル。[アップグレードはすでにインストールされています]"
+msgstr "プライマリ：平和主義プロトコル。[アップグレードはすでにインストール済み]"
 
 #: src-en/data/events_special_storage.xml.append:1549
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[6]/text"
-msgstr "PRI：平和主義プロトコル。[コスト：25〜]"
+msgstr "プライマリ：平和主義プロトコル。[コスト: 25~]"
 
 #: src-en/data/events_special_storage.xml.append:1553
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[7]/text"
-msgstr "PRI：アンチバイオプロトコル。[アップグレードはすでにインストールされています]"
+msgstr "プライマリ：対生物プロトコル。[アップグレードはすでにインストール済み]"
 
 #: src-en/data/events_special_storage.xml.append:1557
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[8]/text"
-msgstr "PRI：アンチバイオプロトコル。[コスト：30〜、10 |]"
+msgstr "プライマリ：対生物プロトコル。[コスト: 30~, 10|]"
 
 #: src-en/data/events_special_storage.xml.append:1561
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[9]/text"
-msgstr "PRI：ビーコンプロトコル。[アップグレードはすでにインストールされています]"
+msgstr "プライマリ：ビーコン・プロトコル。[アップグレードはすでにインストール済み]"
 
 #: src-en/data/events_special_storage.xml.append:1565
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[10]/text"
-msgstr "PRI：ビーコンプロトコル。[コスト：15 {]"
+msgstr "プライマリ：ビーコン・プロトコル。[コスト: 15{]"
 
 #: src-en/data/events_special_storage.xml.append:1569
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[11]/text"
-msgstr "戻って行きます。"
+msgstr "戻る。"
 
 #: src-en/data/events_special_storage.xml.append:1575
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_PACIFISM_PROTOCOLS\"]/text"
 msgstr ""
 "平和主義プロトコルをインストールしようとしています。\n"
-"[効果：オペレーターは戦ったり妨害したりする能力を失いますが、彼らと同じ部屋にいる間、すべての乗組員の戦闘と妨害を防ぎます。]\n"
-"\n"
-"[警告：これをインストールした後、オペレータークルーのプライマリアップグレードをインストールすることはできません。このmodも無効にすることはできません。]"
+"\t[効果：オペレーターは戦闘や妨害工作の能力を失うが、同じ部屋にいる間、すべてのクルー戦闘と妨害工作を防ぐ。]\n"
+"\t\n"
+"\t[警告：これをインストールすると、オペレータークルー用のプライマリアップグレードをこれ以上インストールできなくなります。また、この改造を無効化することもできません。]"
 
 #: src-en/data/events_special_storage.xml.append:1580
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_PACIFISM_PROTOCOLS\"]/choice[1]/text"
-msgstr "変更をインストールします。[コスト：25〜]"
+msgstr "改造をインストールする。[コスト: 25~]"
 
 #: src-en/data/events_special_storage.xml.append:1582
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_PACIFISM_PROTOCOLS\"]/choice[1]/event/text"
-msgstr "変更をインストールします。"
+msgstr "改造をインストールします。"
 
 #: src-en/data/events_special_storage.xml.append:1587
 msgid ""
@@ -1708,26 +1708,26 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1593
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_PACIFISM_PROTOCOLS\"]/choice[@req=\"pilot\"]/text"
-msgstr "どうでも。"
+msgstr "やめておく。"
 
 #: src-en/data/events_special_storage.xml.append:1602
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BIO_PROTOCOLS\"]/text"
 msgstr ""
-"アンチバイオプロトコルの変更をインストールしようとしています。\n"
-"[効果：オペレーターは被害の50％を失い、代わりに敵の乗組員と同じ部屋で敵の乗組員を15％減らし、船内のテレポーテーションと癒しを無効にし、同じ部屋で殺された乗組員がクローン化されるのを防ぎます。]\n"
-"\n"
-"[警告：これをインストールした後、オペレータークルーのプライマリアップグレードをインストールすることはできません。このmodも無効にすることはできません。]"
+"対生物プロトコルの改造をインストールしようとしています。\n"
+"\t[効果：オペレーターはダメージを50%失う代わりに、同じ部屋にいる敵クルーに強力なデバフを与え、ダメージを15%低下させ、船内テレポートと回復を無効化し、同じ部屋で死亡したクルーがクローン生成されるのを防ぐ。]\n"
+"\t\n"
+"\t[警告：これをインストールすると、オペレータークルー用のプライマリアップグレードをこれ以上インストールできなくなります。また、この改造を無効化することもできません。]"
 
 #: src-en/data/events_special_storage.xml.append:1607
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BIO_PROTOCOLS\"]/choice[1]/text"
-msgstr "変更をインストールします。[コスト：30〜、10 |]"
+msgstr "改造をインストールする。[コスト: 30~, 10|]"
 
 #: src-en/data/events_special_storage.xml.append:1609
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BIO_PROTOCOLS\"]/choice[1]/event/text"
-msgstr "変更をインストールします。"
+msgstr "改造をインストールします。"
 
 #: src-en/data/events_special_storage.xml.append:1615
 msgid ""
@@ -1737,26 +1737,26 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1621
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BIO_PROTOCOLS\"]/choice[@req=\"pilot\"]/text"
-msgstr "どうでも。"
+msgstr "やめておく。"
 
 #: src-en/data/events_special_storage.xml.append:1630
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BEACON_PROTOCOLS\"]/text"
 msgstr ""
-"ビーコンプロトコルの変更をインストールしようとしています。\n"
-"[効果：オペレーターは健康の50％を失い、モバイルテレポートビーコンとしてのサービスと引き換えに25％多くの損害を与え、敵の船に直接テレポートすることさえ、彼らが望む部屋にテレポートすることができます。]\n"
-"\n"
-"[警告：これをインストールした後、オペレータークルーのプライマリアップグレードをインストールすることはできません。このmodも無効にすることはできません。]"
+"ビーコン・プロトコルの改造をインストールしようとしています。\n"
+"\t[効果：オペレーターは体力を50%失い、受けるダメージが25%増加する代わりに、移動式テレポートビーコンとして機能し、同じ部屋にいる味方クルーが望むどの部屋にも、敵船内に直接テレポートすることさえ可能にする。]\n"
+"\t\n"
+"\t[警告：これをインストールすると、オペレータークルー用のプライマリアップグレードをこれ以上インストールできなくなります。また、この改造を無効化することもできません。]"
 
 #: src-en/data/events_special_storage.xml.append:1635
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BEACON_PROTOCOLS\"]/choice[1]/text"
-msgstr "変更をインストールします。[コスト：15 {]"
+msgstr "改造をインストールする。[コスト: 15{]"
 
 #: src-en/data/events_special_storage.xml.append:1637
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BEACON_PROTOCOLS\"]/choice[1]/event/text"
-msgstr "変更をインストールします。"
+msgstr "改造をインストールします。"
 
 #: src-en/data/events_special_storage.xml.append:1642
 msgid ""
@@ -1766,4 +1766,4 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1648
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BEACON_PROTOCOLS\"]/choice[@req=\"pilot\"]/text"
-msgstr "どうでも。"
+msgstr "やめておく。"
