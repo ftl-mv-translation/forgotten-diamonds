@@ -1,0 +1,71 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_ships.xml.append:5
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_LANIUS_CRUISER\"]/destroyed/text"
+msgstr ""
+"Le vaisseau se brise en deux peu avant que le carburant volatil n'explose, "
+"éliminant tous les Lanius restants à l'intérieur. Vous récupérez ce que vous"
+" pouvez du vaisseau et partez à la recherche de Sharlan."
+
+#: src-en/data/events_ships.xml.append:8
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_LANIUS_CRUISER\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:13
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_LANIUS_CRUISER\"]/deadCrew/text"
+msgstr ""
+"Vous avez exterminé tous les Lanius du vaisseau sans le détruire ! Vous "
+"récupérez ce que vous pouvez des débris et partez à la recherche de Sharlan."
+
+#: src-en/data/events_ships.xml.append:16
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_LANIUS_CRUISER\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:28
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_DIAMOND_CRUISER\"]/destroyed/text"
+msgstr ""
+"Le vaisseau se désintègre lentement en un nuage doré, ne laissant presque "
+"rien à récupérer."
+
+#: src-en/data/events_ships.xml.append:32
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_DIAMOND_CRUISER\"]/deadCrew/text"
+msgstr ""
+"Vous avez réussi à tuer l'Opérateur, et avec sa mort, les armes du vaisseau "
+"se désactivent. Vous êtes maintenant libre d'explorer le vaisseau et de voir"
+" ce que cet alien gardait."
+
+#: src-en/data/events_ships.xml.append:35
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_DIAMOND_CRUISER\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:43
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_OPERATOR_CRUISER\"]/destroyed/text"
+msgstr ""
+"Le vaisseau se désintègre lentement en un nuage cuivré, ne laissant presque "
+"rien à récupérer."
+
+#: src-en/data/events_ships.xml.append:47
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_OPERATOR_CRUISER\"]/deadCrew/text"
+msgstr ""
+"Vous avez réussi à tuer les Opérateurs, et avec leur mort, les drones du "
+"vaisseau se désactivent. Vous êtes maintenant libre d'explorer le vaisseau "
+"et de saisir les plans."
+
+#: src-en/data/events_ships.xml.append:50
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_OPERATOR_CRUISER\"]/deadCrew/choice/text"
+msgstr ""

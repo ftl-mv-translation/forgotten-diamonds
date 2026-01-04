@@ -1,0 +1,118 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_rebel.xml.append:13
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/text"
+msgstr ""
+"Alors que vous sautez près de cette balise, à la recherche de ce qui a "
+"envoyé cet étrange message de détresse, vous voyez un tas de vaisseaux noirs"
+" et jaunes avec d'étranges marques partout dans cette zone, tous brisés et "
+"détruits, avec une sorte de poussière dorée entourant les coques éventrées. "
+"En commençant à les piller, vous remarquez un autre vaisseau à proximité, "
+"différent des autres, un vaisseau triangulaire qui semble fuir la même "
+"poussière dorée que vous avez trouvée sur les épaves. Bien que le vaisseau "
+"lui-même semble en grande partie intact, vous ne parvenez pas à détecter de "
+"signes de vie à bord."
+
+#: src-en/data/events_sector_rebel.xml.append:16
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_rebel.xml.append:18
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/text"
+msgstr ""
+"Alors que vous approchez du vaisseau dans l'espoir de récupérer ce qu'il "
+"contient, les systèmes du vaisseau s'activent soudainement et envoient un "
+"message de détresse. « Vaisseau non identifié ! Restez à l'écart ou vous "
+"rejoindrez les autres carcasses de vaisseaux dans ce cimetière "
+"interstellaire ! » Les armes de ce vaisseau ne ressemblent à rien de ce que "
+"vous avez jamais vu, et de plus, il semble y avoir une seule signature de "
+"vie à bord, et elle ne provient d'aucune espèce de votre base de données."
+
+#: src-en/data/events_sector_rebel.xml.append:20
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+"Quoi qu'il y ait à l'intérieur du vaisseau, cela doit être incroyablement "
+"précieux, chargez les armes et approchez !"
+
+#: src-en/data/events_sector_rebel.xml.append:22
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Les systèmes du vaisseau sont maintenant à pleine puissance ! Il semble que "
+"son infirmerie alimente une sorte de système de survie, rendant l'unique "
+"survivant immortel tant qu'elle est en ligne ! Vous devez la détruire en "
+"premier si vous voulez avoir une chance de tuer cet alien. Heureusement, il "
+"semble que les combats précédents avec ces étranges vaisseaux aient "
+"endommagé leur système d'armes, l'empêchant de charger ses armes à leur "
+"vitesse normale."
+
+#: src-en/data/events_sector_rebel.xml.append:25
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_rebel.xml.append:31
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[2]/text"
+msgstr "Tenez compte de son avertissement et restez à l'écart."
+
+#: src-en/data/events_sector_rebel.xml.append:33
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+"Dès que vous commencez à charger vos moteurs FTL, le vaisseau désactive ses "
+"armes et vous laisse tranquille."
+
+#: src-en/data/events_sector_rebel.xml.append:35
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_rebel.xml.append:39
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_rebel.xml.append:47
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[2]/text"
+msgstr "Quoi que ce soit, nous ne voulons pas le découvrir."
+
+#: src-en/data/events_sector_rebel.xml.append:49
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[2]/event/text"
+msgstr ""
+"Vous avez bien trop de choses à gérer en ce moment, vous ignorez l'énorme "
+"vaisseau et sautez dès que possible."
+
+#: src-en/data/events_sector_rebel.xml.append:51
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_rebel.xml.append:55
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_rebel.xml.append:63
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST_CREWKILL\"]/text"
+msgstr ""
+"Après vous être assuré que le vaisseau est bien dépourvu de toute forme de vie, vous envoyez une équipe pour voir ce que cet alien gardait, et à votre surprise ce n'est pas juste un tas de ferraille ! Les commandes du vaisseau semblent encore fonctionner, vous permettant de le rediriger vers le hangar de la fédération ! Et mieux encore, dans la salle de stockage, vous trouvez une arme identique à celles que le vaisseau a utilisées contre vous ainsi qu'un tas de ferraille !\n"
+"\n"
+"\t\tAprès avoir exploré un peu plus, vous trouvez le seul autre survivant du vaisseau, coincé dans une pièce scellée. Après l'avoir libéré, il est si reconnaissant qu'il propose de rejoindre votre équipage !"
+
+#: src-en/data/events_sector_rebel.xml.append:74
+msgid ""
+"data/events_sector_rebel.xml.append$//event[@name=\"FR_DIAMOND_QUEST_CREWKILL\"]/choice/text"
+msgstr "Génial !"

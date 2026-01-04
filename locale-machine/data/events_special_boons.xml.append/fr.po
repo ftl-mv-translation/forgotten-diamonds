@@ -1,0 +1,94 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_boons.xml.append:4
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_FR_METAL_LANIUS\"]/text"
+msgstr ""
+"De nulle part, vous entendez une voix vous parler. « Le Don... des Alliages."
+" Votre équipage Lanius métallique devient... immunisé au contrôle mental et "
+"peut... voir les pièces adjacentes. Vous pouvez... remercier le précédent "
+"challenger. Ou peut-être... pas ? Qui peut dire... »"
+
+#: src-en/data/events_special_boons.xml.append:7
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_FR_METAL_LANIUS\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_boons.xml.append:15
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_FR_GOLDEN\"]/text"
+msgstr ""
+"De nulle part, vous entendez une voix vous parler. « CHALLENGER ! Pour vous,"
+" j'accorde la BÉNÉDICTION D'OPULENCE ! Vous recevrez 10% de FERRAILLE en "
+"plus pour alimenter vos ACHATS, et que vos voyages soient BÉNIS ! Qui "
+"remercier ? Eh bien, le PRÉCÉDENT CHALLENGER ! Hahah ! »"
+
+#: src-en/data/events_special_boons.xml.append:18
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_FR_GOLDEN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_boons.xml.append:26
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_FR_COPPER\"]/text"
+msgstr ""
+"De nulle part, vous entendez une voix vous parler. « CHALLENGER ! Pour vous,"
+" j'accorde la BÉNÉDICTION DE LA ROUILLE ! Vos DRONES DE COMBAT seront "
+"automatiquement RAPPELÉS s'ils n'ont pas été DÉTRUITS après un combat, et "
+"que vos voyages soient BÉNIS ! Qui remercier ? Eh bien, le PRÉCÉDENT "
+"CHALLENGER ! Hahah ! »"
+
+#: src-en/data/events_special_boons.xml.append:29
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_FR_COPPER\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_boons.xml.append:37
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_FR_ADAMANTINE\"]/text"
+msgstr ""
+"De nulle part, vous entendez une voix vous parler. « CHALLENGER ! Pour vous,"
+" j'accorde la BÉNÉDICTION DE CLONAGE ! Votre ÉQUIPAGE ne perdra plus "
+"d'EXPÉRIENCE en étant CLONÉ et aura son NIVEAU DE COMPÉTENCE DE BASE à 1, et"
+" que vos voyages soient BÉNIS ! Qui remercier ? Eh bien, le PRÉCÉDENT "
+"CHALLENGER ! Hahah ! »"
+
+#: src-en/data/events_special_boons.xml.append:40
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_FR_ADAMANTINE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_boons.xml.append:48
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_FR_DIAMOND\"]/text"
+msgstr ""
+"De nulle part, vous entendez une voix vous parler. « Le Don... des Diamants."
+" Votre équipage de Diamants métalliques acquiert... la capacité de... "
+"traverser les portes et... gagne 20% de vitesse de déplacement. Vous "
+"pouvez... remercier le précédent challenger. Ou peut-être... pas ? Qui peut "
+"dire... »"
+
+#: src-en/data/events_special_boons.xml.append:51
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_FR_DIAMOND\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_boons.xml.append:59
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_FR_OPERATOR\"]/text"
+msgstr ""
+"De nulle part, vous entendez une voix vous parler. « Le Don... des "
+"Opérateurs. Votre équipage d'Opérateurs acquiert... la capacité de... "
+"pirater les portes des pièces où ils se trouvent... à l'intérieur d'un "
+"vaisseau ennemi. Vous pouvez... remercier le précédent challenger. Ou peut-"
+"être... pas ? Qui peut dire... »"
+
+#: src-en/data/events_special_boons.xml.append:62
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_FR_OPERATOR\"]/choice/text"
+msgstr ""

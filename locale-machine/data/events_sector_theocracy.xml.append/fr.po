@@ -1,0 +1,203 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_theocracy.xml.append:13
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/text"
+msgstr ""
+"Vous atteignez la balise qui émettait cet étrange signal de « requête », et "
+"à votre surprise ce n'est pas un vaisseau Roc, c'est un vaisseau d'une "
+"classe que vous n'avez jamais vue auparavant, un extérieur extrêmement lisse"
+" avec un design en forme de diamant et les couleurs du cuivre. Ils vous "
+"hèlent, au début tout ce qu'ils disent est du charabia pur, cependant, après"
+" quelques minutes, ils commencent lentement à parler dans une langue que "
+"votre traducteur peut comprendre."
+
+#: src-en/data/events_sector_theocracy.xml.append:16
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:18
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/text"
+msgstr ""
+"« Salutations, chose de chair, moi être opérateur, venir de différent amas, vouloir un peu commerce, demander 5 être forme chair chercher, payer plan vaisseau, affirmer ? » Bien que toujours très mal traduit, l'offre de l'être qui se nomme « opérateur » peut être comprise suffisamment pour avoir un sens : ils requièrent 5 membres de votre équipage et, en échange, les plans du vaisseau.\n"
+"\n"
+"\t\t\t\tIl est *fortement* conseillé de ne pas combattre cet ennemi, ses drones de combat sont extrêmement dangereux."
+
+#: src-en/data/events_sector_theocracy.xml.append:23
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/text"
+msgstr "Accepter les termes."
+
+#: src-en/data/events_sector_theocracy.xml.append:25
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+"Les Opérateurs semblent satisfaits de votre décision et commencent lentement"
+" à téléporter votre équipage vers leur vaisseau."
+
+#: src-en/data/events_sector_theocracy.xml.append:28
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/removeCrew/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:31
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:33
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/text"
+msgstr "Cela continue."
+
+#: src-en/data/events_sector_theocracy.xml.append:36
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/removeCrew/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:39
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:41
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/choice/event/text"
+msgstr "Cela continue."
+
+#: src-en/data/events_sector_theocracy.xml.append:44
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/choice/event/removeCrew/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:47
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:49
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/choice/event/choice/event/text"
+msgstr "Cela continue."
+
+#: src-en/data/events_sector_theocracy.xml.append:52
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and "
+"@lvl=\"1\"]/event/choice/event/choice/event/choice/event/removeCrew/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:55
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:57
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and "
+"@lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"Après un certain temps, le dernier membre d'équipage est téléporté, et peu après vous recevez les plans du croiseur que ces « Opérateurs » utilisaient. Non seulement cela, mais ils vous donnent également un étrange drone en cuivre et une bonne quantité de ferraille.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSoudain, l'opérateur vous hèle : « Phénoménal ! Toutes ces données nous ont permis de sauter des années de recherche ! Cependant, ce n'est peut-être pas suffisant. Pour s'en assurer, je vous rejoindrai dans votre mission dans l'espoir d'obtenir des données beaucoup plus approfondies sur votre amas. »"
+
+#: src-en/data/events_sector_theocracy.xml.append:62
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and "
+"@lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/event/removeCrew/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:80
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and @lvl=\"0\"]/text"
+msgstr "Pas assez d'équipage."
+
+#: src-en/data/events_sector_theocracy.xml.append:84
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/text"
+msgstr ""
+"Nous ne donnerons jamais notre équipage ! Prenons les plans par la force !"
+
+#: src-en/data/events_sector_theocracy.xml.append:86
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/event/text"
+msgstr ""
+"Il semble que les « opérateurs » n'aient pas bien pris la chose, leur "
+"vaisseau commence à libérer des drones de combat. Est-il possible d'obtenir "
+"les plans si vous nettoyez le vaisseau ?"
+
+#: src-en/data/events_sector_theocracy.xml.append:89
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:95
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[4]/text"
+msgstr "Excuses-vous et dites que vous n'avez pas d'équipage à épargner."
+
+#: src-en/data/events_sector_theocracy.xml.append:97
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[4]/event/text"
+msgstr ""
+"Les opérateurs, bien qu'attristés par cela, vous remercient de votre "
+"coopération et vous donnent un peu de ferraille en compensation avant de "
+"sauter."
+
+#: src-en/data/events_sector_theocracy.xml.append:105
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/text"
+msgstr "Quoi que ce soit, nous ne voulons pas le découvrir."
+
+#: src-en/data/events_sector_theocracy.xml.append:107
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/text"
+msgstr ""
+"Vous avez bien trop de choses à gérer en ce moment, vous ignorez l'énorme "
+"vaisseau et sautez dès que possible."
+
+#: src-en/data/events_sector_theocracy.xml.append:109
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:113
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:121
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_CREWKILL\"]/text"
+msgstr ""
+"Après ce qui a semblé être d'interminables pare-feu et pièges, l'équipage a "
+"finalement pu trouver les plans cachés au plus profond des systèmes de "
+"l'alien. Malheureusement, tous leurs drones ont semblé se désintégrer une "
+"fois l'équipage mort."
+
+#: src-en/data/events_sector_theocracy.xml.append:125
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_CREWKILL\"]/choice/text"
+msgstr "Génial !"

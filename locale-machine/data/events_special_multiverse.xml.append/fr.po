@@ -1,0 +1,428 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_multiverse.xml.append:63
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/text"
+msgstr ""
+"Du tunnel émerge un immense vaisseau croiseur, d'un design que vous n'avez "
+"jamais vu ! Ce vaisseau est extrêmement brillant, mais en même temps, son "
+"format le rend quelque peu menaçant. Le capitaine de ce vaisseau particulier"
+" vous hèle."
+
+#: src-en/data/events_special_multiverse.xml.append:67
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:69
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/text"
+msgstr ""
+"« Q-Qui est là ?! J-Je ne vous vois pas ! L-La lumière, elle est... elle "
+"est... Partout ! Elle m'aveugle même lorsque mes capteurs optiques sont hors"
+" ligne ! Étrange être, s-s'il vous plaît partez, je ne veux pas... "
+"A-attendez... Je... Je peux... Voir... de la Ferraille... J'en... ai "
+"besoin... »"
+
+#: src-en/data/events_special_multiverse.xml.append:71
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/choice[1]/text"
+msgstr "Préparez-vous au combat !"
+
+#: src-en/data/events_special_multiverse.xml.append:73
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/choice[1]/event/text"
+msgstr ""
+"« VOTRE VAISSEAU ! IL A DE LA FERRAILLE ! DE LA FERRAILLE BRILLANTE "
+"BRILLANTE BRILLANTE ! FAITES DISPARAÎTRE CET AVEUGLANT ! »"
+
+#: src-en/data/events_special_multiverse.xml.append:76
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:82
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/choice[2]/text"
+msgstr "Distrayez le capitaine avec de la ferraille."
+
+#: src-en/data/events_special_multiverse.xml.append:84
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/choice[2]/event/text"
+msgstr ""
+"Vous jetez un tas de ferraille hors du sas et réglez vos moteurs pour sauter"
+" dès que possible."
+
+#: src-en/data/events_special_multiverse.xml.append:91
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:99
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/text"
+msgstr ""
+"Du tunnel émerge un immense vaisseau croiseur, d'un design que vous n'avez "
+"jamais vu ! Ce vaisseau est extrêmement brillant, mais en même temps, son "
+"format le rend quelque peu menaçant. Le capitaine de ce vaisseau particulier"
+" vous hèle."
+
+#: src-en/data/events_special_multiverse.xml.append:103
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:105
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/text"
+msgstr ""
+"« Q-Qui est là ?! J-Je ne vous vois pas ! L-La lumière, elle est... elle "
+"est... Partout ! Elle m'aveugle même lorsque mes capteurs optiques sont hors"
+" ligne ! Étrange être, s-s'il vous plaît partez, je ne veux pas... "
+"A-attendez... Je... Je peux... Voir... de la Ferraille... J'en... ai "
+"besoin... »"
+
+#: src-en/data/events_special_multiverse.xml.append:107
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[1]/text"
+msgstr "Préparez-vous au combat !"
+
+#: src-en/data/events_special_multiverse.xml.append:109
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[1]/event/text"
+msgstr ""
+"« VOTRE VAISSEAU ! IL A DE LA FERRAILLE ! DE LA FERRAILLE BRILLANTE "
+"BRILLANTE BRILLANTE ! FAITES DISPARAÎTRE CET AVEUGLANT ! »"
+
+#: src-en/data/events_special_multiverse.xml.append:112
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:118
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[2]/text"
+msgstr "Distrayez le capitaine avec de la ferraille."
+
+#: src-en/data/events_special_multiverse.xml.append:120
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[2]/event/text"
+msgstr ""
+"Vous jetez un tas de ferraille hors du sas et réglez vos moteurs pour sauter"
+" dès que possible."
+
+#: src-en/data/events_special_multiverse.xml.append:127
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:135
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/text"
+msgstr ""
+"Du tunnel émerge un immense vaisseau croiseur, d'un design que vous n'avez "
+"jamais vu ! Ce vaisseau est extrêmement brillant, mais en même temps, son "
+"format le rend quelque peu menaçant. Le capitaine de ce vaisseau particulier"
+" vous hèle."
+
+#: src-en/data/events_special_multiverse.xml.append:139
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:141
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/text"
+msgstr ""
+"« Q-Qui est là ?! J-Je ne vous vois pas ! L-La lumière, elle est... elle "
+"est... Partout ! Elle m'aveugle même lorsque mes capteurs optiques sont hors"
+" ligne ! Étrange être, s-s'il vous plaît partez, je ne veux pas... "
+"A-attendez... Je... Je peux... Voir... de la Ferraille... J'en... ai "
+"besoin... »"
+
+#: src-en/data/events_special_multiverse.xml.append:143
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/choice[1]/text"
+msgstr "Préparez-vous au combat !"
+
+#: src-en/data/events_special_multiverse.xml.append:145
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/choice[1]/event/text"
+msgstr ""
+"« VOTRE VAISSEAU ! IL A DE LA FERRAILLE ! DE LA FERRAILLE BRILLANTE "
+"BRILLANTE BRILLANTE ! FAITES DISPARAÎTRE CET AVEUGLANT ! »"
+
+#: src-en/data/events_special_multiverse.xml.append:148
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:154
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:162
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/text"
+msgstr ""
+"Du tunnel émerge un immense vaisseau croiseur, d'un design que vous n'avez "
+"jamais vu ! Ce vaisseau est extrêmement brillant, mais en même temps, son "
+"format le rend quelque peu menaçant. Le capitaine de ce vaisseau particulier"
+" vous hèle."
+
+#: src-en/data/events_special_multiverse.xml.append:166
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:168
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/text"
+msgstr ""
+"« Q-Qui est là ?! J-Je ne vous vois pas ! L-La lumière, elle est... elle "
+"est... Partout ! Elle m'aveugle même lorsque mes capteurs optiques sont hors"
+" ligne ! Étrange être, s-s'il vous plaît partez, je ne veux pas... "
+"A-attendez... Je... Je peux... Voir... de la Ferraille... J'en... ai "
+"besoin... »"
+
+#: src-en/data/events_special_multiverse.xml.append:170
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[1]/text"
+msgstr "Préparez-vous au combat !"
+
+#: src-en/data/events_special_multiverse.xml.append:172
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[1]/event/text"
+msgstr ""
+"« VOTRE VAISSEAU ! IL A DE LA FERRAILLE ! DE LA FERRAILLE BRILLANTE "
+"BRILLANTE BRILLANTE ! FAITES DISPARAÎTRE CET AVEUGLANT ! »"
+
+#: src-en/data/events_special_multiverse.xml.append:175
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:181
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:189
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DESTROYED\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:193
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DESTROYED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:200
+msgid ""
+"data/events_special_multiverse.xml.append$//eventList[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DROP_CHANCE\"]/event[1]/text"
+msgstr ""
+"Vous trouvez les restes d'un modèle d'arme unique parmi les ruines du "
+"vaisseau, mais il semble qu'il n'ait pas survécu au combat. Vous devrez être"
+" plus prudent la prochaine fois, ou avoir de la chance. Heureusement, il "
+"reste encore un peu de fournitures à emporter."
+
+#: src-en/data/events_special_multiverse.xml.append:207
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DEADCREW\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:211
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DEADCREW\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:217
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DROP\"]/text"
+msgstr ""
+"Vous êtes également surpris de trouver un objet ancien spécial parmi les "
+"débris ! Vous n'avez jamais rien vu de tel auparavant, vous supposez donc "
+"qu'il s'agit d'un prototype personnalisé fabriqué par l'étrange espèce à "
+"laquelle appartenaient les renégats."
+
+#: src-en/data/events_special_multiverse.xml.append:224
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DESTROYED_CHAOS\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:228
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DESTROYED_CHAOS\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:235
+msgid ""
+"data/events_special_multiverse.xml.append$//eventList[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DROP_CHANCE_CHAOS\"]/event[1]/text"
+msgstr ""
+"Vous trouvez les restes d'un modèle d'arme unique parmi les ruines du "
+"vaisseau, mais il semble qu'il n'ait pas survécu au combat. Vous devrez être"
+" plus prudent la prochaine fois, ou avoir de la chance. Heureusement, il "
+"reste encore un peu de fournitures à emporter."
+
+#: src-en/data/events_special_multiverse.xml.append:242
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DEADCREW_CHAOS\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:246
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DEADCREW_CHAOS\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:252
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DROP_CHAOS\"]/text"
+msgstr ""
+"Vous êtes également surpris de trouver un objet ancien spécial parmi les "
+"débris ! Vous n'avez jamais rien vu de tel auparavant, vous supposez donc "
+"qu'il s'agit d'un prototype personnalisé fabriqué par l'étrange espèce à "
+"laquelle appartenaient les renégats."
+
+#: src-en/data/events_special_multiverse.xml.append:266
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[1]/text"
+msgstr "Présentez votre équipage de Diamants métalliques."
+
+#: src-en/data/events_special_multiverse.xml.append:268
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+"« Les insaisissables... diamants métalliques... des êtres qui ne sont pas de"
+" cet... amas, des créatures énigmatiques que vous... avez réussi à "
+"apprivoiser d'une manière ou d'une autre... Je dois dire que je suis... "
+"impressionné. Bien joué, voyageur. Attendez-vous à... des récompenses avant "
+"votre prochain voyage. »"
+
+#: src-en/data/events_special_multiverse.xml.append:272
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:278
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[2]/text"
+msgstr "Présentez votre équipage d'Opérateurs."
+
+#: src-en/data/events_special_multiverse.xml.append:280
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"« Ah... les toujours intrigants... opérateurs métalliques... des êtres "
+"fabriqués dans un amas lointain... très lointain, une merveille de "
+"technologie que vous... avez maintenant comme équipage... Je dois dire que "
+"je suis... impressionné. Bien joué, voyageur. Attendez-vous à... des "
+"récompenses avant votre prochain voyage. »"
+
+#: src-en/data/events_special_multiverse.xml.append:284
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:290
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[3]/text"
+msgstr "Présentez votre équipage de Lanius métalliques."
+
+#: src-en/data/events_special_multiverse.xml.append:292
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[3]/event/text"
+msgstr ""
+"« Ce Lanius... il est... différent des... autres... le métal de son corps "
+"n'est pas... présent dans ces amas... où l'avez-vous... trouvé ? Je peux "
+"tout à fait... dire que je suis impressionné. Bien joué, voyageur. Attendez-"
+"vous à... des récompenses avant votre prochain voyage. »"
+
+#: src-en/data/events_special_multiverse.xml.append:296
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:305
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[1]/text"
+msgstr "Présentez une arme dorée."
+
+#: src-en/data/events_special_multiverse.xml.append:307
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+"« Cette... cette arme est... Ça n'a aucun SENS pour moi ! Elle porte les "
+"MARQUES des ANCÊTRES, ET pourtant elle est CONSTRUITE complètement "
+"DIFFÉREMMENT de tout ce qu'ils ont jamais FABRIQUÉ ! Très BIEN alors, je "
+"vous BÉNIRAI de la BÉNÉDICTION D'OPULENCE. Mais ayez PATIENCE. Ce n'est pas "
+"pour maintenant, mais pour PLUS TARD ! »"
+
+#: src-en/data/events_special_multiverse.xml.append:311
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:317
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[2]/text"
+msgstr "Présentez un drone en cuivre."
+
+#: src-en/data/events_special_multiverse.xml.append:319
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"\"« Un... DRONE ?! POUR QUI me prends-tu, Renégat ?! Si Thest ne m'avait pas"
+" INTERDIT de vous trucider, bande de vauriens, j'aurais ÉCRASÉ ta misérable "
+"tête de mes POINGS ! Malheureusement, je suis LIÉ par le CRÉDO de t'offrir "
+"une FAVEUR, même pour une offrande aussi PITOYABLE que ce DRONE ROUILLÉ. "
+"Néanmoins, je te BÉNIRAI avec la BÉNÉDICTION DE LA ROUILLE. Mais aie "
+"PATIENCE. Ce n'est pas pour tout de suite, mais pour PLUS TARD ! »\""
+
+#: src-en/data/events_special_multiverse.xml.append:323
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:329
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[3]/text"
+msgstr "Présentez le Créateur de Chair."
+
+#: src-en/data/events_special_multiverse.xml.append:331
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[3]/event/text"
+msgstr ""
+"« AHAHAHAHA ! QU'est-ce que C'EST ?! Un AUGMENT qui peut créer de l'ÉQUIPAGE"
+" à partir de CARBURANT ?! AHAHAHA ! Renégat, je vous remercie du "
+"DIVERTISSEMENT que vous m'avez offert en me montrant CELA ! AHAHAH ! Oui, "
+"ceci EST un tribut ! Je vous BÉNIRAI de la BÉNÉDICTION DE CLONAGE. Mais ayez"
+" PATIENCE. Ce n'est pas pour maintenant, mais pour PLUS TARD ! »"
+
+#: src-en/data/events_special_multiverse.xml.append:335
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[3]/event/choice/text"
+msgstr ""
