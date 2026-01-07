@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-08 17:44+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/forgotten-diamonds/"
+"datablueprintsxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:19
 msgid ""
@@ -43,17 +50,23 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:41
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/title"
-msgstr ""
+msgstr "Diamant d'Adamantine"
 
 #: src-en/data/blueprints.xml.append:42
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/short"
-msgstr ""
+msgstr "Adamantine"
 
 #: src-en/data/blueprints.xml.append:43
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/desc"
 msgstr ""
+"Les Diamants sont un groupe de trois espèces constituées de métal organique. "
+"L’une d’entre elles est celle des diamants d'adamantine, une espèce de "
+"seigneurs de guerre connue pour ne valoriser que la puissance. Cette "
+"philosophie s’étendait également à leurs sciences : une industrie du sang et "
+"de la chair, responsable de la création de la technologie la plus "
+"controversée jamais conçue : le Façonneur de chair."
 
 #: src-en/data/blueprints.xml.append:48
 msgid ""
