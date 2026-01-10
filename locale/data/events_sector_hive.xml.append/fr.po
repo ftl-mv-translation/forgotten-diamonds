@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-04 17:44+0000\n"
+"PO-Revision-Date: 2026-01-10 17:20+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgotten-diamonds/"
 "dataevents_sector_hivexmlappend/fr/>\n"
@@ -17,18 +17,18 @@ msgid ""
 "data/events_sector_hive.xml.append$//mod:findName[@name=\"MANTIS_CREW\"]/mod-"
 "append:choice/text"
 msgstr ""
-"(Membre d'équipage Diamant) Demander à votre membre Diamant d’ouvrir la "
+"(Membre d'équipage Diamant) Demander à votre membre Diamant d'ouvrir la "
 "capsule."
 
 #: src-en/data/events_sector_hive.xml.append:12
 msgid ""
 "data/events_sector_hive.xml.append$//eventList[@name=\"FR_MANTIS_CREW_LIST_DIAMOND\"]/event[1]/text"
 msgstr ""
-"Dès l’ouverture de la capsule, un Mantis en colère se jette sur votre "
+"Dès l'ouverture de la capsule, un Mantis en colère se jette sur votre "
 "Diamant. Sans hésiter, ce dernier bloque les griffes avec son drone le plus "
-"à droite, qui semble s’être instantanément transformé en courte lame. Le "
-"Mantis n’a à peine le temps de comprendre ce qui se passe que le Diamant "
-"tranche sa tête d’un seul coup, neutralisant la menace."
+"à droite, qui semble s'être instantanément transformé en courte lame. Le "
+"Mantis n'a à peine le temps de comprendre ce qui se passe que le Diamant "
+"tranche sa tête d'un seul coup, neutralisant la menace."
 
 #: src-en/data/events_sector_hive.xml.append:15
 msgid ""
