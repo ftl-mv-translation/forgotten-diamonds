@@ -1,14 +1,24 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-11 23:40+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/forgotten-diamonds/"
+"dataevents_shipsxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_ships.xml.append:5
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_LANIUS_CRUISER\"]/destroyed/text"
 msgstr ""
+"Le vaisseau se disloque en deux parties juste avant que le carburant volatil "
+"n'explose, anéantissant les derniers Lanius à bord. Vous récupérez tout ce "
+"qui peut être récupéré du vaisseau avant de partir à la recherche de Sharlan."
 
 #: src-en/data/events_ships.xml.append:8
 msgid ""
@@ -19,6 +29,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_LANIUS_CRUISER\"]/deadCrew/text"
 msgstr ""
+"Vous avez éliminé tous les Lanius à bord sans endommager le vaisseau ! Vous "
+"récupérez tout ce que vous pouvez des débris et partez à la recherche de "
+"Sharlan."
 
 #: src-en/data/events_ships.xml.append:16
 msgid ""
@@ -29,11 +42,16 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_DIAMOND_CRUISER\"]/destroyed/text"
 msgstr ""
+"Le vaisseau se disloque et se dissout lentement en un nuage doré, ne "
+"laissant presque rien à récupérer."
 
 #: src-en/data/events_ships.xml.append:32
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_DIAMOND_CRUISER\"]/deadCrew/text"
 msgstr ""
+"Vous avez éliminé l'Opérateur, et à sa mort, les armes du vaisseau "
+"s'éteignent. Vous êtes maintenant libre d'explorer le vaisseau et de "
+"découvrir ce que cet alien protégeait."
 
 #: src-en/data/events_ships.xml.append:35
 msgid ""
@@ -44,11 +62,16 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_OPERATOR_CRUISER\"]/destroyed/text"
 msgstr ""
+"Le vaisseau se disloque et se dissout lentement en un nuage cuivré, ne "
+"laissant presque rien à récupérer."
 
 #: src-en/data/events_ships.xml.append:47
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_OPERATOR_CRUISER\"]/deadCrew/text"
 msgstr ""
+"Vous avez éliminé les Opérateurs, et à leur mort, les drones du vaisseau "
+"s'éteignent. Vous êtes maintenant libre d'explorer le vaisseau et de vous "
+"emparer des plans."
 
 #: src-en/data/events_ships.xml.append:50
 msgid ""
