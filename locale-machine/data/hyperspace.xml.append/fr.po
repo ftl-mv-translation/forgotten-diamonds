@@ -10,8 +10,8 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[2]/mod:findLike/mod-"
 "append:shipIcon[1]/tooltip"
 msgstr ""
-"BOUCLIER ÉNERGÉTIQUE CRIMINEL DE GUERRE :\n"
-"Cet ennemi est protégé par un Bouclier Énergétique avancé. Le piratage, le contrôle mental, les drones d'abordage, la téléportation, ainsi que toutes les armes endommageant la coque et/ou ioniques seront bloqués jusqu'à désactivation. Le bouclier doublera également le temps nécessaire à la charge de votre FTL."
+"BOUCLIER D'ÉNERGIE DE CRIMINEL DE GUERRE :\n"
+"Cet ennemi est protégé par un Bouclier d'Énergie avancé. Le piratage, le contrôle mental, les drones d'abordage, la téléportation et toutes les armes endommageant la coque et/ou ioniques seront bloqués jusqu'à leur désactivation. Le bouclier doublera également le temps nécessaire au chargement de votre SPL."
 
 #: src-en/data/hyperspace.xml.append:37
 msgid ""
@@ -19,7 +19,7 @@ msgid ""
 "append:shipIcon[2]/tooltip"
 msgstr ""
 "PROTOCOLE DE MAINTIEN :\n"
-"L'infirmerie de cet ennemi rend son équipage immunisé aux dégâts tant qu'elle est alimentée. Coupez toute l'alimentation ou détruisez le système pour désactiver l'effet."
+"L'infirmerie de cet ennemi rend son équipage immunisé aux dégâts tant qu'elle est sous tension. Supprimez toute l'énergie ou détruisez le système pour désactiver l'effet."
 
 #: src-en/data/hyperspace.xml.append:994
 msgid ""
@@ -32,7 +32,7 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"fr_copper_lanius\"]/powerEffect/tooltip"
 msgstr ""
-"[RECHARGE:40s DURÉE:12s]\n"
+"[TR:40s DURÉE:12s]\n"
 "\t\t\tDéclenche un incendie dans la pièce actuelle. Se déplace temporairement à 0.8 vitesse mais double sa production d'O2."
 
 #: src-en/data/hyperspace.xml.append:1091
@@ -46,8 +46,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"fr_adamantine_lanius\"]/powerEffect/tooltip"
 msgstr ""
-"[RECHARGE:5s]\n"
-"\t\t\tGuérit complètement le Lanius, crée une brèche et inflige 1 dégât système à la pièce actuelle."
+"[TR:5s]\n"
+"\t\t\tSoigne entièrement le lanius, crée une brèche et inflige 1 dégât système à la pièce actuelle."
 
 #: src-en/data/hyperspace.xml.append:1149
 msgid ""
@@ -60,7 +60,7 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"fr_copper_battledrone_1\"]/powerEffect/tooltip"
 msgstr ""
-"[RECHARGE:15s]\n"
+"[TEMPS DE RECHARGE:15s]\n"
 "\t\t\tDéclenche des incendies dans la pièce occupée."
 
 #: src-en/data/hyperspace.xml.append:1190
@@ -74,7 +74,7 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"fr_copper_battledrone_2\"]/powerEffect/tooltip"
 msgstr ""
-"[RECHARGE:10s]\n"
+"[TEMPS DE RECHARGE:10s]\n"
 "\t\t\tDéclenche des incendies dans la pièce occupée."
 
 #: src-en/data/hyperspace.xml.append:2668
@@ -85,12 +85,12 @@ msgstr "Sharlan"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
 "append:page/section[1]/@text"
-msgstr "Dons du Diamant Oublié"
+msgstr "Faveurs des Diamants Oubliés"
 
 #: src-en/data/hyperspace.xml.append:2812
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/secretName"
-msgstr "Don de ???"
+msgstr "Faveur de ???"
 
 #: src-en/data/hyperspace.xml.append:2813
 msgid ""
@@ -100,14 +100,14 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:2814
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/name"
-msgstr "Bénédiction des Diamants"
+msgstr "Faveur des Diamants"
 
 #: src-en/data/hyperspace.xml.append:2815
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/description"
 msgstr ""
-"Montrez un membre d'équipage Diamant de tout type à Thest. \n"
-"\t\t\t\tEn vigueur ; Votre équipage de diamants métalliques peut traverser les portes et gagner 20% de vitesse de déplacement."
+"Montrez un membre d'équipage Diamant de n'importe quel type à Thest. \n"
+"\t\t\t\tPendant l'effet ; Votre équipage de Diamants de métal peut traverser les portes et gagne 20% de vitesse de déplacement."
 
 #: src-en/data/hyperspace.xml.append:2817
 msgid ""
@@ -117,7 +117,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:2823
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/secretName"
-msgstr "Don de ???"
+msgstr "Faveur de ???"
 
 #: src-en/data/hyperspace.xml.append:2824
 msgid ""
@@ -127,14 +127,14 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:2825
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/name"
-msgstr "Bénédiction des Opérateurs"
+msgstr "Faveur des Opérateurs"
 
 #: src-en/data/hyperspace.xml.append:2826
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/description"
 msgstr ""
-"Montrez un membre d'équipage Opérateur de tout type à Thest. \n"
-"\t\t\t\tEn vigueur ; Vos opérateurs pirateront désormais les portes de la pièce où ils se trouvent à bord des vaisseaux ennemis."
+"Montrez un membre d'équipage Opérateur de n'importe quel type à Thest. \n"
+"\t\t\t\tPendant l'effet ; Vos opérateurs pirateront désormais les portes de la pièce où ils se trouvent dans les vaisseaux ennemis."
 
 #: src-en/data/hyperspace.xml.append:2828
 msgid ""
@@ -144,7 +144,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:2834
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/secretName"
-msgstr "Don de ???"
+msgstr "Faveur de ???"
 
 #: src-en/data/hyperspace.xml.append:2835
 msgid ""
@@ -154,14 +154,14 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:2836
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/name"
-msgstr "Bénédiction des Alliages"
+msgstr "Faveur des Alliages"
 
 #: src-en/data/hyperspace.xml.append:2837
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/description"
 msgstr ""
-"Montrez un membre d'équipage Lanius Métallique à Thest. \n"
-"\t\t\t\tEn vigueur ; Tout l'équipage Lanius Métallique résiste au contrôle mental et peut voir les pièces adjacentes."
+"Montrez un membre d'équipage Lanius Métal à Thest. \n"
+"\t\t\t\tPendant l'effet ; Tous les membres d'équipage Lanius Métal résistent au contrôle mental et peuvent voir les pièces adjacentes."
 
 #: src-en/data/hyperspace.xml.append:2839
 msgid ""
@@ -172,7 +172,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
 "append:page/section[2]/@text"
-msgstr "Bénédictions du Diamant Oublié"
+msgstr "Bénédictions des Diamants Oubliés"
 
 #: src-en/data/hyperspace.xml.append:2847
 msgid ""
@@ -194,7 +194,7 @@ msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/description"
 msgstr ""
 "Montrez une arme dorée à Wakeson. \n"
-"\t\t\t\tEn vigueur ; Vous gagnez 10% de ferraille en plus."
+"\t\t\t\tPendant l'effet ; Vous gagnez 10% de ferraille en plus."
 
 #: src-en/data/hyperspace.xml.append:2852
 msgid ""
@@ -215,8 +215,8 @@ msgstr "Bénédiction de la Rouille"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/description"
 msgstr ""
-"Montrez un drone en cuivre à Wakeson. \n"
-"\t\t\t\tEn vigueur ; Vos drones de combat sont récupérés après les combats s'ils ne sont pas détruits."
+"Montrez un drone de cuivre à Wakeson. \n"
+"\t\t\t\tPendant l'effet ; Vos drones de combat sont récupérés après les combats s'ils ne sont pas détruits."
 
 #: src-en/data/hyperspace.xml.append:2862
 msgid ""
@@ -247,8 +247,8 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/description"
 msgstr ""
-"Montrez le créateur de chair à Wakeson. \n"
-"\t\t\t\tEn vigueur ; Votre équipage ne perdra pas de compétences en étant cloné et tous commenceront avec au moins le niveau 1 dans toutes les compétences."
+"Montrez le façonneur de chair à Wakeson. \n"
+"\t\t\t\tPendant l'effet ; Votre équipage ne perdra pas de compétences en étant cloné et tous commenceront avec au moins le niveau 1 dans toutes les compétences."
 
 #: src-en/data/hyperspace.xml.append:2874
 msgid ""
@@ -259,7 +259,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
 "append:page/section[3]/@text"
-msgstr "Événements du Diamant Oublié"
+msgstr "Événements des Diamants Oubliés"
 
 #: src-en/data/hyperspace.xml.append:2882
 msgid ""
@@ -275,8 +275,8 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/description"
 msgstr ""
-"Tuez le dernier opérateur à l'intérieur du vaisseau pyramide brisé, au plus "
-"profond de l'espace rebelle."
+"Éliminez le dernier opérateur à l'intérieur du vaisseau pyramide brisé, au "
+"plus profond de l'espace rebelle."
 
 #: src-en/data/hyperspace.xml.append:2885
 msgid ""
@@ -288,7 +288,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:2890
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/name"
-msgstr "Allié Redoutable"
+msgstr "Allié Formidable"
 
 #: src-en/data/hyperspace.xml.append:2891
 msgid ""
@@ -299,17 +299,17 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/description"
 msgstr ""
-"Sauvez Sharlan et aidez-le à éliminer tous les Lanius mutés de son vaisseau."
+"Sauvez Sharlan et aidez-le à éliminer tous les lanius mutés de son vaisseau."
 
 #: src-en/data/hyperspace.xml.append:2893
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/secretDescription"
-msgstr "Sauver et aider un étrange Lanius à récupérer son vaisseau."
+msgstr "Sauvez et aidez un étrange lanius à récupérer son vaisseau."
 
 #: src-en/data/hyperspace.xml.append:2898
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/name"
-msgstr "Pour le Bien Commun"
+msgstr "Pour le Plus Grand Bien"
 
 #: src-en/data/hyperspace.xml.append:2899
 msgid ""
@@ -325,8 +325,8 @@ msgstr "Acceptez l'offre de l'opérateur."
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/secretDescription"
 msgstr ""
-"Rencontrez un étrange vaisseau en cuivre au plus profond des Mondes Natals "
-"Roc et acceptez l'offre."
+"Rencontrez un étrange vaisseau de cuivre au plus profond des Mondes Natals "
+"rocailleux et acceptez l'offre proposée."
 
 #: src-en/data/hyperspace.xml.append:2906
 msgid ""
@@ -347,29 +347,29 @@ msgstr "Refusez l'offre de l'opérateur et tuez-les à la place."
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/secretDescription"
 msgstr ""
-"Rencontrez un étrange vaisseau en cuivre au plus profond des Mondes Natals "
-"Roc et adoptez une approche agressive après avoir refusé leur offre."
+"Rencontrez un étrange vaisseau de cuivre au plus profond des Mondes Natals "
+"rocailleux et adoptez une approche agressive après avoir refusé leur offre."
 
 #: src-en/data/hyperspace.xml.append:2914
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_FLESHMAKER\"]/name"
-msgstr "Certificat d'Achèvement"
+msgstr "Certificat de Réalisation"
 
 #: src-en/data/hyperspace.xml.append:2915
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_FLESHMAKER\"]/description"
-msgstr "Remplissez toute la base de données de scans du créateur de chair."
+msgstr "Remplissez toute la base de données de scan du façonneur de chair."
 
 #: src-en/data/hyperspace.xml.append:2920
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
 "append:page/section[4]/@text"
-msgstr "Renégats du Diamant Oublié"
+msgstr "Renégats Diamants Oubliés"
 
 #: src-en/data/hyperspace.xml.append:2922
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/name"
-msgstr "Lueur Dorée"
+msgstr "Éclat Doré"
 
 #: src-en/data/hyperspace.xml.append:2923
 msgid ""

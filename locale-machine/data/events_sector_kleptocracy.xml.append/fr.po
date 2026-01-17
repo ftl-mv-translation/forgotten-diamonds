@@ -9,17 +9,18 @@ msgstr ""
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"SLUG_DISTRESS_TRICK\"]/mod-"
 "append:choice/text"
-msgstr "(Équipage Opérateur) Envoyez votre Opérateur pour gérer la situation."
+msgstr ""
+"(Membre d'équipage Opérateur) Envoyer votre opérateur gérer leur situation."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:7
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"SLUG_DISTRESS_TRICK\"]/mod-"
 "append:choice/event/text"
 msgstr ""
-"Avoir une banque de données ambulante s'avère parfois utile : l'Opérateur "
-"trouve facilement le problème, remettant aux Limaces une liste de solutions "
-"possibles avant de leur présenter la facture de son service. Outragées, les "
-"Limaces allument leurs armes et se préparent au combat."
+"Avoir une banque de données ambulante s'avère parfois utile. L'opérateur est"
+" capable de trouver facilement le problème, remettant aux limaces une liste "
+"de solutions possibles avant de leur présenter une facture pour son service."
+" Indignées, les limaces sortent leurs armes et se préparent au combat."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:10
 msgid ""

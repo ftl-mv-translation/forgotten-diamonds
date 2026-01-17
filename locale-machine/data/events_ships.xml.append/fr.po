@@ -9,8 +9,8 @@ msgstr ""
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_LANIUS_CRUISER\"]/destroyed/text"
 msgstr ""
-"Le vaisseau se brise en deux peu avant que le carburant volatil n'explose, "
-"éliminant tous les Lanius restants à l'intérieur. Vous récupérez ce que vous"
+"Le vaisseau se brise en deux peu avant que le carburant volatile n'explose, "
+"éliminant tous les lanius restants à l'intérieur. Vous récupérez ce que vous"
 " pouvez du vaisseau et partez à la recherche de Sharlan."
 
 #: src-en/data/events_ships.xml.append:8
@@ -22,7 +22,7 @@ msgstr ""
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_LANIUS_CRUISER\"]/deadCrew/text"
 msgstr ""
-"Vous avez exterminé tous les Lanius du vaisseau sans le détruire ! Vous "
+"Vous avez exterminé tous les lanius du vaisseau sans le détruire ! Vous "
 "récupérez ce que vous pouvez des débris et partez à la recherche de Sharlan."
 
 #: src-en/data/events_ships.xml.append:16
@@ -34,16 +34,16 @@ msgstr ""
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_DIAMOND_CRUISER\"]/destroyed/text"
 msgstr ""
-"Le vaisseau se désintègre lentement en un nuage doré, ne laissant presque "
-"rien à récupérer."
+"Le vaisseau se brise et se désintègre lentement en un nuage doré, ne "
+"laissant presque rien à récupérer."
 
 #: src-en/data/events_ships.xml.append:32
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_METAL_DIAMOND_CRUISER\"]/deadCrew/text"
 msgstr ""
 "Vous avez réussi à tuer l'Opérateur, et avec sa mort, les armes du vaisseau "
-"se désactivent. Vous êtes maintenant libre d'explorer le vaisseau et de voir"
-" ce que cet alien gardait."
+"s'éteignent. Vous êtes maintenant libre d'explorer le vaisseau et de voir ce"
+" que cet alien gardait."
 
 #: src-en/data/events_ships.xml.append:35
 msgid ""
@@ -54,16 +54,16 @@ msgstr ""
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_OPERATOR_CRUISER\"]/destroyed/text"
 msgstr ""
-"Le vaisseau se désintègre lentement en un nuage cuivré, ne laissant presque "
-"rien à récupérer."
+"Le vaisseau se brise et se désintègre lentement en un nuage de cuivre, ne "
+"laissant presque rien à récupérer."
 
 #: src-en/data/events_ships.xml.append:47
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_FR_QUEST_OPERATOR_CRUISER\"]/deadCrew/text"
 msgstr ""
 "Vous avez réussi à tuer les Opérateurs, et avec leur mort, les drones du "
-"vaisseau se désactivent. Vous êtes maintenant libre d'explorer le vaisseau "
-"et de saisir les plans."
+"vaisseau s'éteignent. Vous êtes maintenant libre d'explorer le vaisseau et "
+"de saisir les plans."
 
 #: src-en/data/events_ships.xml.append:50
 msgid ""
