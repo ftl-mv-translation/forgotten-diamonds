@@ -15,7 +15,7 @@ msgstr "#...Détresse ? [!]#"
 
 #: src-en/data/text_misc.xml.append:13
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_fr_operator\"]"
-msgstr "#REQUÊTE [!]#"
+msgstr "#DEMANDE [!]#"
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_fr_emptyspace\"]"

@@ -21,7 +21,7 @@ msgstr "Améliorer votre Lanius Doré Augmenté"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS\"]/text"
 msgstr ""
-"Cette action coûtera 100 Ferraille et remplacera votre Lanius Doré par un Lanius Doré Augmenté.\n"
+"Cette action coûtera 100 ferraille et remplacera votre Lanius doré par un Lanius doré Augmenté.\n"
 "\t[70 Santé -> 100 Santé \n"
 "\tne régénère pas de PV -> régénère 5 PV/s après un court délai\n"
 "\tx1.5 réparation -> x1.8 réparation\n"
@@ -37,7 +37,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:36
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS\"]/choice[1]/event/text"
-msgstr "Votre Lanius subit la transformation en consommant la ferraille..."
+msgstr "Votre lanius subit la transformation en consommant la ferraille..."
 
 #: src-en/data/events_special_storage.xml.append:42
 msgid ""
@@ -53,7 +53,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS_2\"]/text"
 msgstr ""
-"Cette action coûtera 200 Ferraille et remplacera votre Lanius Doré Augmenté par un Lanius Doré Ascendant.\n"
+"Cette action coûtera 200 ferraille et remplacera votre Lanius doré Augmenté par un Lanius doré Ascensionné.\n"
 "\t[100 Santé -> 150 Santé \n"
 "\tx1.8 réparation -> x2 réparation\n"
 "\trégénère 5 PV/s après un court délai -> régénère 10 PV/s après un court délai\n"
@@ -61,7 +61,7 @@ msgstr ""
 "\tx0.8 dégâts subis -> x0.5 dégâts subis\n"
 "\tx1.5 dégâts -> x2 dégâts \n"
 "\tx1.2 vitesse de déplacement -> x1.5 vitesse de déplacement\n"
-"\t+1 énergie à la pièce actuelle -> +2 énergie à la pièce actuelle]"
+"\t+1 puissance à la pièce actuelle -> +2 puissance à la pièce actuelle]"
 
 #: src-en/data/events_special_storage.xml.append:66
 msgid ""
@@ -71,7 +71,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:68
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_STORAGE_CHECK_CREW_GOLDEN_LANIUS_2\"]/choice[1]/event/text"
-msgstr "Votre Lanius subit la transformation en consommant la ferraille..."
+msgstr "Votre lanius subit la transformation en consommant la ferraille..."
 
 #: src-en/data/events_special_storage.xml.append:74
 msgid ""
@@ -88,7 +88,8 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice/text"
 msgstr ""
-"(Balise du Marchand Diamant Oublié) Invoquer le magasin de diamants oublié."
+"(Balise de Marchand de Diamants Oubliés) Invoquez le magasin de diamants "
+"oubliés."
 
 #: src-en/data/events_special_storage.xml.append:100
 msgid ""
@@ -100,7 +101,7 @@ msgstr "Transformez votre morphe en diamant."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[2]/text"
-msgstr "Transformez votre Technomorphe en Opérateur."
+msgstr "Transformez votre technomorphe en Opérateur."
 
 #: src-en/data/events_special_storage.xml.append:108
 msgid ""
@@ -119,12 +120,12 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_DIAMOND\"]/text"
 msgstr ""
 "Vous êtes sur le point de transformer votre Morphe en diamant.\n"
-"\tCeci peut être annulé plus tard, mais pourrait coûter du carburant selon sa forme actuelle."
+"\tCela peut être annulé plus tard, mais peut coûter du carburant selon sa forme actuelle."
 
 #: src-en/data/events_special_storage.xml.append:121
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_DIAMOND\"]/choice[1]/text"
-msgstr "(Équipage Diamant) Prenez la forme d'un Diamant."
+msgstr "(Membre d'équipage Diamant) Prenez la forme d'un Diamant."
 
 #: src-en/data/events_special_storage.xml.append:123
 msgid ""
@@ -146,12 +147,12 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_OPERATOR\"]/text"
 msgstr ""
 "Vous êtes sur le point de transformer votre Technomorphe en opérateur.\n"
-"\tCeci peut être annulé plus tard, mais pourrait coûter du carburant selon sa forme actuelle."
+"\tCela peut être annulé plus tard, mais peut coûter du carburant selon sa forme actuelle."
 
 #: src-en/data/events_special_storage.xml.append:145
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_INTO_OPERATOR\"]/choice[1]/text"
-msgstr "(Équipage Opérateur) Prenez la forme d'un Opérateur."
+msgstr "(Membre d'équipage Opérateur) Prenez la forme d'un Opérateur."
 
 #: src-en/data/events_special_storage.xml.append:147
 msgid ""
@@ -181,7 +182,7 @@ msgstr "Réinitialiser votre Morphe Diamant. [-2{]"
 #: src-en/data/events_special_storage.xml.append:171
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_DIAMOND\"]/choice[1]/event/text"
-msgstr "Votre Morphe reprend sa forme originale."
+msgstr "Votre Morphe retrouve sa forme originale."
 
 #: src-en/data/events_special_storage.xml.append:174
 msgid ""
@@ -206,7 +207,7 @@ msgstr "Réinitialiser votre Technomorphe Opérateur. [-2{]"
 #: src-en/data/events_special_storage.xml.append:195
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_MORPH_TRANSFORM_OUT_OPERATOR\"]/choice[1]/event/text"
-msgstr "Votre Technomorphe reprend sa forme originale."
+msgstr "Votre Technomorphe retrouve sa forme originale."
 
 #: src-en/data/events_special_storage.xml.append:198
 msgid ""
@@ -222,20 +223,20 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[1]/text"
-msgstr "(Bouclier du Bricoleur) Fabriquer et Améliorer des Drones."
+msgstr "(Bouclier du Bricoleur) Fabriquez et améliorez des drones."
 
 #: src-en/data/events_special_storage.xml.append:231
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[2]/text"
-msgstr "(Créateur de Chair) Entrez dans la chambre du Créateur de Chair."
+msgstr "(Façonneur de Chair) Entrez dans la chambre du Façonneur de Chair."
 
 #: src-en/data/events_special_storage.xml.append:237
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[3]/text"
 msgstr ""
-"(Boucliers d'Opulence) Nourrissez le bouclier avec de la ferraille, "
+"(Boucliers d'Opulence) Alimentez le bouclier avec de la ferraille, "
 "permettant divers résultats."
 
 #: src-en/data/events_special_storage.xml.append:243
@@ -243,14 +244,14 @@ msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[4]/text"
 msgstr ""
-"(Bouclier en Alliage) Sélectionnez le mode que le bouclier répliquera."
+"(Blindage en Alliage) Sélectionnez le mode que le bouclier répliquera."
 
 #: src-en/data/events_special_storage.xml.append:254
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_ALLOY_SHIELD\"]/text"
 msgstr ""
-"Quel augment de diamant métallique souhaitez-vous que le bouclier en alliage"
-" imite ?"
+"Quelle augmentation de diamant de métal souhaitez-vous que le blindage en "
+"alliage imite ?"
 
 #: src-en/data/events_special_storage.xml.append:256
 msgid ""
@@ -260,12 +261,12 @@ msgstr "Boucliers d'Opulence"
 #: src-en/data/events_special_storage.xml.append:262
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_ALLOY_SHIELD\"]/choice[2]/text"
-msgstr "Boucliers de l'Artificier"
+msgstr "Boucliers du Bricoleur"
 
 #: src-en/data/events_special_storage.xml.append:268
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_ALLOY_SHIELD\"]/choice[3]/text"
-msgstr "Créateur de Chair"
+msgstr "Façonneur de Chair"
 
 #: src-en/data/events_special_storage.xml.append:274
 msgid ""
@@ -288,7 +289,7 @@ msgstr "Fabriquer des Drones"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[1]/event/text"
 msgstr ""
-"Vous vérifiez vos plans pour voir si l'un des prototypes est utilisable"
+"Vous vérifiez vos plans pour voir si l'un des prototypes est utilisable."
 
 #: src-en/data/events_special_storage.xml.append:288
 msgid ""
@@ -304,8 +305,8 @@ msgstr "Améliorer les Drones"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[@req=\"FR_BLUELIST_COPPER_DRONES_INCOMPLETE\"]/event/text"
 msgstr ""
-"Vous examinez attentivement les drones que vous avez, leur conception peut "
-"sûrement être améliorée, n'est-ce pas ?"
+"Vous examinez attentivement les drones que vous avez sous la main, leur "
+"conception peut sûrement être améliorée, n'est-ce pas ?"
 
 #: src-en/data/events_special_storage.xml.append:300
 msgid ""
@@ -315,14 +316,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:308
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[3]/text"
-msgstr "Convertir les ressources en pièces de drone"
+msgstr "Transformez les ressources en pièces de drones."
 
 #: src-en/data/events_special_storage.xml.append:310
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_TINKERERS_SHIELD\"]/choice[3]/event/text"
 msgstr ""
-"Vous faites un inventaire de ce que vous avez disponible pour en faire des "
-"pièces de drone."
+"Vous faites un inventaire de ce que vous avez à disposition pour fabriquer "
+"des pièces de drones."
 
 #: src-en/data/events_special_storage.xml.append:312
 msgid ""
@@ -365,7 +366,7 @@ msgstr "Convertir les ressources en ferraille."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[2]/event/text"
 msgstr ""
-"Vous faites l'inventaire de toutes les ressources disponibles sur votre "
+"Vous faites un inventaire de toutes les ressources disponibles sur votre "
 "vaisseau pour voir ce que vous pouvez épargner."
 
 #: src-en/data/events_special_storage.xml.append:344
@@ -383,7 +384,7 @@ msgstr "Améliorer vos armes dorées."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"FR_BLUELIST_GOLDEN_WEAPONS_INCOMPLETE\""
 " and not(@lvl)]/event/text"
-msgstr "Vos armes ont faim, lesquelles allons-nous nourrir ?"
+msgstr "Vos armes ont faim, lesquelles allons-nous alimenter ?"
 
 #: src-en/data/events_special_storage.xml.append:356
 msgid ""
@@ -400,13 +401,13 @@ msgstr "Vous n'avez pas d'armes dorées à améliorer."
 #: src-en/data/events_special_storage.xml.append:368
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"FR_BLUELIST_GOLDEN_SHIELD_INCOMEPLETE\"]/text"
-msgstr "Améliorer votre bouclier énergétique doré."
+msgstr "Améliorer votre bouclier d'énergie doré."
 
 #: src-en/data/events_special_storage.xml.append:370
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"FR_BLUELIST_GOLDEN_SHIELD_INCOMEPLETE\"]/event/text"
 msgstr ""
-"Votre bouclier est vorace, allons-nous le nourrir pour qu'il devienne plus "
+"Votre bouclier est vorace, allons-nous l'alimenter pour qu'il devienne plus "
 "fort ?"
 
 #: src-en/data/events_special_storage.xml.append:372
@@ -417,7 +418,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:380
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_FR_GOLDEN_SHIELD\"]/choice[@req=\"FR_GOLDEN_SHIELD_11\"]/text"
-msgstr "Votre bouclier est au niveau maximum."
+msgstr "Votre bouclier est au niveau maximal."
 
 #: src-en/data/events_special_storage.xml.append:384
 msgid ""
@@ -432,12 +433,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:394
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/text"
-msgstr "Après mûre réflexion, vous êtes prêt à alimenter votre bouclier"
+msgstr "Après mûre réflexion, vous êtes prêt à alimenter votre bouclier."
 
 #: src-en/data/events_special_storage.xml.append:396
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[1]/text"
-msgstr "Fabriquer un laser doré basique."
+msgstr "Fabriquer un laser doré de base."
 
 #: src-en/data/events_special_storage.xml.append:402
 msgid ""
@@ -454,7 +455,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:410
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[2]/text"
-msgstr "Fabriquer un rayon doré basique."
+msgstr "Fabriquer un rayon doré de base."
 
 #: src-en/data/events_special_storage.xml.append:416
 msgid ""
@@ -471,7 +472,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[3]/text"
-msgstr "Fabriquer un ion doré basique."
+msgstr "Fabriquer un ion doré de base."
 
 #: src-en/data/events_special_storage.xml.append:430
 msgid ""
@@ -488,7 +489,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:438
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CRAFT\"]/choice[4]/text"
-msgstr "Fabriquer un lance-bombes doré basique."
+msgstr "Fabriquer un lance-bombes doré de base."
 
 #: src-en/data/events_special_storage.xml.append:444
 msgid ""
@@ -510,12 +511,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:460
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/text"
-msgstr "Que voudriez-vous faire ?"
+msgstr "Que souhaitez-vous faire ?"
 
 #: src-en/data/events_special_storage.xml.append:462
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_BEAM_1\"]/text"
-msgstr "Améliorer Désintégrateur Mk I -> Désintégrateur Mk II"
+msgstr "Améliorer Désintégrateur Ver. I -> Désintégrateur Ver. II"
 
 #: src-en/data/events_special_storage.xml.append:468
 msgid ""
@@ -530,7 +531,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:477
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_BEAM_2\"]/text"
-msgstr "Améliorer Désintégrateur Mk II -> Désintégrateur Mk III"
+msgstr "Améliorer Désintégrateur Ver. II -> Désintégrateur Ver. III"
 
 #: src-en/data/events_special_storage.xml.append:483
 msgid ""
@@ -545,7 +546,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:492
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_ION_1\"]/text"
-msgstr "Améliorer Plasma Doré Mk I -> Plasma Doré Mk II"
+msgstr "Améliorer Plasma Doré Ver. I -> Plasma Doré Ver. II"
 
 #: src-en/data/events_special_storage.xml.append:498
 msgid ""
@@ -560,7 +561,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:507
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_ION_2\"]/text"
-msgstr "Améliorer Plasma Doré Mk II -> Plasma Doré Mk III"
+msgstr "Améliorer Plasma Doré Ver. II -> Plasma Doré Ver. III"
 
 #: src-en/data/events_special_storage.xml.append:513
 msgid ""
@@ -575,7 +576,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:522
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_LASER_1\"]/text"
-msgstr "Améliorer Laser Éclat Doré Mk I -> Laser Éclat Doré Mk II"
+msgstr "Améliorer Laser Rafale Doré Ver. I -> Laser Rafale Doré Ver. II"
 
 #: src-en/data/events_special_storage.xml.append:528
 msgid ""
@@ -590,7 +591,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:537
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_LASER_2\"]/text"
-msgstr "Améliorer Laser Éclat Doré Mk II -> Laser Éclat Doré Mk III"
+msgstr "Améliorer Laser Rafale Doré Ver. II -> Laser Rafale Doré Ver. III"
 
 #: src-en/data/events_special_storage.xml.append:543
 msgid ""
@@ -605,7 +606,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:552
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_BOMB_1\"]/text"
-msgstr "Améliorer Lance-Bombes Doré Mk I -> Lance-Bombes Doré Mk II"
+msgstr "Améliorer Lance-bombes Doré Ver. I -> Lance-bombes Doré Ver. II"
 
 #: src-en/data/events_special_storage.xml.append:558
 msgid ""
@@ -620,7 +621,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:567
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_WEAPON_UPGRADE\"]/choice[@req=\"FR_GOLDEN_BOMB_2\"]/text"
-msgstr "Améliorer Lance-Bombes Doré Mk II -> Lance-Bombes Doré Mk III"
+msgstr "Améliorer Lance-bombes Doré Ver. II -> Lance-bombes Doré Ver. III"
 
 #: src-en/data/events_special_storage.xml.append:573
 msgid ""
@@ -640,13 +641,13 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:590
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/text"
-msgstr "Que voudriez-vous faire ?"
+msgstr "Que souhaitez-vous faire ?"
 
 #: src-en/data/events_special_storage.xml.append:592
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_1\"]/text"
 msgstr ""
-"Améliorer Niveau 1 -> Niveau 2 [Coûte 100~, +1 PV Bouclier Énergétique]"
+"Améliorer Niveau 1 -> Niveau 2 [Coûte 100~, +1 PV de Bouclier d'Énergie]"
 
 #: src-en/data/events_special_storage.xml.append:594
 msgid ""
@@ -672,7 +673,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_2\"]/text"
 msgstr ""
-"Améliorer Niveau 2 -> Niveau 3 [Coûte 100~, +1 PV Bouclier Énergétique]"
+"Améliorer Niveau 2 -> Niveau 3 [Coûte 100~, +1 PV de Bouclier d'Énergie]"
 
 #: src-en/data/events_special_storage.xml.append:615
 msgid ""
@@ -698,7 +699,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_3\"]/text"
 msgstr ""
-"Améliorer Niveau 3 -> Niveau 4 [Coûte 100~, +1 PV Bouclier Énergétique]"
+"Améliorer Niveau 3 -> Niveau 4 [Coûte 100~, +1 PV de Bouclier d'Énergie]"
 
 #: src-en/data/events_special_storage.xml.append:636
 msgid ""
@@ -724,7 +725,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_4\"]/text"
 msgstr ""
-"Améliorer Niveau 4 -> Niveau 5 [Coûte 100~, +1 PV Bouclier Énergétique]"
+"Améliorer Niveau 4 -> Niveau 5 [Coûte 100~, +1 PV de Bouclier d'Énergie]"
 
 #: src-en/data/events_special_storage.xml.append:657
 msgid ""
@@ -750,7 +751,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_5\"]/text"
 msgstr ""
-"Améliorer Niveau 5 -> Niveau 6 [Coûte 100~, +1 PV Bouclier Énergétique]"
+"Améliorer Niveau 5 -> Niveau 6 [Coûte 100~, +1 PV de Bouclier d'Énergie]"
 
 #: src-en/data/events_special_storage.xml.append:678
 msgid ""
@@ -776,7 +777,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_6\"]/text"
 msgstr ""
-"Améliorer Niveau 6 -> Niveau 7 [Coûte 100~, +1 PV Bouclier Énergétique]"
+"Améliorer Niveau 6 -> Niveau 7 [Coûte 100~, +1 PV de Bouclier d'Énergie]"
 
 #: src-en/data/events_special_storage.xml.append:699
 msgid ""
@@ -802,7 +803,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_7\"]/text"
 msgstr ""
-"Améliorer Niveau 7 -> Niveau 8 [Coûte 100~, +1 PV Bouclier Énergétique]"
+"Améliorer Niveau 7 -> Niveau 8 [Coûte 100~, +1 PV de Bouclier d'Énergie]"
 
 #: src-en/data/events_special_storage.xml.append:720
 msgid ""
@@ -828,7 +829,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_8\"]/text"
 msgstr ""
-"Améliorer Niveau 8 -> Niveau 9 [Coûte 100~, +1 PV Bouclier Énergétique]"
+"Améliorer Niveau 8 -> Niveau 9 [Coûte 100~, +1 PV de Bouclier d'Énergie]"
 
 #: src-en/data/events_special_storage.xml.append:741
 msgid ""
@@ -854,7 +855,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_9\"]/text"
 msgstr ""
-"Améliorer Niveau 9 -> Niveau 10 [Coûte 100~, +1 PV Bouclier Énergétique]"
+"Améliorer Niveau 9 -> Niveau 10 [Coûte 100~, +1 PV de Bouclier d'Énergie]"
 
 #: src-en/data/events_special_storage.xml.append:762
 msgid ""
@@ -880,7 +881,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_ES_UPGRADE\"]/choice[@req=\"FR_GOLDEN_SHIELD_10\"]/text"
 msgstr ""
-"Améliorer Niveau 10 -> Niveau 11 [Coûte 100~, +1 PV Bouclier Énergétique]"
+"Améliorer Niveau 10 -> Niveau 11 [Coûte 100~, +1 PV de Bouclier d'Énergie]"
 
 #: src-en/data/events_special_storage.xml.append:783
 msgid ""
@@ -910,12 +911,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:812
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/text"
-msgstr "Que voudriez-vous faire ?"
+msgstr "Que souhaitez-vous faire ?"
 
 #: src-en/data/events_special_storage.xml.append:814
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[1]/text"
-msgstr "Convertir 5 missiles en 15 ferraille."
+msgstr "Démonter 5 missiles pour obtenir 15 ferrailles."
 
 #: src-en/data/events_special_storage.xml.append:821
 msgid ""
@@ -930,7 +931,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:829
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[2]/text"
-msgstr "Convertir 10 missiles en 40 ferraille."
+msgstr "Démonter 10 missiles pour obtenir 40 ferrailles."
 
 #: src-en/data/events_special_storage.xml.append:836
 msgid ""
@@ -945,7 +946,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:844
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[3]/text"
-msgstr "Convertir 15 missiles en 60 ferraille."
+msgstr "Démonter 15 missiles pour obtenir 60 ferrailles."
 
 #: src-en/data/events_special_storage.xml.append:851
 msgid ""
@@ -960,12 +961,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:859
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[4]/text"
-msgstr "Convertir 5 pièces de drone en 20 ferraille."
+msgstr "Démonter 5 pièces de drones pour obtenir 20 ferrailles."
 
 #: src-en/data/events_special_storage.xml.append:866
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[4]/event/text"
-msgstr "Vous convertissez les pièces de drone en ferraille."
+msgstr "Vous convertissez les pièces de drones en ferraille."
 
 #: src-en/data/events_special_storage.xml.append:868
 msgid ""
@@ -975,12 +976,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:874
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[5]/text"
-msgstr "Convertir 10 pièces de drone en 50 ferraille."
+msgstr "Démonter 10 pièces de drones pour obtenir 50 ferrailles."
 
 #: src-en/data/events_special_storage.xml.append:881
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[5]/event/text"
-msgstr "Vous convertissez les pièces de drone en ferraille."
+msgstr "Vous convertissez les pièces de drones en ferraille."
 
 #: src-en/data/events_special_storage.xml.append:883
 msgid ""
@@ -990,12 +991,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:889
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[6]/text"
-msgstr "Convertir 15 pièces de drone en 80 ferraille."
+msgstr "Démonter 15 pièces de drones pour obtenir 80 ferrailles."
 
 #: src-en/data/events_special_storage.xml.append:896
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[6]/event/text"
-msgstr "Vous convertissez les pièces de drone en ferraille."
+msgstr "Vous convertissez les pièces de drones en ferraille."
 
 #: src-en/data/events_special_storage.xml.append:898
 msgid ""
@@ -1005,7 +1006,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:904
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[7]/text"
-msgstr "Convertir 5 carburant en 10 ferraille."
+msgstr "Démonter 5 carburants pour obtenir 10 ferrailles."
 
 #: src-en/data/events_special_storage.xml.append:911
 msgid ""
@@ -1020,7 +1021,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:919
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[8]/text"
-msgstr "Convertir 10 carburant en 25 ferraille."
+msgstr "Démonter 10 carburants pour obtenir 25 ferrailles."
 
 #: src-en/data/events_special_storage.xml.append:926
 msgid ""
@@ -1035,7 +1036,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:934
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_GOLDEN_SHIELD_CONVERT\"]/choice[9]/text"
-msgstr "Convertir 15 carburant en 40 ferraille."
+msgstr "Démonter 15 carburants pour obtenir 40 ferrailles."
 
 #: src-en/data/events_special_storage.xml.append:941
 msgid ""
@@ -1055,12 +1056,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:959
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/text"
-msgstr "Quel drone voudriez-vous améliorer ?"
+msgstr "Quel drone souhaitez-vous améliorer ?"
 
 #: src-en/data/events_special_storage.xml.append:961
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_LASER\"]/text"
-msgstr "Améliorer Drone Terminator Mk. I -> Drone Terminator Mk. II"
+msgstr "Améliorer Drone Terminator Ver. I -> Drone Terminator Ver. II"
 
 #: src-en/data/events_special_storage.xml.append:967
 msgid ""
@@ -1075,7 +1076,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:976
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_LASER_2\"]/text"
-msgstr "Améliorer Drone Terminator Mk. II -> Drone Terminator Mk. III"
+msgstr "Améliorer Drone Terminator Ver. II -> Drone Terminator Ver. III"
 
 #: src-en/data/events_special_storage.xml.append:982
 msgid ""
@@ -1090,7 +1091,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:991
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_LASER_3\"]/text"
-msgstr "Améliorer Drone Terminator Mk. III -> Drone Terminator Mk. IV"
+msgstr "Améliorer Drone Terminator Ver. III -> Drone Terminator Ver. IV"
 
 #: src-en/data/events_special_storage.xml.append:997
 msgid ""
@@ -1105,7 +1106,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1006
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_BEAM\"]/text"
-msgstr "Améliorer Drone Atomiseur Mk. I -> Drone Atomiseur Mk. II"
+msgstr "Améliorer Drone Atomiseur Ver. I -> Drone Atomiseur Ver. II"
 
 #: src-en/data/events_special_storage.xml.append:1012
 msgid ""
@@ -1120,7 +1121,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1021
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_BEAM_2\"]/text"
-msgstr "Améliorer Drone Atomiseur Mk. II -> Drone Atomiseur Mk. III"
+msgstr "Améliorer Drone Atomiseur Ver. II -> Drone Atomiseur Ver. III"
 
 #: src-en/data/events_special_storage.xml.append:1027
 msgid ""
@@ -1135,7 +1136,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1036
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_BEAM_3\"]/text"
-msgstr "Améliorer Drone Atomiseur Mk. III -> Drone Atomiseur Mk. IV"
+msgstr "Améliorer Drone Atomiseur Ver. III -> Drone Atomiseur Ver. IV"
 
 #: src-en/data/events_special_storage.xml.append:1042
 msgid ""
@@ -1150,7 +1151,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1051
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_MISSILE\"]/text"
-msgstr "Améliorer Drone Obliterator Mk. I -> Drone Obliterator Mk. II"
+msgstr "Améliorer Drone Obliterator Ver. I -> Drone Obliterator Ver. II"
 
 #: src-en/data/events_special_storage.xml.append:1057
 msgid ""
@@ -1165,7 +1166,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1066
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_ION\"]/text"
-msgstr "Améliorer Drone Neutralisateur Mk. I -> Drone Neutralisateur Mk. II"
+msgstr "Améliorer Drone Désactivateur Ver. I -> Drone Désactivateur Ver. II"
 
 #: src-en/data/events_special_storage.xml.append:1072
 msgid ""
@@ -1180,7 +1181,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1081
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_ION_2\"]/text"
-msgstr "Améliorer Drone Neutralisateur Mk. II -> Drone Neutralisateur Mk. III"
+msgstr "Améliorer Drone Désactivateur Ver. II -> Drone Désactivateur Ver. III"
 
 #: src-en/data/events_special_storage.xml.append:1087
 msgid ""
@@ -1195,7 +1196,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1096
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_COMBAT_ION_3\"]/text"
-msgstr "Améliorer Drone Neutralisateur Mk. III -> Drone Neutralisateur Mk. IV"
+msgstr "Améliorer Drone Désactivateur Ver. III -> Drone Désactivateur Ver. IV"
 
 #: src-en/data/events_special_storage.xml.append:1102
 msgid ""
@@ -1211,7 +1212,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_UPGRADE\"]/choice[@req=\"FR_COPPER_BOARDING_DRONE\"]/text"
 msgstr ""
-"Améliorer le Drone d'Abordage Cuivré Mk. I -> Drone d'Abordage Cuivré Mk. II"
+"Améliorer le Drone d'Abordage Cuivré Ver. I -> Drone d'Abordage Cuivré Ver. "
+"II"
 
 #: src-en/data/events_special_storage.xml.append:1117
 msgid ""
@@ -1244,7 +1246,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[1]/event/text"
 msgstr ""
 "Votre nouveau drone prend vie (métaphoriquement), et tous les tests "
-"ultérieurs se passent bien, Succès !"
+"ultérieurs se déroulent bien, Succès !"
 
 #: src-en/data/events_special_storage.xml.append:1142
 msgid ""
@@ -1261,7 +1263,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[2]/event/text"
 msgstr ""
 "Votre nouveau drone prend vie (métaphoriquement), et tous les tests "
-"ultérieurs se passent bien, Succès !"
+"ultérieurs se déroulent bien, Succès !"
 
 #: src-en/data/events_special_storage.xml.append:1156
 msgid ""
@@ -1278,7 +1280,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[3]/event/text"
 msgstr ""
 "Votre nouveau drone prend vie (métaphoriquement), et tous les tests "
-"ultérieurs se passent bien, Succès !"
+"ultérieurs se déroulent bien, Succès !"
 
 #: src-en/data/events_special_storage.xml.append:1170
 msgid ""
@@ -1288,14 +1290,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1176
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[4]/text"
-msgstr "Fabriquer le Drone Lance-Missiles Prototype"
+msgstr "Fabriquer le Drone Lance-missiles Prototype"
 
 #: src-en/data/events_special_storage.xml.append:1182
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[4]/event/text"
 msgstr ""
 "Votre nouveau drone prend vie (métaphoriquement), et tous les tests "
-"ultérieurs se passent bien, Succès !"
+"ultérieurs se déroulent bien, Succès !"
 
 #: src-en/data/events_special_storage.xml.append:1184
 msgid ""
@@ -1312,7 +1314,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[5]/event/text"
 msgstr ""
 "Votre nouveau drone prend vie (métaphoriquement), et tous les tests "
-"ultérieurs se passent bien, Succès !"
+"ultérieurs se déroulent bien, Succès !"
 
 #: src-en/data/events_special_storage.xml.append:1198
 msgid ""
@@ -1329,7 +1331,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[6]/event/text"
 msgstr ""
 "Votre nouveau drone prend vie (métaphoriquement), et tous les tests "
-"ultérieurs se passent bien, Succès !"
+"ultérieurs se déroulent bien, Succès !"
 
 #: src-en/data/events_special_storage.xml.append:1212
 msgid ""
@@ -1346,7 +1348,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CRAFT\"]/choice[7]/event/text"
 msgstr ""
 "Votre nouveau drone prend vie (métaphoriquement), et tous les tests "
-"ultérieurs se passent bien, Succès !"
+"ultérieurs se déroulent bien, Succès !"
 
 #: src-en/data/events_special_storage.xml.append:1226
 msgid ""
@@ -1361,17 +1363,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1238
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/text"
-msgstr "Que voudriez-vous faire ?"
+msgstr "Que souhaitez-vous faire ?"
 
 #: src-en/data/events_special_storage.xml.append:1240
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[1]/text"
-msgstr "Convertir 4 missiles en 2 pièces de drone."
+msgstr "Démonter 4 missiles pour obtenir 2 pièces de drones."
 
 #: src-en/data/events_special_storage.xml.append:1246
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[1]/event/text"
-msgstr "Vous convertissez les missiles en pièces de drone."
+msgstr "Vous convertissez les missiles en pièces de drones."
 
 #: src-en/data/events_special_storage.xml.append:1248
 msgid ""
@@ -1381,12 +1383,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1254
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[2]/text"
-msgstr "Convertir 8 missiles en 5 pièces de drone."
+msgstr "Démonter 8 missiles pour obtenir 5 pièces de drones."
 
 #: src-en/data/events_special_storage.xml.append:1260
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[2]/event/text"
-msgstr "Vous convertissez les missiles en pièces de drone."
+msgstr "Vous convertissez les missiles en pièces de drones."
 
 #: src-en/data/events_special_storage.xml.append:1262
 msgid ""
@@ -1396,12 +1398,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1268
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[3]/text"
-msgstr "Convertir 12 missiles en 10 pièces de drone."
+msgstr "Démonter 12 missiles pour obtenir 10 pièces de drones."
 
 #: src-en/data/events_special_storage.xml.append:1274
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[3]/event/text"
-msgstr "Vous convertissez les missiles en pièces de drone."
+msgstr "Vous convertissez les missiles en pièces de drones."
 
 #: src-en/data/events_special_storage.xml.append:1276
 msgid ""
@@ -1411,12 +1413,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1282
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[4]/text"
-msgstr "Convertir 6 carburant en 2 pièces de drone."
+msgstr "Démonter 6 carburants pour obtenir 2 pièces de drones."
 
 #: src-en/data/events_special_storage.xml.append:1288
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[4]/event/text"
-msgstr "Vous convertissez le carburant en pièces de drone."
+msgstr "Vous convertissez le carburant en pièces de drones."
 
 #: src-en/data/events_special_storage.xml.append:1290
 msgid ""
@@ -1426,12 +1428,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1296
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[5]/text"
-msgstr "Convertir 12 carburant en 5 pièces de drone."
+msgstr "Démonter 12 carburants pour obtenir 5 pièces de drones."
 
 #: src-en/data/events_special_storage.xml.append:1302
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[5]/event/text"
-msgstr "Vous convertissez le carburant en pièces de drone."
+msgstr "Vous convertissez le carburant en pièces de drones."
 
 #: src-en/data/events_special_storage.xml.append:1304
 msgid ""
@@ -1441,12 +1443,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1310
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[6]/text"
-msgstr "Convertir 18 carburant en 8 pièces de drone."
+msgstr "Démonter 18 carburants pour obtenir 8 pièces de drones."
 
 #: src-en/data/events_special_storage.xml.append:1316
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[6]/event/text"
-msgstr "Vous convertissez le carburant en pièces de drone."
+msgstr "Vous convertissez le carburant en pièces de drones."
 
 #: src-en/data/events_special_storage.xml.append:1318
 msgid ""
@@ -1456,12 +1458,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1324
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[7]/text"
-msgstr "Utiliser 10 ferraille pour créer 1 pièce de drone."
+msgstr "Utiliser 10 ferrailles pour fabriquer 1 pièce de drone."
 
 #: src-en/data/events_special_storage.xml.append:1330
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[7]/event/text"
-msgstr "Vous convertissez la ferraille en pièces de drone."
+msgstr "Vous convertissez la ferraille en pièces de drones."
 
 #: src-en/data/events_special_storage.xml.append:1332
 msgid ""
@@ -1471,12 +1473,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1338
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[8]/text"
-msgstr "Utiliser 50 ferraille pour créer 6 pièces de drone."
+msgstr "Utiliser 50 ferrailles pour fabriquer 6 pièces de drones."
 
 #: src-en/data/events_special_storage.xml.append:1344
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[8]/event/text"
-msgstr "Vous convertissez la ferraille en pièces de drone."
+msgstr "Vous convertissez la ferraille en pièces de drones."
 
 #: src-en/data/events_special_storage.xml.append:1346
 msgid ""
@@ -1486,12 +1488,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1352
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[9]/text"
-msgstr "Utiliser 100 ferraille pour créer 12 pièces de drone."
+msgstr "Utiliser 100 ferrailles pour fabriquer 12 pièces de drones."
 
 #: src-en/data/events_special_storage.xml.append:1358
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FR_TINKERERS_SHIELD_CONVERT\"]/choice[9]/event/text"
-msgstr "Vous convertissez la ferraille en pièces de drone."
+msgstr "Vous convertissez la ferraille en pièces de drones."
 
 #: src-en/data/events_special_storage.xml.append:1360
 msgid ""
@@ -1524,15 +1526,15 @@ msgstr "Vous consultez le menu du laboratoire pour : [DIAMANT]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[@req=\"FR_LAB_DIAMOND_FISTITUTE\"]/text"
 msgstr ""
-"Actuellement installé : Fistitude.\n"
-"\t\t[Les Diamants infligent le double de dégâts en combat en échange d'une perte de 90% de leur vitesse de réparation et de sabotage.]"
+"Actuellement installé : Pugilat.\n"
+"\t\t[Les Diamants infligent le double de dégâts au combat en échange de la perte de 90% de leur vitesse de réparation et de sabotage.]"
 
 #: src-en/data/events_special_storage.xml.append:1398
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[@req=\"FR_LAB_DIAMOND_SYSTEMIC\"]/text"
 msgstr ""
 "Actuellement installé : Systématique.\n"
-"\t\t[Les Diamants gagnent 50% de vitesse de déplacement et de dégâts en combat dans les salles de systèmes de leur propre vaisseau. Cependant, ils perdent 50% de dégâts et de vitesse de déplacement dans le vaisseau ennemi.]"
+"\t\t[Les Diamants gagnent 50% de vitesse de déplacement et de dégâts au combat dans les salles système de leur propre vaisseau. Cependant, ils perdent 50% de dégâts et de vitesse de déplacement dans le vaisseau ennemi.]"
 
 #: src-en/data/events_special_storage.xml.append:1403
 msgid ""
@@ -1549,32 +1551,32 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1412
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[5]/text"
-msgstr "Pri : Fistitude. [Une amélioration est déjà installée]"
+msgstr "Prim : Pugilat. [Une amélioration est déjà installée]"
 
 #: src-en/data/events_special_storage.xml.append:1416
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[6]/text"
-msgstr "Pri : Fistitude. [Coût : 100~]"
+msgstr "Prim : Pugilat. [Coût : 100~]"
 
 #: src-en/data/events_special_storage.xml.append:1420
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[7]/text"
-msgstr "Pri : Systématique. [Une amélioration est déjà installée]"
+msgstr "Prim : Systématique. [Une amélioration est déjà installée]"
 
 #: src-en/data/events_special_storage.xml.append:1424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[8]/text"
-msgstr "Pri : Systématique. [Coût : 50~, 6|]"
+msgstr "Prim : Systématique. [Coût : 50~, 6|]"
 
 #: src-en/data/events_special_storage.xml.append:1428
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[9]/text"
-msgstr "Pri : Nocif. [Une amélioration est déjà installée]"
+msgstr "Prim : Nocif. [Une amélioration est déjà installée]"
 
 #: src-en/data/events_special_storage.xml.append:1432
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND\"]/choice[10]/text"
-msgstr "Pri : Nocif. [Coût : 150~]"
+msgstr "Prim : Nocif. [Coût : 150~]"
 
 #: src-en/data/events_special_storage.xml.append:1436
 msgid ""
@@ -1585,10 +1587,10 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_FISTITUDE\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer la modification Fistitude.\n"
-"\t[Effets : Les Diamants infligent le double de dégâts en combat en échange d'une perte de 90% de leur vitesse de réparation et de sabotage.]\n"
+"Vous êtes sur le point d'installer la modification Pugilat.\n"
+"\t[Effets : Les Diamants infligent le double de dégâts au combat en échange de la perte de 90% de leur vitesse de réparation et de sabotage.]\n"
 "\t\n"
-"\t[Avertissement : Après l'installation, vous ne pourrez plus installer d'autres améliorations primaires pour les membres d'équipage Diamants. Vous ne pourrez pas non plus désactiver ce mod.]"
+"\t[Attention : Après l'installation de ceci, vous ne pourrez plus installer d'autres améliorations primaires pour l'équipage Diamant. Vous ne pourrez pas non plus désactiver ce mod.]"
 
 #: src-en/data/events_special_storage.xml.append:1447
 msgid ""
@@ -1615,9 +1617,9 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_DIAMOND_SYSTEMIC\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer la modification Systématique.\n"
-"\t[Effets : Les Diamants gagnent 50% de vitesse de déplacement et de dégâts en combat dans les salles de systèmes de leur propre vaisseau. Cependant, ils perdent 50% de dégâts et de vitesse de déplacement dans le vaisseau ennemi.]\n"
+"\t[Effets : Les Diamants gagnent 50% de vitesse de déplacement et de dégâts au combat dans les salles système de leur propre vaisseau. Cependant, ils perdent 50% de dégâts et de vitesse de déplacement dans le vaisseau ennemi.]\n"
 "\t\n"
-"\t[Avertissement : Après l'installation, vous ne pourrez plus installer d'autres améliorations primaires pour les membres d'équipage Diamants. Vous ne pourrez pas non plus désactiver ce mod.]"
+"\t[Attention : Après l'installation de ceci, vous ne pourrez plus installer d'autres améliorations primaires pour l'équipage Diamant. Vous ne pourrez pas non plus désactiver ce mod.]"
 
 #: src-en/data/events_special_storage.xml.append:1474
 msgid ""
@@ -1646,7 +1648,7 @@ msgstr ""
 "Vous êtes sur le point d'installer la modification Nocif.\n"
 "\t[Effets : Les Diamants perdent la capacité de combattre l'équipage mais gagnent une aura infligeant 3 PV/s à tous les ennemis non-diamants dans le même vaisseau qu'eux.]\n"
 "\t\n"
-"\t[Avertissement : Après l'installation, vous ne pourrez plus installer d'autres améliorations primaires pour les membres d'équipage Diamants. Vous ne pourrez pas non plus désactiver ce mod.]"
+"\t[Attention : Après l'installation de ceci, vous ne pourrez plus installer d'autres améliorations primaires pour l'équipage Diamant. Vous ne pourrez pas non plus désactiver ce mod.]"
 
 #: src-en/data/events_special_storage.xml.append:1502
 msgid ""
@@ -1678,21 +1680,21 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[@req=\"FR_LAB_OPERATOR_PACIFISM_PROTOCOLS\"]/text"
 msgstr ""
 "Actuellement installé : Protocoles de Pacifisme.\n"
-"\t\t[Les Opérateurs perdent la capacité de combattre ou de saboter mais empêcheront tout combat et sabotage d'équipage tant qu'ils se trouvent dans la même pièce qu'eux.]"
+"\t\t[Les Opérateurs perdent la capacité de combattre ou de saboter mais empêcheront tout combat d'équipage et sabotage tant qu'ils se trouvent dans la même pièce.]"
 
 #: src-en/data/events_special_storage.xml.append:1531
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[@req=\"FR_LAB_OPERATOR_BIO_PROTOCOLS\"]/text"
 msgstr ""
-"Actuellement installé : Protocoles Anti-Bio.\n"
-"\t\t[Les Opérateurs perdent 50% de leurs dégâts et affaibliront fortement l'équipage ennemi dans la même pièce qu'eux, réduisant leurs dégâts de 15% et annulant toute téléportation et guérison à bord, ainsi qu'empêchant l'équipage tué dans la même pièce qu'eux d'être cloné.]"
+"Actuellement installé : Protocoles Anti-Biologiques.\n"
+"\t\t[Les Opérateurs perdent 50% de leurs dégâts et affaibliront fortement l'équipage ennemi dans la même pièce qu'eux, réduisant leurs dégâts de 15% et annulant toute téléportation et soin à bord, ainsi qu'empêchant l'équipage tué dans la même pièce qu'eux d'être cloné.]"
 
 #: src-en/data/events_special_storage.xml.append:1536
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[@req=\"FR_LAB_OPERATOR_BEACON_PROTOCOLS\"]/text"
 msgstr ""
 "Actuellement installé : Protocoles de Balise.\n"
-"\t\t[Les Opérateurs perdent 50% de leur santé et subissent 25% de dégâts supplémentaires en échange de servir de balise de téléportation mobile, permettant à tout équipage ami dans la même pièce qu'eux de se téléporter vers n'importe quelle pièce désirée, même de se téléporter directement vers les vaisseaux ennemis.]"
+"\t\t[Les Opérateurs perdent 50% de leur santé et subissent 25% de dégâts supplémentaires en échange de servir de balise de téléportation mobile, permettant à tout équipage ami dans la même pièce qu'eux de se téléporter vers n'importe quelle pièce qu'il désire, même en se téléportant directement vers les vaisseaux ennemis.]"
 
 #: src-en/data/events_special_storage.xml.append:1541
 msgid ""
@@ -1702,32 +1704,33 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1545
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[5]/text"
-msgstr "Pri : Protocoles de Pacifisme. [Une amélioration est déjà installée]"
+msgstr "Prim : Protocoles de Pacifisme. [Une amélioration est déjà installée]"
 
 #: src-en/data/events_special_storage.xml.append:1549
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[6]/text"
-msgstr "Pri : Protocoles de Pacifisme. [Coût : 25~]"
+msgstr "Prim : Protocoles de Pacifisme. [Coût : 25~]"
 
 #: src-en/data/events_special_storage.xml.append:1553
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[7]/text"
-msgstr "Pri : Protocoles Anti-Bio. [Une amélioration est déjà installée]"
+msgstr ""
+"Prim : Protocoles Anti-Biologiques. [Une amélioration est déjà installée]"
 
 #: src-en/data/events_special_storage.xml.append:1557
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[8]/text"
-msgstr "Pri : Protocoles Anti-Bio. [Coût : 30~, 10|]"
+msgstr "Prim : Protocoles Anti-Biologiques. [Coût : 30~, 10|]"
 
 #: src-en/data/events_special_storage.xml.append:1561
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[9]/text"
-msgstr "Pri : Protocoles de Balise. [Une amélioration est déjà installée]"
+msgstr "Prim : Protocoles de Balise. [Une amélioration est déjà installée]"
 
 #: src-en/data/events_special_storage.xml.append:1565
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR\"]/choice[10]/text"
-msgstr "Pri : Protocoles de Balise. [Coût : 15{]"
+msgstr "Prim : Protocoles de Balise. [Coût : 15{]"
 
 #: src-en/data/events_special_storage.xml.append:1569
 msgid ""
@@ -1739,9 +1742,9 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_PACIFISM_PROTOCOLS\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer les Protocoles de Pacifisme.\n"
-"\t[Effets : Les Opérateurs perdent la capacité de combattre ou de saboter mais empêcheront tout combat et sabotage d'équipage tant qu'ils se trouvent dans la même pièce qu'eux.]\n"
+"\t[Effets : Les Opérateurs perdent la capacité de combattre ou de saboter mais empêcheront tout combat d'équipage et sabotage tant qu'ils se trouvent dans la même pièce.]\n"
 "\t\n"
-"\t[Avertissement : Après l'installation, vous ne pourrez plus installer d'autres améliorations primaires pour votre équipage d'Opérateurs. Vous ne pourrez pas non plus désactiver ce mod.]"
+"\t[Attention : Après l'installation de ceci, vous ne pourrez plus installer d'autres améliorations primaires pour votre équipage Opérateur. Vous ne pourrez pas non plus désactiver ce mod.]"
 
 #: src-en/data/events_special_storage.xml.append:1580
 msgid ""
@@ -1767,10 +1770,10 @@ msgstr "Tant pis."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BIO_PROTOCOLS\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer la modification Protocoles Anti-Bio.\n"
-"\t[Effets : Les Opérateurs perdent 50% de leurs dégâts et affaibliront fortement l'équipage ennemi dans la même pièce qu'eux, réduisant leurs dégâts de 15% et annulant toute téléportation et guérison à bord, ainsi qu'empêchant l'équipage tué dans la même pièce qu'eux d'être cloné.]\n"
+"Vous êtes sur le point d'installer la modification Protocoles Anti-Biologiques.\n"
+"\t[Effets : Les Opérateurs perdent 50% de leurs dégâts et affaibliront fortement l'équipage ennemi dans la même pièce qu'eux, réduisant leurs dégâts de 15% et annulant toute téléportation et soin à bord, ainsi qu'empêchant l'équipage tué dans la même pièce qu'eux d'être cloné.]\n"
 "\t\n"
-"\t[Avertissement : Après l'installation, vous ne pourrez plus installer d'autres améliorations primaires pour votre équipage d'Opérateurs. Vous ne pourrez pas non plus désactiver ce mod.]"
+"\t[Attention : Après l'installation de ceci, vous ne pourrez plus installer d'autres améliorations primaires pour votre équipage Opérateur. Vous ne pourrez pas non plus désactiver ce mod.]"
 
 #: src-en/data/events_special_storage.xml.append:1607
 msgid ""
@@ -1797,9 +1800,9 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_FR_OPERATOR_BEACON_PROTOCOLS\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer la modification Protocoles de Balise.\n"
-"\t[Effets : Les Opérateurs perdent 50% de leur santé et subissent 25% de dégâts supplémentaires en échange de servir de balise de téléportation mobile, permettant à tout équipage ami dans la même pièce qu'eux de se téléporter vers n'importe quelle pièce désirée, même de se téléporter directement vers les vaisseaux ennemis.]\n"
+"\t[Effets : Les Opérateurs perdent 50% de leur santé et subissent 25% de dégâts supplémentaires en échange de servir de balise de téléportation mobile, permettant à tout équipage ami dans la même pièce qu'eux de se téléporter vers n'importe quelle pièce qu'il désire, même en se téléportant directement vers les vaisseaux ennemis.]\n"
 "\t\n"
-"\t[Avertissement : Après l'installation, vous ne pourrez plus installer d'autres améliorations primaires pour votre équipage d'Opérateurs. Vous ne pourrez pas non plus désactiver ce mod.]"
+"\t[Attention : Après l'installation de ceci, vous ne pourrez plus installer d'autres améliorations primaires pour votre équipage Opérateur. Vous ne pourrez pas non plus désactiver ce mod.]"
 
 #: src-en/data/events_special_storage.xml.append:1635
 msgid ""
