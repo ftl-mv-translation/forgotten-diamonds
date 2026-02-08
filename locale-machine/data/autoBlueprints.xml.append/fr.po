@@ -18,7 +18,7 @@ msgstr "Croiseur Pyramide Métallique"
 #: src-en/data/autoBlueprints.xml.append:585
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_BOSS_QUEST_OPERATOR_CRUISER\"]/class"
-msgstr "Vaisseau de Cuivre ?"
+msgstr "Vaisseau Cuivré ?"
 
 #: src-en/data/autoBlueprints.xml.append:629
 msgid ""
