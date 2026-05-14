@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-15 11:12+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgotten-"
 "diamonds/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -14,10 +14,9 @@ msgstr ""
 "X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/blueprints.xml.append:19
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_blob_diamond\"]/powerList/power[1]"
-msgstr "Имитирует: Все металлические алмазы (при половинной мощности)"
+msgstr "Имитирует: Золотой алмаз"
 
 #: src-en/data/blueprints.xml.append:25
 msgid ""
@@ -271,8 +270,8 @@ msgstr "Невосприимчив к удушью и огню."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_techno_operator\"]/powerList/power[1]"
 msgstr ""
-"Имитирует: Всех металлических операторов, работает при половинной мощности "
-"(Странно, что Техноморф не изменил свой цвет на привычный зеленый)"
+"Имитирует: Золотой оператор (Странно, что Техноморф не изменил свой цвет на "
+"привычный зеленый)"
 
 #: src-en/data/blueprints.xml.append:135
 msgid ""
@@ -1456,7 +1455,8 @@ msgstr "Мед. аборд. II"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE_2\"]/desc"
 msgstr ""
-"Мощный абордажный дрон, способный разжигать столько пожаров, сколько ему нужно.\n"
+"Мощный абордажный дрон, способный разжигать столько пожаров, сколько ему "
+"нужно.\n"
 "    \n"
 "-Периодическая способность: Начинает пожар в текущем отсеке.\n"
 "-200 ОЗ, 0.8х скорость передвижения.\n"
