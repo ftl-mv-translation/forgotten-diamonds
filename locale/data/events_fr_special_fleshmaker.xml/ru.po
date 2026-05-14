@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-05-15 11:12+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/forgotten-"
+"diamonds/dataevents_fr_special_fleshmakerxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4
 msgid ""
@@ -142,7 +150,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:95
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_VICTOR_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:103
 msgid ""
@@ -157,7 +165,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:108
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ROCKMORE_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:116
 msgid ""
@@ -172,7 +180,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:121
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_JON_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:129
 msgid ""
@@ -187,7 +195,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:134
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PURPLEBEARD_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:142
 msgid ""
@@ -202,7 +210,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:147
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MESSENGER_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:155
 msgid ""
@@ -236,7 +244,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:173
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_VANCE_ONE_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:181
 msgid ""
@@ -866,6 +874,7 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:608
+#, fuzzy
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ANOINTED_LIST\"]/text"
 msgstr "Зарегистрировать в базе данных Помазанницу"
@@ -3804,7 +3813,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2615
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CHAOS_REVENANTFROSTWALL_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2623
 msgid ""
@@ -3819,7 +3828,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2628
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_CHAOS_REVENANTDEATHBLOOM_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2636
 msgid ""
@@ -4157,7 +4166,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2862
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_DAISY_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2870
 msgid ""
@@ -4172,7 +4181,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2875
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MAFAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2883
 msgid ""
@@ -4187,7 +4196,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2888
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_INFERNUM_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2896
 msgid ""
@@ -4202,7 +4211,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2901
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_TOTALITY_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2910
 msgid ""
@@ -4217,7 +4226,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2915
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PROPHET_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2923
 msgid ""
@@ -4232,7 +4241,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:2928
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_EGGMAN_LIST\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:2936
 msgid ""
@@ -4796,6 +4805,7 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:3301
+#, fuzzy
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_anointed\"]/text"
 msgstr "Создать Помазанницу"
@@ -5994,11 +6004,14 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_mafan\"]/event/text"
 msgstr ""
+"Ваш новый член экипажа выходит из машины, вы позаботились о том, чтобы "
+"вживить ему синтетические воспоминания, так что он будет служить вам "
+"беспрекословно."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4051
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_UNIQUE\"]/choice[@req=\"fleshmaker_scan_mafan\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4057
 msgid ""
@@ -6313,11 +6326,14 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_infernum\"]/event/text"
 msgstr ""
+"Ваш новый член экипажа выходит из машины, вы позаботились о том, чтобы "
+"вживить ему синтетические воспоминания, так что он будет служить вам "
+"беспрекословно."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4285
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_ELITE\"]/choice[@req=\"fleshmaker_scan_infernum\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:4291
 msgid ""
@@ -7954,11 +7970,14 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_chaos_revenantfrostwall\"]/event/text"
 msgstr ""
+"Ваш новый член экипажа выходит из машины, вы позаботились о том, чтобы "
+"вживить ему синтетические воспоминания, так что он будет служить вам "
+"беспрекословно."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5533
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_chaos_revenantfrostwall\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5539
 msgid ""
@@ -7974,11 +7993,14 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_chaos_revenantdeathbloom\"]/event/text"
 msgstr ""
+"Ваш новый член экипажа выходит из машины, вы позаботились о том, чтобы "
+"вживить ему синтетические воспоминания, так что он будет служить вам "
+"беспрекословно."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5547
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_chaos_revenantdeathbloom\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5553
 msgid ""
@@ -8462,11 +8484,14 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_vance_one\"]/event/text"
 msgstr ""
+"Ваш новый член экипажа выходит из машины, вы позаботились о том, чтобы "
+"вживить ему синтетические воспоминания, так что он будет служить вам "
+"беспрекословно."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5869
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_vance_one\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5875
 msgid ""
@@ -8481,11 +8506,14 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_daisy\"]/event/text"
 msgstr ""
+"Ваш новый член экипажа выходит из машины, вы позаботились о том, чтобы "
+"вживить ему синтетические воспоминания, так что он будет служить вам "
+"беспрекословно."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5883
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_daisy\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5889
 msgid ""
@@ -8500,11 +8528,14 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_victor\"]/event/text"
 msgstr ""
+"Ваш новый член экипажа выходит из машины, вы позаботились о том, чтобы "
+"вживить ему синтетические воспоминания, так что он будет служить вам "
+"беспрекословно."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5897
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_victor\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5903
 msgid ""
@@ -8520,11 +8551,14 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_rockmore\"]/event/text"
 msgstr ""
+"Ваш новый член экипажа выходит из машины, вы позаботились о том, чтобы "
+"вживить ему синтетические воспоминания, так что он будет служить вам "
+"беспрекословно."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5911
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_rockmore\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5917
 msgid ""
@@ -8539,11 +8573,14 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_jon\"]/event/text"
 msgstr ""
+"Ваш новый член экипажа выходит из машины, вы позаботились о том, чтобы "
+"вживить ему синтетические воспоминания, так что он будет служить вам "
+"беспрекословно."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5925
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_jon\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5931
 msgid ""
@@ -8560,11 +8597,14 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_purplebeard\"]/event/text"
 msgstr ""
+"Ваш новый член экипажа выходит из машины, вы позаботились о том, чтобы "
+"вживить ему синтетические воспоминания, так что он будет служить вам "
+"беспрекословно."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5939
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_purplebeard\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5945
 msgid ""
@@ -8575,11 +8615,14 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_messenger\"]/event/text"
 msgstr ""
+"Ваш новый член экипажа выходит из машины, вы позаботились о том, чтобы "
+"вживить ему синтетические воспоминания, так что он будет служить вам "
+"беспрекословно."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5953
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_messenger\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5959
 msgid ""
@@ -8590,11 +8633,14 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_totality\"]/event/text"
 msgstr ""
+"Ваш новый член экипажа выходит из машины, вы позаботились о том, чтобы "
+"вживить ему синтетические воспоминания, так что он будет служить вам "
+"беспрекословно."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5967
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_totality\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5974
 msgid ""
@@ -8611,11 +8657,14 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_prophet\"]/event/text"
 msgstr ""
+"Ваш новый член экипажа выходит из машины, вы позаботились о том, чтобы "
+"вживить ему синтетические воспоминания, так что он будет служить вам "
+"беспрекословно."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5982
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_prophet\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5988
 msgid ""
@@ -8632,11 +8681,14 @@ msgstr ""
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_eggman\"]/event/text"
 msgstr ""
+"Ваш новый член экипажа выходит из машины, вы позаботились о том, чтобы "
+"вживить ему синтетические воспоминания, так что он будет служить вам "
+"беспрекословно."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:5996
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_CREATE_SPECIAL\"]/choice[@req=\"fleshmaker_scan_eggman\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:6002
 msgid ""
