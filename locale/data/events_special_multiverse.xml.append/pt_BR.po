@@ -50,284 +50,300 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:99
+#: src-en/data/events_special_multiverse.xml.append:101
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:102
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:104
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:103
+#: src-en/data/events_special_multiverse.xml.append:108
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_multiverse.xml.append:105
+#: src-en/data/events_special_multiverse.xml.append:110
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:107
+#: src-en/data/events_special_multiverse.xml.append:112
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:109
+#: src-en/data/events_special_multiverse.xml.append:114
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:112
+#: src-en/data/events_special_multiverse.xml.append:117
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_multiverse.xml.append:118
+#: src-en/data/events_special_multiverse.xml.append:123
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:120
+#: src-en/data/events_special_multiverse.xml.append:125
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:127
+#: src-en/data/events_special_multiverse.xml.append:132
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:135
+#: src-en/data/events_special_multiverse.xml.append:140
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:139
+#: src-en/data/events_special_multiverse.xml.append:144
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_multiverse.xml.append:141
+#: src-en/data/events_special_multiverse.xml.append:146
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:143
+#: src-en/data/events_special_multiverse.xml.append:148
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:145
+#: src-en/data/events_special_multiverse.xml.append:150
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:148
+#: src-en/data/events_special_multiverse.xml.append:153
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_multiverse.xml.append:154
+#: src-en/data/events_special_multiverse.xml.append:172
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:162
+#: src-en/data/events_special_multiverse.xml.append:180
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:166
+#: src-en/data/events_special_multiverse.xml.append:184
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_multiverse.xml.append:168
+#: src-en/data/events_special_multiverse.xml.append:186
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:170
+#: src-en/data/events_special_multiverse.xml.append:188
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:172
+#: src-en/data/events_special_multiverse.xml.append:190
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:175
+#: src-en/data/events_special_multiverse.xml.append:193
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_multiverse.xml.append:181
+#: src-en/data/events_special_multiverse.xml.append:210
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[@req=\"BRIBE_CHAOS\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:214
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:189
+#: src-en/data/events_special_multiverse.xml.append:222
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DESTROYED\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:193
+#: src-en/data/events_special_multiverse.xml.append:226
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DESTROYED\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_multiverse.xml.append:200
+#: src-en/data/events_special_multiverse.xml.append:233
 msgid ""
 "data/events_special_multiverse.xml.append$//eventList[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DROP_CHANCE\"]/event[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:207
+#: src-en/data/events_special_multiverse.xml.append:240
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DEADCREW\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:211
+#: src-en/data/events_special_multiverse.xml.append:244
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DEADCREW\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_multiverse.xml.append:217
+#: src-en/data/events_special_multiverse.xml.append:250
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DROP\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:224
+#: src-en/data/events_special_multiverse.xml.append:257
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DESTROYED_CHAOS\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:228
+#: src-en/data/events_special_multiverse.xml.append:261
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DESTROYED_CHAOS\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_multiverse.xml.append:235
+#: src-en/data/events_special_multiverse.xml.append:268
 msgid ""
 "data/events_special_multiverse.xml.append$//eventList[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DROP_CHANCE_CHAOS\"]/event[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:242
+#: src-en/data/events_special_multiverse.xml.append:275
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DEADCREW_CHAOS\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:246
+#: src-en/data/events_special_multiverse.xml.append:279
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DEADCREW_CHAOS\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_multiverse.xml.append:252
+#: src-en/data/events_special_multiverse.xml.append:285
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DROP_CHAOS\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:266
+#: src-en/data/events_special_multiverse.xml.append:299
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:268
+#: src-en/data/events_special_multiverse.xml.append:301
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:272
+#: src-en/data/events_special_multiverse.xml.append:305
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_multiverse.xml.append:278
+#: src-en/data/events_special_multiverse.xml.append:311
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:280
+#: src-en/data/events_special_multiverse.xml.append:313
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:284
+#: src-en/data/events_special_multiverse.xml.append:317
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_multiverse.xml.append:290
+#: src-en/data/events_special_multiverse.xml.append:323
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:292
+#: src-en/data/events_special_multiverse.xml.append:325
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:296
+#: src-en/data/events_special_multiverse.xml.append:329
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[3]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_multiverse.xml.append:305
+#: src-en/data/events_special_multiverse.xml.append:338
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:307
+#: src-en/data/events_special_multiverse.xml.append:340
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:311
+#: src-en/data/events_special_multiverse.xml.append:344
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_multiverse.xml.append:317
+#: src-en/data/events_special_multiverse.xml.append:350
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:319
+#: src-en/data/events_special_multiverse.xml.append:352
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:323
+#: src-en/data/events_special_multiverse.xml.append:356
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_multiverse.xml.append:329
+#: src-en/data/events_special_multiverse.xml.append:362
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:331
+#: src-en/data/events_special_multiverse.xml.append:364
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_multiverse.xml.append:335
+#: src-en/data/events_special_multiverse.xml.append:368
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[3]/event/choice/text"

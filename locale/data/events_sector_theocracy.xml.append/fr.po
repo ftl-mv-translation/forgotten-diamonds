@@ -110,7 +110,7 @@ msgid ""
 "@lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:62
+#: src-en/data/events_sector_theocracy.xml.append:60
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and "
@@ -118,63 +118,77 @@ msgid ""
 msgstr ""
 "Vous ne pouvez pas cloner votre membre d'équipage, car il n'est pas mort."
 
-#: src-en/data/events_sector_theocracy.xml.append:80
+#: src-en/data/events_sector_theocracy.xml.append:63
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and "
+"@lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:65
+msgid ""
+"data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
+" and "
+"@lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_theocracy.xml.append:86
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and @lvl=\"0\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:84
+#: src-en/data/events_sector_theocracy.xml.append:90
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:86
+#: src-en/data/events_sector_theocracy.xml.append:92
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:89
+#: src-en/data/events_sector_theocracy.xml.append:95
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[3]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_theocracy.xml.append:95
+#: src-en/data/events_sector_theocracy.xml.append:101
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:97
+#: src-en/data/events_sector_theocracy.xml.append:103
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[4]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:105
+#: src-en/data/events_sector_theocracy.xml.append:111
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:107
+#: src-en/data/events_sector_theocracy.xml.append:113
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:109
+#: src-en/data/events_sector_theocracy.xml.append:115
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/choice[1]/text"
 msgstr "Faire quelque chose à bord du vaisseau."
 
-#: src-en/data/events_sector_theocracy.xml.append:113
+#: src-en/data/events_sector_theocracy.xml.append:119
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[2]/event/choice[2]/text"
 msgstr "Ne rien faire."
 
-#: src-en/data/events_sector_theocracy.xml.append:121
+#: src-en/data/events_sector_theocracy.xml.append:127
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_CREWKILL\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_theocracy.xml.append:125
+#: src-en/data/events_sector_theocracy.xml.append:131
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_CREWKILL\"]/choice/text"
 msgstr ""

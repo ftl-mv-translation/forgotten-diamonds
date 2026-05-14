@@ -61,7 +61,17 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_NORMAL\"]/choice/event/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
 msgstr "Use your blessing to avoid combat."
 
-#: src-en/data/events_special_multiverse.xml.append:99
+#: src-en/data/events_special_multiverse.xml.append:101
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/beaconType/unvisitedTooltip"
+msgstr "This is the location of abnormal energy signatures. [Metal Pyramid A]"
+
+#: src-en/data/events_special_multiverse.xml.append:102
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_special_multiverse.xml.append:104
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/text"
 msgstr ""
@@ -70,12 +80,12 @@ msgstr ""
 "format does make it look somewhat threatening. The captain of this peculiar "
 "vessel hails you."
 
-#: src-en/data/events_special_multiverse.xml.append:103
+#: src-en/data/events_special_multiverse.xml.append:108
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_multiverse.xml.append:105
+#: src-en/data/events_special_multiverse.xml.append:110
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/text"
 msgstr ""
@@ -84,40 +94,40 @@ msgstr ""
 "p-please leave, I don't want to...W-wait... I.. I "
 "can...See...Scrap...I...need it...\""
 
-#: src-en/data/events_special_multiverse.xml.append:107
+#: src-en/data/events_special_multiverse.xml.append:112
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[1]/text"
 msgstr "Prepare to fight!"
 
-#: src-en/data/events_special_multiverse.xml.append:109
+#: src-en/data/events_special_multiverse.xml.append:114
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[1]/event/text"
 msgstr ""
 "\"YOUR SHIP! IT HAS SCRAP! SHINY SHINY SHINY SCRAP! MAKE BLINDING GO AWAY!\""
 
-#: src-en/data/events_special_multiverse.xml.append:112
+#: src-en/data/events_special_multiverse.xml.append:117
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[1]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_multiverse.xml.append:118
+#: src-en/data/events_special_multiverse.xml.append:123
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[2]/text"
 msgstr "Distract the captain with some scrap."
 
-#: src-en/data/events_special_multiverse.xml.append:120
+#: src-en/data/events_special_multiverse.xml.append:125
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[2]/event/text"
 msgstr ""
 "You throw a bunch of scrap out of the airlock and set your engines to jump "
 "away as soon as possible."
 
-#: src-en/data/events_special_multiverse.xml.append:127
+#: src-en/data/events_special_multiverse.xml.append:132
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/choice/event/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
 msgstr "Use your blessing to avoid combat."
 
-#: src-en/data/events_special_multiverse.xml.append:135
+#: src-en/data/events_special_multiverse.xml.append:140
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/text"
 msgstr ""
@@ -126,12 +136,12 @@ msgstr ""
 "format does make it look somewhat threatening. The captain of this peculiar "
 "vessel hails you."
 
-#: src-en/data/events_special_multiverse.xml.append:139
+#: src-en/data/events_special_multiverse.xml.append:144
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_multiverse.xml.append:141
+#: src-en/data/events_special_multiverse.xml.append:146
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/text"
 msgstr ""
@@ -140,28 +150,28 @@ msgstr ""
 "p-please leave, I don't want to...W-wait... I.. I "
 "can...See...Scrap...I...need it...\""
 
-#: src-en/data/events_special_multiverse.xml.append:143
+#: src-en/data/events_special_multiverse.xml.append:148
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/choice[1]/text"
 msgstr "Prepare to fight!"
 
-#: src-en/data/events_special_multiverse.xml.append:145
+#: src-en/data/events_special_multiverse.xml.append:150
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/choice[1]/event/text"
 msgstr ""
 "\"YOUR SHIP! IT HAS SCRAP! SHINY SHINY SHINY SCRAP! MAKE BLINDING GO AWAY!\""
 
-#: src-en/data/events_special_multiverse.xml.append:148
+#: src-en/data/events_special_multiverse.xml.append:153
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/choice[1]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_multiverse.xml.append:154
+#: src-en/data/events_special_multiverse.xml.append:172
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_EXTREME\"]/choice/event/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
 msgstr "Use your blessing to avoid combat."
 
-#: src-en/data/events_special_multiverse.xml.append:162
+#: src-en/data/events_special_multiverse.xml.append:180
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/text"
 msgstr ""
@@ -170,12 +180,12 @@ msgstr ""
 "format does make it look somewhat threatening. The captain of this peculiar "
 "vessel hails you."
 
-#: src-en/data/events_special_multiverse.xml.append:166
+#: src-en/data/events_special_multiverse.xml.append:184
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_multiverse.xml.append:168
+#: src-en/data/events_special_multiverse.xml.append:186
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/text"
 msgstr ""
@@ -184,40 +194,46 @@ msgstr ""
 "p-please leave, I don't want to...W-wait... I.. I "
 "can...See...Scrap...I...need it...\""
 
-#: src-en/data/events_special_multiverse.xml.append:170
+#: src-en/data/events_special_multiverse.xml.append:188
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[1]/text"
 msgstr "Prepare to fight!"
 
-#: src-en/data/events_special_multiverse.xml.append:172
+#: src-en/data/events_special_multiverse.xml.append:190
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[1]/event/text"
 msgstr ""
 "\"YOUR SHIP! IT HAS SCRAP! SHINY SHINY SHINY SCRAP! MAKE BLINDING GO AWAY!\""
 
-#: src-en/data/events_special_multiverse.xml.append:175
+#: src-en/data/events_special_multiverse.xml.append:193
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[1]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_multiverse.xml.append:181
+#: src-en/data/events_special_multiverse.xml.append:210
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[@req=\"BRIBE_CHAOS\""
+" and @lvl=\"0\"]/text"
+msgstr "*%$##@*%!"
+
+#: src-en/data/events_special_multiverse.xml.append:214
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
 msgstr "Use your blessing to avoid combat."
 
-#: src-en/data/events_special_multiverse.xml.append:189
+#: src-en/data/events_special_multiverse.xml.append:222
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DESTROYED\"]/text"
 msgstr ""
 "The mighty vessel has been eliminated! Within its wreckage remains plenty of"
 " scrap and supplies for the taking."
 
-#: src-en/data/events_special_multiverse.xml.append:193
+#: src-en/data/events_special_multiverse.xml.append:226
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DESTROYED\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_multiverse.xml.append:200
+#: src-en/data/events_special_multiverse.xml.append:233
 msgid ""
 "data/events_special_multiverse.xml.append$//eventList[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DROP_CHANCE\"]/event[1]/text"
 msgstr ""
@@ -226,19 +242,19 @@ msgstr ""
 "next time, or get lucky. Fortunately, there's still a bit more supplies to "
 "take with you."
 
-#: src-en/data/events_special_multiverse.xml.append:207
+#: src-en/data/events_special_multiverse.xml.append:240
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DEADCREW\"]/text"
 msgstr ""
 "The mighty vessel has been vanquished! Within the now cleared cruiser, "
 "plenty of scrap and supplies remain for the taking."
 
-#: src-en/data/events_special_multiverse.xml.append:211
+#: src-en/data/events_special_multiverse.xml.append:244
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DEADCREW\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_multiverse.xml.append:217
+#: src-en/data/events_special_multiverse.xml.append:250
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DROP\"]/text"
 msgstr ""
@@ -247,19 +263,19 @@ msgstr ""
 "you assume it's a custom prototype made by whatever strange species the "
 "renegades were."
 
-#: src-en/data/events_special_multiverse.xml.append:224
+#: src-en/data/events_special_multiverse.xml.append:257
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DESTROYED_CHAOS\"]/text"
 msgstr ""
 "The mighty vessel has been eliminated! Within its wreckage remains plenty of"
 " scrap and supplies for the taking."
 
-#: src-en/data/events_special_multiverse.xml.append:228
+#: src-en/data/events_special_multiverse.xml.append:261
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DESTROYED_CHAOS\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_multiverse.xml.append:235
+#: src-en/data/events_special_multiverse.xml.append:268
 msgid ""
 "data/events_special_multiverse.xml.append$//eventList[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DROP_CHANCE_CHAOS\"]/event[1]/text"
 msgstr ""
@@ -268,19 +284,19 @@ msgstr ""
 "next time, or get lucky. Fortunately, there's still a bit more supplies to "
 "take with you."
 
-#: src-en/data/events_special_multiverse.xml.append:242
+#: src-en/data/events_special_multiverse.xml.append:275
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DEADCREW_CHAOS\"]/text"
 msgstr ""
 "The mighty vessel has been vanquished! Within the now cleared cruiser, "
 "plenty of scrap and supplies remain for the taking."
 
-#: src-en/data/events_special_multiverse.xml.append:246
+#: src-en/data/events_special_multiverse.xml.append:279
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DEADCREW_CHAOS\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_multiverse.xml.append:252
+#: src-en/data/events_special_multiverse.xml.append:285
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MTBOSS_GOLDEN_DIAMOND_DROP_CHAOS\"]/text"
 msgstr ""
@@ -289,13 +305,13 @@ msgstr ""
 "you assume it's a custom prototype made by whatever strange species the "
 "renegades were."
 
-#: src-en/data/events_special_multiverse.xml.append:266
+#: src-en/data/events_special_multiverse.xml.append:299
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[1]/text"
-msgstr "Present your metal diamond crew."
+msgstr "Present your Diamond crew."
 
-#: src-en/data/events_special_multiverse.xml.append:268
+#: src-en/data/events_special_multiverse.xml.append:301
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[1]/event/text"
@@ -305,19 +321,19 @@ msgstr ""
 " am... impressed. Well done, traveler. Expect... rewards before your next "
 "journey.\""
 
-#: src-en/data/events_special_multiverse.xml.append:272
+#: src-en/data/events_special_multiverse.xml.append:305
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[1]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_multiverse.xml.append:278
+#: src-en/data/events_special_multiverse.xml.append:311
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[2]/text"
-msgstr "Present your operator crew."
+msgstr "Present your Operator crew."
 
-#: src-en/data/events_special_multiverse.xml.append:280
+#: src-en/data/events_special_multiverse.xml.append:313
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[2]/event/text"
@@ -327,19 +343,19 @@ msgstr ""
 "crew... You can say I am... impressed. Well done, traveler. Expect... "
 "rewards before your next journey.\""
 
-#: src-en/data/events_special_multiverse.xml.append:284
+#: src-en/data/events_special_multiverse.xml.append:317
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[2]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_multiverse.xml.append:290
+#: src-en/data/events_special_multiverse.xml.append:323
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[3]/text"
 msgstr "Present your Metal Lanius crew."
 
-#: src-en/data/events_special_multiverse.xml.append:292
+#: src-en/data/events_special_multiverse.xml.append:325
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[3]/event/text"
@@ -349,19 +365,19 @@ msgstr ""
 "much...say that I'm impressed. Well done, traveler. Expect... rewards before"
 " your next journey.\""
 
-#: src-en/data/events_special_multiverse.xml.append:296
+#: src-en/data/events_special_multiverse.xml.append:329
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[3]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_multiverse.xml.append:305
+#: src-en/data/events_special_multiverse.xml.append:338
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[1]/text"
 msgstr "Present a golden weapon."
 
-#: src-en/data/events_special_multiverse.xml.append:307
+#: src-en/data/events_special_multiverse.xml.append:340
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[1]/event/text"
@@ -371,19 +387,19 @@ msgstr ""
 "anything they ever MADE! Very WELL then, I shall BLESS you with the BLESSING"
 " OF OPULENCE. But have PATIENCE. It is not for now, but for LATER!\""
 
-#: src-en/data/events_special_multiverse.xml.append:311
+#: src-en/data/events_special_multiverse.xml.append:344
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[1]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_multiverse.xml.append:317
+#: src-en/data/events_special_multiverse.xml.append:350
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[2]/text"
 msgstr "Present a copper drone."
 
-#: src-en/data/events_special_multiverse.xml.append:319
+#: src-en/data/events_special_multiverse.xml.append:352
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[2]/event/text"
@@ -395,19 +411,19 @@ msgstr ""
 "with the BLESSING OF RUSTING. But have PATIENCE. It is not for now, but for "
 "LATER!\""
 
-#: src-en/data/events_special_multiverse.xml.append:323
+#: src-en/data/events_special_multiverse.xml.append:356
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[2]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_multiverse.xml.append:329
+#: src-en/data/events_special_multiverse.xml.append:362
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[3]/text"
 msgstr "Present the Flesh Maker."
 
-#: src-en/data/events_special_multiverse.xml.append:331
+#: src-en/data/events_special_multiverse.xml.append:364
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[3]/event/text"
@@ -417,7 +433,7 @@ msgstr ""
 " me THIS! AHAHAH! Yes, this IS tribute! I shall BLESS you with the BLESSING "
 "OF CLONING. But have PATIENCE. It is not for now, but for LATER!\""
 
-#: src-en/data/events_special_multiverse.xml.append:335
+#: src-en/data/events_special_multiverse.xml.append:368
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[3]/event/choice/text"

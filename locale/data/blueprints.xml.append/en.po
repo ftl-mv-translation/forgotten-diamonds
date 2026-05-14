@@ -8,7 +8,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:19
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_blob_diamond\"]/powerList/power[1]"
-msgstr "Currently mimicking: All Metal Diamonds Combined (at half the power)"
+msgstr "Currently mimicking: Golden Diamonds"
 
 #: src-en/data/blueprints.xml.append:25
 msgid ""
@@ -252,8 +252,8 @@ msgstr "Immune to suffocation and fire damage."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_techno_operator\"]/powerList/power[1]"
 msgstr ""
-"Currently mimicking: All Metal Operators Combined At Half Power (Strangely, "
-"the Technomorph didn't change its color to its usual green)"
+"Currently mimicking: Golden Operator (Strangely, the Technomorph didn't "
+"change its color to its usual green)"
 
 #: src-en/data/blueprints.xml.append:135
 msgid ""
@@ -1431,7 +1431,7 @@ msgstr "C. Drone MK II"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE_2\"]/desc"
 msgstr ""
-"A massively powerful boarding drone can can spawn as many fires as it needs.\n"
+"A massively powerful boarding drone that can spawn as many fires as it needs.\n"
 "    \n"
 "-Periodic Ability: Starts a fire in the current room.\n"
 "-200 HP, x0.8 movement speed\n"
@@ -2196,22 +2196,22 @@ msgstr ""
 "old existence. These lanius have acquired the ability to become stronger as "
 "they consume scrap."
 
-#: src-en/data/blueprints.xml.append:2865
+#: src-en/data/blueprints.xml.append:2864
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/class"
 msgstr "Metal Lanius Cruiser"
 
-#: src-en/data/blueprints.xml.append:2866
+#: src-en/data/blueprints.xml.append:2865
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/name"
 msgstr "Fire Penitence"
 
-#: src-en/data/blueprints.xml.append:2867
+#: src-en/data/blueprints.xml.append:2866
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/unlock"
 msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
-#: src-en/data/blueprints.xml.append:2868
+#: src-en/data/blueprints.xml.append:2867
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/desc"
 msgstr ""
@@ -2220,24 +2220,24 @@ msgstr ""
 "themselves with their own flames while also stripping enemy's fire immunity."
 " Unfortunately, just like fire, these lanius require oxygen to survive."
 
-#: src-en/data/blueprints.xml.append:2940
+#: src-en/data/blueprints.xml.append:2939
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/class"
 msgstr "Metal Lanius Cruiser"
 
-#: src-en/data/blueprints.xml.append:2941
+#: src-en/data/blueprints.xml.append:2940
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/name"
 msgstr "Suffocating Beauty"
 
-#: src-en/data/blueprints.xml.append:2942
+#: src-en/data/blueprints.xml.append:2941
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/unlock"
 msgstr ""
 "Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
 "this ship."
 
-#: src-en/data/blueprints.xml.append:2943
+#: src-en/data/blueprints.xml.append:2942
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/desc"
 msgstr ""

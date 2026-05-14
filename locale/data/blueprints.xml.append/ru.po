@@ -1,17 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-08 19:46+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"forgotten-diamonds/datablueprintsxmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:19
 msgid ""
@@ -1702,12 +1694,9 @@ msgstr "Огненные боты"
 #: src-en/data/blueprints.xml.append:1850
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FIREBOTS\"]/desc"
 msgstr ""
-"Этот модуль стреляет наноботами, которые атакуют вражеский экипаж, раскаляя "
-"их кожу, а затем разрушая ее на молекулярном уровне, нанося урон даже самым "
-"крепким валунам. \n"
+"Этот модуль стреляет наноботами, которые атакуют вражеский экипаж, раскаляя их кожу, а затем разрушая ее на молекулярном уровне, нанося урон даже самым крепким валунам. \n"
 "\t\n"
-"\tНаносит 3 ОЗ/с урона вражеским членам экипажа и зависит от уровня "
-"кислородной установки, каждый ее уровень добавляет еще 3 урона."
+"\tНаносит 3 ОЗ/с урона вражеским членам экипажа и зависит от уровня кислородной установки, каждый ее уровень добавляет еще 3 урона."
 
 #: src-en/data/blueprints.xml.append:1860
 msgid ""
@@ -2230,22 +2219,22 @@ msgstr ""
 "привычного состояния. Эти ланиусы обрели способность становиться сильнее по "
 "мере поглощения металлолома."
 
-#: src-en/data/blueprints.xml.append:2865
+#: src-en/data/blueprints.xml.append:2864
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/class"
 msgstr "Крейсер металл. ланиусов"
 
-#: src-en/data/blueprints.xml.append:2866
+#: src-en/data/blueprints.xml.append:2865
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/name"
 msgstr "Огненное Покаяние"
 
-#: src-en/data/blueprints.xml.append:2867
+#: src-en/data/blueprints.xml.append:2866
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/unlock"
 msgstr "Достигните сектора 5 на типе А, чтобы разблокировать этот корабль."
 
-#: src-en/data/blueprints.xml.append:2868
+#: src-en/data/blueprints.xml.append:2867
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/desc"
 msgstr ""
@@ -2254,24 +2243,24 @@ msgstr ""
 "благодаря собственному пламени, а также лишать врагов иммунитета к огню. К "
 "сожалению, как и огонь, эти ланиусы нуждаются в кислороде, чтобы выжить."
 
-#: src-en/data/blueprints.xml.append:2940
+#: src-en/data/blueprints.xml.append:2939
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/class"
 msgstr "Крейсер металл. ланиусов"
 
-#: src-en/data/blueprints.xml.append:2941
+#: src-en/data/blueprints.xml.append:2940
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/name"
 msgstr "Удушающая Красота"
 
-#: src-en/data/blueprints.xml.append:2942
+#: src-en/data/blueprints.xml.append:2941
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/unlock"
 msgstr ""
 "Достигните сектора 5 на типе Б или пройдите игру на типе А, чтобы "
 "разблокировать этот корабль."
 
-#: src-en/data/blueprints.xml.append:2943
+#: src-en/data/blueprints.xml.append:2942
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/desc"
 msgstr ""

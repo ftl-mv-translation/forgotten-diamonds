@@ -5,40 +5,40 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src-en/data/autoBlueprints.xml.append:531
+#: src-en/data/autoBlueprints.xml.append:533
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_BOSS_QUEST_METAL_LANIUS_CRUISER\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:558
+#: src-en/data/autoBlueprints.xml.append:560
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_BOSS_QUEST_METAL_DIAMOND_CRUISER\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:585
+#: src-en/data/autoBlueprints.xml.append:587
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_BOSS_QUEST_OPERATOR_CRUISER\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:629
+#: src-en/data/autoBlueprints.xml.append:631
 #, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_MULTIVERSE_GOLDEN_DIAMOND_NORMAL\"]/class"
 msgstr "Abtrünnigen-Kreuzer"
 
-#: src-en/data/autoBlueprints.xml.append:653
+#: src-en/data/autoBlueprints.xml.append:655
 #, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_MULTIVERSE_GOLDEN_DIAMOND_CHALLENGE\"]/class"
 msgstr "Abtrünnigen-Kreuzer"
 
-#: src-en/data/autoBlueprints.xml.append:677
+#: src-en/data/autoBlueprints.xml.append:679
 #, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_MULTIVERSE_GOLDEN_DIAMOND_EXTREME\"]/class"
 msgstr "Abtrünnigen-Kreuzer"
 
-#: src-en/data/autoBlueprints.xml.append:702
+#: src-en/data/autoBlueprints.xml.append:704
 #, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_MULTIVERSE_GOLDEN_DIAMOND_CHAOS\"]/class"

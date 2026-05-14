@@ -1872,44 +1872,44 @@ msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2865
+#: src-en/data/blueprints.xml.append:2864
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2866
+#: src-en/data/blueprints.xml.append:2865
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2867
+#: src-en/data/blueprints.xml.append:2866
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/unlock"
 msgstr "Gelange nach Sektor 5 mit Typ A, um dieses Schiff freizuschalten."
 
-#: src-en/data/blueprints.xml.append:2868
+#: src-en/data/blueprints.xml.append:2867
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2940
+#: src-en/data/blueprints.xml.append:2939
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2941
+#: src-en/data/blueprints.xml.append:2940
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2942
+#: src-en/data/blueprints.xml.append:2941
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/unlock"
 msgstr ""
 "Gelange nach Sektor 5 mit Typ B oder erreiche eines der Enden mit Typ A, um "
 "dieses Schiff freizuschalten."
 
-#: src-en/data/blueprints.xml.append:2943
+#: src-en/data/blueprints.xml.append:2942
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/desc"
 msgstr ""

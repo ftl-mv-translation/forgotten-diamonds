@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-13 20:47+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/forgotten-diamonds/datahyperspace-xml-append/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/hyperspace.xml.append:32
 msgid ""
@@ -24,338 +17,338 @@ msgid ""
 "append:shipIcon[2]/tooltip"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:994
+#: src-en/data/hyperspace.xml.append:899
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"fr_copper_lanius\"]/powerEffect/buttonText"
 msgstr "纵火"
 
-#: src-en/data/hyperspace.xml.append:995
+#: src-en/data/hyperspace.xml.append:900
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"fr_copper_lanius\"]/powerEffect/tooltip"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1091
+#: src-en/data/hyperspace.xml.append:996
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"fr_adamantine_lanius\"]/powerEffect/buttonText"
 msgstr "腐蚀"
 
-#: src-en/data/hyperspace.xml.append:1092
+#: src-en/data/hyperspace.xml.append:997
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"fr_adamantine_lanius\"]/powerEffect/tooltip"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1149
+#: src-en/data/hyperspace.xml.append:1054
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"fr_copper_battledrone_1\"]/powerEffect/buttonText"
 msgstr "纵火"
 
-#: src-en/data/hyperspace.xml.append:1150
+#: src-en/data/hyperspace.xml.append:1055
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"fr_copper_battledrone_1\"]/powerEffect/tooltip"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1190
+#: src-en/data/hyperspace.xml.append:1095
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"fr_copper_battledrone_2\"]/powerEffect/buttonText"
 msgstr "纵火"
 
-#: src-en/data/hyperspace.xml.append:1191
+#: src-en/data/hyperspace.xml.append:1096
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"fr_copper_battledrone_2\"]/powerEffect/tooltip"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2668
+#: src-en/data/hyperspace.xml.append:2573
 msgid "data/hyperspace.xml.append$//fr_golden_lanius_1[@name=\"Sharlan\"]/@name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2810
+#: src-en/data/hyperspace.xml.append:2718
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
 "append:page/section[1]/@text"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2812
+#: src-en/data/hyperspace.xml.append:2720
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/secretName"
 msgstr "？？？的恩惠"
 
-#: src-en/data/hyperspace.xml.append:2813
+#: src-en/data/hyperspace.xml.append:2721
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/secretDescription"
 msgstr "接受来自赛斯特的？？？恩惠。"
 
-#: src-en/data/hyperspace.xml.append:2814
+#: src-en/data/hyperspace.xml.append:2722
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2815
+#: src-en/data/hyperspace.xml.append:2723
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2817
+#: src-en/data/hyperspace.xml.append:2725
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_DIAMOND\"]/header"
 msgstr "已接受过该恩惠"
 
-#: src-en/data/hyperspace.xml.append:2823
+#: src-en/data/hyperspace.xml.append:2731
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/secretName"
 msgstr "？？？的恩惠"
 
-#: src-en/data/hyperspace.xml.append:2824
+#: src-en/data/hyperspace.xml.append:2732
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/secretDescription"
 msgstr "接受来自赛斯特的？？？恩惠。"
 
-#: src-en/data/hyperspace.xml.append:2825
+#: src-en/data/hyperspace.xml.append:2733
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2826
+#: src-en/data/hyperspace.xml.append:2734
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2828
+#: src-en/data/hyperspace.xml.append:2736
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_OPERATOR\"]/header"
 msgstr "已接受过该恩惠"
 
-#: src-en/data/hyperspace.xml.append:2834
+#: src-en/data/hyperspace.xml.append:2742
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/secretName"
 msgstr "？？？的恩惠"
 
-#: src-en/data/hyperspace.xml.append:2835
+#: src-en/data/hyperspace.xml.append:2743
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/secretDescription"
 msgstr "接受来自赛斯特的？？？恩惠。"
 
-#: src-en/data/hyperspace.xml.append:2836
+#: src-en/data/hyperspace.xml.append:2744
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2837
+#: src-en/data/hyperspace.xml.append:2745
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2839
+#: src-en/data/hyperspace.xml.append:2747
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_METAL_LANIUS\"]/header"
 msgstr "已接受过该恩惠"
 
-#: src-en/data/hyperspace.xml.append:2845
+#: src-en/data/hyperspace.xml.append:2753
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
 "append:page/section[2]/@text"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2847
+#: src-en/data/hyperspace.xml.append:2755
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/secretName"
 msgstr "？？？的祝福"
 
-#: src-en/data/hyperspace.xml.append:2848
+#: src-en/data/hyperspace.xml.append:2756
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/secretDescription"
 msgstr "接受来自威克森的？？？祝福。"
 
-#: src-en/data/hyperspace.xml.append:2849
+#: src-en/data/hyperspace.xml.append:2757
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2850
+#: src-en/data/hyperspace.xml.append:2758
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2852
+#: src-en/data/hyperspace.xml.append:2760
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_GOLDEN\"]/header"
 msgstr "已受到过该祝福"
 
-#: src-en/data/hyperspace.xml.append:2858
+#: src-en/data/hyperspace.xml.append:2766
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/secretName"
 msgstr "？？？的祝福"
 
-#: src-en/data/hyperspace.xml.append:2859
+#: src-en/data/hyperspace.xml.append:2767
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2860
+#: src-en/data/hyperspace.xml.append:2768
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2862
+#: src-en/data/hyperspace.xml.append:2770
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/secretDescription"
 msgstr "接受来自威克森的？？？祝福。"
 
-#: src-en/data/hyperspace.xml.append:2863
+#: src-en/data/hyperspace.xml.append:2771
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_COPPER\"]/header"
 msgstr "已受到过该祝福"
 
-#: src-en/data/hyperspace.xml.append:2869
+#: src-en/data/hyperspace.xml.append:2777
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2870
+#: src-en/data/hyperspace.xml.append:2778
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/secretName"
 msgstr "？？？的祝福"
 
-#: src-en/data/hyperspace.xml.append:2871
+#: src-en/data/hyperspace.xml.append:2779
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/secretDescription"
 msgstr "接受来自威克森的？？？祝福。"
 
-#: src-en/data/hyperspace.xml.append:2872
+#: src-en/data/hyperspace.xml.append:2780
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2874
+#: src-en/data/hyperspace.xml.append:2782
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_BOON_ADAMANTINE\"]/header"
 msgstr "已受到过该祝福"
 
-#: src-en/data/hyperspace.xml.append:2880
+#: src-en/data/hyperspace.xml.append:2788
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
 "append:page/section[3]/@text"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2882
+#: src-en/data/hyperspace.xml.append:2790
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2883
+#: src-en/data/hyperspace.xml.append:2791
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/secretName"
 msgstr "？？？"
 
-#: src-en/data/hyperspace.xml.append:2884
+#: src-en/data/hyperspace.xml.append:2792
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2885
+#: src-en/data/hyperspace.xml.append:2793
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND\"]/secretDescription"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2890
+#: src-en/data/hyperspace.xml.append:2798
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2891
+#: src-en/data/hyperspace.xml.append:2799
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/secretName"
 msgstr "？？？"
 
-#: src-en/data/hyperspace.xml.append:2892
+#: src-en/data/hyperspace.xml.append:2800
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2893
+#: src-en/data/hyperspace.xml.append:2801
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_METAL\"]/secretDescription"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2898
+#: src-en/data/hyperspace.xml.append:2806
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2899
+#: src-en/data/hyperspace.xml.append:2807
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/secretName"
 msgstr "？？？"
 
-#: src-en/data/hyperspace.xml.append:2900
+#: src-en/data/hyperspace.xml.append:2808
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2901
+#: src-en/data/hyperspace.xml.append:2809
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_OPERATOR_DEAL\"]/secretDescription"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2906
+#: src-en/data/hyperspace.xml.append:2814
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2907
+#: src-en/data/hyperspace.xml.append:2815
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/secretName"
 msgstr "？？？"
 
-#: src-en/data/hyperspace.xml.append:2908
+#: src-en/data/hyperspace.xml.append:2816
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2909
+#: src-en/data/hyperspace.xml.append:2817
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_DIAMOND_CREWKILL\"]/secretDescription"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2914
+#: src-en/data/hyperspace.xml.append:2822
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_FLESHMAKER\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2915
+#: src-en/data/hyperspace.xml.append:2823
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_EVENT_FLESHMAKER\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2920
+#: src-en/data/hyperspace.xml.append:2828
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[13]/mod-"
 "append:page/section[4]/@text"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2922
+#: src-en/data/hyperspace.xml.append:2830
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2923
+#: src-en/data/hyperspace.xml.append:2831
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2924
+#: src-en/data/hyperspace.xml.append:2832
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/secretDescription"
 msgstr "击败？？？变元星舰，获得其战利品。"
 
-#: src-en/data/hyperspace.xml.append:2926
+#: src-en/data/hyperspace.xml.append:2834
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FR_RENEGADE_GOLDEN_DIAMOND\"]/header"
 msgstr "已击败过该变元星舰"
