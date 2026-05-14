@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-15 11:12+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgotten-"
 "diamonds/dataevents_sector_theocracyxmlappend/ru/>\n"
 "Language: ru\n"
@@ -30,7 +30,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_theocracy.xml.append:18
-#, fuzzy
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/text"
 msgstr ""
@@ -41,8 +40,8 @@ msgstr ""
 "чтобы понять смысл: он требует 5 существ из вашего экипажа, а в обмен - "
 "чертежи корабля.\n"
 "\n"
-"\"Крайне\" желательно не вступать в бой с этим врагом, его боевые дроны "
-"чрезвычайно опасны."
+"\t\t\t\t\"Крайне\" желательно не вступать в бой с этим врагом, его боевые "
+"дроны чрезвычайно опасны."
 
 #: src-en/data/events_sector_theocracy.xml.append:23
 msgid ""
@@ -130,10 +129,7 @@ msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and "
 "@lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
-"Через некоторое время последний член экипажа телепортируется, и вскоре вы получаете чертежи крейсера, который использовали \"операторы\". Кроме того, они дают вам странного медного дрона и большое количество лома.\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tВнезапно оператор вызывает вас: \"Феноменально! Все эти данные позволят нам обойтись без многолетних исследований! Однако этого может оказаться недостаточно. Чтобы убедиться в этом, я присоединюсь к вам в вашей миссии в надежде получить гораздо более глубокие данные о вашем кластере\"."
+msgstr "Продолжение следует."
 
 #: src-en/data/events_sector_theocracy.xml.append:60
 msgid ""
