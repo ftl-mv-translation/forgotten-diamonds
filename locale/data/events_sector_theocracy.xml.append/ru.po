@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-05-15 11:12+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/forgotten-"
+"diamonds/dataevents_sector_theocracyxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_sector_theocracy.xml.append:13
 msgid ""
@@ -22,12 +30,19 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_theocracy.xml.append:18
+#, fuzzy
 msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/text"
 msgstr ""
-"\"Приветствую вас, плотское существо, я оператор, прибыл из другого кластера, хочу немного поторговать, прошу 5 существ в форме плоти для поиска, заплатить за корабль, подтверждаете?\" Хотя предложение существа, назвавшего себя \"оператором\", переведено очень плохо, этого достаточно, чтобы понять смысл: он требует 5 существ из вашего экипажа, а в обмен - чертежи корабля.\n"
+"\"Приветствую вас, плотское существо, я оператор, прибыл из другого "
+"кластера, хочу немного поторговать, прошу 5 существ в форме плоти для "
+"поиска, заплатить за корабль, подтверждаете?\" Хотя предложение существа, "
+"назвавшего себя \"оператором\", переведено очень плохо, этого достаточно, "
+"чтобы понять смысл: он требует 5 существ из вашего экипажа, а в обмен - "
+"чертежи корабля.\n"
 "\n"
-"\"Крайне\" желательно не вступать в бой с этим врагом, его боевые дроны чрезвычайно опасны."
+"\"Крайне\" желательно не вступать в бой с этим врагом, его боевые дроны "
+"чрезвычайно опасны."
 
 #: src-en/data/events_sector_theocracy.xml.append:23
 msgid ""
@@ -132,7 +147,7 @@ msgid ""
 "data/events_sector_theocracy.xml.append$//event[@name=\"FR_OPERATOR_QUEST_REAL\"]/choice[1]/event/choice[@req=\"forgorEnoughCrew\""
 " and "
 "@lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_sector_theocracy.xml.append:65
 msgid ""
@@ -140,6 +155,15 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"После того как последний член экипажа был телепортирован, вы получаете "
+"чертежи крейсера, на котором действовали те \"Операторы\". Мало того, вам "
+"также передают странный медный дрон и внушительное количество металлолома.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tВнезапно оператор выходит "
+"на связь: \"Феноменально! Все эти данные позволят нам пропустить годы "
+"исследований! Однако этого может оказаться недостаточно. Чтобы убедиться в "
+"этом, я присоединюсь к вашей миссии в надежде получить гораздо более "
+"подробные данные о вашем кластере\"."
 
 #: src-en/data/events_sector_theocracy.xml.append:86
 msgid ""
