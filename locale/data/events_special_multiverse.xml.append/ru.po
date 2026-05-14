@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-15 11:12+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgotten-"
 "diamonds/dataevents_special_multiversexmlappend/ru/>\n"
 "Language: ru\n"
@@ -73,11 +73,13 @@ msgstr "Использовать благословение, чтобы избе
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"Здесь находятся аномальные энергетические сигнатуры. [Металлическая пирамида "
+"А]"
 
 #: src-en/data/events_special_multiverse.xml.append:102
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHALLENGE\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "Посещенное место. Ничего интересного."
 
 #: src-en/data/events_special_multiverse.xml.append:104
 msgid ""
@@ -222,7 +224,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FR_MV_TRAVELER_BOSS_GOLDEN_DIAMOND_CHAOS\"]/choice/event/choice[@req=\"BRIBE_CHAOS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "*%$##@*%!"
 
 #: src-en/data/events_special_multiverse.xml.append:214
 msgid ""
