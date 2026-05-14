@@ -3,10 +3,10 @@
 
 script.on_game_event("FR_OPERATOR_QUEST",false,
 function()
-  playerShip = Hyperspace.ships.player
-  crewCount = playerShip:CountCrew(false)
-  variable = 0
-  if (crewCount > 5) or (crewcount > 4 and playerShip.bAutomated == true ) then
+  local playerShip = Hyperspace.ships.player
+  local crewCount = playerShip:CountCrew(false)
+  local variable = 0
+  if (crewCount > 5) or (crewCount > 4 and playerShip.bAutomated == true ) then
     variable = 1
   end
   Hyperspace.playerVariables.forgorEnoughCrew = variable

@@ -434,7 +434,7 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	</category>
 	<category type="CREW">
 		<item>
-			<blueprint>fr_adamantine_operator</blueprint>
+			<blueprint>fr_golden_operator</blueprint>
 		</item>
 		<item>
 			<blueprint>fr_copper_operator</blueprint>
@@ -477,62 +477,20 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 <mod:findLike type="crew" limit="1">
 	
 <mod-append:race name="fr_blob_diamond">
-	<maxHealth>150</maxHealth>
-	<damageTakenMultiplier>1.20</damageTakenMultiplier>
-	<canBurn>false</canBurn>
-	<resistsMindControl>true</resistsMindControl>
-	<canSuffocate>false</canSuffocate>
-	<sabotageSpeedMultiplier>1.5</sabotageSpeedMultiplier>
-	<repairSpeed>1.25</repairSpeed>
-	<fireRepairMultiplier>1</fireRepairMultiplier>
-	<moveSpeedMultiplier>0.5</moveSpeedMultiplier>
-	<damageMultiplier>1.5</damageMultiplier>
-	<rangedDamageMultiplier>0.5</rangedDamageMultiplier>
-	<passiveStatBoosts>  
-		<statBoost name="damageMultiplier">
-			<boostType>MULT</boostType>
-			<amount>0.75</amount>
-			<affectsSelf>false</affectsSelf>
-			<shipTarget>CURRENT_ROOM</shipTarget>
-			<crewTarget>ENEMIES</crewTarget>
-			<boostAnim>fr_toxiety</boostAnim>
-			<maxStacks>1</maxStacks>
-		</statBoost>
-		<statBoost name="trueHealAmount">
-			<boostType>FLAT</boostType>
-			<shipTarget>CURRENT_ROOM</shipTarget>
-			<crewTarget>SELF</crewTarget>
-			<amount>5</amount>
-			<priority>0</priority>
-			<affectsSelf>true</affectsSelf>
-			<boostAnim>heal_particles</boostAnim>
-			<systemPowerDependency>
-				<drones/>
-			</systemPowerDependency>
-			<systemPowerScaling>
-				<noSys>0</noSys>
-				<noPwr>0</noPwr>
-				<onePwr>1</onePwr>
-			</systemPowerScaling>
-			<systemRoomTarget>ALL</systemRoomTarget>
-			<systemList>
-			  <drones/>
-			</systemList>
-			<maxStacks>1</maxStacks>
-		</statBoost>
-		<statBoost name="trueHealAmount">
-			<boostType>FLAT</boostType>
-			<shipTarget>CURRENT_ROOM</shipTarget>
-			<crewTarget>ALLIES</crewTarget>
-			<amount>2.5</amount>
-			<priority>0</priority>
-			<boostAnim>heal_particles</boostAnim>
-			<whiteList load="FR_ROBOTIC_CREW"/>
-		</statBoost>
-	</passiveStatBoosts>
-	<deathSounds>
-		<deathSound>ancientDeath</deathSound>
-	</deathSounds>
+		<maxHealth>112</maxHealth>
+		<damageTakenMultiplier>1.2</damageTakenMultiplier>
+		<canBurn>false</canBurn>
+		<resistsMindControl>true</resistsMindControl>
+		<canSuffocate>false</canSuffocate>
+		<sabotageSpeedMultiplier>1</sabotageSpeedMultiplier>
+		<repairSpeed>1</repairSpeed>
+		<fireRepairMultiplier>1</fireRepairMultiplier>
+		<damageMultiplier>3</damageMultiplier>
+		<punchTimer min="600" max="780"/>
+		<rangedDamageMultiplier>0.01</rangedDamageMultiplier>
+		<deathSounds>
+			<deathSound>ancientDeath</deathSound>
+		</deathSounds>
 </mod-append:race>
 <mod-append:race name="fr_golden_diamond">
 		<maxHealth>150</maxHealth>
@@ -637,7 +595,7 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	<canPunch>false</canPunch>
 	<suffocationModifier>0</suffocationModifier>
 	<resistsMindControl>true</resistsMindControl>
-	<animBase>human</animBase>
+	<animBase>mantis</animBase>
 	<passiveStatBoosts>  
 		<statBoost name="healSpeed">
 			<boostType>MULT</boostType>
@@ -683,7 +641,7 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	<damageMultiplier>10</damageMultiplier>
 	<suffocationModifier>0</suffocationModifier>
 	<resistsMindControl>true</resistsMindControl>
-	<animBase>human</animBase>
+	<animBase>mantis</animBase>
 	<defaultSkillLevel>2</defaultSkillLevel>
 	<cloneSpeedMultiplier>100</cloneSpeedMultiplier>
 	<cloneLoseSkills>false</cloneLoseSkills>
@@ -744,7 +702,7 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	<suffocationModifier>0</suffocationModifier>
 	<repairSpeed>5</repairSpeed>
 	<resistsMindControl>true</resistsMindControl>
-	<animBase>human</animBase>
+	<animBase>mantis</animBase>
 	<passiveStatBoosts>  
 		<statBoost name="trueHealAmount">
 			<boostType>FLAT</boostType>
@@ -771,27 +729,24 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 </mod-append:race>
 
 <mod-append:race name="fr_techno_operator">
-	<maxHealth>100</maxHealth>
-	<damageTakenMultiplier>0.75</damageTakenMultiplier>
-	<controllable>true</controllable>
+	<maxHealth>82</maxHealth>
+	<damageTakenMultiplier>1.2</damageTakenMultiplier>
 	<canBurn>false</canBurn>
 	<canSuffocate>false</canSuffocate>
-	<repairSpeed>2</repairSpeed>
+	<repairSpeed>1.5</repairSpeed>
 	<fireDamageMultiplier>0</fireDamageMultiplier>
-	<moveSpeedMultiplier>1.5</moveSpeedMultiplier>
 	<damageMultiplier>0.1</damageMultiplier>
-	<rangedDamageMultiplier>15</rangedDamageMultiplier>
+	<doorDamageMultiplier>1.2</doorDamageMultiplier>
+	<rangedDamageMultiplier>35</rangedDamageMultiplier>
+	<shootTimer min="1200" max="1560"/>
+	<canPunch>false</canPunch>
 	<suffocationModifier>0</suffocationModifier>
 	<resistsMindControl>true</resistsMindControl>
-	<animBase>human</animBase>
-	<defaultSkillLevel>1</defaultSkillLevel>
-	<cloneLoseSkills>false</cloneLoseSkills>
-	<cloneSpeedMultiplier>5</cloneSpeedMultiplier>
-	<bonusPower>2</bonusPower>
-	<passiveStatBoosts> 
+	<animBase>mantis</animBase>
+	<passiveStatBoosts>  
 		<statBoost name="healSpeed">
 			<boostType>MULT</boostType>
-			<amount>1.5</amount>
+			<amount>2</amount>
 			<shipTarget>CURRENT_ROOM</shipTarget>
 			<crewTarget>SELF</crewTarget>
 			<affectsSelf>true</affectsSelf>
@@ -804,63 +759,13 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 				<weapons/>
 			</systemList>
 		</statBoost>
-		<statBoost name="fireDamageMultiplier">
-			<boostType>MULT</boostType>
-			<amount>0</amount>
-			<shipTarget>CURRENT_ROOM</shipTarget>
-			<crewTarget>ALLIES</crewTarget>
-			<affectsSelf>false</affectsSelf>
-			<priority>0</priority>
-		</statBoost>
-		<statBoost name="canBurn">
-			<boostType>SET</boostType>
-			<value>false</value>
-			<shipTarget>CURRENT_ROOM</shipTarget>
-			<crewTarget>ALLIES</crewTarget>
-			<affectsSelf>false</affectsSelf>
-			<priority>0</priority>
-		</statBoost>
-		<statBoost name="suffocationModifier">
-			<boostType>MULT</boostType>
-			<amount>0</amount>
-			<shipTarget>CURRENT_ROOM</shipTarget>
-			<crewTarget>ALLIES</crewTarget>
-			<affectsSelf>false</affectsSelf>
-			<priority>0</priority>
-		</statBoost>
-		<statBoost name="canSuffocate">
-			<boostType>SET</boostType>
-			<value>false</value>
-			<shipTarget>CURRENT_ROOM</shipTarget>
-			<crewTarget>ALLIES</crewTarget>
-			<affectsSelf>false</affectsSelf>
-			<priority>0</priority>
-		</statBoost>
-		<statBoost name="trueHealAmount">
-			<boostType>FLAT</boostType>
-			<shipTarget>CURRENT_ROOM</shipTarget>
-			<crewTarget>ALLIES</crewTarget>
-			<amount>2.5</amount>
-			<priority>0</priority>
-			<affectsSelf>true</affectsSelf>
-			<whiteList load="FR_ROBOTIC_CREW"/>
-		</statBoost>
-		<statBoost name="trueHealAmount">
-			<boostType>FLAT</boostType>
-			<shipTarget>CURRENT_ROOM</shipTarget>
-			<crewTarget>ALLIES</crewTarget>
-			<droneTarget>DRONES</droneTarget>
-			<amount>2.5</amount>
-			<priority>0</priority>
-			<affectsSelf>true</affectsSelf>
-		</statBoost>
 	</passiveStatBoosts>
 	<skills>
-		<piloting req="10"/>
-		<engines req="10"/>
-		<shields req="10"/>
-		<weapons req="10"/>
-		<repair req="5"/>
+		<piloting req="7"/>
+		<engines req="7"/>
+		<shields req="24"/>
+		<weapons req="32"/>
+		<repair req="9"/>
 		<combat req="5"/>
 	</skills>
 	<deathSounds>
@@ -1850,8 +1755,8 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 				<crewTarget>ALL</crewTarget>
 				<droneTarget>CREW</droneTarget>
 				<priority>0</priority>
-				<blackList load="FR_METALLOID_CREW"/>
-				<blackList load="FR_METALLOID_CREW">
+				<blackList load="FR_METALOID_CREW"/>
+				<blackList load="FR_METALOID_CREW">
 					<drone_battle/>
 					<atom/>
 					<human_technician_drone/>
@@ -1923,8 +1828,8 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 				<crewTarget>ALL</crewTarget>
 				<droneTarget>CREW</droneTarget>
 				<priority>0</priority>
-				<blackList load="FR_METALLOID_CREW"/>
-				<blackList load="FR_METALLOID_CREW">
+				<blackList load="FR_METALOID_CREW"/>
+				<blackList load="FR_METALOID_CREW">
 					<drone_battle/>
 					<atom/>
 					<human_technician_drone/>
@@ -2666,6 +2571,9 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	<crewLimit>8</crewLimit>
 	<crew>
 		<fr_golden_lanius_1 room="0" name="Sharlan"/>  <!--piloting-->
+		<fr_golden_lanius_1 room="13"/>  <!--engines-->
+		<fr_golden_lanius_1 room="14"/>  <!--weapons-->
+		<fr_golden_lanius_1 room="15"/>  <!--shields-->
 	</crew>
 </mod-append:customShip>
 <mod-append:customShip name="PLAYER_SHIP_FR_METAL_LANIUS_2">
@@ -2955,6 +2863,10 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 <metaVariable name="ach_boss_fr_metaldiamondquest" op="set" val="0"/>
 <metaVariable name="ach_boss_fr_metallaniusquest" op="set" val="0"/>
 
+<metaVariable name="fleshmaker_scan_victor" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_rockmore" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_jon" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_purplebeard" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_cylvan" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_collector" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_mayeb" op="set" val="0"/>
@@ -3011,7 +2923,6 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 <metaVariable name="fleshmaker_scan_gmansylvan" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_rebelsylvan" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_sanssylvan" op="set" val="0"/>
-<metaVariable name="fleshmaker_scan_maidsylvan" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_leahsylvan" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_ricksylvan" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_beanssylvan" op="set" val="0"/>
@@ -3142,8 +3053,8 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 <metaVariable name="fleshmaker_scan_revenantzulu" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_revenantaleenor" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_revenantg" op="set" val="0"/>
-<metaVariable name="fleshmaker_scan_chaos_revenantsmoke" op="set" val="0"/>
-<metaVariable name="fleshmaker_scan_chaos_revenantchills" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_chaos_revenantfrostwall" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_chaos_revenantdeathbloom" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_chaos_revenantpok" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_snowman" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_lavaman" op="set" val="0"/>
@@ -3165,7 +3076,14 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 <metaVariable name="fleshmaker_scan_deviser" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_necromantic_cognitive" op="set" val="0"/>
 <metaVariable name="fleshmaker_scan_absolute_cognitive" op="set" val="0"/>
-
+<metaVariable name="fleshmaker_scan_vance_one" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_daisy" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_mafan" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_infernum" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_messenger" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_totality" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_eggman" op="set" val="0"/>
+<metaVariable name="fleshmaker_scan_prophet" op="set" val="0"/>
 
  <!--diploma for the fleshmaker is ready-->
  
@@ -3631,13 +3549,6 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
     <name>sylvansans</name>
     <req max_lvl="0">
         <name>fleshmaker_scan_sanssylvan</name>
-    </req>
-</req>
-
-<req name="FR_FLESHMAKER_MAIDSYLVAN_LIST" type="all">
-    <name>sylvanmaid</name>
-    <req max_lvl="0">
-        <name>fleshmaker_scan_maidsylvan</name>
     </req>
 </req>
 
@@ -4564,16 +4475,16 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
     </req>
 </req>
 
-<req name="FR_FLESHMAKER_CHAOS_REVENANTSMOKE_LIST" type="all">
-    <name>fr_reformed_smoke</name>
+<req name="FR_FLESHMAKER_CHAOS_REVENANTFROSTWALL_LIST" type="all">
+    <name>fr_reformed_frostwall</name>
     <req max_lvl="0">
-        <name>fleshmaker_scan_chaos_revenantsmoke</name>
+        <name>fleshmaker_scan_chaos_revenantfrostwall</name>
     </req>
 </req>
-<req name="FR_FLESHMAKER_CHAOS_REVENANTCHILLS_LIST" type="all">
-    <name>fr_reformed_chills</name>
+<req name="FR_FLESHMAKER_CHAOS_REVENANTDEATHBLOOM_LIST" type="all">
+    <name>fr_reformed_deathbloom</name>
     <req max_lvl="0">
-        <name>fleshmaker_scan_chaos_revenantchills</name>
+        <name>fleshmaker_scan_chaos_revenantdeathbloom</name>
     </req>
 </req>
 
@@ -4744,18 +4655,115 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
         <name>fleshmaker_scan_absolute_cognitive</name>
     </req>
 </req>
+
+<req name="FR_FLESHMAKER_VANCE_ONE_LIST" type="all">
+    <name>fr_unique_vance_one</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_vance_one</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_DAISY_LIST" type="all">
+    <name>fr_unique_daisy</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_daisy</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_MAFAN_LIST" type="all">
+    <name>unique_mafan</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_mafan</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_INFERNUM_LIST" type="all">
+	<req type="any">
+		<name>zoltan_infernum</name>
+		<name>zoltan_infernum_defector</name>
+	</req>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_infernum</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_VICTOR_LIST" type="all">
+    <name>fr_unique_victor</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_victor</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_ROCKMORE_LIST" type="all">
+    <name>fr_unique_rockmore</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_rockmore</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_JON_LIST" type="all">
+    <name>fr_unique_jon</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_jon</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_PURPLEBEARD_LIST" type="all">
+    <name>fr_unique_purple_beard</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_purplebeard</name>
+    </req>
+</req>
  
+<req name="FR_FLESHMAKER_MESSENGER_LIST" type="all">
+    <name>fr_messenger</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_messenger</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_TOTALITY_LIST" type="all">
+    <name>fr_human_totality</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_totality</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_EGGMAN_LIST" type="all">
+    <name>fr_unique_eggman</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_eggman</name>
+    </req>
+</req>
+
+<req name="FR_FLESHMAKER_PROPHET_LIST" type="all">
+    <name>fr_unique_prophet</name>
+    <req max_lvl="0">
+        <name>fleshmaker_scan_prophet</name>
+    </req>
+</req>
 
  <!--Fleshmaker Acheevo-->
  
 <req name="FR_FLESHMAKER_ALL_UNLOCKS" type="all">
+	<name>fleshmaker_scan_prophet</name>
+	<name>fleshmaker_scan_eggman</name>
+	<name>fleshmaker_scan_totality</name>
+	<name>fleshmaker_scan_messenger</name>
+	<name>fleshmaker_scan_victor</name>
+	<name>fleshmaker_scan_rockmore</name>
+	<name>fleshmaker_scan_jon</name>
+	<name>fleshmaker_scan_purplebeard</name>
+	<name>fleshmaker_scan_infernum</name>
+	<name>fleshmaker_scan_mafan</name>
+	<name>fleshmaker_scan_daisy</name>
+	<name>fleshmaker_scan_vance_one</name>
 	<name>fleshmaker_scan_absolute_cognitive</name>
 	<name>fleshmaker_scan_necromantic_cognitive</name>
 	<name>fleshmaker_scan_deviser</name>
 	<name>fleshmaker_scan_y</name>
 	<name>fleshmaker_scan_collector</name>
 	<name>fleshmaker_scan_cylvan</name>
-	<name>fleshmaker_scan_rhyme_slimer</name>
 	<name>fleshmaker_scan_bilvan</name>
 	<name>fleshmaker_scan_spherax</name>
 	<name>fleshmaker_scan_tririac</name>
@@ -4815,7 +4823,6 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	<name>fleshmaker_scan_gmansylvan</name>
 	<name>fleshmaker_scan_rebelsylvan</name>
 	<name>fleshmaker_scan_sanssylvan</name>
-	<name>fleshmaker_scan_maidsylvan</name>
 	<name>fleshmaker_scan_leahsylvan</name>
 	<name>fleshmaker_scan_ricksylvan</name>
 	<name>fleshmaker_scan_beanssylvan</name>
@@ -4946,8 +4953,8 @@ This enemy's medbay is rending their crew immune to damage while it's powered on
 	<name>fleshmaker_scan_revenantzulu</name>
 	<name>fleshmaker_scan_revenantaleenor</name>
 	<name>fleshmaker_scan_revenantg</name>
-	<name>fleshmaker_scan_chaos_revenantsmoke</name>
-	<name>fleshmaker_scan_chaos_revenantchills</name>
+	<name>fleshmaker_scan_chaos_revenantfrostwall</name>
+	<name>fleshmaker_scan_chaos_revenantdeathbloom</name>
 	<name>fleshmaker_scan_chaos_revenantpok</name>
 	<name>fleshmaker_scan_snowman</name>
 	<name>fleshmaker_scan_lavaman</name>

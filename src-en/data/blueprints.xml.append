@@ -16,7 +16,7 @@
 	<short id="crew_morph_title"/>
 	<rarity>0</rarity>
 	<powerList>
-		<power>Currently mimicking: All Metal Diamonds Combined (at half the power)</power>
+		<power>Currently mimicking: Golden Diamonds</power>
 		<power id="crew_morph_power_1"/>
 		<power id="crew_morph_power_2"/>
 	</powerList>
@@ -123,7 +123,7 @@
 	<short id="crew_techno_title" />
 	<rarity>0</rarity>
 	<powerList>
-		<power>Currently mimicking: All Metal Operators Combined At Half Power (Strangely, the Technomorph didn't change its color to its usual green)</power>
+		<power>Currently mimicking: Golden Operator (Strangely, the Technomorph didn't change its color to its usual green)</power>
 		<power id="crew_techno_power_1"/>
 		<power id="crew_techno_power_2"/>
 	</powerList>
@@ -1672,7 +1672,7 @@
 	<locked>1</locked>
 	<title>Copper Boarding Drone Mk.II</title>
 	<short>C. Drone MK II</short>
-	<desc>A massively powerful boarding drone can can spawn as many fires as it needs.
+	<desc>A massively powerful boarding drone that can spawn as many fires as it needs.
     
 -Periodic Ability: Starts a fire in the current room.
 -200 HP, x0.8 movement speed
@@ -2856,7 +2856,6 @@ At least its defenses are well maintained, though it came at the cost of its rea
 	<droneList drones="0" count="2" />
 	<health amount="30" />
 	<maxPower amount="7" />
-	<crewCount amount="3" class="fr_golden_lanius_1" />
 	<aug name="SCRAP_COLLECTOR" />
 	<mv-mapImage>map_icon_fr_player_alloy_c</mv-mapImage>
 </shipBlueprint>

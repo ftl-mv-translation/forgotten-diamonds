@@ -57,7 +57,11 @@
         "//metadata/title",
         "//metadata/description",
         "//mod:findLike/drone/tooltipName",
-
+		
+        "//undiscoveredTooltip",
+        "//visitedTooltip",
+        "//unvisitedTooltip",
+		
         "//mod-append:shipIcon/tooltip",
         "//powerEffect/buttonText",
         "//powerEffect/tooltip",

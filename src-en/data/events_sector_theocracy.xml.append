@@ -17,7 +17,7 @@
 		<event>
 			<text>"Greetings, fleshed thing, me are operator, arrive from different cluster, wanted a some trade, inquire towards 5 being shaped flesh to search, pay plan towards ship, assert?" While still heavily mistranslated, the offer the being that called itself an "operator" can be understood enough to be made sense: they require 5 of your crew and in exchange, the ship's blueprints.
 
-				It's *hightly* advisable to not fight this enemy, its combat drones are extreamily dangerous.
+				It's *highly* advisable to not fight this enemy, its combat drones are extreamily dangerous.
 			</text>
 				<choice hidden="true" req="forgorEnoughCrew" lvl="1" max_group="1">
 					<text>Agree to the terms.</text>
@@ -51,23 +51,29 @@
 																			<clone>false</clone>
 																			<text>You cannot clone your crew, as they are not dead.</text>
 																		</removeCrew>
-																				<choice hidden="true">
-																					<text>Continue...</text>
-																					<event>
-																						<text>After a while, the last crew is beamed away, and shortly thereafter you receive the blueprints for the cruiser those "Operators" were using. Not only that, but they also give you a strange copper drone and a hefty amount of scrap.
-																						
-																						Suddenly, the operator hails you "Phenomenal! All this data let us skip years of research! However, it may not be enough. To make sure that's the case, I will join you in your mission in hopes of getting some much deeper data about your cluster."</text>
-																						<removeCrew>
-																							<clone>false</clone>
-																							<text>You cannot clone your crew, as they are not dead.</text>
-																						</removeCrew>
-																						<crewMember amount="1" class="fr_copper_operator"/>
-																						<autoReward level="HIGH">scrap_only</autoReward>
-																						<drone name="FR_BLUELIST_COPPER_DRONES_INCOMPLETE"/>
-																						<achievement silent="false">ACH_FR_EVENT_OPERATOR_DEAL</achievement>
-																						<unlockCustomShip silent="false">PLAYER_SHIP_FR_OPERATOR</unlockCustomShip>
-																					</event>
-																				</choice>
+																		<choice hidden="true">
+																			<text>Continue...</text>
+																			<event>
+																					<text>It continues.</text>
+																					<removeCrew>
+																						<clone>false</clone>
+																						<text>You cannot clone your crew, as they are not dead.</text>
+																					</removeCrew>
+																							<choice hidden="true">
+																								<text>Continue...</text>
+																								<event>
+																									<text>After the last crew is beamed away you receive the blueprints for the cruiser those "Operators" were using. Not only that, but they also give you a strange copper drone and a hefty amount of scrap.
+																									
+																									Suddenly, the operator hails you "Phenomenal! All this data let us skip years of research! However, it may not be enough. To make sure that's the case, I will join you in your mission in hopes of getting some much deeper data about your cluster."</text>
+																									<crewMember amount="1" class="fr_copper_operator"/>
+																									<autoReward level="HIGH">scrap_only</autoReward>
+																									<drone name="FR_BLUELIST_COPPER_DRONES_INCOMPLETE"/>
+																									<achievement silent="false">ACH_FR_EVENT_OPERATOR_DEAL</achievement>
+																									<unlockCustomShip silent="false">PLAYER_SHIP_FR_OPERATOR</unlockCustomShip>
+																								</event>
+																							</choice>
+																			</event>
+																		</choice>
 																</event>
 															</choice>
 													</event>

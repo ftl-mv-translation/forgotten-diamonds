@@ -8,101 +8,101 @@
 -->
 <!-- MORPH DIAMOND -->
 
-<animSheet name="fr_blob_diamond" w="910" h="455" fw="35" fh="35">people/fr_blob_diamond_base.png</animSheet>
+<animSheet name="fr_blob_diamond" w="315" h="385" fw="35" fh="35">people/fr_blob_diamond_base.png</animSheet>
 
 <anim name="fr_blob_diamond_clone">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="6" x="0" y="1" />	
+	<desc length="6" x="0" y="2" />	
 	<time>0.75</time>
 </anim>
 <anim name="fr_blob_diamond_death_right">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="7" x="0" y="0" />
+	<desc length="7" x="0" y="1" />
 	<time>2</time>
 </anim>
 <anim name="fr_blob_diamond_death_left">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="7" x="0" y="0" />
-	<time>0.75</time>
+	<desc length="7" x="0" y="1" />
+	<time>2</time>
 </anim>
 <anim name="fr_blob_diamond_walk_down">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="16" x="0" y="12" />
+	<desc length="7" x="0" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_blob_diamond_walk_right">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="10" x="16" y="12" />
+	<desc length="7" x="0" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_blob_diamond_walk_up">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="16" x="0" y="11" />
+	<desc length="7" x="0" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_blob_diamond_walk_left">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="10" x="16" y="11" />
+	<desc length="7" x="0" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_blob_diamond_shoot_down">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="3" x="0" y="10" />
+	<desc length="1" x="0" y="8" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_blob_diamond_shoot_right">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="3" x="3" y="10" />
+	<desc length="1" x="0" y="8" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_blob_diamond_shoot_up">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="3" x="6" y="10" />
+	<desc length="1" x="0" y="8" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_blob_diamond_shoot_left">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="3" x="9" y="10" />
+	<desc length="1" x="0" y="8" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_blob_diamond_fire_down">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="4" x="0" y="9" />
+	<desc length="3" x="0" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_blob_diamond_fire_right">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="4" x="4" y="9" />
+	<desc length="3" x="0" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_blob_diamond_fire_up">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="4" x="0" y="8" />
+	<desc length="3" x="0" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_blob_diamond_fire_left">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="4" x="4" y="8" />
+	<desc length="3" x="0" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_blob_diamond_repair">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="4" x="0" y="7" />
+	<desc length="9" x="0" y="6" />
 	<time>2</time>
 </anim>
 <anim name="fr_blob_diamond_punch_down">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="7" x="0" y="6" />
-	<time>1.5</time>
+	<desc length="3" x="0" y="9" />
+	<time>0.5</time>
 </anim>
 <anim name="fr_blob_diamond_punch_up">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="7" x="0" y="5" />
-	<time>1.5</time>
+	<desc length="3" x="0" y="9" />
+	<time>0.5</time>
 </anim>
 <anim name="fr_blob_diamond_type_right">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="4" x="0" y="4" />
+	<desc length="4" x="4" y="5" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_blob_diamond_type_left">
@@ -112,17 +112,17 @@
 </anim>
 <anim name="fr_blob_diamond_type_up">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="4" x="0" y="3" />
+	<desc length="4" x="0" y="4" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_blob_diamond_type_down">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="4" x="4" y="3" />
+	<desc length="4" x="0" y="5" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_blob_diamond_teleport">
 	<sheet>fr_blob_diamond</sheet>
-	<desc length="5" x="0" y="2" />
+	<desc length="6" x="0" y="3" />
 	<time>0.5</time>
 </anim>
 <anim name="fr_blob_diamond_portrait">
@@ -133,101 +133,101 @@
 
 <!-- GOLDEN ANCIENT -->
 
-<animSheet name="fr_golden_diamond" w="910" h="455" fw="35" fh="35">people/fr_golden_diamond_base.png</animSheet>
+<animSheet name="fr_golden_diamond" w="315" h="385" fw="35" fh="35">people/fr_golden_diamond_base.png</animSheet>
 
 <anim name="fr_golden_diamond_clone">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="6" x="0" y="1" />	
+	<desc length="6" x="0" y="2" />	
 	<time>0.75</time>
 </anim>
 <anim name="fr_golden_diamond_death_right">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="7" x="0" y="0" />
+	<desc length="7" x="0" y="1" />
 	<time>2</time>
 </anim>
 <anim name="fr_golden_diamond_death_left">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="7" x="0" y="0" />
-	<time>0.75</time>
+	<desc length="7" x="0" y="1" />
+	<time>2</time>
 </anim>
 <anim name="fr_golden_diamond_walk_down">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="16" x="0" y="12" />
+	<desc length="7" x="0" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_diamond_walk_right">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="10" x="16" y="12" />
+	<desc length="7" x="0" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_diamond_walk_up">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="16" x="0" y="11" />
+	<desc length="7" x="0" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_diamond_walk_left">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="10" x="16" y="11" />
+	<desc length="7" x="0" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_diamond_shoot_down">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="3" x="0" y="10" />
+	<desc length="1" x="0" y="8" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_diamond_shoot_right">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="3" x="3" y="10" />
+	<desc length="1" x="0" y="8" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_diamond_shoot_up">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="3" x="6" y="10" />
+	<desc length="1" x="0" y="8" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_diamond_shoot_left">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="3" x="9" y="10" />
+	<desc length="1" x="0" y="8" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_diamond_fire_down">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="4" x="0" y="9" />
+	<desc length="3" x="0" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_diamond_fire_right">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="4" x="4" y="9" />
+	<desc length="3" x="0" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_diamond_fire_up">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="4" x="0" y="8" />
+	<desc length="3" x="0" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_diamond_fire_left">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="4" x="4" y="8" />
+	<desc length="3" x="0" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_diamond_repair">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="4" x="0" y="7" />
+	<desc length="9" x="0" y="6" />
 	<time>2</time>
 </anim>
 <anim name="fr_golden_diamond_punch_down">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="7" x="0" y="6" />
-	<time>1.5</time>
+	<desc length="3" x="0" y="9" />
+	<time>0.5</time>
 </anim>
 <anim name="fr_golden_diamond_punch_up">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="7" x="0" y="5" />
-	<time>1.5</time>
+	<desc length="3" x="0" y="9" />
+	<time>0.5</time>
 </anim>
 <anim name="fr_golden_diamond_type_right">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="4" x="0" y="4" />
+	<desc length="4" x="4" y="5" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_golden_diamond_type_left">
@@ -237,17 +237,17 @@
 </anim>
 <anim name="fr_golden_diamond_type_up">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="4" x="0" y="3" />
+	<desc length="4" x="0" y="4" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_golden_diamond_type_down">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="4" x="4" y="3" />
+	<desc length="4" x="0" y="5" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_golden_diamond_teleport">
 	<sheet>fr_golden_diamond</sheet>
-	<desc length="5" x="0" y="2" />
+	<desc length="6" x="0" y="3" />
 	<time>0.5</time>
 </anim>
 <anim name="fr_golden_diamond_portrait">
@@ -258,101 +258,101 @@
 
 <!-- ADAMANTINE ANCIENT -->
 
-<animSheet name="fr_adamantine_diamond" w="910" h="455" fw="35" fh="35">people/fr_adamantine_diamond_base.png</animSheet>
+<animSheet name="fr_adamantine_diamond" w="315" h="385" fw="35" fh="35">people/fr_adamantine_diamond_base.png</animSheet>
 
 <anim name="fr_adamantine_diamond_clone">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="6" x="0" y="1" />	
+	<desc length="6" x="0" y="2" />	
 	<time>0.75</time>
 </anim>
 <anim name="fr_adamantine_diamond_death_right">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="7" x="0" y="0" />
+	<desc length="7" x="0" y="1" />
 	<time>2</time>
 </anim>
 <anim name="fr_adamantine_diamond_death_left">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="7" x="0" y="0" />
-	<time>0.75</time>
+	<desc length="7" x="0" y="1" />
+	<time>2</time>
 </anim>
 <anim name="fr_adamantine_diamond_walk_down">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="16" x="0" y="12" />
+	<desc length="7" x="0" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_diamond_walk_right">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="10" x="16" y="12" />
+	<desc length="7" x="0" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_diamond_walk_up">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="16" x="0" y="11" />
+	<desc length="7" x="0" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_diamond_walk_left">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="10" x="16" y="11" />
+	<desc length="7" x="0" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_diamond_shoot_down">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="3" x="0" y="10" />
+	<desc length="1" x="0" y="8" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_diamond_shoot_right">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="3" x="3" y="10" />
+	<desc length="1" x="0" y="8" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_diamond_shoot_up">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="3" x="6" y="10" />
+	<desc length="1" x="0" y="8" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_diamond_shoot_left">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="3" x="9" y="10" />
+	<desc length="1" x="0" y="8" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_diamond_fire_down">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="4" x="0" y="9" />
+	<desc length="3" x="0" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_diamond_fire_right">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="4" x="4" y="9" />
+	<desc length="3" x="0" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_diamond_fire_up">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="4" x="0" y="8" />
+	<desc length="3" x="0" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_diamond_fire_left">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="4" x="4" y="8" />
+	<desc length="3" x="0" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_diamond_repair">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="4" x="0" y="7" />
+	<desc length="9" x="0" y="6" />
 	<time>2</time>
 </anim>
 <anim name="fr_adamantine_diamond_punch_down">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="7" x="0" y="6" />
-	<time>1.5</time>
+	<desc length="3" x="0" y="9" />
+	<time>0.5</time>
 </anim>
 <anim name="fr_adamantine_diamond_punch_up">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="7" x="0" y="5" />
-	<time>1.5</time>
+	<desc length="3" x="0" y="9" />
+	<time>0.5</time>
 </anim>
 <anim name="fr_adamantine_diamond_type_right">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="4" x="0" y="4" />
+	<desc length="4" x="4" y="5" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_adamantine_diamond_type_left">
@@ -362,17 +362,17 @@
 </anim>
 <anim name="fr_adamantine_diamond_type_up">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="4" x="0" y="3" />
+	<desc length="4" x="0" y="4" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_adamantine_diamond_type_down">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="4" x="4" y="3" />
+	<desc length="4" x="0" y="5" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_adamantine_diamond_teleport">
 	<sheet>fr_adamantine_diamond</sheet>
-	<desc length="5" x="0" y="2" />
+	<desc length="6" x="0" y="3" />
 	<time>0.5</time>
 </anim>
 <anim name="fr_adamantine_diamond_portrait">
@@ -384,101 +384,102 @@
 
 <!-- COPPER ANCIENT -->
 
-<animSheet name="fr_copper_diamond" w="910" h="455" fw="35" fh="35">people/fr_copper_diamond_base.png</animSheet>
+
+<animSheet name="fr_copper_diamond" w="315" h="385" fw="35" fh="35">people/fr_copper_diamond_base.png</animSheet>
 
 <anim name="fr_copper_diamond_clone">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="6" x="0" y="1" />	
+	<desc length="6" x="0" y="2" />	
 	<time>0.75</time>
 </anim>
 <anim name="fr_copper_diamond_death_right">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="7" x="0" y="0" />
+	<desc length="7" x="0" y="1" />
 	<time>2</time>
 </anim>
 <anim name="fr_copper_diamond_death_left">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="7" x="0" y="0" />
-	<time>0.75</time>
+	<desc length="7" x="0" y="1" />
+	<time>2</time>
 </anim>
 <anim name="fr_copper_diamond_walk_down">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="16" x="0" y="12" />
+	<desc length="7" x="0" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_diamond_walk_right">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="10" x="16" y="12" />
+	<desc length="7" x="0" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_diamond_walk_up">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="16" x="0" y="11" />
+	<desc length="7" x="0" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_diamond_walk_left">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="10" x="16" y="11" />
+	<desc length="7" x="0" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_diamond_shoot_down">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="3" x="0" y="10" />
+	<desc length="1" x="0" y="8" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_diamond_shoot_right">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="3" x="3" y="10" />
+	<desc length="1" x="0" y="8" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_diamond_shoot_up">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="3" x="6" y="10" />
+	<desc length="1" x="0" y="8" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_diamond_shoot_left">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="3" x="9" y="10" />
+	<desc length="1" x="0" y="8" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_diamond_fire_down">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="4" x="0" y="9" />
+	<desc length="3" x="0" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_diamond_fire_right">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="4" x="4" y="9" />
+	<desc length="3" x="0" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_diamond_fire_up">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="4" x="0" y="8" />
+	<desc length="3" x="0" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_diamond_fire_left">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="4" x="4" y="8" />
+	<desc length="3" x="0" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_diamond_repair">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="4" x="0" y="7" />
+	<desc length="9" x="0" y="6" />
 	<time>2</time>
 </anim>
 <anim name="fr_copper_diamond_punch_down">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="7" x="0" y="6" />
-	<time>1.5</time>
+	<desc length="3" x="0" y="9" />
+	<time>0.5</time>
 </anim>
 <anim name="fr_copper_diamond_punch_up">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="7" x="0" y="5" />
-	<time>1.5</time>
+	<desc length="3" x="0" y="9" />
+	<time>0.5</time>
 </anim>
 <anim name="fr_copper_diamond_type_right">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="4" x="0" y="4" />
+	<desc length="4" x="4" y="5" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_copper_diamond_type_left">
@@ -488,17 +489,17 @@
 </anim>
 <anim name="fr_copper_diamond_type_up">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="4" x="0" y="3" />
+	<desc length="4" x="0" y="4" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_copper_diamond_type_down">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="4" x="4" y="3" />
+	<desc length="4" x="0" y="5" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_copper_diamond_teleport">
 	<sheet>fr_copper_diamond</sheet>
-	<desc length="5" x="0" y="2" />
+	<desc length="6" x="0" y="3" />
 	<time>0.5</time>
 </anim>
 <anim name="fr_copper_diamond_portrait">
@@ -509,121 +510,121 @@
 
 <!-- GOLDEN OPERATOR -->
 
-<animSheet name="fr_golden_operator" w="280" h="490" fw="35" fh="35">people/fr_golden_operator_base.png</animSheet>
+<animSheet name="fr_golden_operator" w="560" h="525" fw="35" fh="35">people/fr_golden_operator_base.png</animSheet>
 
 <anim name="fr_golden_operator_clone">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="4" x="0" y="1" />	
+	<desc length="5" x="0" y="2" />	
 	<time>0.75</time>
 </anim>
 <anim name="fr_golden_operator_death_right">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="5" x="3" y="0" />
+	<desc length="8" x="0" y="1" />
 	<time>2</time>
 </anim>
 <anim name="fr_golden_operator_death_left">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="5" x="3" y="0" />
+	<desc length="8" x="0" y="1" />
 	<time>2</time>
 </anim>
 <anim name="fr_golden_operator_walk_down">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="4" x="0" y="13" />
+	<desc length="8" x="0" y="14" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_operator_walk_right">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="4" x="4" y="13" />
+	<desc length="8" x="8" y="14" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_operator_walk_up">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="4" x="0" y="12" />
+	<desc length="8" x="0" y="13" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_operator_walk_left">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="4" x="4" y="12" />
+	<desc length="8" x="8" y="13" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_operator_shoot_down">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="3" x="0" y="11" />
+	<desc length="4" x="0" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_operator_shoot_right">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="3" x="3" y="11" />
+	<desc length="4" x="4" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_operator_shoot_up">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="3" x="0" y="10" />
+	<desc length="4" x="0" y="9" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_operator_shoot_left">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="3" x="3" y="10" />
+	<desc length="4" x="4" y="9" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_operator_fire_down">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="4" x="0" y="9" />
+	<desc length="4" x="0" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_operator_fire_right">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="4" x="4" y="9" />
+	<desc length="4" x="4" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_operator_fire_up">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="4" x="0" y="8" />
+	<desc length="4" x="0" y="6" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_operator_fire_left">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="4" x="4" y="8" />
+	<desc length="4" x="4" y="6" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_golden_operator_repair">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="7" x="0" y="7" />
+	<desc length="8" x="0" y="8" />
 	<time>2</time>
 </anim>
 <anim name="fr_golden_operator_punch_down">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="5" x="0" y="6" />
+	<desc length="6" x="0" y="12" />
 	<time>1.5</time>
 </anim>
 <anim name="fr_golden_operator_punch_up">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="5" x="0" y="5" />
+	<desc length="6" x="0" y="11" />
 	<time>1.5</time>
 </anim>
 <anim name="fr_golden_operator_type_right">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="4" x="4" y="4" />
+	<desc length="4" x="4" y="5" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_golden_operator_type_left">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="4" x="4" y="3" />
+	<desc length="4" x="4" y="4" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_golden_operator_type_up">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="4" x="0" y="3" />
+	<desc length="4" x="0" y="4" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_golden_operator_type_down">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="4" x="0" y="4" />
+	<desc length="4" x="0" y="5" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_golden_operator_teleport">
 	<sheet>fr_golden_operator</sheet>
-	<desc length="5" x="0" y="2" />
+	<desc length="6" x="0" y="3" />
 	<time>0.5</time>
 </anim>
 <anim name="fr_golden_operator_portrait">
@@ -634,121 +635,121 @@
 
 <!-- ADAMANTINE OPERATOR -->
 
-<animSheet name="fr_adamantine_operator" w="280" h="490" fw="35" fh="35">people/fr_adamantine_operator_base.png</animSheet>
+<animSheet name="fr_adamantine_operator" w="560" h="525" fw="35" fh="35">people/fr_adamantine_operator_base.png</animSheet>
 
 <anim name="fr_adamantine_operator_clone">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="4" x="0" y="1" />	
+	<desc length="5" x="0" y="2" />	
 	<time>0.75</time>
 </anim>
 <anim name="fr_adamantine_operator_death_right">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="5" x="3" y="0" />
+	<desc length="8" x="0" y="1" />
 	<time>2</time>
 </anim>
 <anim name="fr_adamantine_operator_death_left">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="5" x="3" y="0" />
+	<desc length="8" x="0" y="1" />
 	<time>2</time>
 </anim>
 <anim name="fr_adamantine_operator_walk_down">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="4" x="0" y="13" />
+	<desc length="8" x="0" y="14" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_operator_walk_right">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="4" x="4" y="13" />
+	<desc length="8" x="8" y="14" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_operator_walk_up">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="4" x="0" y="12" />
+	<desc length="8" x="0" y="13" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_operator_walk_left">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="4" x="4" y="12" />
+	<desc length="8" x="8" y="13" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_operator_shoot_down">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="3" x="0" y="11" />
+	<desc length="4" x="0" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_operator_shoot_right">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="3" x="3" y="11" />
+	<desc length="4" x="4" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_operator_shoot_up">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="3" x="0" y="10" />
+	<desc length="4" x="0" y="9" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_operator_shoot_left">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="3" x="3" y="10" />
+	<desc length="4" x="4" y="9" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_operator_fire_down">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="4" x="0" y="9" />
+	<desc length="4" x="0" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_operator_fire_right">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="4" x="4" y="9" />
+	<desc length="4" x="4" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_operator_fire_up">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="4" x="0" y="8" />
+	<desc length="4" x="0" y="6" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_operator_fire_left">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="4" x="4" y="8" />
+	<desc length="4" x="4" y="6" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_adamantine_operator_repair">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="7" x="0" y="7" />
+	<desc length="8" x="0" y="8" />
 	<time>2</time>
 </anim>
 <anim name="fr_adamantine_operator_punch_down">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="5" x="0" y="6" />
+	<desc length="6" x="0" y="12" />
 	<time>1.5</time>
 </anim>
 <anim name="fr_adamantine_operator_punch_up">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="5" x="0" y="5" />
+	<desc length="6" x="0" y="11" />
 	<time>1.5</time>
 </anim>
 <anim name="fr_adamantine_operator_type_right">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="4" x="4" y="4" />
+	<desc length="4" x="4" y="5" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_adamantine_operator_type_left">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="4" x="4" y="3" />
+	<desc length="4" x="4" y="4" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_adamantine_operator_type_up">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="4" x="0" y="3" />
+	<desc length="4" x="0" y="4" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_adamantine_operator_type_down">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="4" x="0" y="4" />
+	<desc length="4" x="0" y="5" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_adamantine_operator_teleport">
 	<sheet>fr_adamantine_operator</sheet>
-	<desc length="5" x="0" y="2" />
+	<desc length="6" x="0" y="3" />
 	<time>0.5</time>
 </anim>
 <anim name="fr_adamantine_operator_portrait">
@@ -759,121 +760,121 @@
 
 <!-- COPPER OPERATOR -->
 
-<animSheet name="fr_copper_operator" w="280" h="490" fw="35" fh="35">people/fr_copper_operator_base.png</animSheet>
+<animSheet name="fr_copper_operator" w="560" h="525" fw="35" fh="35">people/fr_copper_operator_base.png</animSheet>
 
 <anim name="fr_copper_operator_clone">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="4" x="0" y="1" />	
+	<desc length="5" x="0" y="2" />	
 	<time>0.75</time>
 </anim>
 <anim name="fr_copper_operator_death_right">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="5" x="3" y="0" />
+	<desc length="8" x="0" y="1" />
 	<time>2</time>
 </anim>
 <anim name="fr_copper_operator_death_left">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="5" x="3" y="0" />
+	<desc length="8" x="0" y="1" />
 	<time>2</time>
 </anim>
 <anim name="fr_copper_operator_walk_down">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="4" x="0" y="13" />
+	<desc length="8" x="0" y="14" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_operator_walk_right">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="4" x="4" y="13" />
+	<desc length="8" x="8" y="14" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_operator_walk_up">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="4" x="0" y="12" />
+	<desc length="8" x="0" y="13" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_operator_walk_left">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="4" x="4" y="12" />
+	<desc length="8" x="8" y="13" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_operator_shoot_down">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="3" x="0" y="11" />
+	<desc length="4" x="0" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_operator_shoot_right">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="3" x="3" y="11" />
+	<desc length="4" x="4" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_operator_shoot_up">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="3" x="0" y="10" />
+	<desc length="4" x="0" y="9" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_operator_shoot_left">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="3" x="3" y="10" />
+	<desc length="4" x="4" y="9" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_operator_fire_down">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="4" x="0" y="9" />
+	<desc length="4" x="0" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_operator_fire_right">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="4" x="4" y="9" />
+	<desc length="4" x="4" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_operator_fire_up">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="4" x="0" y="8" />
+	<desc length="4" x="0" y="6" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_operator_fire_left">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="4" x="4" y="8" />
+	<desc length="4" x="4" y="6" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_copper_operator_repair">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="7" x="0" y="7" />
+	<desc length="8" x="0" y="8" />
 	<time>2</time>
 </anim>
 <anim name="fr_copper_operator_punch_down">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="5" x="0" y="6" />
+	<desc length="6" x="0" y="12" />
 	<time>1.5</time>
 </anim>
 <anim name="fr_copper_operator_punch_up">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="5" x="0" y="5" />
+	<desc length="6" x="0" y="11" />
 	<time>1.5</time>
 </anim>
 <anim name="fr_copper_operator_type_right">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="4" x="4" y="4" />
+	<desc length="4" x="4" y="5" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_copper_operator_type_left">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="4" x="4" y="3" />
+	<desc length="4" x="4" y="4" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_copper_operator_type_up">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="4" x="0" y="3" />
+	<desc length="4" x="0" y="4" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_copper_operator_type_down">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="4" x="0" y="4" />
+	<desc length="4" x="0" y="5" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_copper_operator_teleport">
 	<sheet>fr_copper_operator</sheet>
-	<desc length="5" x="0" y="2" />
+	<desc length="6" x="0" y="3" />
 	<time>0.5</time>
 </anim>
 <anim name="fr_copper_operator_portrait">
@@ -884,121 +885,121 @@
 
 <!-- MORPH OPERATOR -->
 
-<animSheet name="fr_techno_operator" w="280" h="490" fw="35" fh="35">people/fr_techno_operator_base.png</animSheet>
+<animSheet name="fr_techno_operator" w="560" h="525" fw="35" fh="35">people/fr_techno_operator_base.png</animSheet>
 
 <anim name="fr_techno_operator_clone">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="4" x="0" y="1" />	
+	<desc length="5" x="0" y="2" />	
 	<time>0.75</time>
 </anim>
 <anim name="fr_techno_operator_death_right">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="5" x="3" y="0" />
+	<desc length="8" x="0" y="1" />
 	<time>2</time>
 </anim>
 <anim name="fr_techno_operator_death_left">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="5" x="3" y="0" />
+	<desc length="8" x="0" y="1" />
 	<time>2</time>
 </anim>
 <anim name="fr_techno_operator_walk_down">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="4" x="0" y="13" />
+	<desc length="8" x="0" y="14" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_techno_operator_walk_right">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="4" x="4" y="13" />
+	<desc length="8" x="8" y="14" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_techno_operator_walk_up">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="4" x="0" y="12" />
+	<desc length="8" x="0" y="13" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_techno_operator_walk_left">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="4" x="4" y="12" />
+	<desc length="8" x="8" y="13" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_techno_operator_shoot_down">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="3" x="0" y="11" />
+	<desc length="4" x="0" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_techno_operator_shoot_right">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="3" x="3" y="11" />
+	<desc length="4" x="4" y="10" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_techno_operator_shoot_up">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="3" x="0" y="10" />
+	<desc length="4" x="0" y="9" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_techno_operator_shoot_left">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="3" x="4" y="10" />
+	<desc length="4" x="4" y="9" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_techno_operator_fire_down">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="4" x="0" y="9" />
+	<desc length="4" x="0" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_techno_operator_fire_right">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="4" x="4" y="9" />
+	<desc length="4" x="4" y="7" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_techno_operator_fire_up">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="4" x="0" y="8" />
+	<desc length="4" x="0" y="6" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_techno_operator_fire_left">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="4" x="4" y="8" />
+	<desc length="4" x="4" y="6" />
 	<time>1.0</time>
 </anim>
 <anim name="fr_techno_operator_repair">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="7" x="0" y="7" />
+	<desc length="8" x="0" y="8" />
 	<time>2</time>
 </anim>
 <anim name="fr_techno_operator_punch_down">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="5" x="0" y="6" />
+	<desc length="6" x="0" y="12" />
 	<time>1.5</time>
 </anim>
 <anim name="fr_techno_operator_punch_up">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="5" x="0" y="5" />
+	<desc length="6" x="0" y="11" />
 	<time>1.5</time>
 </anim>
 <anim name="fr_techno_operator_type_right">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="4" x="4" y="4" />
+	<desc length="4" x="4" y="5" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_techno_operator_type_left">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="4" x="4" y="3" />
+	<desc length="4" x="4" y="4" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_techno_operator_type_up">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="4" x="0" y="3" />
+	<desc length="4" x="0" y="4" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_techno_operator_type_down">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="4" x="0" y="4" />
+	<desc length="4" x="0" y="5" />
 	<time>2.0</time>
 </anim>
 <anim name="fr_techno_operator_teleport">
 	<sheet>fr_techno_operator</sheet>
-	<desc length="5" x="0" y="2" />
+	<desc length="6" x="0" y="3" />
 	<time>0.5</time>
 </anim>
 <anim name="fr_techno_operator_portrait">
