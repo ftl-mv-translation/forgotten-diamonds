@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-15 11:12+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgotten-"
 "diamonds/dataevents_fr_special_fleshmakerxml/ru/>\n"
 "Language: ru\n"
@@ -140,7 +140,7 @@ msgstr ""
 #: src-en/data/events_fr_special_fleshmaker.xml:90
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_VICTOR_LIST\"]/text"
-msgstr ""
+msgstr "Зарегистрировать в базе Виктора"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:92
 msgid ""
@@ -170,7 +170,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:116
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_JON_LIST\"]/text"
-msgstr ""
+msgstr "Зарегистрировать в базе Джона"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:118
 msgid ""
@@ -185,7 +185,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:129
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_PURPLEBEARD_LIST\"]/text"
-msgstr ""
+msgstr "Зарегистрировать в базе Фиолетовою бороду"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:131
 msgid ""
@@ -200,7 +200,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:142
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_MESSENGER_LIST\"]/text"
-msgstr ""
+msgstr "Зарегистрировать в базе Мессенджер"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:144
 msgid ""
@@ -234,7 +234,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_fr_special_fleshmaker.xml:168
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_VANCE_ONE_LIST\"]/text"
-msgstr ""
+msgstr "Зарегистрировать в базе Вэнса Первого"
 
 #: src-en/data/events_fr_special_fleshmaker.xml:170
 msgid ""
@@ -874,7 +874,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_fr_special_fleshmaker.xml:608
-#, fuzzy
 msgid ""
 "data/events_fr_special_fleshmaker.xml$//event[@name=\"FR_FLESH_MAKER_SCAN\"]/choice[@req=\"FR_FLESHMAKER_ANOINTED_LIST\"]/text"
 msgstr "Зарегистрировать в базе данных Помазанницу"
