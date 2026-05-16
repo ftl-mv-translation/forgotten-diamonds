@@ -8,17 +8,17 @@ msgstr ""
 #: src-en/data/autoBlueprints.xml.append:531
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_BOSS_QUEST_METAL_LANIUS_CRUISER\"]/class"
-msgstr "Croiseur Métallique"
+msgstr "Croiseur en métal"
 
 #: src-en/data/autoBlueprints.xml.append:558
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_BOSS_QUEST_METAL_DIAMOND_CRUISER\"]/class"
-msgstr "Croiseur Pyramide Métallique"
+msgstr "Croiseur Pyramidal en Métal"
 
 #: src-en/data/autoBlueprints.xml.append:585
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FR_BOSS_QUEST_OPERATOR_CRUISER\"]/class"
-msgstr "Vaisseau Cuivré ?"
+msgstr "Vaisseau de Cuivre ?"
 
 #: src-en/data/autoBlueprints.xml.append:629
 msgid ""

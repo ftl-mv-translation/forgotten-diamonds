@@ -9,7 +9,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_blob_diamond\"]/powerList/power[1]"
 msgstr ""
-"Imitation actuelle : Tous les Diamants Métalliques Combinés (à moitié "
+"Imitation actuelle : Tous les Diamants Métalliques Combinés (à moitié de "
 "puissance)"
 
 #: src-en/data/blueprints.xml.append:25
@@ -26,21 +26,21 @@ msgstr "Doré"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_diamond\"]/desc"
 msgstr ""
-"Les Diamants sont un groupe de 3 espèces faites de métal organique. L'une d'elles est le Diamant Doré, une espèce entièrement axée sur la ferraille et les méthodes pour l'acquérir et l'utiliser afin d'améliorer leurs armes à des niveaux extrêmes.\n"
+"Les diamants sont un groupe de 3 espèces faites de métal organique, dont les diamants dorés, une espèce entièrement axée sur la ferraille et les méthodes pour l'acquérir et l'utiliser afin d'améliorer leurs armes à des niveaux extrêmes.\n"
 "\n"
-"\t\tLes Diamants Dorés ne peuvent pas combattre à distance, comptant plutôt sur leurs compétences au corps à corps pour se protéger."
+"\t\tLes diamants dorés ne peuvent pas combattre à distance, comptant plutôt sur leurs compétences au corps à corps pour se protéger."
 
 #: src-en/data/blueprints.xml.append:35
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_diamond\"]/powerList/power[1]"
-msgstr "150 PV, subit 1,2x dégâts en combat."
+msgstr "150 points de vie, subit 1,2x dégâts en combat."
 
 #: src-en/data/blueprints.xml.append:36
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_diamond\"]/powerList/power[2]"
 msgstr ""
-"Dégâts au corps à corps x3, attaques 20% plus lentes, ne cause aucun dégât à"
-" distance."
+"3x dégâts au corps à corps, attaque 20% plus lentement, n'inflige aucun "
+"dégât à distance."
 
 #: src-en/data/blueprints.xml.append:37
 msgid ""
@@ -70,45 +70,45 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:48
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/powerList/power[1]"
-msgstr "300 PV, met 50% plus de temps à se soigner."
+msgstr "300 points de vie, met 50% plus de temps à se soigner."
 
 #: src-en/data/blueprints.xml.append:49
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/powerList/power[2]"
 msgstr ""
-"Inflige 0,25x dégâts de combat. Sabote à demi-vitesse mais répare à double "
-"vitesse."
+"Inflige 0,25x dégâts de combat. Sabote à moitié vitesse mais répare à double"
+" vitesse."
 
 #: src-en/data/blueprints.xml.append:50
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/powerList/power[3]"
-msgstr "Vitesse de déplacement 0,5x, ne peut pas brûler ou suffoquer."
+msgstr "0,5x vitesse de déplacement, ne peut pas brûler ou suffoquer."
 
 #: src-en/data/blueprints.xml.append:51
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_diamond\"]/powerList/power[4]"
 msgstr ""
-"Les émissions toxiques réduisent les dégâts des ennemis dans la même pièce "
-"qu'eux de 0,5x. Ne se cumule pas."
+"Les émissions toxiques réduisent de 0,5x les dégâts des ennemis se trouvant "
+"dans la même pièce qu'eux. Ne se cumule pas."
 
 #: src-en/data/blueprints.xml.append:55
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/title"
-msgstr "Diamant Cuivré"
+msgstr "Diamant Cuivre"
 
 #: src-en/data/blueprints.xml.append:56
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/short"
-msgstr "Cuivré"
+msgstr "Cuivre"
 
 #: src-en/data/blueprints.xml.append:57
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/desc"
 msgstr ""
-"Les Diamants sont un groupe de 3 espèces faites de métal organique. L'une "
-"d'elles est le Diamant Cuivré, une espèce qui a évolué pour dépendre "
-"entièrement de ses drones pour tout, au point de devoir se trouver dans la "
-"soute à drones pour se soigner."
+"Les diamants sont un groupe de 3 espèces faites de métal organique, dont les"
+" diamants cuivre, une espèce qui a évolué pour dépendre entièrement de ses "
+"drones pour tout, au point d'avoir besoin d'être dans la baie des drones "
+"pour se soigner."
 
 #: src-en/data/blueprints.xml.append:62
 msgid ""
@@ -118,14 +118,14 @@ msgstr "0,2x dégâts de combat, 2x dégâts de sabotage."
 #: src-en/data/blueprints.xml.append:63
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/powerList/power[2]"
-msgstr "Vitesse de déplacement 1,5x, ne peut pas brûler ou suffoquer."
+msgstr "1,5x vitesse de déplacement, ne peut pas brûler ou suffoquer."
 
 #: src-en/data/blueprints.xml.append:64
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_diamond\"]/powerList/power[3]"
 msgstr ""
-"Ne peut pas se soigner normalement, se soigne plutôt de 10 PV par seconde "
-"lorsqu'il est dans la soute à drones."
+"Ne peut pas se soigner par des moyens normaux, se soigne plutôt de 10 PV par"
+" seconde lorsqu'il se trouve dans la baie des drones."
 
 #: src-en/data/blueprints.xml.append:71
 msgid ""
@@ -141,16 +141,16 @@ msgstr "Opérateur D."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/desc"
 msgstr ""
-"Lorsqu'un Diamant meurt, son corps est transféré dans une coquille mécanique afin d'échapper à la mort. Cela a cependant l'effet secondaire malheureux de faire perdre à la personnalité du Diamant son ancienne identité.\n"
+"Lorsqu'un Diamant meurt, son corps est transféré dans une coquille mécanique afin d'échapper à la mort, ce qui a cependant l'effet secondaire malheureux de faire perdre l'ancienne personnalité du diamant.\n"
 "\t\n"
-"\tLes opérateurs dorés s'efforcent de compenser les faiblesses du diamant, possédant des blasters de pointe, mais ne peuvent pas combattre au corps à corps. Leurs attaques à distance peuvent être lentes, mais elles infligent de lourds dégâts."
+"\tLes opérateurs dorés s'efforcent de compenser les faiblesses du diamant, disposant de blasters de pointe, mais ne peuvent pas combattre au corps à corps. Leurs attaques à distance peuvent être lentes mais infligent de lourds dégâts."
 
 #: src-en/data/blueprints.xml.append:80
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/powerList/power[1]"
 msgstr ""
-"110 PV max, se soigne à double vitesse lorsqu'il est dans les boucliers, "
-"armes, pilotage et moteurs."
+"110 points de vie maximum, se soigne deux fois plus vite lorsqu'il se trouve"
+" dans les boucliers, les armes, le pilotage et les moteurs."
 
 #: src-en/data/blueprints.xml.append:81
 msgid ""
@@ -169,12 +169,13 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:83
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_operator\"]/powerList/power[4]"
-msgstr "Vitesse de réparation 2x, apprend les compétences à double vitesse."
+msgstr ""
+"2x vitesse de réparation, apprend les compétences deux fois plus vite."
 
 #: src-en/data/blueprints.xml.append:87
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/title"
-msgstr "Opérateur Adamantin"
+msgstr "Opérateur Adamantine"
 
 #: src-en/data/blueprints.xml.append:88
 msgid ""
@@ -185,29 +186,27 @@ msgstr "Opérateur A."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/desc"
 msgstr ""
-"Lorsqu'un Diamant meurt, son corps est transféré dans une coquille mécanique afin d'échapper à la mort. Cela a cependant l'effet secondaire malheureux de faire perdre à la personnalité du Diamant son ancienne identité.\n"
+"Lorsqu'un Diamant meurt, son corps est transféré dans une coquille mécanique afin d'échapper à la mort, ce qui a cependant l'effet secondaire malheureux de faire perdre l'ancienne personnalité du diamant.\n"
 "\t\n"
-"\tLes opérateurs adamantins sont des centres de connaissances ambulants, capables d'opérer n'importe quel système à pleine capacité immédiatement, mais impuissants dans toute situation stressante."
+"\tLes opérateurs adamantine sont des centres de connaissances ambulants, capables d'utiliser n'importe quel système à pleine capacité immédiatement, mais impuissants dans les situations stressantes."
 
 #: src-en/data/blueprints.xml.append:96
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/powerList/power[1]"
 msgstr ""
-"150 PV max, subit 0,5x dégâts. Les alliés dans la même pièce sont immunisés "
-"contre les dégâts environnementaux."
+"150 points de vie maximum, subit 0,5x dégâts. Les alliés dans la même pièce "
+"sont immunisés contre les dégâts environnementaux."
 
 #: src-en/data/blueprints.xml.append:97
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/powerList/power[2]"
-msgstr ""
-"Ne peut pas combattre, saboter ou réparer. Est cloné 100x plus rapidement."
+msgstr "Ne peut pas combattre, saboter ou réparer. Est cloné 100x plus vite."
 
 #: src-en/data/blueprints.xml.append:98
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_operator\"]/powerList/power[3]"
 msgstr ""
-"Immunisé contre le contrôle mental, fournit 4 points de puissance au système"
-" occupé."
+"Immunisé contre le contrôle mental, fournit 4 d'énergie au système occupé."
 
 #: src-en/data/blueprints.xml.append:99
 msgid ""
@@ -224,7 +223,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:104
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/title"
-msgstr "Opérateur Cuivré"
+msgstr "Opérateur Cuivre"
 
 #: src-en/data/blueprints.xml.append:105
 msgid ""
@@ -235,14 +234,14 @@ msgstr "Opérateur C."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/desc"
 msgstr ""
-"Lorsqu'un Diamant meurt, son corps est transféré dans une coquille mécanique afin d'échapper à la mort. Cela a cependant l'effet secondaire malheureux de faire perdre à la personnalité du Diamant son ancienne identité.\n"
+"Lorsqu'un Diamant meurt, son corps est transféré dans une coquille mécanique afin d'échapper à la mort, ce qui a cependant l'effet secondaire malheureux de faire perdre l'ancienne personnalité du diamant.\n"
 "\t\n"
-"\tLes opérateurs cuivrés sont conçus pour être les soigneurs et l'équipage de maintenance à bord des vaisseaux, capables de réparer n'importe quel membre d'équipage robotique tout en réparant les systèmes extrêmement rapidement."
+"\tLes opérateurs cuivre sont conçus pour être les soigneurs et l'équipage de maintenance à bord des vaisseaux, capables de réparer tout membre d'équipage robotique tout en réparant les systèmes extrêmement rapidement."
 
 #: src-en/data/blueprints.xml.append:113
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_operator\"]/powerList/power[1]"
-msgstr "70 PV max. Se déplace à 1,5x vitesse."
+msgstr "70 points de vie maximum. Se déplace à 1,5x vitesse."
 
 #: src-en/data/blueprints.xml.append:114
 msgid ""
@@ -265,7 +264,7 @@ msgstr "Immunisé contre la suffocation et les dégâts de feu."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_techno_operator\"]/powerList/power[1]"
 msgstr ""
-"Imitation actuelle : Tous les Opérateurs Métalliques Combinés À Demi-"
+"Imitation actuelle : Tous les Opérateurs Métalliques Combinés À Moitié "
 "Puissance (Étrangement, le Technomorphe n'a pas changé sa couleur en son "
 "vert habituel)"
 
@@ -274,8 +273,8 @@ msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_1\"]/desc"
 msgstr ""
 "Un individu Augmenté qui a subi une mutation significativement différente en"
-" consommant un morceau distinct d'épave ancienne provenant d'un amas "
-"lointain. Il peut s'améliorer aux balises vides."
+" consommant un morceau distinct d'épave ancienne d'un amas distant. Il peut "
+"s'améliorer sur les balises vides."
 
 #: src-en/data/blueprints.xml.append:136
 msgid ""
@@ -296,17 +295,16 @@ msgstr "70 PV. 1,1x dégâts de combat, subit 0,9x dégâts en combat."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_1\"]/powerList/power[2]"
 msgstr ""
-"Fournit de la puissance à la pièce occupée, répare les systèmes 1,5x plus "
-"rapidement."
+"Fournit de l'énergie à la pièce occupée, répare les systèmes 1,5x plus vite."
 
 #: src-en/data/blueprints.xml.append:147
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_2\"]/desc"
 msgstr ""
 "Un individu Augmenté qui a subi une mutation significativement différente en"
-" consommant un fragment unique d'épave ancienne provenant d'un amas "
-"lointain. Il possède maintenant des dégâts de combat bonus et peut régénérer"
-" sa santé en dehors des combats."
+" consommant un fragment unique d'épave ancienne d'un amas distant. Il "
+"possède désormais un bonus de dégâts de combat et peut régénérer sa santé en"
+" dehors des combats."
 
 #: src-en/data/blueprints.xml.append:148
 msgid ""
@@ -332,22 +330,21 @@ msgstr "100 PV. 1,5x dégâts de combat, subit 0,8x dégâts en combat."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_2\"]/powerList/power[3]"
 msgstr ""
-"Fournit de la puissance à la pièce occupée, répare les systèmes 1,8x plus "
-"rapidement."
+"Fournit de l'énergie à la pièce occupée, répare les systèmes 1,8x plus vite."
 
 #: src-en/data/blueprints.xml.append:160
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_3\"]/desc"
 msgstr ""
 "Un individu Augmenté qui a subi une mutation significativement différente en"
-" consommant un fragment unique d'épave ancienne provenant d'un amas "
-"lointain. Maintenant entièrement amélioré, il a atteint son pic de dégâts et"
-" de vitesse de déplacement, tout en devenant immunisé contre les incendies."
+" consommant un fragment unique d'épave ancienne d'un amas distant. Désormais"
+" entièrement amélioré, il a atteint son maximum de dégâts et de vitesse de "
+"déplacement, tout en devenant immunisé contre les incendies."
 
 #: src-en/data/blueprints.xml.append:161
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_3\"]/title"
-msgstr "Les Dorés Ascensionnés"
+msgstr "Les Dorés Ascendants"
 
 #: src-en/data/blueprints.xml.append:162
 msgid ""
@@ -370,34 +367,33 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_golden_lanius_3\"]/powerList/power[3]"
 msgstr ""
-"Fournit deux points de puissance à la pièce occupée, répare les systèmes 2x "
-"plus rapidement."
+"Fournit deux d'énergie à la pièce occupée, répare les systèmes 2x plus vite."
 
 #: src-en/data/blueprints.xml.append:173
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/desc"
 msgstr ""
 "Un individu Augmenté qui a subi une mutation significativement différente en"
-" consommant un fragment unique d'épave ancienne provenant d'un amas "
-"lointain. Ces Lanius ont une relation symbiotique avec le feu, étant soignés"
-" par celui-ci et ayant la capacité de déclencher des incendies à volonté."
+" consommant un fragment unique d'épave ancienne d'un amas distant. Ces "
+"Lanius ont une relation symbiotique avec le feu, étant soignés par celui-ci "
+"et ayant la capacité de créer des incendies à volonté."
 
 #: src-en/data/blueprints.xml.append:174
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/title"
-msgstr "Les Cuivrés"
+msgstr "Les Cuivres"
 
 #: src-en/data/blueprints.xml.append:175
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/short"
-msgstr "Cuivrés"
+msgstr "Cuivres"
 
 #: src-en/data/blueprints.xml.append:180
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/powerList/power[1]"
 msgstr ""
-"Capacité active : Invoque un feu dans la pièce occupée. Se déplace à 0,8x "
-"vitesse et double sa production d'O2 pendant 12 secondes."
+"Capacité active : Invoque un incendie dans la pièce occupée. Se déplace à "
+"0,8x vitesse et double sa production d'O2 pendant 12 secondes."
 
 #: src-en/data/blueprints.xml.append:181
 msgid ""
@@ -409,14 +405,14 @@ msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/powerList/power[3]"
 msgstr ""
 "Se régénère lentement en cas d'incendie et se détériore lorsqu'il n'est pas "
-"en pleine santé. Supprime l'immunité au feu de l'ennemi lorsqu'il se trouve "
-"dans la même pièce."
+"en pleine santé. Supprime l'immunité de l'ennemi au feu lorsqu'il se trouve "
+"dans la même pièce qu'eux."
 
 #: src-en/data/blueprints.xml.append:183
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_lanius\"]/powerList/power[4]"
 msgstr ""
-"Peut suffoquer et subira des dégâts des gaz de Coquille. Remplit lentement "
+"Peut suffoquer et subira des dégâts des gaz de coquille. Remplit lentement "
 "la pièce d'O2."
 
 #: src-en/data/blueprints.xml.append:187
@@ -424,26 +420,26 @@ msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/desc"
 msgstr ""
 "Un individu Augmenté qui a subi une mutation significativement différente en"
-" consommant un fragment unique d'épave ancienne provenant d'un amas "
-"lointain. Ces Lanius créent des brèches à bord du vaisseau ennemi et peuvent"
-" également infliger une faible affliction à l'équipage ennemi à proximité."
+" consommant un fragment unique d'épave ancienne d'un amas distant. Ces "
+"Lanius créent des brèches à bord du vaisseau ennemi et peuvent également "
+"infliger une faible affliction aux membres d'équipage ennemis à proximité."
 
 #: src-en/data/blueprints.xml.append:188
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/title"
-msgstr "Les Adamantins"
+msgstr "Les Adamantines"
 
 #: src-en/data/blueprints.xml.append:189
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/short"
-msgstr "Adamantins"
+msgstr "Adamantines"
 
 #: src-en/data/blueprints.xml.append:194
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/powerList/power[1]"
 msgstr ""
-"Capacité active : Soigne entièrement le Lanius, crée une brèche et inflige 1"
-" dégât de système à la pièce occupée."
+"Capacité active : Soigne entièrement le lanius, crée une brèche et inflige 1"
+" dégât système à la pièce occupée."
 
 #: src-en/data/blueprints.xml.append:195
 msgid ""
@@ -456,7 +452,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_adamantine_lanius\"]/powerList/power[3]"
 msgstr ""
-"Applique une affliction constante à une pile unique aux ennemis proches. "
+"Applique une affliction constante à une seule pile aux ennemis proches. "
 "Supprime l'immunité à la suffocation des ennemis proches."
 
 #: src-en/data/blueprints.xml.append:197
@@ -484,7 +480,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:220
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_1\"]/tooltip"
-msgstr "1 dégât de coque, 2 dégâts de système, étourdit toujours."
+msgstr "1 dégât de coque, 2 dégâts système, étourdit toujours."
 
 #: src-en/data/blueprints.xml.append:251
 msgid ""
@@ -506,7 +502,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:254
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_2\"]/tooltip"
-msgstr "3 dégâts de coque, 5 dégâts de système, étourdit toujours."
+msgstr "3 dégâts de coque, 5 dégâts système, étourdit toujours."
 
 #: src-en/data/blueprints.xml.append:285
 msgid ""
@@ -522,13 +518,13 @@ msgstr "Désint. III"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_3\"]/desc"
 msgstr ""
-"Une arme dorée anormalement puissante, plus forte que tout ce que les Royals"
-" ont à offrir."
+"Une arme dorée anormalement puissante, plus forte que les meilleures que les"
+" Royals peuvent offrir."
 
 #: src-en/data/blueprints.xml.append:288
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BEAM_3\"]/tooltip"
-msgstr "5 dégâts de coque, 7 dégâts de système, étourdit toujours."
+msgstr "5 dégâts de coque, 7 dégâts système, étourdit toujours."
 
 #: src-en/data/blueprints.xml.append:314
 msgid ""
@@ -544,14 +540,14 @@ msgstr "L. Doré I"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_1\"]/desc"
 msgstr ""
-"Le premier laser à rafale conceptualisé par les Diamants Dorés. Peut être "
+"Le premier laser rafale conceptualisé par les Diamants Dorés. Peut être "
 "amélioré si vous possédez les Boucliers d'Opulence."
 
 #: src-en/data/blueprints.xml.append:318
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_1\"]/tooltip"
 msgstr ""
-"Laser Rafale Ancien ; 1 dégât, étourdit toujours, 2 projectiles, petit rayon"
+"Laser rafale Ancien ; 1 dégât, étourdit toujours, 2 projectiles, petit rayon"
 " et 10% de précision."
 
 #: src-en/data/blueprints.xml.append:355
@@ -568,16 +564,15 @@ msgstr "L. Doré II"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_2\"]/desc"
 msgstr ""
-"Une nette amélioration par rapport au premier modèle, la ferraille fournie "
-"au canon lui a permis de devenir plus puissant que la version actuelle du "
-"laser à rafale marque 3. Peut être amélioré si vous possédez les Boucliers "
-"d'Opulence."
+"Une nette amélioration par rapport au premier modèle, la ferraille fournie à"
+" l'arme lui a permis de devenir plus forte que la version actuelle du laser "
+"rafale MK 3. Peut être améliorée si vous possédez les Boucliers d'Opulence."
 
 #: src-en/data/blueprints.xml.append:359
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_2\"]/tooltip"
 msgstr ""
-"Laser Rafale Ancien ; 1 dégât, étourdit toujours, 7 projectiles, petit rayon"
+"Laser rafale Ancien ; 1 dégât, étourdit toujours, 7 projectiles, petit rayon"
 " et 20% de précision."
 
 #: src-en/data/blueprints.xml.append:396
@@ -594,20 +589,20 @@ msgstr "L. Doré III"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_3\"]/desc"
 msgstr ""
-"La forme finale du laser à rafale doré, maintenant avec le nombre maximum de"
-" tirs possibles, il ne rate jamais sa cible."
+"La forme finale du laser rafale doré, désormais avec le nombre maximum de "
+"tirs possible, il ne rate jamais non plus."
 
 #: src-en/data/blueprints.xml.append:400
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_LASER_3\"]/tooltip"
 msgstr ""
-"Laser Rafale Ancien ; 1 dégât, étourdit toujours, 10 projectiles, petit "
-"rayon et ne rate jamais sa cible."
+"Laser rafale Ancien ; 1 dégât, étourdit toujours, 10 projectiles, petit "
+"rayon et ne rate jamais."
 
 #: src-en/data/blueprints.xml.append:438
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_1\"]/title"
-msgstr "Canon Plasmatique Doré MK I"
+msgstr "Canon Plasma Doré MK I"
 
 #: src-en/data/blueprints.xml.append:439
 msgid ""
@@ -618,21 +613,22 @@ msgstr "P. Doré I"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_1\"]/desc"
 msgstr ""
-"Le début de la ligne ionique dorée, pas très flashy pour le moment, mais "
-"donnez-lui de la ferraille et il pourra oblitérer les boucliers avec "
-"facilité. Peut être amélioré si vous possédez les Boucliers d'Opulence."
+"Le début de la ligne ionique dorée, pas très spectaculaire actuellement, "
+"mais il suffit de lui donner de la ferraille et il peut anéantir les "
+"boucliers avec facilité. Peut être amélioré si vous possédez les Boucliers "
+"d'Opulence."
 
 #: src-en/data/blueprints.xml.append:442
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_1\"]/tooltip"
 msgstr ""
-"Tire 1 projectile qui inflige 1 dégât ionique et de système, et étourdit "
+"Tire 1 projectile qui inflige 1 dégât ionique et système qui étourdit "
 "toujours. Il enchaîne une fois, infligeant plus de dégâts."
 
 #: src-en/data/blueprints.xml.append:486
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_2\"]/title"
-msgstr "Canon Plasmatique Doré MK II"
+msgstr "Canon Plasma Doré MK II"
 
 #: src-en/data/blueprints.xml.append:487
 msgid ""
@@ -643,7 +639,7 @@ msgstr "P. Doré II"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_2\"]/desc"
 msgstr ""
-"L'étape intermédiaire du canon ionique doré, il peut désormais percer tous "
+"Le stade intermédiaire du canon ionique doré, il peut désormais percer tous "
 "les boucliers tout en étant généralement plus puissant. Peut être amélioré "
 "si vous possédez les Boucliers d'Opulence."
 
@@ -651,14 +647,14 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_2\"]/tooltip"
 msgstr ""
-"Tire 1 projectile qui inflige 1 dégât ionique et de système, étourdit "
-"toujours et perce tous les boucliers. Sa chaîne se termine maintenant par "
-"des dégâts plus importants qu'auparavant."
+"Tire 1 projectile qui inflige 1 dégât ionique et système qui étourdit "
+"toujours et perfore tous les boucliers. Sa chaîne se termine désormais en "
+"infligeant plus de dégâts qu'auparavant."
 
 #: src-en/data/blueprints.xml.append:534
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_3\"]/title"
-msgstr "Canon Plasmatique Doré MK III"
+msgstr "Canon Plasma Doré MK III"
 
 #: src-en/data/blueprints.xml.append:535
 msgid ""
@@ -669,93 +665,94 @@ msgstr "P. Doré III"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_3\"]/desc"
 msgstr ""
-"L'étape finale du canon ionique doré, il inflige désormais également des "
-"dégâts d'équipage, et se termine par une chaîne encore plus puissante."
+"Le stade final du canon ionique doré, il inflige désormais également des "
+"dégâts à l'équipage, et se termine par une chaîne encore plus puissante."
 
 #: src-en/data/blueprints.xml.append:538
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_ION_3\"]/tooltip"
 msgstr ""
-"Tire 1 projectile qui inflige 1 dégât ionique et de système, étourdit "
-"toujours et perce tous les boucliers. 30 dégâts d'équipage. Sa chaîne se "
-"termine maintenant par des dégâts plus importants qu'auparavant."
+"Tire 1 projectile qui inflige 1 dégât ionique et système qui étourdit "
+"toujours et perfore tous les boucliers. 30 dégâts à l'équipage. Sa chaîne se"
+" termine désormais en infligeant plus de dégâts qu'auparavant."
 
 #: src-en/data/blueprints.xml.append:583
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_1\"]/title"
-msgstr "Lance-bombes Doré MK I"
+msgstr "Lance-Bombes Doré MK I"
 
 #: src-en/data/blueprints.xml.append:584
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_1\"]/short"
-msgstr "B. Doré I"
+msgstr "B. Dorée I"
 
 #: src-en/data/blueprints.xml.append:586
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_1\"]/desc"
 msgstr ""
-"Le début de la ligne de bombes dorées, pas très flashy pour le moment, mais "
-"donnez-lui de la ferraille et il commencera à gagner plus de charges et de "
-"dégâts. Peut être amélioré si vous possédez les Boucliers d'Opulence."
+"Le début de la ligne de bombes dorées, pas très spectaculaire actuellement, "
+"mais il suffit de lui donner de la ferraille et elle commencera à gagner "
+"plus de charges et de dégâts. Peut être améliorée si vous possédez les "
+"Boucliers d'Opulence."
 
 #: src-en/data/blueprints.xml.append:587
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_1\"]/tooltip"
 msgstr ""
-"Arme bombe ; nécessite un missile ; inflige 2 dégâts aux systèmes et 30 à "
+"Arme à bombe ; nécessite un missile ; inflige 2 dégâts aux systèmes et 30 à "
 "l'équipage, et étourdit toujours. Peut charger jusqu'à 2 bombes. Peut viser "
 "votre propre vaisseau."
 
 #: src-en/data/blueprints.xml.append:618
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_2\"]/title"
-msgstr "Lance-bombes Doré MK II"
+msgstr "Lance-Bombes Doré MK II"
 
 #: src-en/data/blueprints.xml.append:619
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_2\"]/short"
-msgstr "B. Doré II"
+msgstr "B. Dorée II"
 
 #: src-en/data/blueprints.xml.append:621
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_2\"]/desc"
 msgstr ""
-"L'étape intermédiaire du lance-bombes doré, il peut désormais stocker une "
-"charge supplémentaire tout en infligeant plus de dégâts de système et "
-"d'équipage. Peut être amélioré si vous possédez les Boucliers d'Opulence."
+"Le stade intermédiaire du lance-bombes doré, il peut désormais stocker une "
+"charge de plus tout en infligeant plus de dégâts aux systèmes et à "
+"l'équipage. Peut être amélioré si vous possédez les Boucliers d'Opulence."
 
 #: src-en/data/blueprints.xml.append:622
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_2\"]/tooltip"
 msgstr ""
-"Arme bombe ; nécessite un missile ; inflige 3 dégâts aux systèmes et 45 "
-"dégâts d'équipage, et étourdit toujours. Peut charger jusqu'à 3 bombes. Peut"
-" viser votre propre vaisseau."
+"Arme à bombe ; nécessite un missile ; inflige 3 dégâts aux systèmes et 45 "
+"dégâts à l'équipage, et étourdit toujours. Peut charger jusqu'à 3 bombes. "
+"Peut viser votre propre vaisseau."
 
 #: src-en/data/blueprints.xml.append:653
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_3\"]/title"
-msgstr "Lance-bombes Doré MK III"
+msgstr "Lance-Bombes Doré MK III"
 
 #: src-en/data/blueprints.xml.append:654
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_3\"]/short"
-msgstr "B. Doré III"
+msgstr "B. Dorée III"
 
 #: src-en/data/blueprints.xml.append:656
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_3\"]/desc"
 msgstr ""
-"L'étape finale du lance-bombes doré, il peut désormais contenir 4 charges et"
-" inflige plus de dégâts de système et d'équipage."
+"Le stade final du lance-bombes doré, il peut désormais contenir 4 charges et"
+" inflige plus de dégâts aux systèmes et à l'équipage."
 
 #: src-en/data/blueprints.xml.append:657
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_BOMB_3\"]/tooltip"
 msgstr ""
-"Arme bombe ; nécessite un missile ; inflige 4 dégâts aux systèmes et 60 "
-"dégâts d'équipage, et étourdit toujours. Peut charger jusqu'à 4 bombes. Peut"
-" viser votre propre vaisseau."
+"Arme à bombe ; nécessite un missile ; inflige 4 dégâts aux systèmes et 60 "
+"dégâts à l'équipage, et étourdit toujours. Peut charger jusqu'à 4 bombes. "
+"Peut viser votre propre vaisseau."
 
 #: src-en/data/blueprints.xml.append:689
 msgid ""
@@ -771,8 +768,8 @@ msgstr "Flak D. Surch."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK\"]/desc"
 msgstr ""
-"Un canon Flak modifié qui recouvre le vaisseau ennemi de projectiles qui se "
-"déplacent incroyablement vite. Cependant, en raison de son rayon énorme, il "
+"Un canon Flak modifié qui recouvre le vaisseau ennemi de projectiles qui "
+"voyagent incroyablement vite. Cependant, en raison de son rayon énorme, il "
 "est peu probable qu'il inflige des dégâts à un système spécifique."
 
 #: src-en/data/blueprints.xml.append:693
@@ -796,9 +793,9 @@ msgstr "Flak Chaos™"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_GOLDEN_FLAK_CHAOS\"]/desc"
 msgstr ""
-"Un canon Flak modifié qui recouvre le vaisseau ennemi de projectiles qui se déplacent incroyablement vite. Cependant, en raison de son rayon énorme, il est peu probable qu'il inflige des dégâts à un système spécifique. \n"
+"Un canon Flak modifié qui recouvre le vaisseau ennemi de projectiles qui voyagent incroyablement vite. Cependant, en raison de son rayon énorme, il est peu probable qu'il inflige des dégâts à un système spécifique.\n"
 "\t\n"
-"\tLa version chaotique tire beaucoup moins de projectiles, répartis en 3 tirs, mais elle est beaucoup plus précise."
+"\tLa version chaotique tire beaucoup moins de projectiles, répartis en 3 coups, mais elle est beaucoup plus précise."
 
 #: src-en/data/blueprints.xml.append:741
 msgid ""
@@ -810,7 +807,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:789
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER\"]/title"
-msgstr "Drone Terminateur Cuivré MK. I"
+msgstr "Drone Terminateur Cuivre MK. I"
 
 #: src-en/data/blueprints.xml.append:790
 msgid ""
@@ -821,8 +818,8 @@ msgstr "Term. I"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER\"]/desc"
 msgstr ""
-"1 dégât de coque, 2 dégâts de système, 20% de chances de feu, 1 projectile. "
-"Peut être amélioré avec l'Augmentation Bouclier de l'Artisan."
+"1 dégât de coque, 2 dégâts système, 20% chances de feu, 1 projectile. Peut "
+"être amélioré avec l'Augmentation du Bouclier de l'Artisan."
 
 #: src-en/data/blueprints.xml.append:807
 msgid ""
@@ -847,7 +844,7 @@ msgstr "ARME DE DRONE"
 #: src-en/data/blueprints.xml.append:842
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_2\"]/title"
-msgstr "Drone Terminateur Cuivré MK. II"
+msgstr "Drone Terminateur Cuivre MK. II"
 
 #: src-en/data/blueprints.xml.append:843
 msgid ""
@@ -858,8 +855,8 @@ msgstr "Term. II"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_2\"]/desc"
 msgstr ""
-"1 dégât de coque, 3 dégâts de système, 50% de chances de feu, 1 projectile. "
-"Peut être amélioré avec l'Augmentation Bouclier de l'Artisan."
+"1 dégât de coque, 3 dégâts système, 50% chances de feu, 1 projectile. Peut "
+"être amélioré avec l'Augmentation du Bouclier de l'Artisan."
 
 #: src-en/data/blueprints.xml.append:860
 msgid ""
@@ -884,7 +881,7 @@ msgstr "ARME DE DRONE"
 #: src-en/data/blueprints.xml.append:895
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_3\"]/title"
-msgstr "Drone Terminateur Cuivré MK. III"
+msgstr "Drone Terminateur Cuivre MK. III"
 
 #: src-en/data/blueprints.xml.append:896
 msgid ""
@@ -895,8 +892,8 @@ msgstr "Term. III"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_3\"]/desc"
 msgstr ""
-"1 dégât de coque, 3 dégâts de système, 60% de chances de feu, 3 projectiles,"
-" 60 de rayon. Peut être amélioré avec l'Augmentation Bouclier de l'Artisan."
+"1 dégât de coque, 3 dégâts système, 60% chances de feu, 3 projectiles, 60 de"
+" rayon. Peut être amélioré avec l'Augmentation du Bouclier de l'Artisan."
 
 #: src-en/data/blueprints.xml.append:913
 msgid ""
@@ -921,7 +918,7 @@ msgstr "ARME DE DRONE"
 #: src-en/data/blueprints.xml.append:958
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_4\"]/title"
-msgstr "Drone Terminateur Cuivré MK. IV"
+msgstr "Drone Terminateur Cuivre MK. IV"
 
 #: src-en/data/blueprints.xml.append:959
 msgid ""
@@ -931,7 +928,7 @@ msgstr "Term. IV"
 #: src-en/data/blueprints.xml.append:960
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_LASER_4\"]/desc"
-msgstr "2 dégâts, 70% de chances de feu, 5 projectiles, 70 de rayon."
+msgstr "2 dégâts, 70% chances de feu, 5 projectiles, 70 de rayon."
 
 #: src-en/data/blueprints.xml.append:976
 msgid ""
@@ -956,7 +953,7 @@ msgstr "ARME DE DRONE"
 #: src-en/data/blueprints.xml.append:1020
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM\"]/title"
-msgstr "Drone Atomiseur Cuivré MK. I"
+msgstr "Drone Atomiseur Cuivre MK. I"
 
 #: src-en/data/blueprints.xml.append:1021
 msgid ""
@@ -967,8 +964,8 @@ msgstr "Atom. I"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM\"]/desc"
 msgstr ""
-"1 dégât, 10% de chances de feu, 100 Longueur du rayon, 5 Vitesse du rayon. "
-"Peut être amélioré avec l'Augmentation Bouclier de l'Artisan."
+"1 dégât, 10% chances de feu, 100 Longueur du rayon, 5 Vitesse du rayon. Peut"
+" être amélioré avec l'Augmentation du Bouclier de l'Artisan."
 
 #: src-en/data/blueprints.xml.append:1038
 msgid ""
@@ -993,7 +990,7 @@ msgstr "ARME DE DRONE"
 #: src-en/data/blueprints.xml.append:1070
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_2\"]/title"
-msgstr "Drone Atomiseur Cuivré MK. II"
+msgstr "Drone Atomiseur Cuivre MK. II"
 
 #: src-en/data/blueprints.xml.append:1071
 msgid ""
@@ -1004,8 +1001,8 @@ msgstr "Atom. II"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_2\"]/desc"
 msgstr ""
-"1 dégât de coque, 2 dégâts de système, 20% de chances de feu, 100 Longueur "
-"du rayon, 10 Vitesse du rayon. Peut être amélioré avec l'Augmentation "
+"1 dégât de coque, 2 dégâts système, 20% chances de feu, 100 Longueur du "
+"rayon, 10 Vitesse du rayon. Peut être amélioré avec l'Augmentation du "
 "Bouclier de l'Artisan."
 
 #: src-en/data/blueprints.xml.append:1088
@@ -1031,7 +1028,7 @@ msgstr "ARME DE DRONE"
 #: src-en/data/blueprints.xml.append:1121
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_3\"]/title"
-msgstr "Drone Atomiseur Cuivré MK. III"
+msgstr "Drone Atomiseur Cuivre MK. III"
 
 #: src-en/data/blueprints.xml.append:1122
 msgid ""
@@ -1042,9 +1039,9 @@ msgstr "Atom. III"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_3\"]/desc"
 msgstr ""
-"2 dégâts, -2 perforation de bouclier, 30% de chances de feu, 120 Longueur du"
-" rayon, 10 Vitesse du rayon. Peut être amélioré avec l'Augmentation Bouclier"
-" de l'Artisan."
+"2 dégâts, -2 perforation de bouclier, 30% chances de feu, 120 Longueur du "
+"rayon, 10 Vitesse du rayon. Peut être amélioré avec l'Augmentation du "
+"Bouclier de l'Artisan."
 
 #: src-en/data/blueprints.xml.append:1139
 msgid ""
@@ -1069,7 +1066,7 @@ msgstr "ARME DE DRONE"
 #: src-en/data/blueprints.xml.append:1171
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_4\"]/title"
-msgstr "Drone Atomiseur Cuivré MK. IV"
+msgstr "Drone Atomiseur Cuivre MK. IV"
 
 #: src-en/data/blueprints.xml.append:1172
 msgid ""
@@ -1080,8 +1077,8 @@ msgstr "Atom. IV"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_BEAM_4\"]/desc"
 msgstr ""
-"2 dégâts de coque, 4 dégâts de système, 100% de chances de feu, 150 Longueur"
-" du rayon, 15 Vitesse du rayon."
+"2 dégâts de coque, 4 dégâts système, 100% chances de feu, 150 Longueur du "
+"rayon, 15 Vitesse du rayon."
 
 #: src-en/data/blueprints.xml.append:1189
 msgid ""
@@ -1106,35 +1103,35 @@ msgstr "ARME DE DRONE"
 #: src-en/data/blueprints.xml.append:1223
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_PROJECTILE\"]/title"
-msgstr "Veilleur de Nuit Cuivré [P]"
+msgstr "Sentinelle Cuivre [P]"
 
 #: src-en/data/blueprints.xml.append:1224
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_PROJECTILE\"]/short"
-msgstr "Veilleur N. [P]"
+msgstr "Sentinelle [P]"
 
 #: src-en/data/blueprints.xml.append:1225
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_PROJECTILE\"]/desc"
 msgstr ""
-"Ce drone de défense abat les projectiles en tirant des rafales de projectiles contre les cibles entrantes. 8 projectiles, 100 Vitesse de projectile.\n"
+"Ce drone de défense abat les projectiles en tirant des rafales de projectiles sur les cibles entrantes. 8 Projectiles, 100 Vitesse de projectile.\n"
 "\tRecharge : 200 MS"
 
 #: src-en/data/blueprints.xml.append:1243
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_DRONE\"]/title"
-msgstr "Veilleur de Nuit Cuivré [D]"
+msgstr "Sentinelle Cuivre [D]"
 
 #: src-en/data/blueprints.xml.append:1244
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_DRONE\"]/short"
-msgstr "Veilleur N. [D]"
+msgstr "Sentinelle [D]"
 
 #: src-en/data/blueprints.xml.append:1245
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_DEFENSE_DRONE\"]/desc"
 msgstr ""
-"Ce drone de défense abat les drones en tirant des rafales de projectiles contre les cibles entrantes. 8 projectiles, 100 Vitesse de projectile.\n"
+"Ce drone de défense abat les drones en tirant des rafales de projectiles sur les cibles entrantes. 8 Projectiles, 100 Vitesse de projectile.\n"
 "\tRecharge : 200 MS"
 
 #: src-en/data/blueprints.xml.append:1262
@@ -1160,7 +1157,7 @@ msgstr "ARME DE DRONE"
 #: src-en/data/blueprints.xml.append:1303
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE\"]/title"
-msgstr "Drone Obliterate Cuivré MK. I"
+msgstr "Drone Obliterateur Cuivre MK. I"
 
 #: src-en/data/blueprints.xml.append:1304
 msgid ""
@@ -1171,10 +1168,10 @@ msgstr "Oblit. I"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE\"]/desc"
 msgstr ""
-"1 dégât de coque, 2 dégâts de système, Brise-coque, 50% de chances de feu, 1"
-" projectile, perce tous les boucliers, ne consomme pas de missiles. Ne peut "
-"pas être abattu par les drones de défense ennemis. Peut être amélioré avec "
-"l'Augmentation Bouclier de l'Artisan."
+"1 dégât de coque, 2 dégâts système, Brise-coque, 50% chances de feu, 1 "
+"projectile, Perfore tous les boucliers, Ne consomme pas de missiles. Ne peut"
+" pas être abattu par les drones de défense ennemis. Peut être amélioré avec "
+"l'Augmentation du Bouclier de l'Artisan."
 
 #: src-en/data/blueprints.xml.append:1322
 msgid ""
@@ -1190,20 +1187,19 @@ msgstr "M. Ancien"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE\"]/desc"
 msgstr ""
-"Un ancien lance-missiles, bien plus ancien que tout lanceur que vous ayez "
-"jamais vu."
+"Un ancien lance-missiles, bien plus ancien que tous ceux que vous avez vus."
 
 #: src-en/data/blueprints.xml.append:1325
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE\"]/tooltip"
 msgstr ""
-"Tire 1 missile ; inflige 1 dégât à la coque et 2 aux systèmes ; perce tous "
-"les boucliers."
+"Tire 1 missile ; inflige 1 dégât à la coque et 2 aux systèmes ; perfore tous"
+" les boucliers."
 
 #: src-en/data/blueprints.xml.append:1358
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE_2\"]/title"
-msgstr "Drone Obliterate Cuivré MK. II"
+msgstr "Drone Obliterateur Cuivre MK. II"
 
 #: src-en/data/blueprints.xml.append:1359
 msgid ""
@@ -1214,8 +1210,8 @@ msgstr "Oblit. II"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_MISSILE_2\"]/desc"
 msgstr ""
-"3 dégâts, Brise-coque, 100% de chances de feu, 1 projectile, perce tous les "
-"boucliers, ne peut pas être abattu par les drones de défense ennemis. Ne "
+"3 dégâts, Brise-coque, 100% chances de feu, 1 projectile, Perfore tous les "
+"boucliers, Ne peut pas être abattu par les drones de défense ennemis. Ne "
 "consomme pas de missiles."
 
 #: src-en/data/blueprints.xml.append:1377
@@ -1232,30 +1228,29 @@ msgstr "M. Ancien"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE_2\"]/desc"
 msgstr ""
-"Un ancien lance-missiles, bien plus ancien que tout lanceur que vous ayez "
-"jamais vu."
+"Un ancien lance-missiles, bien plus ancien que tous ceux que vous avez vus."
 
 #: src-en/data/blueprints.xml.append:1380
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FR_COPPER_DRONE_MISSILE_2\"]/tooltip"
-msgstr "Tire 1 missile ; inflige 3 dégâts ; perce tous les boucliers."
+msgstr "Tire 1 missile ; inflige 3 dégâts ; perfore tous les boucliers."
 
 #: src-en/data/blueprints.xml.append:1412
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION\"]/title"
-msgstr "Drone Désactivateur Cuivré MK. I"
+msgstr "Drone Neutraliseur Cuivre MK. I"
 
 #: src-en/data/blueprints.xml.append:1413
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION\"]/short"
-msgstr "Désact. I"
+msgstr "Dés. I"
 
 #: src-en/data/blueprints.xml.append:1414
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION\"]/desc"
 msgstr ""
-"1 dégât ionique et de système, 10% de chances de feu, 1 projectile. Peut "
-"être amélioré avec l'Augmentation Bouclier de l'Artisan."
+"1 dégât ionique et système, 10% chances de feu, 1 projectile. Peut être "
+"amélioré avec l'Augmentation du Bouclier de l'Artisan."
 
 #: src-en/data/blueprints.xml.append:1430
 msgid ""
@@ -1280,19 +1275,19 @@ msgstr "ARME DE DRONE"
 #: src-en/data/blueprints.xml.append:1467
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_2\"]/title"
-msgstr "Drone Désactivateur Cuivré MK. II"
+msgstr "Drone Neutraliseur Cuivre MK. II"
 
 #: src-en/data/blueprints.xml.append:1468
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_2\"]/short"
-msgstr "Désact. II"
+msgstr "Dés. II"
 
 #: src-en/data/blueprints.xml.append:1469
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_2\"]/desc"
 msgstr ""
-"1 dégât ionique et de système, 20% de chances de feu, 1 projectile, 10% de "
-"précision. Peut être amélioré avec l'Augmentation Bouclier de l'Artisan."
+"1 dégât ionique et système, 20% chances de feu, 1 projectile, 10% précision."
+" Peut être amélioré avec l'Augmentation du Bouclier de l'Artisan."
 
 #: src-en/data/blueprints.xml.append:1485
 msgid ""
@@ -1317,19 +1312,19 @@ msgstr "ARME DE DRONE"
 #: src-en/data/blueprints.xml.append:1523
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_3\"]/title"
-msgstr "Drone Désactivateur Cuivré MK. III"
+msgstr "Drone Neutraliseur Cuivre MK. III"
 
 #: src-en/data/blueprints.xml.append:1524
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_3\"]/short"
-msgstr "Désact. III"
+msgstr "Dés. III"
 
 #: src-en/data/blueprints.xml.append:1525
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_3\"]/desc"
 msgstr ""
-"2 dégâts de système et ioniques, 50% de chances de feu, 1 projectile, 20% de"
-" précision. Peut être amélioré avec l'Augmentation Bouclier de l'Artisan."
+"2 dégâts système et ionique, 50% chances de feu, 1 projectile, 20% "
+"précision. Peut être amélioré avec l'Augmentation du Bouclier de l'Artisan."
 
 #: src-en/data/blueprints.xml.append:1541
 msgid ""
@@ -1354,19 +1349,19 @@ msgstr "ARME DE DRONE"
 #: src-en/data/blueprints.xml.append:1578
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_4\"]/title"
-msgstr "Drone Désactivateur Cuivré MK. IV"
+msgstr "Drone Neutraliseur Cuivre MK. IV"
 
 #: src-en/data/blueprints.xml.append:1579
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_4\"]/short"
-msgstr "Désact. IV"
+msgstr "Dés. IV"
 
 #: src-en/data/blueprints.xml.append:1580
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_COMBAT_ION_4\"]/desc"
 msgstr ""
-"2 dégâts ioniques et de système, 100% de chances de feu, 1 projectile, 100% "
-"de précision."
+"2 dégâts ioniques et système, 100% chances de feu, 1 projectile, 100% "
+"précision."
 
 #: src-en/data/blueprints.xml.append:1596
 msgid ""
@@ -1391,12 +1386,12 @@ msgstr "ARME DE DRONE"
 #: src-en/data/blueprints.xml.append:1632
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_1\"]/title"
-msgstr "Drone d'Abordage Cuivré"
+msgstr "Drone d'abordage Cuivre"
 
 #: src-en/data/blueprints.xml.append:1633
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_1\"]/short"
-msgstr "Drone Cuivré"
+msgstr "Drone Cuivre"
 
 #: src-en/data/blueprints.xml.append:1634
 msgid ""
@@ -1411,32 +1406,32 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1645
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE\"]/title"
-msgstr "Drone d'Abordage Cuivré MK.I"
+msgstr "Drone d'abordage Cuivre MK.I"
 
 #: src-en/data/blueprints.xml.append:1646
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE\"]/short"
-msgstr "D. A. C."
+msgstr "D. A. Cuivre"
 
 #: src-en/data/blueprints.xml.append:1647
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE\"]/desc"
 msgstr ""
-"Bien que peu puissant actuellement, ce drone peut devenir une centrale après suffisamment de pièces de drones. Peut être amélioré avec l'Augmentation Bouclier de l'Artisan.\n"
+"Bien que peu puissant pour l'instant, ce drone peut devenir une force après suffisamment de pièces de drones. Peut être amélioré avec l'Augmentation du Bouclier de l'Artisan.\n"
 "    \n"
-"-Capacité Périodique : Déclenche un incendie dans la pièce occupée\n"
-"-110 PV, 0,5x vitesse de déplacement\n"
-"-1,5x dégâts d'équipage, Ne subit aucun dégât des dégâts environnementaux et ne peut pas être étourdi."
+"-Capacité périodique : Déclenche un incendie dans la pièce occupée\n"
+"-110 PV, x0,5 vitesse de déplacement\n"
+"-1,5x dégâts à l'équipage, Ne subit aucun dégât des dégâts environnementaux et ne peut pas être étourdi."
 
 #: src-en/data/blueprints.xml.append:1660
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_2\"]/title"
-msgstr "Drone d'Abordage Cuivré 2"
+msgstr "Drone d'abordage Cuivre 2"
 
 #: src-en/data/blueprints.xml.append:1661
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fr_copper_battledrone_2\"]/short"
-msgstr "Drone Cuivré 2"
+msgstr "Drone Cuivre 2"
 
 #: src-en/data/blueprints.xml.append:1662
 msgid ""
@@ -1451,22 +1446,22 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1673
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE_2\"]/title"
-msgstr "Drone d'Abordage Cuivré MK.II"
+msgstr "Drone d'abordage Cuivre MK.II"
 
 #: src-en/data/blueprints.xml.append:1674
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE_2\"]/short"
-msgstr "D. C. MK II"
+msgstr "D. Cuivre MK II"
 
 #: src-en/data/blueprints.xml.append:1675
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FR_COPPER_BOARDING_DRONE_2\"]/desc"
 msgstr ""
-"Un drone d'abordage massivement puissant qui peut générer autant d'incendies qu'il le souhaite.\n"
+"Un drone d'abordage massivement puissant qui peut générer autant d'incendies que nécessaire.\n"
 "    \n"
-"-Capacité Périodique : Déclenche un incendie dans la pièce occupée.\n"
-"-200 PV, 0,8x vitesse de déplacement\n"
-"-2x dégâts d'équipage, se soigne légèrement en cas d'incendie."
+"-Capacité périodique : Déclenche un incendie dans la pièce occupée.\n"
+"-200 PV, x0,8 vitesse de déplacement\n"
+"-2x dégâts à l'équipage, se soigne légèrement en cas d'incendie."
 
 #: src-en/data/blueprints.xml.append:1694
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_SHIELD\"]/title"
@@ -1475,9 +1470,9 @@ msgstr "Blindage en Alliage"
 #: src-en/data/blueprints.xml.append:1695
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_SHIELD\"]/desc"
 msgstr ""
-"L'unité parfaite de tous les principaux groupes de diamants, si polyvalente qu'elle peut remplir les mêmes fonctions que les : Boucliers d'Opulence, Boucliers de l'Artisan ou Façonneur de chair.\n"
+"L'unité perfectionnée de chaque grand groupe de diamants, si polyvalente qu'elle peut remplir la même fonction que : les Boucliers d'Opulence, les Boucliers de l'Artisan ou le Façonneur de Chair.\n"
 "\t\n"
-"\tPossède une intégrité de 5 points de vie, octroie +10% de gain de ferraille, récupère les drones de combat utilisés et double le temps de charge SPL de l'ennemi."
+"\tPossède une intégrité de 5 points de vie, accorde +10% de gain de ferraille, récupère les drones de combat utilisés et double le temps de chargement SPL de l'ennemi."
 
 #: src-en/data/blueprints.xml.append:1705
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_WIRES\"]/title"
@@ -1486,10 +1481,10 @@ msgstr "Câbles en Alliage"
 #: src-en/data/blueprints.xml.append:1706
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_WIRES\"]/desc"
 msgstr ""
-"Les membres d'équipage robotiques et les drones d'équipage sont équipés de "
-"câbles extrêmement avancés, alliages des 3 principaux groupes d'opérateurs, "
-"augmentant leurs dégâts, réparation, sabotage, santé et vitesse de guérison "
-"de 15%."
+"L'équipage robotique et les drones d'équipage sont réaménagés avec des "
+"câbles extrêmement avancés faits d'alliages des 3 principaux groupes "
+"d'opérateurs, augmentant leurs dégâts, leur vitesse de réparation, de "
+"sabotage, leur santé et leur vitesse de soin de 15%."
 
 #: src-en/data/blueprints.xml.append:1714
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_BOTS\"]/title"
@@ -1498,9 +1493,9 @@ msgstr "Bots en Alliage"
 #: src-en/data/blueprints.xml.append:1715
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ALLOY_BOTS\"]/desc"
 msgstr ""
-"Cette augmentation dispense des nanobots qui attaquent l'équipage ennemi en chauffant leur peau avant de la décomposer au niveau moléculaire, tout en supprimant leur immunité à la suffocation et en soignant votre équipage.\n"
+"Cette augmentation dispense des nano-bots qui attaquent l'équipage ennemi en chauffant leur peau avant de la décomposer au niveau moléculaire, tout en supprimant leur immunité à la suffocation et en soignant votre équipage.\n"
 "\t\n"
-"\tInflige 2 dégâts par seconde aux abordeurs ennemis et leur fait subir 20% de dégâts de suffocation supplémentaires. Votre équipage est également soigné de 2 PV/s, tous ces effets étant proportionnels à votre niveau d'oxygène."
+"\tInflige 2 dégâts par seconde aux abordeurs ennemis et leur fait subir 20% de dégâts de suffocation supplémentaires, votre équipage est également soigné de 2 PV/s, tous ces effets augmentant avec votre niveau d'oxygène."
 
 #: src-en/data/blueprints.xml.append:1725
 msgid ""
@@ -1511,11 +1506,11 @@ msgstr "Boucliers d'Opulence"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_1\"]/desc"
 msgstr ""
-"[NIVEAU 1] Ce bouclier exotique semble attirer la ferraille en grande "
-"quantité, sa soif d'argent le rendant d'une certaine manière plus fort plus "
-"il est alimenté. Augmente le gain de ferraille de 50% et permet de "
-"transformer les ressources en ferraille. Actuellement, il a un total de 3 PV"
-" de bouclier, peut voir ses PV de bouclier améliorés avec de grandes "
+"[NIVEAU 1] Ce bouclier exotique semble attirer la ferraille en grandes "
+"quantités, sa faim d'argent le rendant d'une certaine manière plus fort plus"
+" il se nourrit. Augmente le gain de ferraille de 50% et permet de décomposer"
+" les ressources en ferraille. Actuellement, il a un total de 3 PV de "
+"bouclier, ses PV de bouclier peuvent être améliorés avec de grandes "
 "quantités de ferraille. Peut être augmenté jusqu'à un maximum de 13 PV "
 "totaux."
 
@@ -1528,11 +1523,11 @@ msgstr "Boucliers d'Opulence"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_2\"]/desc"
 msgstr ""
-"[NIVEAU 2] Ce bouclier exotique semble attirer la ferraille en grande "
-"quantité, sa soif d'argent le rendant d'une certaine manière plus fort plus "
-"il est alimenté. Augmente le gain de ferraille de 50% et permet de "
-"transformer les ressources en ferraille. Actuellement, il a un total de 4 PV"
-" de bouclier, peut voir ses PV de bouclier améliorés avec de grandes "
+"[NIVEAU 2] Ce bouclier exotique semble attirer la ferraille en grandes "
+"quantités, sa faim d'argent le rendant d'une certaine manière plus fort plus"
+" il se nourrit. Augmente le gain de ferraille de 50% et permet de décomposer"
+" les ressources en ferraille. Actuellement, il a un total de 4 PV de "
+"bouclier, ses PV de bouclier peuvent être améliorés avec de grandes "
 "quantités de ferraille. Peut être augmenté jusqu'à un maximum de 13 PV "
 "totaux."
 
@@ -1545,11 +1540,11 @@ msgstr "Boucliers d'Opulence"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_3\"]/desc"
 msgstr ""
-"[NIVEAU 3] Ce bouclier exotique semble attirer la ferraille en grande "
-"quantité, sa soif d'argent le rendant d'une certaine manière plus fort plus "
-"il est alimenté. Augmente le gain de ferraille de 50% et permet de "
-"transformer les ressources en ferraille. Actuellement, il a un total de 5 PV"
-" de bouclier, peut voir ses PV de bouclier améliorés avec de grandes "
+"[NIVEAU 3] Ce bouclier exotique semble attirer la ferraille en grandes "
+"quantités, sa faim d'argent le rendant d'une certaine manière plus fort plus"
+" il se nourrit. Augmente le gain de ferraille de 50% et permet de décomposer"
+" les ressources en ferraille. Actuellement, il a un total de 5 PV de "
+"bouclier, ses PV de bouclier peuvent être améliorés avec de grandes "
 "quantités de ferraille. Peut être augmenté jusqu'à un maximum de 13 PV "
 "totaux."
 
@@ -1562,11 +1557,11 @@ msgstr "Boucliers d'Opulence"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_4\"]/desc"
 msgstr ""
-"[NIVEAU 4] Ce bouclier exotique semble attirer la ferraille en grande "
-"quantité, sa soif d'argent le rendant d'une certaine manière plus fort plus "
-"il est alimenté. Augmente le gain de ferraille de 50% et permet de "
-"transformer les ressources en ferraille. Actuellement, il a un total de 6 PV"
-" de bouclier, peut voir ses PV de bouclier améliorés avec de grandes "
+"[NIVEAU 4] Ce bouclier exotique semble attirer la ferraille en grandes "
+"quantités, sa faim d'argent le rendant d'une certaine manière plus fort plus"
+" il se nourrit. Augmente le gain de ferraille de 50% et permet de décomposer"
+" les ressources en ferraille. Actuellement, il a un total de 6 PV de "
+"bouclier, ses PV de bouclier peuvent être améliorés avec de grandes "
 "quantités de ferraille. Peut être augmenté jusqu'à un maximum de 13 PV "
 "totaux."
 
@@ -1579,11 +1574,11 @@ msgstr "Boucliers d'Opulence"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_5\"]/desc"
 msgstr ""
-"[NIVEAU 5] Ce bouclier exotique semble attirer la ferraille en grande "
-"quantité, sa soif d'argent le rendant d'une certaine manière plus fort plus "
-"il est alimenté. Augmente le gain de ferraille de 50% et permet de "
-"transformer les ressources en ferraille. Actuellement, il a un total de 7 PV"
-" de bouclier, peut voir ses PV de bouclier améliorés avec de grandes "
+"[NIVEAU 5] Ce bouclier exotique semble attirer la ferraille en grandes "
+"quantités, sa faim d'argent le rendant d'une certaine manière plus fort plus"
+" il se nourrit. Augmente le gain de ferraille de 50% et permet de décomposer"
+" les ressources en ferraille. Actuellement, il a un total de 7 PV de "
+"bouclier, ses PV de bouclier peuvent être améliorés avec de grandes "
 "quantités de ferraille. Peut être augmenté jusqu'à un maximum de 13 PV "
 "totaux."
 
@@ -1596,11 +1591,11 @@ msgstr "Boucliers d'Opulence"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_6\"]/desc"
 msgstr ""
-"[NIVEAU 6] Ce bouclier exotique semble attirer la ferraille en grande "
-"quantité, sa soif d'argent le rendant d'une certaine manière plus fort plus "
-"il est alimenté. Augmente le gain de ferraille de 50% et permet de "
-"transformer les ressources en ferraille. Actuellement, il a un total de 8 PV"
-" de bouclier, peut voir ses PV de bouclier améliorés avec de grandes "
+"[NIVEAU 6] Ce bouclier exotique semble attirer la ferraille en grandes "
+"quantités, sa faim d'argent le rendant d'une certaine manière plus fort plus"
+" il se nourrit. Augmente le gain de ferraille de 50% et permet de décomposer"
+" les ressources en ferraille. Actuellement, il a un total de 8 PV de "
+"bouclier, ses PV de bouclier peuvent être améliorés avec de grandes "
 "quantités de ferraille. Peut être augmenté jusqu'à un maximum de 13 PV "
 "totaux."
 
@@ -1613,11 +1608,11 @@ msgstr "Boucliers d'Opulence"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_7\"]/desc"
 msgstr ""
-"[NIVEAU 7] Ce bouclier exotique semble attirer la ferraille en grande "
-"quantité, sa soif d'argent le rendant d'une certaine manière plus fort plus "
-"il est alimenté. Augmente le gain de ferraille de 50% et permet de "
-"transformer les ressources en ferraille. Actuellement, il a un total de 9 PV"
-" de bouclier, peut voir ses PV de bouclier améliorés avec de grandes "
+"[NIVEAU 7] Ce bouclier exotique semble attirer la ferraille en grandes "
+"quantités, sa faim d'argent le rendant d'une certaine manière plus fort plus"
+" il se nourrit. Augmente le gain de ferraille de 50% et permet de décomposer"
+" les ressources en ferraille. Actuellement, il a un total de 9 PV de "
+"bouclier, ses PV de bouclier peuvent être améliorés avec de grandes "
 "quantités de ferraille. Peut être augmenté jusqu'à un maximum de 13 PV "
 "totaux."
 
@@ -1630,11 +1625,11 @@ msgstr "Boucliers d'Opulence"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_8\"]/desc"
 msgstr ""
-"[NIVEAU 8] Ce bouclier exotique semble attirer la ferraille en grande "
-"quantité, sa soif d'argent le rendant d'une certaine manière plus fort plus "
-"il est alimenté. Augmente le gain de ferraille de 50% et permet de "
-"transformer les ressources en ferraille. Actuellement, il a un total de 10 "
-"PV de bouclier, peut voir ses PV de bouclier améliorés avec de grandes "
+"[NIVEAU 8] Ce bouclier exotique semble attirer la ferraille en grandes "
+"quantités, sa faim d'argent le rendant d'une certaine manière plus fort plus"
+" il se nourrit. Augmente le gain de ferraille de 50% et permet de décomposer"
+" les ressources en ferraille. Actuellement, il a un total de 10 PV de "
+"bouclier, ses PV de bouclier peuvent être améliorés avec de grandes "
 "quantités de ferraille. Peut être augmenté jusqu'à un maximum de 13 PV "
 "totaux."
 
@@ -1647,11 +1642,11 @@ msgstr "Boucliers d'Opulence"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_9\"]/desc"
 msgstr ""
-"[NIVEAU 9] Ce bouclier exotique semble attirer la ferraille en grande "
-"quantité, sa soif d'argent le rendant d'une certaine manière plus fort plus "
-"il est alimenté. Augmente le gain de ferraille de 50% et permet de "
-"transformer les ressources en ferraille. Actuellement, il a un total de 11 "
-"PV de bouclier, peut voir ses PV de bouclier améliorés avec de grandes "
+"[NIVEAU 9] Ce bouclier exotique semble attirer la ferraille en grandes "
+"quantités, sa faim d'argent le rendant d'une certaine manière plus fort plus"
+" il se nourrit. Augmente le gain de ferraille de 50% et permet de décomposer"
+" les ressources en ferraille. Actuellement, il a un total de 11 PV de "
+"bouclier, ses PV de bouclier peuvent être améliorés avec de grandes "
 "quantités de ferraille. Peut être augmenté jusqu'à un maximum de 13 PV "
 "totaux."
 
@@ -1664,11 +1659,11 @@ msgstr "Boucliers d'Opulence"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_10\"]/desc"
 msgstr ""
-"[NIVEAU 10] Ce bouclier exotique semble attirer la ferraille en grande "
-"quantité, sa soif d'argent le rendant d'une certaine manière plus fort plus "
-"il est alimenté. Augmente le gain de ferraille de 50% et permet de "
-"transformer les ressources en ferraille. Actuellement, il a un total de 12 "
-"PV de bouclier, peut voir ses PV de bouclier améliorés avec de grandes "
+"[NIVEAU 10] Ce bouclier exotique semble attirer la ferraille en grandes "
+"quantités, sa faim d'argent le rendant d'une certaine manière plus fort plus"
+" il se nourrit. Augmente le gain de ferraille de 50% et permet de décomposer"
+" les ressources en ferraille. Actuellement, il a un total de 12 PV de "
+"bouclier, ses PV de bouclier peuvent être améliorés avec de grandes "
 "quantités de ferraille. Peut être augmenté jusqu'à un maximum de 13 PV "
 "totaux."
 
@@ -1681,10 +1676,10 @@ msgstr "Boucliers d'Opulence"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLDEN_SHIELD_11\"]/desc"
 msgstr ""
-"[NIVEAU MAX] Ce bouclier exotique semble attirer la ferraille en grande "
-"quantité. Augmente le gain de ferraille de 50% et permet de transformer les "
-"ressources en ferraille. Actuellement, il a son maximum total de PV de "
-"bouclier de 13."
+"[NIVEAU MAX] Ce bouclier exotique semble attirer la ferraille en grandes "
+"quantités. Augmente le gain de ferraille de 50% et permet de décomposer les "
+"ressources en ferraille. Actuellement, il a son maximum de PV de bouclier "
+"total de 13."
 
 #: src-en/data/blueprints.xml.append:1814
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLD_WIRES\"]/title"
@@ -1693,9 +1688,9 @@ msgstr "Câbles Dorés"
 #: src-en/data/blueprints.xml.append:1815
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_GOLD_WIRES\"]/desc"
 msgstr ""
-"Les membres d'équipage robotiques et les drones d'équipage sont équipés de câbles dorés, améliorant leurs dégâts, leur vitesse de réparation et de sabotage de 50%. \n"
+"L'équipage robotique et les drones d'équipage sont réaménagés avec des câbles dorés, améliorant leurs dégâts, leur vitesse de réparation et de sabotage de 50%.\n"
 "\t\n"
-"\tCeci, cependant, les rend assez lourds, réduisant leur vitesse de 50%."
+"\tCela les rend cependant assez lourds, réduisant leur vitesse de 50%."
 
 #: src-en/data/blueprints.xml.append:1825
 msgid ""
@@ -1706,20 +1701,20 @@ msgstr "Boucliers de l'Artisan"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_TINKERERS_SHIELD\"]/desc"
 msgstr ""
-"Une étrange pièce de technologie éthérique, avec 7 points de vie. Ce bouclier peut étrangement inspirer son équipage et leur donner des niveaux de créativité anormaux lors de la conception de drones. \n"
+"Une étrange pièce de technologie éthérique, avec 7 points de vie. Ce bouclier peut étrangement inspirer son équipage et leur donner des niveaux de créativité anormaux lors de la conception de drones.\n"
 "\t\n"
-"\tIl récupère également tous les drones de combat utilisés en combat, inflige de lourds dégâts aux drones ennemis d'abordage et désactive les drones de défense ennemis.\n"
+"\tIl récupère également tous les drones de combat utilisés au combat, inflige de lourds dégâts aux drones d'abordage ennemis et désactive les drones de défense ennemis.\n"
 "\t\n"
 "\tVous permet de convertir la ferraille, les missiles et le carburant en pièces de drones."
 
 #: src-en/data/blueprints.xml.append:1838
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_COPPER_WIRES\"]/title"
-msgstr "Câbles Cuivrés"
+msgstr "Câbles en Cuivre"
 
 #: src-en/data/blueprints.xml.append:1839
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_COPPER_WIRES\"]/desc"
 msgstr ""
-"Les membres d'équipage robotiques et les drones d'équipage sont équipés de câbles en cuivre, réduisant leurs dégâts de moitié mais leur permettant de soigner l'équipage dans la même pièce de 3 PV/s. \n"
+"L'équipage robotique et les drones d'équipage sont réaménagés avec des câbles en cuivre, réduisant leurs dégâts de moitié mais leur permettant de soigner l'équipage dans la même pièce de 3 PV/s.\n"
 "\t\n"
 "\tPermet également aux drones de régénérer 3 PV/s."
 
@@ -1730,9 +1725,9 @@ msgstr "Bots Incendiaires"
 #: src-en/data/blueprints.xml.append:1850
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FIREBOTS\"]/desc"
 msgstr ""
-"Cette augmentation tire des nanobots qui attaquent l'équipage ennemi en chauffant leur peau avant de la décomposer au niveau moléculaire, endommageant même le plus coriace des Rocailleux. \n"
+"Cette augmentation tire des nano-bots qui attaquent l'équipage ennemi en chauffant leur peau avant de la décomposer au niveau moléculaire, endommageant même le plus résistant des Rocailleux.\n"
 "\t\n"
-"\tInflige 3 dégâts par seconde aux abordeurs ennemis et est proportionnel à votre niveau d'oxygène, chaque niveau alimenté ajoutant 3 dégâts supplémentaires."
+"\tInflige 3 dégâts par seconde aux abordeurs ennemis et augmente avec votre niveau d'oxygène, chaque niveau d'énergie ajoutant 3 dégâts supplémentaires."
 
 #: src-en/data/blueprints.xml.append:1860
 msgid ""
@@ -1744,49 +1739,49 @@ msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_WAR_CRIMINALS_SHIELD\"]/desc"
 msgstr ""
 "Une étrange pièce de technologie éthérique. Elle empêche le générateur SPL "
-"ennemi de fonctionner correctement et agit comme un bouclier d'énergie "
+"de l'ennemi de fonctionner correctement et agit comme un bouclier d'énergie "
 "ordinaire."
 
 #: src-en/data/blueprints.xml.append:1869
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FLESH_MAKER\"]/title"
-msgstr "Le Façonneur de chair"
+msgstr "Le Façonneur de Chair"
 
 #: src-en/data/blueprints.xml.append:1870
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FLESH_MAKER\"]/desc"
 msgstr ""
-"Cette pièce de technologie bizarre exclusive aux Diamants adamantins, extrêmement reclus, permet à tout membre d'équipage précédemment scanné dans la base de données d'être répliqué à l'infini. \n"
+"Cette pièce de technologie bizarre, exclusive aux Diamants adamantine extrêmement reclus, permet de répliquer à l'infini tout membre d'équipage précédemment scanné dans la base de données.\n"
 "\t\n"
-"\tElle vous permet également de convertir des ressources en carburant et permet à votre équipage d'être en sécurité dans le stockage des clones même si le système est éteint, piraté ou cassé.\n"
+"\tElle vous permet également de convertir des ressources en carburant et permet à votre équipage d'être en sécurité dans le stockage de clones même si le système est éteint, piraté ou cassé.\n"
 "\t\n"
-"\tLes membres d'équipage enregistrés le resteront pour toujours, même d'une partie à l'autre."
+"\tL'équipage enregistré le restera pour toujours, même entre les parties."
 
 #: src-en/data/blueprints.xml.append:1882
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FLESH_MAKER_UNLOCKED\"]/title"
-msgstr "Le Façonneur de chair"
+msgstr "Le Façonneur de Chair"
 
 #: src-en/data/blueprints.xml.append:1883
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FLESH_MAKER_UNLOCKED\"]/desc"
 msgstr ""
-"Cette pièce de technologie bizarre exclusive aux Diamants adamantins, extrêmement reclus, permet à tout membre d'équipage précédemment scanné dans la base de données d'être répliqué à l'infini. \n"
+"Cette pièce de technologie bizarre, exclusive aux Diamants adamantine extrêmement reclus, permet de répliquer à l'infini tout membre d'équipage précédemment scanné dans la base de données.\n"
 "\t\n"
-"\tElle vous permet également de convertir des ressources en carburant aux balises vides et permet à votre équipage d'être en sécurité dans le stockage des clones même si le système est éteint, piraté ou cassé.\n"
+"\tElle vous permet également de convertir des ressources en carburant sur des balises vides et permet à votre équipage d'être en sécurité dans le stockage de clones même si le système est éteint, piraté ou cassé.\n"
 "\t\n"
-"\tLes membres d'équipage enregistrés le resteront pour toujours, même d'une partie à l'autre."
+"\tL'équipage enregistré le restera pour toujours, même entre les parties."
 
 #: src-en/data/blueprints.xml.append:1895
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ADAMANTINE_WIRES\"]/title"
-msgstr "Câbles Adamantins"
+msgstr "Câbles Adamantine"
 
 #: src-en/data/blueprints.xml.append:1896
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_ADAMANTINE_WIRES\"]/desc"
 msgstr ""
-"Les membres d'équipage robotiques et les drones d'équipage sont équipés de câbles adamantins, augmentant considérablement leur durabilité en augmentant leur santé de 50% et en les rendant immunisés contre les altérations d'état. \n"
+"L'équipage robotique et les drones d'équipage sont réaménagés avec des câbles adamantine, augmentant considérablement leur durabilité en augmentant leur santé de 50% et en les rendant immunisés aux altérations d'état.\n"
 "\t\n"
-"\tMalheureusement, les câbles sont assez toxiques pour l'équipage organique, leur faisant subir 5 dégâts par seconde lorsqu'ils se trouvent dans la même pièce."
+"\tMalheureusement, les câbles sont assez toxiques pour l'équipage organique, leur faisant subir 5 dégâts par seconde lorsqu'ils se trouvent dans la même pièce qu'eux."
 
 #: src-en/data/blueprints.xml.append:1906
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_TOXIC_ROOMS\"]/title"
@@ -1795,10 +1790,10 @@ msgstr "Pièces Toxiques"
 #: src-en/data/blueprints.xml.append:1907
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FR_TOXIC_ROOMS\"]/desc"
 msgstr ""
-"Les pièces et les composants internes de ce vaisseau sont remplis de "
-"poussière toxique et de radiations, au point qu'ils suppriment l'immunité à "
-"la suffocation des ennemis et leur infligent une affliction constante tant "
-"qu'ils se trouvent dans votre vaisseau."
+"Les pièces internes et les composants de ce vaisseau sont remplis de "
+"poussière toxique et de radiations, au point de retirer l'immunité à la "
+"suffocation des ennemis et de leur appliquer une affliction constante "
+"lorsqu'ils se trouvent dans votre vaisseau."
 
 #: src-en/data/blueprints.xml.append:1921
 msgid ""
@@ -1813,14 +1808,14 @@ msgstr "L'équipage est immunisé tant que l'infirmerie est alimentée."
 #: src-en/data/blueprints.xml.append:1931
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FORGGOTEN_DIAMOND_WALLACE\"]/title"
-msgstr "Magasin de Wallace, le Diamant Oublié"
+msgstr "Magasin du Diamant Oublié Wallace"
 
 #: src-en/data/blueprints.xml.append:1932
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_FORGGOTEN_DIAMOND_WALLACE\"]/desc"
 msgstr ""
-"Accorde l'accès au magasin de diamants oubliés qui vend toutes les choses "
-"des Races Oubliées."
+"Donne accès au magasin des diamants oubliés qui vend toutes les choses des "
+"Races Oubliées."
 
 #: src-en/data/blueprints.xml.append:1946
 msgid ""
@@ -1871,7 +1866,7 @@ msgstr "Bénédiction d'Opulence"
 #: src-en/data/blueprints.xml.append:1988
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_GOLDEN\"]/desc"
-msgstr "Vous gagnez 10% de ferraille en plus."
+msgstr "Vous gagnez 10% de ferraille supplémentaire."
 
 #: src-en/data/blueprints.xml.append:1995
 msgid ""
@@ -1918,8 +1913,8 @@ msgstr "Faveur des Opérateurs"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FR_OPERATOR\"]/desc"
 msgstr ""
-"Vos opérateurs pirateront désormais les portes de la pièce dans laquelle ils"
-" se trouvent lorsqu'ils sont dans les vaisseaux ennemis."
+"Vos opérateurs pirateront désormais les portes de la pièce où ils se "
+"trouvent lorsqu'ils sont dans les vaisseaux ennemis."
 
 #: src-en/data/blueprints.xml.append:2033
 msgid ""
@@ -1934,7 +1929,7 @@ msgstr "Amélioration Diamant installée."
 #: src-en/data/blueprints.xml.append:2040
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_FISTITUTE\"]/title"
-msgstr "Pugilat"
+msgstr "Poing de Fer"
 
 #: src-en/data/blueprints.xml.append:2041
 msgid ""
@@ -1953,9 +1948,9 @@ msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_SYSTEMIC\"]/desc"
 msgstr ""
 "Les Diamants gagnent 50% de vitesse de déplacement et de dégâts de combat "
-"lorsqu'ils se trouvent dans les salles de système de leur propre vaisseau. "
-"Cependant, ils perdent 50% de dégâts et de vitesse de déplacement lorsqu'ils"
-" se trouvent dans le vaisseau ennemi."
+"lorsqu'ils sont dans les pièces système de leur propre vaisseau. Cependant, "
+"ils perdent 50% de dégâts et de vitesse de déplacement lorsqu'ils sont dans "
+"le vaisseau ennemi."
 
 #: src-en/data/blueprints.xml.append:2054
 msgid ""
@@ -1967,8 +1962,8 @@ msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_DIAMOND_NOXIOUS\"]/desc"
 msgstr ""
 "Les Diamants perdent la capacité de combattre l'équipage mais acquièrent une"
-" aura dommageable qui inflige 3 dégâts sur la durée à tous les ennemis non-"
-"diamants dans le même vaisseau qu'eux."
+" aura infligeant 3 dégâts sur la durée à tous les ennemis non-diamants se "
+"trouvant dans le même vaisseau qu'eux."
 
 #: src-en/data/blueprints.xml.append:2062
 msgid ""
@@ -1990,7 +1985,7 @@ msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_PACIFISM_PROTOCOLS\"]/desc"
 msgstr ""
 "Les Opérateurs perdent la capacité de combattre ou de saboter mais "
-"empêcheront tout combat d'équipage et sabotage tant qu'ils se trouveront "
+"empêcheront tout combat d'équipage et tout sabotage lorsqu'ils se trouvent "
 "dans la même pièce qu'eux."
 
 #: src-en/data/blueprints.xml.append:2076
@@ -2002,8 +1997,8 @@ msgstr "Protocoles Anti-Biologiques"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FR_LAB_OPERATOR_BIO_PROTOCOLS\"]/desc"
 msgstr ""
-"Les Opérateurs perdent 50% de leurs dégâts et, à la place, affaibliront "
-"fortement l'équipage ennemi dans la même pièce qu'eux, réduisant leurs "
+"Les Opérateurs perdent 50% de leurs dégâts et, au lieu de cela, affaibliront"
+" fortement l'équipage ennemi dans la même pièce qu'eux, réduisant leurs "
 "dégâts de 15% et annulant toute téléportation et guérison à bord, ainsi "
 "qu'empêchant l'équipage tué dans la même pièce qu'eux d'être cloné."
 
@@ -2018,19 +2013,19 @@ msgid ""
 msgstr ""
 "Les Opérateurs perdent 50% de leur santé et subissent 25% de dégâts "
 "supplémentaires en échange de servir de balise de téléportation mobile, "
-"permettant à tout membre d'équipage amical dans la même pièce qu'eux de se "
-"téléporter à n'importe quelle pièce qu'ils désirent, même directement vers "
-"les vaisseaux ennemis."
+"permettant à tout membre d'équipage ami dans la même pièce qu'eux de se "
+"téléporter dans n'importe quelle pièce qu'ils désirent, même directement "
+"vers les vaisseaux ennemis."
 
 #: src-en/data/blueprints.xml.append:2098
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY\"]/class"
-msgstr "Croiseur Pyramide en Alliage"
+msgstr "Croiseur Pyramidal en Alliage"
 
 #: src-en/data/blueprints.xml.append:2099
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY\"]/name"
-msgstr "La Joie d'Alliage"
+msgstr "La Joie de l'Alliage"
 
 #: src-en/data/blueprints.xml.append:2100
 msgid ""
@@ -2041,9 +2036,9 @@ msgstr "Débloque tous les vaisseaux Diamant Métallique."
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY\"]/desc"
 msgstr ""
-"Une union parfaite de tous les grands groupes de la société Diamant "
+"Une union parfaite de tous les principaux groupes de la société Diamant "
 "Métallique, équipée d'une augmentation unique qui peut imiter n'importe "
-"quelle augmentation emblématique des vaisseaux Diamant Métallique."
+"laquelle des augmentations phares des vaisseaux Diamant Métallique."
 
 #: src-en/data/blueprints.xml.append:2177
 msgid ""
@@ -2058,14 +2053,14 @@ msgstr "Mémoire Câblée"
 #: src-en/data/blueprints.xml.append:2179
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_2\"]/unlock"
-msgstr "Débloque tous les vaisseaux opérateurs."
+msgstr "Débloque tous les vaisseaux Opérateur."
 
 #: src-en/data/blueprints.xml.append:2180
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_2\"]/desc"
 msgstr ""
-"Une union parfaite de tous les grands groupes d'opérateurs, équipée d'une "
-"augmentation unique qui a les effets des autres câbles, bien que la "
+"Une union parfaite de tous les principaux groupes d'opérateurs, équipée "
+"d'une augmentation unique qui a les effets des autres câbles, bien que la "
 "puissance des effets soit réduite."
 
 #: src-en/data/blueprints.xml.append:2256
@@ -2087,14 +2082,14 @@ msgstr "Débloque tous les vaisseaux Lanius Métallique."
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_ALLOY_3\"]/desc"
 msgstr ""
-"Une union parfaite de tous les grands groupes de Lanius Métallique, équipée "
-"d'une augmentation unique qui offre de grands avantages si vous améliorez "
-"votre système de survie."
+"Une union parfaite de tous les principaux groupes des Lanius Métalliques. "
+"Équipé d'une augmentation unique qui offre de grands avantages si vous "
+"améliorez votre système de survie."
 
 #: src-en/data/blueprints.xml.append:2336
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND\"]/class"
-msgstr "Croiseur Pyramide Métallique"
+msgstr "Croiseur Pyramidal en Métal"
 
 #: src-en/data/blueprints.xml.append:2337
 msgid ""
@@ -2104,25 +2099,25 @@ msgstr "Palais Doré"
 #: src-en/data/blueprints.xml.append:2338
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND\"]/unlock"
-msgstr "Éliminez l'étrange vaisseau doré dans la forteresse rebelle."
+msgstr "Éliminez l'étrange vaisseau doré dans le bastion rebelle."
 
 #: src-en/data/blueprints.xml.append:2339
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND\"]/desc"
 msgstr ""
-"Ce vaisseau est tenu par les Diamants Dorés, axés sur la ferraille. Leur vaisseau se concentre sur l'acquisition de ferraille et son utilisation pour faire évoluer vos armes et boucliers.\n"
+"Ce vaisseau est occupé par les Diamants Dorés, axés sur la ferraille. Leur vaisseau se concentre sur l'acquisition de ferraille et son utilisation pour faire évoluer vos armes et boucliers.\n"
 "\t\n"
 "\tIl ne peut cependant pas installer de système de drones."
 
 #: src-en/data/blueprints.xml.append:2414
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_2\"]/class"
-msgstr "Croiseur Pyramide Métallique"
+msgstr "Croiseur Pyramidal en Métal"
 
 #: src-en/data/blueprints.xml.append:2415
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_2\"]/name"
-msgstr "Drones Épouvantables"
+msgstr "Drones Effroyables"
 
 #: src-en/data/blueprints.xml.append:2416
 msgid ""
@@ -2133,14 +2128,14 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_2\"]/desc"
 msgstr ""
-"Ce croiseur est l'œuvre d'art principale du groupe Diamant Cuivré, un vaisseau exclusivement axé sur les drones, principalement la variété de combat.\n"
+"Ce croiseur est l'œuvre d'art principale du groupe Diamant Cuivre, un vaisseau exclusivement axé sur les drones, principalement la variété de combat.\n"
 "\t\n"
-"\tCela signifiait cependant que le vaisseau ne peut pas installer de système d'armes."
+"\tCela signifiait cependant que le vaisseau ne pouvait pas installer de système d'armes."
 
 #: src-en/data/blueprints.xml.append:2487
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_3\"]/class"
-msgstr "Croiseur Pyramide Métallique"
+msgstr "Croiseur Pyramidal en Métal"
 
 #: src-en/data/blueprints.xml.append:2488
 msgid ""
@@ -2156,7 +2151,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_DIAMOND_3\"]/desc"
 msgstr ""
-"Ce vaisseau peut créer de la vie uniquement pour l'envoyer au combat dès qu'elle est créée. Peut enregistrer l'équipage dans sa base de données après l'avoir acquis une fois pour une production future, ces enregistrements durent même entre les parties.\n"
+"Ce vaisseau peut créer de la vie uniquement pour l'envoyer au combat dès qu'elle est créée. Il peut enregistrer l'équipage dans sa base de données une fois acquis pour une production future, ces enregistrements durent même entre les parties.\n"
 "\t\n"
 "\tMalheureusement, le vaisseau est incapable d'obtenir des drones ou des armes."
 
@@ -2174,15 +2169,15 @@ msgstr "Le Diamant Doré"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR\"]/unlock"
 msgstr ""
-"Acceptez l'offre du vaisseau mystérieux dans le monde natal rocailleux."
+"Acceptez l'offre du mystérieux vaisseau dans le monde natal rocailleux."
 
 #: src-en/data/blueprints.xml.append:2561
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR\"]/desc"
 msgstr ""
 "Un vaisseau de recherche des énigmatiques Opérateurs, ce vaisseau se "
-"concentre sur l'amélioration des drones et de son équipage robotique, bien "
-"qu'il manque de moyens réels d'infliger des dégâts de coque."
+"concentre sur l'amélioration des drones et de son équipage robotique. Bien "
+"qu'il manque de moyens réels d'infliger des dégâts à la coque."
 
 #: src-en/data/blueprints.xml.append:2633
 msgid ""
@@ -2192,7 +2187,7 @@ msgstr "Classe Diamant Métallique"
 #: src-en/data/blueprints.xml.append:2634
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_2\"]/name"
-msgstr "L'Éclat Cuivré"
+msgstr "L'Éclat de Cuivre"
 
 #: src-en/data/blueprints.xml.append:2635
 msgid ""
@@ -2203,11 +2198,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_2\"]/desc"
 msgstr ""
-"Les Opérateurs les plus actifs de ce cluster, les opérateurs cuivrés adorent"
-" étudier l'anatomie physique des aliens. Bien qu'il s'agisse d'un vaisseau "
-"d'abordage à drones très puissant, ce vaisseau a du mal à éliminer les "
-"abordeurs et doit compter sur l'effet de guérison de l'équipage robotique "
-"pour se soigner."
+"Les Opérateurs les plus actifs de ce cluster, les opérateurs cuivre aiment "
+"étudier l'anatomie physique des aliens. Bien qu'étant un très puissant "
+"vaisseau d'abordage par drone, ce vaisseau a du mal à éliminer les abordeurs"
+" et doit compter sur l'effet de guérison de l'équipage robotique pour se "
+"soigner."
 
 #: src-en/data/blueprints.xml.append:2711
 msgid ""
@@ -2217,7 +2212,7 @@ msgstr "Classe Diamant Métallique"
 #: src-en/data/blueprints.xml.append:2712
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_3\"]/name"
-msgstr "Adamantin Intransigeant"
+msgstr "Adamantine Adamant"
 
 #: src-en/data/blueprints.xml.append:2713
 msgid ""
@@ -2229,7 +2224,7 @@ msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_OPERATOR_3\"]/desc"
 msgstr ""
 "Le sous-ensemble d'opérateurs souvent oublié et négligé, extrêmement vulnérable et incapable d'effectuer la plupart des fonctions de base, ce petit groupe compte fortement sur la subterfuge pour tuer l'équipage.\n"
-"Au moins ses défenses sont bien entretenues, bien que cela se soit fait au prix de son réacteur."
+"Au moins ses défenses sont bien entretenues, bien que cela se soit fait au détriment de son réacteur."
 
 #: src-en/data/blueprints.xml.append:2792
 msgid ""
@@ -2245,17 +2240,17 @@ msgstr "Opulence Interdite"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS\"]/unlock"
 msgstr ""
-"Aidez le Lanius Doré à récupérer son ancien vaisseau dans les Terres de "
+"Aidez le Lanius Doré à récupérer son ancien vaisseau dans les terres de "
 "l'essaim lanius."
 
 #: src-en/data/blueprints.xml.append:2795
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS\"]/desc"
 msgstr ""
-"Ce vaisseau d'abordage abrite le rare Lanius Doré, l'espèce d'augmentés qui "
-"se sont régalés du métal du Diamant Doré et ont transcendé leur ancienne "
-"existence. Ces Lanius ont acquis la capacité de devenir plus forts en "
-"consommant de la ferraille."
+"Ce vaisseau d'abordage est le foyer du rare Lanius Doré, l'espèce "
+"d'augmentés qui s'est régalée du métal du Diamant Doré et a transcendé son "
+"ancienne existence. Ces lanius ont acquis la capacité de devenir plus forts "
+"à mesure qu'ils consomment de la ferraille."
 
 #: src-en/data/blueprints.xml.append:2865
 msgid ""
@@ -2265,7 +2260,7 @@ msgstr "Croiseur Lanius Métallique"
 #: src-en/data/blueprints.xml.append:2866
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/name"
-msgstr "Pénitence Incendiaire"
+msgstr "Pénitence Ardente"
 
 #: src-en/data/blueprints.xml.append:2867
 msgid ""
@@ -2276,10 +2271,10 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_2\"]/desc"
 msgstr ""
-"Ce vaisseau d'abordage brûle du feu sans fin des Lanius Cuivrés, maîtres du "
-"feu et de tout ce qui brûle, ces féroces Lanius peuvent se régénérer avec "
-"leurs propres flammes tout en supprimant l'immunité au feu de l'ennemi. "
-"Malheureusement, tout comme le feu, ces Lanius ont besoin d'oxygène pour "
+"Ce vaisseau d'abordage brûle du feu sans fin des Lanius Cuivre, maîtres du "
+"feu et de tout ce qui brûle, ces féroces lanius peuvent se régénérer avec "
+"leurs propres flammes tout en retirant l'immunité au feu de l'ennemi. "
+"Malheureusement, tout comme le feu, ces lanius ont besoin d'oxygène pour "
 "survivre."
 
 #: src-en/data/blueprints.xml.append:2940
@@ -2301,7 +2296,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FR_METAL_LANIUS_3\"]/desc"
 msgstr ""
-"Il semble que les Lanius qui ont consommé les corps des Adamantins sont "
+"Il semble que les lanius qui ont consommé les corps des Adamantine sont "
 "devenus tout aussi impitoyables que ceux qu'ils ont consommés. Leurs fumées "
 "toxiques sont suffisantes pour corroder même ceux qui n'ont pas besoin "
 "d'oxygène pour respirer."
