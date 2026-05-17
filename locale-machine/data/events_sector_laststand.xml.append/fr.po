@@ -43,8 +43,8 @@ msgstr ""
 "Sur l'écran vidéo apparaissent plusieurs officiers de la Fédération et Engi,"
 " ainsi que l'Amiral Tully au centre. \" Un vaisseau Lanius... je crois ? "
 "J'espère que vous pouvez comprendre ce que nous disons, car nos traducteurs "
-"ne parviennent pas à déchiffrer vos mots. Qui que vous soyez, aidez-nous, "
-"s'il vous plaît. Nos forces s'amenuisent de minute en minute. \""
+"ne peuvent pas déchiffrer vos paroles. Qui que vous soyez, s'il vous plaît "
+"aidez-nous. Nos forces s'amenuisent de minute en minute. \""
 
 #: src-en/data/events_sector_laststand.xml.append:22
 msgid ""
